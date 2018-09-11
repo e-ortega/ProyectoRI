@@ -1,6 +1,15 @@
 import requests
 from bs4 import BeautifulSoup
 
+stop_words = []
+
+def fillStopWords():
+    filename = "stopwords.txt"
+    file = open(filename, 'r')
+    for line in file:
+        stop_words.append(line)
+
+
 #
 def readFile():
     filename = "ejemplo.txt"
@@ -21,9 +30,11 @@ def htmlParser(separator):
     soup = BeautifulSoup(page.content, 'html.parser')
     text = soup.get_text()
     fulltext = name + '.txt'
-    fileText = open(fulltok, '+w')
+    fileText = open(fulltext, '+w')
     fileText.write(text)
     fileText.close()
 
 
-readFile()
+fillStopWords()
+
+#readFile()

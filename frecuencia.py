@@ -8,14 +8,14 @@ def FreNormal(listapalabras, listafrecuencias):
         valornormal = frec / frecmax#Fraction(frec, frecmax)
         print(valornormal)
         vectorfecnormal.append(valornormal)
-    print vectorfecnormal
+    print(vectorfecnormal)
 
 
 
 lista = [10, 15, 79, 45, 314, 54, 54, 47]
 list1 = []
 for item in lista:
-    print item
+    print(item)
 FreNormal(list1, lista)
 
 

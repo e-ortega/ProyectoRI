@@ -1,8 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 
+
+#este es el vector de palabras que se llena con palabras que se deben omitir en los textos
 stop_words = []
 
+
+#llena el vector stop_words usando la  lista de palabras que se deben omitir
 def fillStopWords():
     filename = "stopwords.txt"
     file = open(filename, 'r')
@@ -10,7 +14,7 @@ def fillStopWords():
         stop_words.append(line)
 
 
-#
+#lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
 def readFile():
     filename = "ejemplo.txt"
     file = open(filename, "r")
@@ -23,6 +27,8 @@ def readFile():
         htmlParser(separator)
 
 
+
+#substrae el texto de un html y lo guarda en un archivo
 def htmlParser(separator):
     print(separator[1])
     page = requests.get(separator[1])

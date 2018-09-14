@@ -1,6 +1,6 @@
 from fractions import Fraction
 
-def FreNormal(listapalabras, listafrecuencias):
+def FreNormal(nombrearchivo, listapalabras, listafrecuencias):
     vectorfecnormal = []
     frecmax = max(listafrecuencias)
     for frec in listafrecuencias:
@@ -8,7 +8,7 @@ def FreNormal(listapalabras, listafrecuencias):
         valornormal = frec / frecmax#Fraction(frec, frecmax)
         print(valornormal)
         vectorfecnormal.append(valornormal)
-    print vectorfecnormal
+    print (vectorfecnormal)
 
 
 

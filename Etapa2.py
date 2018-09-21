@@ -1,4 +1,5 @@
 import requests
+from fractions import Fraction
 from bs4 import BeautifulSoup
 
 
@@ -40,7 +41,15 @@ def htmlParser(separator):
     fileText.write(text)
     fileText.close()
 
-
+#crea vectores con las frecuencias relativas de los terminos de un documneto
+def FreNormal(nombrearchivo, listapalabras, listafrecuencias):
+    vectorfecnormal = []
+    frecmax = max(listafrecuencias)
+    for frec in listafrecuencias:
+        valornormal = frec / frecmax
+        vectorfecnormal.append(valornormal)	
+	
+	
 fillStopWords()
 
 #readFile()

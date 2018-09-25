@@ -12,7 +12,8 @@ def fillStopWords():
     filename = "stopwords.txt"
     file = open(filename, 'r')
     for line in file:
-        stop_words.append(line)
+        for word in line.split(): #para que no salga el \n
+            stop_words.append(word)
 
 
 #lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
@@ -26,8 +27,7 @@ def readFile():
             separator.append(word)
             counter += 1
         htmlParser(separator)
-
-
+    #tokenizer("archivo.txt")
 
 #substrae el texto de un html y lo guarda en un archivo
 def htmlParser(separator):
@@ -40,6 +40,27 @@ def htmlParser(separator):
     fileText = open(fulltext, '+w')
     fileText.write(text)
     fileText.close()
+
+#lee el archivo sin bloques html dado por htmlParser, recorre cada palabra, la busca en stop_words, si no la encuentra
+#la busca en el vector de palabras, si la encuentra le suma 1 en la posicion de caso contrario la agrega con un 1
+def tokenizer(archivo):
+    listapalabras = []
+    listafrecuencias = []
+    filename = archivo
+    file = open(filename, "r")
+    for line in file:
+        for word in line.split():
+            if (not stop_words.__contains__(word)):
+                if (listapalabras.__contains__(word)):
+                    listafrecuencias[listapalabras.index(word)] += 1
+                else:
+                    listapalabras.append(word)
+                    listafrecuencias.append(1)
+    #i = 0
+    #for j in listapalabras:
+    #    print(listapalabras[i] + " " + str(listafrecuencias[i]))
+    #    i += 1
+    FreNormal(archivo, listapalabras, listafrecuencias)
 
 #crea vectores con las frecuencias relativas de los terminos de un documneto
 def FreNormal(nombrearchivo, listapalabras, listafrecuencias):

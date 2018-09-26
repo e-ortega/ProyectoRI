@@ -69,16 +69,17 @@ def FreNormal(nombrearchivo, listapalabras, listafrecuencias):
     for frec in listafrecuencias:
         valornormal = frec / frecmax
         vectorfecnormal.append(valornormal)
-    crearTOK(nombrearchivo, listapalabras,vectorfecnormal)
+    crearTOK(nombrearchivo, listapalabras,vectorfecnormal, listafrecuencias)
 
 #crea un archivo .tok a partir de los vectores de palabras y frecuencias normalizadas	
-def crearTOK(nombrearchivo, listapalabras, listafrecnormal):
+def crearTOK(nombrearchivo, listapalabras, listafrecnormal,listafrecuencias):
     fulltext = nombrearchivo + '.tok'
     fileText = open(fulltext, '+w')
     vectorStr=[str(i) for i in listafrecnormal]
+    vectorFrec = [str(i) for i in listafrecuencias]
     int =0
     for i in listapalabras:
-        fileText.write(listapalabras[int]+"  "+vectorStr[int] +"\n" )
+        fileText.write(listapalabras[int]+"  "+vectorStr[int] + "   " +vectorFrec[int] + "\n" )
         int=int+1
     fileText.close()
 

@@ -10,6 +10,7 @@ stop_words = []
 
 def run():
     fill_stop_words()
+    read_urls()
 
 
 # llena el vector stop_words usando la  lista de palabras que se deben omitir
@@ -22,15 +23,15 @@ def fill_stop_words():
 
 
 # lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
-def read_file():
-    file_name = "ejemplo.txt"
-    file = open(file_name, "r")
-    counter = 0
+def read_urls():
+    file_name = "URLS.txt"
+    file = open(file_name, "r", encoding="utf-8")
+    # counter = 0
     separator = []
     for line in file:
         for word in line.split():
             separator.append(word)
-            counter += 1
+            # counter += 1
         html_parser(separator)
     # tokenizer("archivo.txt")
 
@@ -43,7 +44,7 @@ def html_parser(separator):
     soup = BeautifulSoup(page.content, 'html.parser')
     text = soup.get_text()
     full_text = name + '.txt'
-    file_text = open(full_text, '+w')
+    file_text = open(full_text, '+w', encoding="utf-8")
     file_text.write(text)
     file_text.close()
 
@@ -54,7 +55,7 @@ def tokenizer(filename):
     word_list = []
     frequency_list = []
     # filename = archivo
-    file = open(filename, "r")
+    file = open(filename, "r", encoding="utf-8")
     for line in file:
         for word in line.split():
             if not stop_words.__contains__(word):
@@ -83,7 +84,7 @@ def normalize_frequency(file_name, word_list, frequency_list):
 # crea un archivo .tok a partir de los vectores de palabras y frecuencias normalizadas
 def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
     fulltext = file_name + '.tok'
-    file_text = open(fulltext, '+w')
+    file_text = open(fulltext, '+w', encoding="utf-8")
     vectorStr = [str(i) for i in normalized_frequency_list]
     vectorFrec = [str(i) for i in frequency_list]
     counter = 0
@@ -91,6 +92,11 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
         file_text.write(word_list[counter] + "  " + vectorStr[counter] + "   " + vectorFrec[counter] + "\n")
         counter = counter + 1
         file_text.close()
+
+
+# crea el archivo vabulario
+def create_vocabulary():
+    print("TO-DO")
 
 
 run()

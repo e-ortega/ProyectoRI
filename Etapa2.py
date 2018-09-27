@@ -3,6 +3,7 @@
 
 import requests
 from bs4 import BeautifulSoup
+from bs4.element import Comment
 
 # este es el vector de palabras que se llena con palabras que se deben omitir en los textos
 stop_words = []
@@ -24,7 +25,7 @@ def fill_stop_words():
 
 # lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
 def read_urls():
-    file_name = "URLS.txt"
+    file_name = "urles.txt"
     file = open(file_name, "r", encoding="utf-8")
     # counter = 0
     separator = []
@@ -42,11 +43,23 @@ def html_parser(separator):
     page = requests.get(separator[1])
     name = separator[0]
     soup = BeautifulSoup(page.content, 'html.parser')
-    text = soup.get_text()
+    #text = soup.get_text()
+    text = soup.findAll(text = True)
+    visible_texts = filter(tag_visible, text)
+    texts = u" ".join(t.strip() for t in visible_texts)
     full_text = name + '.txt'
     file_text = open(full_text, '+w', encoding="utf-8")
-    file_text.write(text)
+    file_text.write(texts)
     file_text.close()
+    tokenizer(full_text)
+
+
+def tag_visible(element):
+    if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
+        return False
+    if isinstance(element, Comment):
+        return False
+    return True
 
 
 # lee el archivo sin bloques html dado por htmlParser, recorre cada palabra, la busca en stop_words, si no la encuentra
@@ -91,7 +104,8 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
     for i in word_list:
         file_text.write(word_list[counter] + "  " + vectorStr[counter] + "   " + vectorFrec[counter] + "\n")
         counter = counter + 1
-        file_text.close()
+
+    file_text.close()
 
 
 # crea el archivo vabulario

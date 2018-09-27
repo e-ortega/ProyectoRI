@@ -1,88 +1,96 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 import requests
-from fractions import Fraction
 from bs4 import BeautifulSoup
 
-
-#este es el vector de palabras que se llena con palabras que se deben omitir en los textos
+# este es el vector de palabras que se llena con palabras que se deben omitir en los textos
 stop_words = []
 
 
-#llena el vector stop_words usando la  lista de palabras que se deben omitir
-def fillStopWords():
-    filename = "stopwords.txt"
-    file = open(filename, 'r')
+def run():
+    fill_stop_words()
+
+
+# llena el vector stop_words usando la  lista de palabras que se deben omitir
+def fill_stop_words():
+    file_name = "stopwords.txt"
+    file = open(file_name, 'r', encoding="utf-8")
     for line in file:
-        for word in line.split(): #para que no salga el \n
+        for word in line.split():  # para que no salga el \n
             stop_words.append(word)
 
 
-#lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
-def readFile():
-    filename = "ejemplo.txt"
-    file = open(filename, "r")
+# lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
+def read_file():
+    file_name = "ejemplo.txt"
+    file = open(file_name, "r")
     counter = 0
     separator = []
     for line in file:
         for word in line.split():
             separator.append(word)
             counter += 1
-        htmlParser(separator)
-    #tokenizer("archivo.txt")
+        html_parser(separator)
+    # tokenizer("archivo.txt")
 
-#substrae el texto de un html y lo guarda en un archivo
-def htmlParser(separator):
+
+# substrae el texto de un html y lo guarda en un archivo
+def html_parser(separator):
     print(separator[1])
     page = requests.get(separator[1])
     name = separator[0]
     soup = BeautifulSoup(page.content, 'html.parser')
     text = soup.get_text()
-    fulltext = name + '.txt'
-    fileText = open(fulltext, '+w')
-    fileText.write(text)
-    fileText.close()
+    full_text = name + '.txt'
+    file_text = open(full_text, '+w')
+    file_text.write(text)
+    file_text.close()
 
-#lee el archivo sin bloques html dado por htmlParser, recorre cada palabra, la busca en stop_words, si no la encuentra
-#la busca en el vector de palabras, si la encuentra le suma 1 en la posicion de caso contrario la agrega con un 1
-def tokenizer(archivo):
-    listapalabras = []
-    listafrecuencias = []
-    filename = archivo
+
+# lee el archivo sin bloques html dado por htmlParser, recorre cada palabra, la busca en stop_words, si no la encuentra
+# la busca en el vector de palabras, si la encuentra le suma 1 en la posicion de caso contrario la agrega con un 1
+def tokenizer(filename):
+    word_list = []
+    frequency_list = []
+    # filename = archivo
     file = open(filename, "r")
     for line in file:
         for word in line.split():
-            if (not stop_words.__contains__(word)):
-                if (listapalabras.__contains__(word)):
-                    listafrecuencias[listapalabras.index(word)] += 1
+            if not stop_words.__contains__(word):
+                if word_list.__contains__(word):
+                    frequency_list[word_list.index(word)] += 1
                 else:
-                    listapalabras.append(word)
-                    listafrecuencias.append(1)
-    #i = 0
-    #for j in listapalabras:
-    #    print(listapalabras[i] + " " + str(listafrecuencias[i]))
+                    word_list.append(word)
+                    frequency_list.append(1)
+    # i = 0
+    # for j in word_list:
+    #    print(word_list[i] + " " + str(frequency_list[i]))
     #    i += 1
-    FreNormal(archivo, listapalabras, listafrecuencias)
+    normalize_frequency(filename, word_list, frequency_list)
 
-#crea vectores con las frecuencias relativas de los terminos de un documneto
-def FreNormal(nombrearchivo, listapalabras, listafrecuencias):
-    vectorfecnormal = []
-    frecmax = max(listafrecuencias)
-    for frec in listafrecuencias:
-        valornormal = frec / frecmax
-        vectorfecnormal.append(valornormal)
-    crearTOK(nombrearchivo, listapalabras,vectorfecnormal, listafrecuencias)
 
-#crea un archivo .tok a partir de los vectores de palabras y frecuencias normalizadas	
-def crearTOK(nombrearchivo, listapalabras, listafrecnormal,listafrecuencias):
-    fulltext = nombrearchivo + '.tok'
-    fileText = open(fulltext, '+w')
-    vectorStr=[str(i) for i in listafrecnormal]
-    vectorFrec = [str(i) for i in listafrecuencias]
-    int =0
-    for i in listapalabras:
-        fileText.write(listapalabras[int]+"  "+vectorStr[int] + "   " +vectorFrec[int] + "\n" )
-        int=int+1
-    fileText.close()
+# crea vectores con las frecuencias relativas de los terminos de un documneto
+def normalize_frequency(file_name, word_list, frequency_list):
+    normalized_frequency_list = []
+    max_frequency = max(frequency_list)
+    for frequency in frequency_list:
+        normalized_value = frequency / max_frequency
+        normalized_frequency_list.append(normalized_value)
+    create_tok(file_name, word_list, normalized_frequency_list, frequency_list)
 
-fillStopWords()
 
-#readFile()
+# crea un archivo .tok a partir de los vectores de palabras y frecuencias normalizadas
+def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
+    fulltext = file_name + '.tok'
+    file_text = open(fulltext, '+w')
+    vectorStr = [str(i) for i in normalized_frequency_list]
+    vectorFrec = [str(i) for i in frequency_list]
+    counter = 0
+    for i in word_list:
+        file_text.write(word_list[counter] + "  " + vectorStr[counter] + "   " + vectorFrec[counter] + "\n")
+        counter = counter + 1
+        file_text.close()
+
+
+run()

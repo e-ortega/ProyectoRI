@@ -1,1 +1,0 @@
-algo https://www.pythonforbeginners.com/cheatsheet/python-file-handling algo 

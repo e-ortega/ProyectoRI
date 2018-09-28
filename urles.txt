@@ -1,1 +1,3 @@
 Economia1.html https://www.bancomundial.org/es/country/costarica/overview
+Economia2.html https://www.dinero.com/internacional/articulo/situacion-economica-y-social-de-costa-rica/255020
+Economia3.html https://www.elmundo.cr/elecciones-situacion-economica-costa-rica/

@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7386f0f9-837a-46ec-bee7-cbdc810e4f10" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ProyectoRI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProyectoRI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiccionarioProhibido.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Economia1.html.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Economia1.html.txt.tok" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EjemploPalabras.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Etapa2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Etapa2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tokenizer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo.tok" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejemplo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frecuencia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/URLS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/URLS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plain_text/Economia1.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plain_text/Economia1.html.txt.tok" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plain_text/Economia2.html.txt" beforeDir="false" afterPath="$PROJECT_DIR$/plain_text/Economia2.html.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plain_text/Economia2.html.txt.tok" beforeDir="false" afterPath="$PROJECT_DIR$/plain_text/Economia2.html.txt.tok" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/urles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/urles.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +19,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ProyectoRI$Tokenizer.coverage" NAME="Tokenizer Coverage Results" MODIFIED="1537885934215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ProyectoRI$Etapa2.coverage" NAME="Etapa2 Coverage Results" MODIFIED="1538097981163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProyectoRI$Etapa2.coverage" NAME="Etapa2 Coverage Results" MODIFIED="1538111947357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1456802414">
@@ -52,18 +47,20 @@
     <session id="-1032399406">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1500" />
+          <entry key="py" value="2280" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1500" />
+          <entry key="Python" value="2280" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -83,21 +80,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Etapa2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="91" column="34" selection-start-line="91" selection-start-column="34" selection-end-line="91" selection-end-column="34" />
+            <state relative-caret-position="70">
+              <caret line="58" column="53" lean-forward="true" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
               <folding>
                 <element signature="e#42#51#0" expanded="true" />
-                <element signature="e#1982#2162#0" />
+                <marker date="1538111932927" expanded="true" signature="6769:7142" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files/Python37/Lib/site-packages/requests-2.19.1-py3.7.egg/requests/api.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
@@ -110,6 +98,12 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>prin</find>
+      <find>print</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -129,17 +123,16 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -152,6 +145,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,26 +234,35 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18266475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17765044" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32884097" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39892185" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928367" visible="true" weight="0.51212937" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32884097" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32884097" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007163" side_tool="true" weight="0.4541779" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32884097" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -278,19 +281,41 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Etapa2.py</url>
-          <line>86</line>
-          <option name="timeStamp" value="14" />
+          <line>133</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Etapa2.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="word.isalnum()" language="Python" />
+        <watch expression="global_words_list" language="Python" />
+        <watch expression="total_frequency_list" language="Python" />
+        <watch expression="path_file" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>path_file</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>total_frequency_list</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>global_words_list</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>word.isalnum()</expression-string>
         <language-id>Python</language-id>
@@ -326,21 +351,6 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>os.path.join(path, plain_text_dir)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>plain_text_dir</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>path</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
     <expressions id="setValue">
       <expression>
@@ -351,6 +361,16 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>word[0].isalpha()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>word.isdigit()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>re.sub(r'\W+', '', word)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -358,30 +378,22 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tokenizer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frecuencia.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Tokenizer.py" />
+    <entry file="file://$PROJECT_DIR$/frecuencia.py" />
     <entry file="file://C:/Program Files/Python37/Lib/site-packages/requests-2.19.1-py3.7.egg/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="1190">
           <caret line="70" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Etapa2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="91" column="34" selection-start-line="91" selection-start-column="34" selection-end-line="91" selection-end-column="34" />
+        <state relative-caret-position="70">
+          <caret line="58" column="53" lean-forward="true" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
           <folding>
             <element signature="e#42#51#0" expanded="true" />
-            <element signature="e#1982#2162#0" />
+            <marker date="1538111932927" expanded="true" signature="6769:7142" ph="..." />
           </folding>
         </state>
       </provider>

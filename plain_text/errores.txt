@@ -1,0 +1,49 @@
+MC6.html.txt
+C:\Users\eorte\Desktop\CI2414 Recuperación de Información\Proyeto\Etapa_2\ProyectoRI\plain_text\allanturing3.html.txt
+android2.html.txt
+android4.html.txt
+android9.html.txt
+C:\Users\eorte\Desktop\CI2414 Recuperación de Información\Proyeto\Etapa_2\ProyectoRI\plain_text\android10.html.txt
+desarrolloaplicacionesmoviles2.html.txt
+desarrolloaplicacionesmoviles7.html.txt
+logicadifusa2.html.txt
+logicadifusa8.html.txt
+C:\Users\eorte\Desktop\CI2414 Recuperación de Información\Proyeto\Etapa_2\ProyectoRI\plain_text\computacionnube2.html.txt
+C:\Users\eorte\Desktop\CI2414 Recuperación de Información\Proyeto\Etapa_2\ProyectoRI\plain_text\delitosinformaticos5.html.txt
+fengshui1.html.txt
+fengshui3.html.txt
+fengshui4.html.txt
+fengshui5.html.txt
+fengshui6.html.txt
+fengshui7.html.txt
+fengshui8.html.txt
+fengshui9.html.txt
+fengshui10.html.txt
+exploracionespacial1.html.txt
+hacking8.html.txt
+arteprecolombino10.html.txt
+C:\Users\eorte\Desktop\CI2414 Recuperación de Información\Proyeto\Etapa_2\ProyectoRI\plain_text\arteantiguo1.html.txt
+arteantiguo2.html.txt
+C:\Users\eorte\Desktop\CI2414 Recuperación de Información\Proyeto\Etapa_2\ProyectoRI\plain_text\arteantiguo3.html.txt
+arteantiguo4.html.txt
+C:\Users\eorte\Desktop\CI2414 Recuperación de Información\Proyeto\Etapa_2\ProyectoRI\plain_text\arteantiguo8.html.txt
+origenuniverso3.html.txt
+origenuniverso4.html.txt
+origenuniverso8.html.txt
+origami20.html.txt
+orquideas9.html.txt
+parquesnacionalescr3.html.txt
+parquesnacionalescr7.html.txt
+C:\Users\eorte\Desktop\CI2414 Recuperación de Información\Proyeto\Etapa_2\ProyectoRI\plain_text\parquesnacionalescr8.html.txt
+turismocr2.html.txt
+turismocr3.html.txt
+turismocr4.html.txt
+turismocr8.html.txt
+turismocr10.html.txt
+turismoespacial5.html.txt
+turismoespacial9.html.txt
+turismoespacial10.html.txt
+comptecnubicua3.html.txt
+comptecnubicua7.html.txt
+comptecnubicua10.html.txt
+C:\Users\eorte\Desktop\CI2414 Recuperación de Información\Proyeto\Etapa_2\ProyectoRI\plain_text\videojuegos6.html.txt

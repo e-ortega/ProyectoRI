@@ -427,7 +427,7 @@ murallachina6.html http://es.wikipedia.org/wiki/Gran_Muralla_China#Estado
 murallachina7.html http://es.wikipedia.org/wiki/Gran_Muralla_China#Torres_de_vigilancia_y_barracas
 murallachina8.html http://es.wikipedia.org/wiki/Gran_Muralla_China#Defensa_de_la_muralla
 murallachina9.html http://es.wikipedia.org/wiki/Gran_Muralla_China#Materiales
-murallachina10.htmlhttp://es.wikipedia.org/wiki/Gran_Muralla_China#Reconocimiento_.28desde_el_espacio.29
+murallachina10.html http://es.wikipedia.org/wiki/Gran_Muralla_China#Reconocimiento_.28desde_el_espacio.29
 bonsais1.html http://www.portalbonsai.com/
 bonsais2.html http://www.bonsaiglobal.com/
 bonsais3.html http://bonsaimania.com/

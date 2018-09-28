@@ -11,6 +11,10 @@ from bs4.element import Comment
 stop_words = []
 plain_text_dir = "plain_text"
 path = os.path.dirname(os.path.realpath(__file__))
+global_words_list = []
+total_frequency_list = []
+document_quantity_list = []
+requests_errors = []
 
 
 def run():
@@ -20,6 +24,7 @@ def run():
 
     fill_stop_words()
     read_urls()
+    generate_error_page_file()
 
 
 # llena el vector stop_words usando la  lista de palabras que se deben omitir
@@ -33,7 +38,7 @@ def fill_stop_words():
 
 # lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
 def read_urls():
-    file_name = "urles.txt"
+    file_name = "URLS.txt"
     file = open(file_name, "r", encoding="utf-8")
     for line in file:
         separator = []
@@ -45,25 +50,28 @@ def read_urls():
 # substrae el texto de un html y lo guarda en un archivo
 def html_parser(separator):
     name = separator[0]
-    page = requests.get(separator[1])
+    file_name = name + '.txt'
+    try:
+        page = requests.get(separator[1])
+        if page.status_code == HTTPStatus.OK:
+            soup = BeautifulSoup(page.content, 'html.parser')
+            text = soup.findAll(text=True)
+            visible_texts = filter(tag_visible, text)
+            texts = u" ".join(t.strip() for t in visible_texts)
+            #  print("Procesando archivo " + file_name)
+            path_file = os.path.join(path, plain_text_dir, file_name)
 
-    if page.status_code == HTTPStatus.OK:
-        soup = BeautifulSoup(page.content, 'html.parser')
-        text = soup.findAll(text=True)
-        visible_texts = filter(tag_visible, text)
-        texts = u" ".join(t.strip() for t in visible_texts)
-
-        file_name = name + '.txt'
-        path_file = os.path.join(path, plain_text_dir, file_name)
-
-        # create an empty file.
-        try:
-            file_text = open(path_file, '+w', encoding="utf-8")
-            file_text.write(texts)
-            file_text.close()
-            tokenizer(path_file)
-        except IOError:
-            print("Algo pasó creando el archivo el documento: [%s].", file_name)
+            # create an empty file.
+            try:
+                file_text = open(path_file, '+w', encoding="utf-8")
+                file_text.write(texts)
+                file_text.close()
+                tokenizer(path_file)
+            except IOError:
+                print("Algo pasó creando el archivo el documento: [%s].", file_name)
+    except requests.exceptions.RequestException as error:
+        print(error)
+        requests_errors.append(file_name)
 
 
 def tag_visible(element):
@@ -80,22 +88,23 @@ def tokenizer(file_name):
     word_list = []
     frequency_list = []
     file = open(file_name, "r", encoding="utf-8")
+
     for line in file:
         for word in line.split():
             try:
-                if word=="中文":
-                    print("d")
+
                 valid_word = True
                 word = word.lower()
                 word = re.sub(r'\W+', '', word)  # se eliminan caracteres no alfanumericos
                 if not word.isalnum():
                     valid_word = False
                 if len(word) < 2 or len(word) > 30:
-                    print("[%s] longitud de palaba no permitida" % word)
+                    # print("[" + str(word) + "] longitud de palaba no permitida")
                     valid_word = False  # no se usan palabras de tamaño mayor a 30
-                if not word.isdigit() and not word[0].isalpha():
-                    print("[%s] no es una palabra valida" % word)
-                    valid_word = False# no se usan palabras que no sean solo numeros y no empiecen por a-z ej: 3arbol
+                if len(word) > 0:
+                    if not word.isdigit() and not word[0].isalpha():
+                        # print("[" + str(word) + "] no es una palabra valida")
+                        valid_word = False  # no se usan palabras que no sean solo numeros y no empiecen por a-z ej: 3arbol
 
                 if not stop_words.__contains__(word) and valid_word:
                     if word_list.__contains__(word):
@@ -103,33 +112,45 @@ def tokenizer(file_name):
                     else:
                         word_list.append(word)
                         frequency_list.append(1)
+
+                    if global_words_list.__contains__(word):
+                        total_frequency_list[global_words_list.index(word)] += 1
+                    else:
+                        document_quantity_list.append(0)
+                        global_words_list.append(word)
+                        total_frequency_list.append(1)
+
             except Exception as error:
-                print("[%s] %s" % (word, error))
-                print(error)
+                print("[" + str(word) + "]" + error.__str__())
+                requests_errors.append(file_name)
+    for word in word_list:
+        document_quantity_list[global_words_list.index(word)] += 1
     normalize_frequency(file_name, word_list, frequency_list)
 
 
 # crea vectores con las frecuencias relativas de los terminos de un documneto
 def normalize_frequency(file_name, word_list, frequency_list):
-    normalized_frequency_list = []
-    max_frequency = max(frequency_list)
-    for frequency in frequency_list:
-        normalized_value = frequency / max_frequency
-        normalized_frequency_list.append(normalized_value)
-    create_tok(file_name, word_list, normalized_frequency_list, frequency_list)
-
+    if len(frequency_list) > 0 and len(word_list) > 0:
+        normalized_frequency_list = []
+        max_frequency = max(frequency_list)
+        for frequency in frequency_list:
+            normalized_value = frequency / max_frequency
+            normalized_frequency_list.append(normalized_value)
+        create_tok(file_name, word_list, normalized_frequency_list, frequency_list)
+        create_vocabulary()
+    else:
+        requests_errors.append(file_name)
 
 # crea un archivo .tok a partir de los vectores de palabras y frecuencias normalizadas
 def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
-    fulltext = file_name + '.tok'
-
+    file_name = file_name + '.tok'
     try:
-        file_text = open(fulltext, '+w', encoding="utf-8")
+        file_text = open(file_name, '+w', encoding="utf-8")
         vector_str = [str(i) for i in normalized_frequency_list]
         vector_frequency = [str(i) for i in frequency_list]
         counter = 0
         for word in word_list:
-            file_text.write(word + "  " + vector_str[counter] + "   " + vector_frequency[counter] + "\n")
+            file_text.write(word + "," + vector_str[counter] + "," + vector_frequency[counter] + "\n")
             counter += 1
         file_text.close()
     except IOError:
@@ -138,7 +159,32 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
 
 # crea el archivo vabulario
 def create_vocabulary():
-    print("TO-DO")
+    file_name = 'Vocabulario.txt'
+    file_name = os.path.join(path, plain_text_dir, file_name)
+    try:
+        file_text = open(file_name, '+w', encoding="utf-8")
+        vector_frequency = [str(i) for i in total_frequency_list]
+        vector_quantity = [str(i) for i in document_quantity_list]
+        counter = 0
+        for word in global_words_list:
+            file_text.write(str(word) + "," + str(vector_frequency[counter]) + "," + str(vector_quantity[counter]) + "\n")
+            counter += 1
+        file_text.close()
+    except IOError:
+        print("Algo pasó creando el .tok para el documento: [%s].", file_name)
+
+
+def generate_error_page_file():
+    file_name = 'errores.txt'
+    file_name = os.path.join(path, plain_text_dir, file_name)
+    try:
+        file_text = open(file_name, '+w', encoding="utf-8")
+        for word in requests_errors:
+            file_text.write(str(word) + "\n")
+
+        file_text.close()
+    except IOError:
+        print("Algo pasó creando el .tok para el documento: [%s].", file_name)
 
 
 run()

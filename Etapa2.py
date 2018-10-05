@@ -144,6 +144,20 @@ def normalize_frequency(file_name, word_list, frequency_list):
 # crea un archivo .tok a partir de los vectores de palabras y frecuencias normalizadas
 def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
     file_name = file_name + '.tok'
+	for passnum in range(len(word_list)-1,0,-1):
+          i=0
+          for element in range(passnum):
+            if word_list[i]>word_list[i+1]:
+                temp = word_list[i]
+                word_list[i] = word_list[i+1]
+                word_list[i+1] = temp
+                temp = normalized_frequency_list[i]
+                normalized_frequency_list[i] = normalized_frequency_list[i+1]
+                normalized_frequency_list[i+1] = temp
+                temp = frequency_list[i]
+                frequency_list[i] = frequency_list[i+1]
+                frequency_list[i+1] = temp
+            i += 1
     try:
         file_text = open(file_name, '+w', encoding="utf-8")
         vector_str = [str(i) for i in normalized_frequency_list]

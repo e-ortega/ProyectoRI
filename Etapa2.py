@@ -164,8 +164,9 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
         vector_frequency = [str(i) for i in frequency_list]
         counter = 0
         for word in word_list:
-            file_text.write(word + "," + vector_str[counter] + "," + vector_frequency[counter] + "\n")
-            counter += 1
+            #file_text.write(word + "," + vector_str[counter] + "," + vector_frequency[counter] + "\n")
+            file_text.write(word+" "*(30-len(word)) + "," + vector_str[counter] +" "*(12-len(vector_str[counter]))+ "," + vector_frequency[counter]+" "*(20-len(vector_frequency[counter])) + "\n")
+			counter += 1
         file_text.close()
     except IOError:
         print("Algo pasó creando el .tok para el documento: [%s].", file_name)

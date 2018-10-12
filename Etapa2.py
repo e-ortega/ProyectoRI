@@ -144,20 +144,21 @@ def normalize_frequency(file_name, word_list, frequency_list):
 # crea un archivo .tok a partir de los vectores de palabras y frecuencias normalizadas
 def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
     file_name = file_name + '.tok'
-	for passnum in range(len(word_list)-1,0,-1):
-          i=0
-          for element in range(passnum):
-            if word_list[i]>word_list[i+1]:
-                temp = word_list[i]
-                word_list[i] = word_list[i+1]
-                word_list[i+1] = temp
-                temp = normalized_frequency_list[i]
-                normalized_frequency_list[i] = normalized_frequency_list[i+1]
-                normalized_frequency_list[i+1] = temp
-                temp = frequency_list[i]
-                frequency_list[i] = frequency_list[i+1]
-                frequency_list[i+1] = temp
-            i += 1
+    for passnum in range(1,len(word_list)):
+      i=0
+      for element in range(0,len(word_list)-passnum):
+        if (word_list[i]>word_list[i+1]):
+          temp = word_list[i]
+          word_list[i] = word_list[i+1]
+          word_list[i+1] = temp
+          temp = normalized_frequency_list[i]
+          normalized_frequency_list[i] = normalized_frequency_list[i+1]
+          normalized_frequency_list[i+1] = temp
+          temp = frequency_list[i]
+          frequency_list[i] = frequency_list[i+1]
+          frequency_list[i+1] = temp
+        i += 1
+
     try:
         file_text = open(file_name, '+w', encoding="utf-8")
         vector_str = [str(i) for i in normalized_frequency_list]
@@ -166,10 +167,38 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
         for word in word_list:
             #file_text.write(word + "," + vector_str[counter] + "," + vector_frequency[counter] + "\n")
             file_text.write(word+" "*(30-len(word)) + "," + vector_str[counter] +" "*(12-len(vector_str[counter]))+ "," + vector_frequency[counter]+" "*(20-len(vector_frequency[counter])) + "\n")
-			counter += 1
+            counter += 1
         file_text.close()
     except IOError:
         print("Algo pasó creando el .tok para el documento: [%s].", file_name)
+# def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
+    # file_name = file_name + '.tok'
+	# for passnum in range(len(word_list)-1,0,-1):
+          # i=0
+          # for element in range(passnum):
+            # if word_list[i]>word_list[i+1]:
+                # temp = word_list[i]
+                # word_list[i] = word_list[i+1]
+                # word_list[i+1] = temp
+                # temp = normalized_frequency_list[i]
+                # normalized_frequency_list[i] = normalized_frequency_list[i+1]
+                # normalized_frequency_list[i+1] = temp
+                # temp = frequency_list[i]
+                # frequency_list[i] = frequency_list[i+1]
+                # frequency_list[i+1] = temp
+            # i += 1
+    # try:
+        # file_text = open(file_name, '+w', encoding="utf-8")
+        # vector_str = [str(i) for i in normalized_frequency_list]
+        # vector_frequency = [str(i) for i in frequency_list]
+        # counter = 0
+        # for word in word_list:
+            # #file_text.write(word + "," + vector_str[counter] + "," + vector_frequency[counter] + "\n")
+            # file_text.write(word+" "*(30-len(word)) + "," + vector_str[counter] +" "*(12-len(vector_str[counter]))+ "," + vector_frequency[counter]+" "*(20-len(vector_frequency[counter])) + "\n")
+			# counter += 1
+        # file_text.close()
+    # except IOError:
+        # print("Algo pasó creando el .tok para el documento: [%s].", file_name)
 
 
 # crea el archivo vabulario

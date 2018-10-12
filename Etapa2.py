@@ -231,4 +231,29 @@ def generate_error_page_file():
         print("Algo pasó creando el .tok para el documento: [%s].", file_name)
 
 
+#Crea in Indice a partir del archivo posting	
+def indice(archivo):
+    file_name = 'Indice.txt'
+    resultado = []
+    lines = [line.rstrip('\n') for line in open(archivo)]
+    c = 0
+    for l in lines:
+        pos = l.find(" ")
+        lines[c] = l[:pos]
+        c = c+1
+    termino=" "
+    c=0
+    try:
+        file_text = open(file_name, '+w', encoding="utf-8")
+        numeroVeces = 0
+        for l in lines:
+          numeroVeces += 1
+          if (termino != l):
+                termino = l
+                file_text.write(termino + " " * (30-len(termino)) + "," + str(c) + " " * (12-len(str(c))) + "," + str(numeroVeces)+"\n")
+                numeroVeces = 0
+          c = c+1
+    except IOError:
+        print("Algo pasó creando el archivo Indice")
+
 run()

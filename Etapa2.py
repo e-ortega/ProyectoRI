@@ -256,4 +256,22 @@ def indice(archivo):
     except IOError:
         print("Algo pasó creando el archivo Indice")
 
+
+def calculaPesos(frecuenciaNormalizada, frecuenciaInversa):
+    return frecuenciaNormalizada * frecuenciaInversa
+
+
+def loadVocabulario(palabras, frecuencias):
+    file_name = 'vocabulario.txt'
+    file = open(file_name, 'r', encoding="utf-8")
+    for line in file:
+        count = 0
+        for word in line:
+            if count == 0:
+                palabras.append(word)
+            elif count == 2:
+                frecuencias.append(word)
+        count = count +1
+
+
 run()

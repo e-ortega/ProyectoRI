@@ -171,6 +171,8 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
         file_text.close()
     except IOError:
         print("Algo pasó creando el .tok para el documento: [%s].", file_name)
+
+
 # def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
     # file_name = file_name + '.tok'
 	# for passnum in range(len(word_list)-1,0,-1):

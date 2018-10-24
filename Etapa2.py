@@ -3,6 +3,7 @@
 import os
 import re
 import requests
+from os import walk
 from http import HTTPStatus
 from bs4 import BeautifulSoup
 from bs4.element import Comment
@@ -15,6 +16,7 @@ global_words_list = []
 total_frequency_list = []
 document_quantity_list = []
 requests_errors = []
+tok_path = ""
 
 
 def run():
@@ -221,7 +223,7 @@ def create_vocabulary():
         vector_quantity = [str(i) for i in document_quantity_list]
         counter = 0
         for word in global_words_list:
-            file_text.write(str(word) + "," + str(vector_frequency[counter]) + "," + str(vector_quantity[counter]) + "\n")
+            file_text.write(str(word) + " " + "," + str(vector_frequency[counter])+ " " + "," + str(vector_quantity[counter]) + "\n")
             counter += 1
         file_text.close()
     except IOError:
@@ -276,12 +278,53 @@ def loadVocabulario(palabras, frecuencias):
     file = open(file_name, 'r', encoding="utf-8")
     for line in file:
         count = 0
-        for word in line:
+        for word in line.split():
             if count == 0:
                 palabras.append(word)
+                count = count + 1
             elif count == 2:
                 frecuencias.append(word)
-        count = count +1
+                count = count + 1
+            else:
+                count = count +1
 
+
+#def calculePeso():
+    #palabras = []
+    #frecuencias = []
+    #palabrasTok = []
+    #frecuenciasTok = []
+    #palabraPeso = []
+    #pesos=[]
+    #loadVocabulario(palabras,frecuencias)
+    #f = []
+    #for (dirpath, dirnames, filenames) in walk(tok_path):
+      #  f.extend(filenames)
+     #   break
+    #for n in len(f):
+        #file = open(f[n], 'r', encoding="utf-8")
+        #for line in file:
+            #wordCount = 0
+            #for word in line:
+              #  if word == " ":
+             #       wordCount = wordCount + 1
+            #    elif wordCount != 0:
+           #         frecuenciasTok.append(word)
+          #      else:
+         #           palabrasTok.append(word)
+        #for i in len(palabrasTok):
+            #for j in len(palabras):
+           #     if palabras[j] == palabrasTok[i]:
+          #          palabraPeso.append(palabrasTok[i])
+         #           pesos.append(float(frecuenciasTok[i]) * float(frecuencias[j]))
+        #file_name = f[n] + ".wtd"
+       # file_text = open(file_name, '+w', encoding="utf-8")
+      #  for k in len(palabraPeso):
+     #       file_text.writelines(str(palabraPeso[k])+ "   "+str(pesos[k]+ "\n"))
+    #    file_text.close()
+   #     palabrasTok = []
+  #      frecuenciasTok = []
+ #       palabraPeso = []
+#        pesos = []
 
 run()

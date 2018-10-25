@@ -239,10 +239,61 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
         # print("Algo pasó creando el .tok para el documento: [%s].", file_name)
 
 
+#Hace un sort para 3 lista, tomando como ordenamiento la lista base, este algorito es utilizado para ordenar el vocabulario
+def merge_sort_3_listas(lista_base, lista1, lista2):
+    if len(lista_base)>1:
+        medio = len(lista_base)//2
+        mitad_iz_base = lista_base[:medio]
+        mitad_de_base = lista_base[medio:]
+
+        mitad_iz1 = lista1[:medio]
+        mitad_de1 = lista1[medio:]
+
+        mitad_iz2 = lista2[:medio]
+        mitad_de2 = lista2[medio:]
+
+        merge_sort_3_listas(mitad_iz_base, mitad_iz1, mitad_iz2)
+        merge_sort_3_listas(mitad_de_base, mitad_de1, mitad_de2)
+
+        i=0
+        j=0
+        k=0
+
+        while i < len(mitad_iz_base) and j < len(mitad_de_base):
+            if mitad_iz_base[i] < mitad_de_base[j]:
+                lista_base[k] = mitad_iz_base[i]
+                lista1[k] = mitad_iz1[i]
+                lista2[k] = mitad_iz2[i]
+                i=i+1
+            else:
+                lista_base[k] = mitad_de_base[j]
+                lista1[k] = mitad_de1[j]
+                lista2[k] = mitad_de2[j]
+                j=j+1
+            k=k+1
+
+        while i < len(mitad_iz_base):
+            lista_base[k] = mitad_iz_base[i]
+            lista1[k] = mitad_iz1[i]
+            lista2[k] = mitad_iz2[i]
+            i=i+1
+            k=k+1
+
+        while j < len(mitad_de_base):
+            lista_base[k] = mitad_de_base[j]
+            lista1[k] = mitad_de1[j]
+            lista2[k] = mitad_de2[j]
+            j=j+1
+            k=k+1
+
+
 # crea el archivo vabulario
 def create_vocabulary():
     file_name = 'Vocabulario.txt'
     file_name = os.path.join(path, plain_text_dir, file_name)
+
+    merge_sort_3_listas(global_words_list, total_frequency_list, document_quantity_list)
+    
     try:
         file_text = open(file_name, '+w', encoding="utf-8")
         vector_frequency = [str(i) for i in total_frequency_list]

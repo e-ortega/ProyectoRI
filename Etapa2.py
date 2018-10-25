@@ -42,7 +42,7 @@ def fill_stop_words():
 
 # lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
 def read_urls():
-    file_name = "urles.txt"
+    file_name = "URLS.txt"
     file = open(file_name, "r", encoding="utf-8-sig")
     for line in file:
         separator = []

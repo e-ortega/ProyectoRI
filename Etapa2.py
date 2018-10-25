@@ -27,6 +27,8 @@ def run():
     fill_stop_words()
     read_urls()
     generate_error_page_file()
+    calculePeso()
+
 
 
 # llena el vector stop_words usando la  lista de palabras que se deben omitir
@@ -40,8 +42,8 @@ def fill_stop_words():
 
 # lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
 def read_urls():
-    file_name = "URLS.txt"
-    file = open(file_name, "r", encoding="utf-8")
+    file_name = "urles.txt"
+    file = open(file_name, "r", encoding="utf-8-sig")
     for line in file:
         separator = []
         for word in line.split():
@@ -55,24 +57,26 @@ def html_parser(separator):
     file_name = name + '.txt'
     try:
         file_dir = os.path.dirname(__file__)
-        abs_file_path = os.path.join(file_dir, "Coleccion", separator[0])
-        page = open(abs_file_path, "r", encoding="utf-8")
-        # if page.status_code == HTTPStatus.OK:
-        soup = BeautifulSoup(page, 'html.parser')
-        text = soup.findAll(text=True)
-        visible_texts = filter(tag_visible, text)
-        texts = u" ".join(t.strip() for t in visible_texts)
-        #  print("Procesando archivo " + file_name)
-        path_file = os.path.join(path, plain_text_dir, file_name)
+        abs_file_path = file_dir+ "/Coleccion"+'/'+ name
 
-        # create an empty file.
-        try:
-            file_text = open(path_file, '+w', encoding="utf-8")
-            file_text.write(texts)
-            file_text.close()
-            tokenizer(path_file)
-        except IOError:
-            print("Algo pasó creando el archivo el documento: [%s].", file_name)
+        with open(abs_file_path, 'r',encoding="utf-8") as page:
+            #if page.status_code == HTTPStatus.OK:
+            print("name is:" + name)
+            soup = BeautifulSoup(page, 'html.parser')
+            text = soup.findAll(text=True)
+            visible_texts = filter(tag_visible, text)
+            texts = u" ".join(t.strip() for t in visible_texts)
+            #  print("Procesando archivo " + file_name)
+            path_file = os.path.join(path, plain_text_dir, file_name)
+
+            # create an empty file.
+            try:
+                file_text = open(path_file, '+w', encoding="utf-8")
+                file_text.write(texts)
+                file_text.close()
+                tokenizer(path_file)
+            except IOError:
+                print("Algo pasó creando el archivo el documento: [%s].", file_name)
     except requests.exceptions.RequestException as error:
         print(error)
         requests_errors.append(file_name)
@@ -200,8 +204,8 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
         counter = 0
         for word in word_list:
             # file_text.write(word + "," + vector_str[counter] + "," + vector_frequency[counter] + "\n")
-            file_text.write(word + " " * (30 - len(word)) + "," + vector_str[counter] + " " * (
-                        12 - len(vector_str[counter])) + "," + vector_frequency[counter] + " " * (
+            file_text.write(word + " " * (30 - len(word)) + ", " + vector_str[counter]+ " " + " " * (
+                        12 - len(vector_str[counter])) + " , " + vector_frequency[counter] + " " * (
                                         20 - len(vector_frequency[counter])) + "\n")
             counter += 1
         file_text.close()
@@ -249,7 +253,7 @@ def create_vocabulary():
         vector_quantity = [str(i) for i in document_quantity_list]
         counter = 0
         for word in global_words_list:
-            file_text.write(str(word) + " " + "," + str(vector_frequency[counter])+ " " + "," + str(vector_quantity[counter]) + "\n")
+            file_text.write(str(word) + " " + ", " + str(vector_frequency[counter])+ " " + ", " + str(vector_quantity[counter]) + "\n")
             counter += 1
         file_text.close()
     except IOError:
@@ -298,7 +302,7 @@ def indice(archivo):
           numeroVeces += 1
           if (termino != l):
                 termino = l
-                file_text.write(termino + " " * (30-len(termino)) + "," + str(c) + " " * (12-len(str(c))) + "," + str(numeroVeces)+"\n")
+                file_text.write(termino + " " * (30-len(termino)) + ", " + str(c) + " " * (12-len(str(c))) + ", " + str(numeroVeces)+"\n")
                 numeroVeces = 0
           c = c+1
     except IOError:
@@ -310,57 +314,75 @@ def calculaPesos(frecuenciaNormalizada, frecuenciaInversa):
 
 
 def loadVocabulario(palabras, frecuencias):
-    file_name = 'vocabulario.txt'
-    file = open(file_name, 'r', encoding="utf-8")
-    for line in file:
-        count = 0
-        for word in line.split():
-            if count == 0:
-                palabras.append(word)
-                count = count + 1
-            elif count == 2:
-                frecuencias.append(word)
-                count = count + 1
-            else:
-                count = count +1
+    #file_name = 'vocabulario.txt'
+    cur_path = os.path.dirname(__file__)
+    a = cur_path + '/plain_text/Vocabulario.txt'
+    #a = 'C:/Users/Jose M/Google Drive/II Semestre 2018/Proyecto/plain_text/Vocabulario.txt'
+    with open(a, 'r', encoding="utf-8") as file:
+        for line in file:
+            count = 0
+            for word in line.split():
+                if count == 0:
+                    palabras.append(word)
+                    count = count + 1
+                elif count == 2:
+                    frecuencias.append(word)
+                    count = count + 1
+                else:
+                    count = count +1
 
 
-#def calculePeso():
-    #palabras = []
-    #frecuencias = []
-    #palabrasTok = []
-    #frecuenciasTok = []
-    #palabraPeso = []
-    #pesos=[]
-    #loadVocabulario(palabras,frecuencias)
-    #f = []
-    #for (dirpath, dirnames, filenames) in walk(tok_path):
-      #  f.extend(filenames)
-     #   break
-    #for n in len(f):
-        #file = open(f[n], 'r', encoding="utf-8")
-        #for line in file:
-            #wordCount = 0
-            #for word in line:
-              #  if word == " ":
-             #       wordCount = wordCount + 1
-            #    elif wordCount != 0:
-           #         frecuenciasTok.append(word)
-          #      else:
-         #           palabrasTok.append(word)
-        #for i in len(palabrasTok):
-            #for j in len(palabras):
-           #     if palabras[j] == palabrasTok[i]:
-          #          palabraPeso.append(palabrasTok[i])
-         #           pesos.append(float(frecuenciasTok[i]) * float(frecuencias[j]))
-        #file_name = f[n] + ".wtd"
-       # file_text = open(file_name, '+w', encoding="utf-8")
-      #  for k in len(palabraPeso):
-     #       file_text.writelines(str(palabraPeso[k])+ "   "+str(pesos[k]+ "\n"))
-    #    file_text.close()
-   #     palabrasTok = []
-  #      frecuenciasTok = []
- #       palabraPeso = []
-#        pesos = []
+def calculePeso():
+    palabras = []
+    frecuencias = []
+    palabrasTok = []
+    frecuenciasTok = []
+    palabraPeso = []
+    pesos=[]
+    loadVocabulario(palabras,frecuencias)
+    cur_path = os.path.dirname(__file__)
+    tok_path = cur_path + "/plain_text/tok"
+    dir_path_name = r'.\plain_text\wtd'
+    if not os.path.exists(dir_path_name):
+        os.makedirs(dir_path_name)
+    f = []
+    for (dirpath, dirnames, filenames) in walk(tok_path):
+        f.extend(filenames)
+        break
+    for n in range (0, len(f)):
+        file_name = tok_path + "/"+f[n]
+        file = open(file_name, 'r', encoding="utf-8")
+        for line in file:
+            wordCount = 0
+            for word in line.split():
+                if wordCount == 0:
+                    palabrasTok.append(word)
+                    wordCount = wordCount + 1
+                elif wordCount == 2:
+                    frecuenciasTok.append(word)
+                    wordCount = wordCount +1
+                else:
+                    wordCount = wordCount + 1
+        for i in range (0, len(palabrasTok)):
+            for j in range (0, len(palabras)):
+                if palabras[j] == palabrasTok[i]:
+                    palabraPeso.append(palabrasTok[i])
+                    pesos.append(float(frecuenciasTok[i]) * float(frecuencias[j]))
+        file_name = cur_path+ "/plain_text/wtd/"+f[n] + ".wtd"
+        file_text = open(file_name, '+w', encoding="utf-8")
+        for k in range (0, len(palabraPeso)):
+            file_text.writelines(str(palabraPeso[k])+ "   "+str(pesos[k]) + "\n")
+        file_text.close()
+        palabrasTok = []
+        frecuenciasTok = []
+        palabraPeso = []
+        pesos = []
 
 run()
+
+#palabras= []
+#frecuencias= []
+
+#loadVocabulario(palabras, frecuencias)
+
+

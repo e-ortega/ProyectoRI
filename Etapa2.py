@@ -54,26 +54,52 @@ def html_parser(separator):
     name = separator[0]
     file_name = name + '.txt'
     try:
-        page = requests.get(separator[1])
-        if page.status_code == HTTPStatus.OK:
-            soup = BeautifulSoup(page.content, 'html.parser')
-            text = soup.findAll(text=True)
-            visible_texts = filter(tag_visible, text)
-            texts = u" ".join(t.strip() for t in visible_texts)
-            #  print("Procesando archivo " + file_name)
-            path_file = os.path.join(path, plain_text_dir, file_name)
+        file_dir = os.path.dirname(__file__)
+        abs_file_path = os.path.join(file_dir, "Coleccion", separator[0])
+        page = open(abs_file_path, "r", encoding="utf-8")
+        # if page.status_code == HTTPStatus.OK:
+        soup = BeautifulSoup(page, 'html.parser')
+        text = soup.findAll(text=True)
+        visible_texts = filter(tag_visible, text)
+        texts = u" ".join(t.strip() for t in visible_texts)
+        #  print("Procesando archivo " + file_name)
+        path_file = os.path.join(path, plain_text_dir, file_name)
 
-            # create an empty file.
-            try:
-                file_text = open(path_file, '+w', encoding="utf-8")
-                file_text.write(texts)
-                file_text.close()
-                tokenizer(path_file)
-            except IOError:
-                print("Algo pasó creando el archivo el documento: [%s].", file_name)
+        # create an empty file.
+        try:
+            file_text = open(path_file, '+w', encoding="utf-8")
+            file_text.write(texts)
+            file_text.close()
+            tokenizer(path_file)
+        except IOError:
+            print("Algo pasó creando el archivo el documento: [%s].", file_name)
     except requests.exceptions.RequestException as error:
         print(error)
         requests_errors.append(file_name)
+
+    # name = separator[0]
+    # file_name = name + '.txt'
+    # try:
+    #     page = requests.get(separator[1])
+    #     if page.status_code == HTTPStatus.OK:
+    #         soup = BeautifulSoup(page.content, 'html.parser')
+    #         text = soup.findAll(text=True)
+    #         visible_texts = filter(tag_visible, text)
+    #         texts = u" ".join(t.strip() for t in visible_texts)
+    #         #  print("Procesando archivo " + file_name)
+    #         path_file = os.path.join(path, plain_text_dir, file_name)
+    #
+    #         # create an empty file.
+    #         try:
+    #             file_text = open(path_file, '+w', encoding="utf-8")
+    #             file_text.write(texts)
+    #             file_text.close()
+    #             tokenizer(path_file)
+    #         except IOError:
+    #             print("Algo pasó creando el archivo el documento: [%s].", file_name)
+    # except requests.exceptions.RequestException as error:
+    #     print(error)
+    #     requests_errors.append(file_name)
 
 
 def tag_visible(element):

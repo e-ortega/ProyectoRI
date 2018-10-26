@@ -24,9 +24,9 @@ def run():
     if not os.path.exists(os.path.join(path, plain_text_dir)):
         os.mkdir(os.path.join(path, plain_text_dir))
 
-    fill_stop_words()
-    read_urls()
-    generate_error_page_file()
+    #fill_stop_words()
+    #read_urls()
+    #generate_error_page_file()
     calculePeso()
 
 
@@ -42,7 +42,7 @@ def fill_stop_words():
 
 # lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
 def read_urls():
-    file_name = "URLS.txt"
+    file_name = "URL1.txt"
     file = open(file_name, "r", encoding="utf-8-sig")
     for line in file:
         separator = []
@@ -394,6 +394,8 @@ def calculePeso():
     cur_path = os.path.dirname(__file__)
     tok_path = cur_path + "/plain_text/tok"
     dir_path_name = r'.\plain_text\wtd'
+    dir_path_posting = r'.\plain_text\posting.txt'
+    file_posting = open(dir_path_posting, '+w', encoding="utf-8")
     if not os.path.exists(dir_path_name):
         os.makedirs(dir_path_name)
     f = []
@@ -423,11 +425,27 @@ def calculePeso():
         file_text = open(file_name, '+w', encoding="utf-8")
         for k in range (0, len(palabraPeso)):
             file_text.writelines(str(palabraPeso[k])+ "   "+str(pesos[k]) + "\n")
+            file_posting.writelines(str(palabraPeso[k])+"   "+f[n].replace(".txt.tok","")+ "   "+str(pesos[k]) + "\n")
         file_text.close()
         palabrasTok = []
         frecuenciasTok = []
         palabraPeso = []
         pesos = []
+    file_posting.close()
+    inputFile = open(dir_path_posting, 'r', encoding="utf-8")
+    lineList = inputFile.readlines()
+    lineList.sort()
+    print(lineList)
+    for line in lineList:
+        with open(dir_path_posting, 'a', encoding="utf-8") as f:
+            for line in lineList:
+                lineList.sort()
+                f.write(line)
+
+
+ #for linea in file:
+     #   lineas.append([i for i in linea.strip("\n").split(":")])
+    #lineas.sort(key=lambda x: x[0])
 
 run()
 

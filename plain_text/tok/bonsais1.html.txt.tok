@@ -1,48 +1,202 @@
-hola,0.5,1
-desgraciadamente,0.5,1
-hemos,0.5,1
-decidido,0.5,1
-cerrar,0.5,1
-webs,1.0,2
-indefinidamente,0.5,1
-habido,0.5,1
-algunas,0.5,1
-participaciones,0.5,1
-usuarios,0.5,1
-desenmascarador,0.5,1
-creando,0.5,1
-problemas,0.5,1
-personales,0.5,1
-participantes,0.5,1
-foro,0.5,1
-inaceptable,0.5,1
-debido,0.5,1
-imposibilidad,0.5,1
-dar,1.0,2
-mantenimiento,0.5,1
-seguimiento,0.5,1
-vosotros,0.5,1
-nuevas,0.5,1
-leyes,0.5,1
-europeas,0.5,1
-obligado,0.5,1
-cumplimiento,0.5,1
-vemos,0.5,1
-obligados,0.5,1
-baja,0.5,1
-inmediatamente,0.5,1
-servidores,0.5,1
-mostrar,0.5,1
-página,0.5,1
-estática,0.5,1
-anuncio,0.5,1
-manera,1.0,2
-temporal,0.5,1
-sentimos,0.5,1
-acabar,0.5,1
-10,0.5,1
-años,0.5,1
-historia,0.5,1
-queda,0.5,1
-saludo,0.5,1
-webmaster,0.5,1
+10                            , 0.05          , 1                   
+1030                          , 0.05          , 1                   
+11                            , 0.05          , 1                   
+117                           , 0.05          , 1                   
+1230                          , 0.1           , 2                   
+14                            , 0.05          , 1                   
+157                           , 0.05          , 1                   
+17                            , 0.05          , 1                   
+19                            , 0.05          , 1                   
+2006                          , 0.05          , 1                   
+28                            , 0.1           , 2                   
+35                            , 0.05          , 1                   
+353                           , 0.05          , 1                   
+47                            , 0.05          , 1                   
+76                            , 0.05          , 1                   
+abonar                        , 0.1           , 2                   
+acerca                        , 0.05          , 1                   
+acompañarse                   , 0.05          , 1                   
+agenda                        , 0.05          , 1                   
+agujas                        , 0.05          , 1                   
+aplicar                       , 0.1           , 2                   
+arce                          , 0.05          , 1                   
+arrancar                      , 0.05          , 1                   
+arte                          , 0.05          , 1                   
+asegurar                      , 0.05          , 1                   
+asociaciones                  , 0.05          , 1                   
+associación                   , 0.05          , 1                   
+atencion                      , 0.05          , 1                   
+autor                         , 0.05          , 1                   
+autorización                  , 0.05          , 1                   
+ayudaaa                       , 0.05          , 1                   
+barcelona                     , 0.05          , 1                   
+bonsai                        , 1.0           , 20                  
+bonsais                       , 0.15          , 3                   
+bonsái                        , 0.2           , 4                   
+botanico                      , 0.05          , 1                   
+botánico                      , 0.05          , 1                   
+bueno                         , 0.05          , 1                   
+buscar                        , 0.05          , 1                   
+buti                          , 0.05          , 1                   
+caen                          , 0.05          , 1                   
+care                          , 0.05          , 1                   
+cargo                         , 0.05          , 1                   
+cascada                       , 0.05          , 1                   
+catalana                      , 0.05          , 1                   
+chat                          , 0.1           , 2                   
+chimitox                      , 0.05          , 1                   
+clave                         , 0.05          , 1                   
+concreta                      , 0.05          , 1                   
+contacta                      , 0.05          , 1                   
+contraseña                    , 0.1           , 2                   
+costa                         , 0.05          , 1                   
+cuidado                       , 0.05          , 1                   
+cuidados                      , 0.1           , 2                   
+cultivo                       , 0.1           , 2                   
+curiosaraices                 , 0.05          , 1                   
+damics                        , 0.05          , 1                   
+debiles                       , 0.05          , 1                   
+decimos                       , 0.05          , 1                   
+dedicada                      , 0.05          , 1                   
+demostración                  , 0.05          , 1                   
+domingo                       , 0.05          , 1                   
+emergencia                    , 0.05          , 1                   
+english                       , 0.05          , 1                   
+enlaces                       , 0.1           , 2                   
+entrada                       , 0.05          , 1                   
+especies                      , 0.15          , 3                   
+estilo                        , 0.05          , 1                   
+estratificacion               , 0.05          , 1                   
+està                          , 0.05          , 1                   
+eventos                       , 0.15          , 3                   
+evolución                     , 0.05          , 1                   
+expo                          , 0.05          , 1                   
+exposiciones                  , 0.05          , 1                   
+exposición                    , 0.1           , 2                   
+familia                       , 0.05          , 1                   
+fecha                         , 0.1           , 2                   
+fernández                     , 0.05          , 1                   
+fichas                        , 0.05          , 1                   
+ficus                         , 0.1           , 2                   
+formar                        , 0.05          , 1                   
+foro                          , 0.2           , 4                   
+foros                         , 0.05          , 1                   
+foto                          , 0.05          , 1                   
+fotografías                   , 0.05          , 1                   
+fotos                         , 0.1           , 2                   
+frecuentes                    , 0.05          , 1                   
+fukinagasi                    , 0.05          , 1                   
+fungicidas                    , 0.1           , 2                   
+galadriel                     , 0.05          , 1                   
+galería                       , 0.05          , 1                   
+galerías                      , 0.05          , 1                   
+glosario                      , 0.1           , 2                   
+gratis                        , 0.05          , 1                   
+has                           , 0.05          , 1                   
+hemisferio                    , 0.1           , 2                   
+hojas                         , 0.05          , 1                   
+horario                       , 0.05          , 1                   
+hugo                          , 0.05          , 1                   
+ii                            , 0.05          , 1                   
+imágenes                      , 0.1           , 2                   
+información                   , 0.05          , 1                   
+iniciacion                    , 0.05          , 1                   
+insecticidas                  , 0.1           , 2                   
+inusuales                     , 0.05          , 1                   
+jardín                        , 0.05          , 1                   
+john                          , 0.05          , 1                   
+jordi                         , 0.05          , 1                   
+juníperus                     , 0.05          , 1                   
+le                            , 0.05          , 1                   
+libre                         , 0.05          , 1                   
+ligustrum                     , 0.05          , 1                   
+manera                        , 0.05          , 1                   
+marrojales                    , 0.05          , 1                   
+mas                           , 0.05          , 1                   
+mayo                          , 0.1           , 2                   
+memorial                      , 0.05          , 1                   
+mensajes                      , 0.05          , 1                   
+mery                          , 0.05          , 1                   
+mes                           , 0.05          , 1                   
+metaportal                    , 0.05          , 1                   
+miembro                       , 0.05          , 1                   
+miembros                      , 0.05          , 1                   
+moho                          , 0.05          , 1                   
+mongui                        , 0.05          , 1                   
+morales                       , 0.05          , 1                   
+murcia                        , 0.1           , 2                   
+naka                          , 0.05          , 1                   
+normalmente                   , 0.05          , 1                   
+norte                         , 0.05          , 1                   
+nosotros                      , 0.1           , 2                   
+ocasión                       , 0.05          , 1                   
+off                           , 0.05          , 1                   
+ofrecerán                     , 0.05          , 1                   
+olearium                      , 0.05          , 1                   
+olivera                       , 0.05          , 1                   
+olmo                          , 0.05          , 1                   
+olvidado                      , 0.05          , 1                   
+online                        , 0.05          , 1                   
+ortflok                       , 0.05          , 1                   
+otoño                         , 0.05          , 1                   
+pagoher                       , 0.05          , 1                   
+palabras                      , 0.05          , 1                   
+palmatum                      , 0.05          , 1                   
+pasa                          , 0.05          , 1                   
+pascu                         , 0.05          , 1                   
+pedro                         , 0.1           , 2                   
+pie                           , 0.05          , 1                   
+pino                          , 0.1           , 2                   
+pinos                         , 0.05          , 1                   
+pinzar                        , 0.05          , 1                   
+portal                        , 0.2           , 4                   
+prebonsai                     , 0.05          , 1                   
+preguntas                     , 0.05          , 1                   
+preventiva                    , 0.05          , 1                   
+previa                        , 0.05          , 1                   
+principal                     , 0.05          , 1                   
+problemas                     , 0.05          , 1                   
+procumbens                    , 0.05          , 1                   
+prohibida                     , 0.05          , 1                   
+publicado                     , 0.05          , 1                   
+publicidad                    , 0.1           , 2                   
+pulsa                         , 0.05          , 1                   
+página                        , 0.1           , 2                   
+raices                        , 0.05          , 1                   
+recuperación                  , 0.05          , 1                   
+regístrate                    , 0.05          , 1                   
+relacionados                  , 0.05          , 1                   
+reportajes                    , 0.05          , 1                   
+reproducción                  , 0.05          , 1                   
+resto                         , 0.05          , 1                   
+retusa                        , 0.05          , 1                   
+rica                          , 0.05          , 1                   
+rime                          , 0.05          , 1                   
+roble                         , 0.05          , 1                   
+rueda                         , 0.05          , 1                   
+sacado                        , 0.05          , 1                   
+sebastian                     , 0.05          , 1                   
+semillas                      , 0.1           , 2                   
+sergio                        , 0.15          , 3                   
+sesiones                      , 0.05          , 1                   
+slitzweitz                    , 0.05          , 1                   
+sp                            , 0.05          , 1                   
+spidigonzalez                 , 0.05          , 1                   
+suelen                        , 0.05          , 1                   
+sur                           , 0.05          , 1                   
+tarot                         , 0.05          , 1                   
+temas                         , 0.05          , 1                   
+tercera                       , 0.05          , 1                   
+toca                          , 0.05          , 1                   
+topic                         , 0.05          , 1                   
+usuario                       , 0.05          , 1                   
+usuarios                      , 0.05          , 1                   
+ver                           , 0.1           , 2                   
+victor                        , 0.05          , 1                   
+viejas                        , 0.05          , 1                   
+virtual                       , 0.1           , 2                   
+web                           , 0.05          , 1                   
+webmasterportalbonsaicom      , 0.05          , 1                   
+wyatt                         , 0.05          , 1                   
+zelkova                       , 0.05          , 1                   
+últimos                       , 0.05          , 1                   

@@ -1,0 +1,64 @@
+   Alan Turing.   "El inglés Alan Turing (1912-1954) puede ser considerado el
+  padre de la Inteligencia Artificial (IA), aunque este nombre no se usase
+  hasta después de 1956. Turing estudió lógica matemática
+  en la Universidad de Cambridge y en 1937 estuvo en el Institute for Advanced
+  Studies de Princeton, donde estaban Gödel y Von Newman, entre otros
+  destacados lógicos y matemáticos, además de Albert
+  Einstein Durante la segunda guerra mundial trabajó para su país
+  en los servicios de información; en 1949 en la Universidad de Manchester
+  y en el programa MADAM (Manchester Authomatic Digital Machine) que resultó
+  ser el equipo de computación de mayor memoria construido hasta entonces.
+  Condenado a causa de su homosexualidad a un tratamiento, o tortura, médico-farmacéutica
+  equivalente a la castración, Turing se suicidó por envenenamiento
+  en 1954." (Enric Trillas50-51) "Durante los años de la segunda guerra mundial, Turing colaboró
+  en el diseño de una máquina llamada la ‘Bomba’
+  que exploraba las combinaciones posibles generadas por la máquina
+  codificadora alemana ‘Enigma’. Tal ‘Bomba’ fue una
+  máquina de propósito especial, el de descifrar códigos,
+  construida electromecánicamente con relés. Asimismo, trabajó
+  en el desarrollo de la ‘Colossus’ (que algunos consideran como
+  el primer ordenador electrónico) que ya funcionaba con válvulas
+  (tubos de vacío) en lugar de relés; gracias a ella los británicos
+  pudieron mantener alejados de los submarinos alemanes a los barcos de suministro
+  que cruzaban el Atlántico… Turing no recibió en vida
+  reconocimiento alguno de la sociedad a la que tanto ayudó en los
+  momentos más difíciles." (Enric Trillas51)  "Más sorprendente todavía es que Turing demostró
+  que para cualquier sistema de sus máquinas que sea necesario para
+  efectuar algoritmos cada vez más complicados existe una máquina
+  de Turing capaz de hacerlo todo ella sola. Tal máquina hipotética
+  recibe el nombre de ‘máquina de Turing universal’, y su
+  existencia teórica pone de manifiesto que el concepto de máquina
+  de Turing es de una versatilidad sin fin, al permitir que cualquier incremento
+  de la complejidad del algoritmo pueda ser aceptado por una lista más
+  larga de especificaciones… Los ordenadores actuales son realizaciones
+  de las ideas de John von Newmann y de Alan Turing." (Enric Trillas53)  Turing "en 1950 propuso una prueba que se conoce como el ‘test
+  de Turing’, el cual se basa en la idea siguiente: si una persona se
+  comunica sólo a través de un terminal con otras dos partes,
+  que están escondidas,, y no se puede discriminar a través
+  de preguntas cuál de ambas partes es una persona y cuál es
+  un ordenador, entonces no se puede negar que la máquina muestra
+  la cualidad que, en las personas, se llama ‘inteligencia’. Tal
+  procedimiento tiene la ventaja de no tener que definir lo que es la inteligencia.
+  Turing creía firmemente que máquinas que piensen llegarían
+  a existir y predijo que hacia el año 2000 una máquina jugaría
+  al ‘juego de imitación’, como él llamó al
+  test, de manera que un interrogador medio no tendría más
+  del 70 por 100 de posibilidades de efectuar la identificación correcta
+  tras cinco minutos de preguntas." (Enric Trillas55)  En el desarrollo de la computadora, la teoría antecedió a
+  la práctica. El manifiesto del nuevo orden electrónico de
+  cosas fue un trabajo ("On Computable Numbers" -Sobre números
+  calculables-) publicado en 1936, por el matemático y lógico
+  A.M.Turing, el cual determinó la naturaleza y las limitaciones teóricas
+  de las máquinas lógicas antes de que se construyera siquiera
+  una sencilla computadora por completo programable.(Bolter17) Turing... en 1950 publicó "Computing Machinery and Intelligence"...
+  expresó su convicción de que las computadoras eran capaces
+  de imitar perfectamente la inteligencia humana y que tal hazaña
+  la realizarían hacia el año 2000. Al prometer (o al amenazar) sustituir al hombre, la computadora nos ofrece
+  una nueva definición de hombre, como "procesador de información",
+  y de naturaleza, como "información que debe ser procesada".(Bolter18)  "En 1936 Turing concibió su propio autómata imaginario.
+  La máquina de Turing, como se le llegó a conocer, no hizo
+  intento alguno para unirse a la sociedad de las criaturas vivas. Podría
+  visualizarse más como un tocacintas muy sofisticado con una cinta
+  arbitrariamente infinita. "Siendo una Máquina de Estados Finitos,
+  se podría concebir como un autómata finito".(Lévy
+  22-23)     

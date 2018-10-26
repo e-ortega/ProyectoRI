@@ -1,811 +1,794 @@
-compartir,0.1,4
-wsl,0.05,2
-motorpasión,0.35,14
-menú,0.025,1
-nuevo,0.075,3
-buscar,0.025,1
-publicidad,0.175,7
-tecnología,0.25,10
-wifi,0.175,7
-panel,0.15,6
-tesla,0.125,5
-consola,0.125,5
-retro,0.125,5
-dinero,0.075,3
-17,0.125,5
-proyectos,0.275,11
-raspberry,0.8,32
-pi,0.875,35
-coche,0.8,32
-suscríbete,0.025,1
-motorpasion,0.1,4
-recibe,0.05,2
-email,0.15,6
-día,0.075,3
-artículos,0.075,3
-suscribir,0.05,2
-síguenos,0.075,3
-twitter,0.15,6
-facebook,0.15,6
-youtube,0.075,3
-instagram,0.075,3
-rss,0.075,3
-flipboard,0.05,2
-comentarios,0.075,3
-javier,0.025,1
-penalva,0.025,1
-maker,0.05,2
-apasionado,0.025,1
-habla,0.025,1
-suele,0.05,2
-asociar,0.025,1
-ordenador,0.05,2
-barato,0.025,1
-centro,0.05,2
-multimedia,0.1,4
-dispositivo,0.025,1
-ideal,0.05,2
-emular,0.025,1
-consolas,0.025,1
-casa,0.05,2
-ecosistemas,0.025,1
-sitio,0.05,2
-gracias,0.05,2
-consumo,0.025,1
-tamaño,0.025,1
-precio,0.05,2
-espíritu,0.05,2
-open,0.025,1
-software,0.175,7
-animas,0.025,1
-incluir,0.05,2
-equipamiento,0.025,1
-toma,0.025,1
-nota,0.025,1
-mantendrán,0.025,1
-entretenido,0.025,1
-ventajas,0.05,2
-poner,0.075,3
-consejos,0.075,3
-cuenta,0.075,3
-años,0.05,2
-servía,0.025,1
-disponer,0.05,2
-elementos,0.075,3
-control,0.1,4
-coches,0.45,18
-contaban,0.025,1
-opciones,0.075,3
-actualmente,0.025,1
-rpi,0.175,7
-personales,0.025,1
-responde,0.025,1
-motivos,0.025,1
-principal,0.025,1
-une,0.025,1
-múltiples,0.025,1
-posibilidades,0.05,2
-miniordenador,0.05,2
-actualizar,0.025,1
-aspectos,0.05,2
-principalmente,0.025,1
-información,0.15,6
-manera,0.05,2
-autónoma,0.025,1
-curiosidad,0.025,1
-aprendizaje,0.05,2
-propios,0.025,1
-hardware,0.1,4
-diy,0.025,1
-directamente,0.15,6
-lado,0.025,1
-despreciable,0.025,1
-argumento,0.025,1
-ahorro,0.025,1
-apenas,0.025,1
-34,0.025,1
-euros,0.075,3
-ahora,0.025,1
-diferentes,0.125,5
-componentes,0.075,3
-pantallas,0.025,1
-sensores,0.075,3
-asequible,0.075,3
-comparado,0.025,1
-soluciones,0.05,2
-comerciales,0.075,3
-olvidar,0.025,1
-salirnos,0.025,1
-flote,0.025,1
-da,0.05,2
-grados,0.025,1
-libertad,0.025,1
-hay,0.15,6
-serie,0.075,3
-recomendaciones,0.025,1
-deberíamos,0.025,1
-dependiendo,0.025,1
-proyecto,0.25,10
-concreto,0.025,1
-consejo,0.025,1
-importante,0.05,2
-ver,0.15,6
-protección,0.025,1
-debemos,0.025,1
-integrar,0.05,2
-carcasa,0.025,1
-adecuada,0.025,1
-calidad,0.025,1
-además,0.1,4
-medida,0.025,1
-posible,0.15,6
-debería,0.05,2
-protegida,0.025,1
-vista,0.025,1
-directa,0.025,1
-zonas,0.025,1
-sol,0.025,1
-le,0.05,2
-impacte,0.025,1
-escojas,0.025,1
-buen,0.025,1
-acceso,0.05,2
-fuente,0.025,1
-alimentación,0.05,2
-fija,0.025,1
-25,0.05,2
-ofrece,0.025,1
-mayoría,0.025,1
-fuentes,0.025,1
-recomendadas,0.025,1
-conectados,0.025,1
-puertos,0.025,1
-mejores,0.1,4
-abierto,0.025,1
-límite,0.05,2
-conocimiento,0.025,1
-imaginación,0.05,2
-puedes,0.05,2
-comenzar,0.025,1
-ratos,0.025,1
-libres,0.025,1
-requieren,0.025,1
-inversión,0.05,2
-punto,0.05,2
-contar,0.025,1
-conectividad,0.05,2
-añadido,0.025,1
-interesante,0.075,3
-hoy,0.025,1
-tarifa,0.025,1
-datos,0.025,1
-solvente,0.025,1
-tienes,0.075,3
-incluya,0.025,1
-conexión,0.025,1
-internet,0.05,2
-posibilidad,0.025,1
-añadirle,0.025,1
-sim,0.025,1
-quieres,0.05,2
-recurrir,0.025,1
-smartphone,0.1,4
-hotspot,0.05,2
-embargo,0.025,1
-require,0.025,1
-escribir,0.025,1
-código,0.075,3
-asegurarnos,0.025,1
-módem,0.05,2
-tengamos,0.05,2
-compatible,0.05,2
-logras,0.025,1
-marcha,0.025,1
-habrás,0.025,1
-subido,0.025,1
-nivel,0.15,6
-jedi,0.025,1
-esquema,0.025,1
-pretendemos,0.025,1
-mejor,0.1,4
-montaje,0.05,2
-programación,0.075,3
-servirá,0.025,1
-llevarnos,0.025,1
-queramos,0.05,2
-extra,0.175,7
-dashcam,0.075,3
-grabación,0.025,1
-clásico,0.05,2
-permite,0.1,4
-ayuda,0.05,2
-soporte,0.025,1
-gps,0.1,4
-adaptado,0.025,1
-colocar,0.025,1
-coste,0.05,2
-personalizar,0.05,2
-funcionamiento,0.025,1
-asociados,0.025,1
-funcionalidad,0.075,3
-cámara,0.1,4
-básica,0.025,1
-conectada,0.025,1
-graba,0.025,1
-vídeo,0.125,5
-iniciamos,0.025,1
-viaje,0.025,1
-podamos,0.05,2
-capaces,0.025,1
-programar,0.025,1
-conocimientos,0.05,2
-llegar,0.025,1
-sistema,0.6,24
-calcule,0.025,1
-distancia,0.025,1
-delante,0.025,1
-salimos,0.025,1
-carril,0.025,1
-avise,0.025,1
-trasera,0.1,4
-evitar,0.025,1
-golpes,0.025,1
-aparcar,0.05,2
-recurriendo,0.025,1
-visión,0.05,2
-nocturna,0.025,1
-cuesta,0.025,1
-pequeña,0.025,1
-gusto,0.025,1
-necesidades,0.025,1
-seguridad,0.05,2
-está,0.025,1
-alcance,0.025,1
-nuestras,0.025,1
-manos,0.025,1
-sea,0.05,2
-doble,0.025,1
-delantera,0.025,1
-queremos,0.1,4
-tantas,0.025,1
-cámaras,0.1,4
-contactar,0.025,1
-streaming,0.075,3
-móvil,0.125,5
-presupuesto,0.05,2
-facilidad,0.025,1
-imágenes,0.025,1
-acaben,0.025,1
-pantalla,0.225,9
-salpicadero,0.075,3
-alternativa,0.025,1
-realizar,0.025,1
-seguramente,0.025,1
-buscado,0.025,1
-79,0.025,1
-pulgadas,0.025,1
-kodi,0.025,1
-distribución,0.05,2
-especializada,0.025,1
-barata,0.025,1
-música,0.15,6
-vídeos,0.05,2
-táctil,0.075,3
-dificultad,0.025,1
-acorde,0.025,1
-busquemos,0.025,1
-controlar,0.075,3
-entretenimiento,0.025,1
-botones,0.025,1
-volante,0.025,1
-algún,0.05,2
-shield,0.05,2
-carberry,0.075,3
-spotify,0.05,2
-sistemas,0.05,2
-streamed,0.025,1
-excelente,0.025,1
-personalizable,0.025,1
-conectamos,0.025,1
-pimusicbox,0.025,1
-sonido,0.075,3
-tipo,0.025,1
-sonos,0.025,1
-igual,0.025,1
-acabar,0.025,1
-montando,0.025,1
-pocas,0.025,1
-modificaciones,0.025,1
-almacenada,0.025,1
-tarjeta,0.05,2
-memoria,0.025,1
-microsd,0.05,2
-almacenamiento,0.025,1
-servicios,0.025,1
-google,0.025,1
-music,0.025,1
-propio,0.025,1
-bordo,0.025,1
-aprovechar,0.025,1
-puerto,0.05,2
-obd,0.05,2
-basta,0.025,1
-adaptador,0.025,1
-bluetooth,0.05,2
-dicho,0.025,1
-conectar,0.025,1
-instalada,0.025,1
-caso,0.025,1
-estaremos,0.025,1
-mostrando,0.025,1
-real,0.025,1
-velocidad,0.05,2
-carburante,0.025,1
-restante,0.025,1
-revoluciones,0.025,1
-minuto,0.025,1
-exigencia,0.025,1
-alto,0.025,1
-abordo,0.025,1
-diseñado,0.025,1
-interfaz,0.075,3
-autopi,0.025,1
-raspberri,0.025,1
-zero,0.025,1
-model,0.025,1
-completos,0.025,1
-generosas,0.025,1
-dimensiones,0.025,1
-decidamos,0.025,1
-sentirnos,0.025,1
-mandos,0.025,1
-cambiar,0.025,1
-funcionalidades,0.025,1
-emuladora,0.025,1
-conocido,0.025,1
-retropie,0.025,1
-ejemplo,0.025,1
-realizarse,0.025,1
-integrada,0.025,1
-acompañantes,0.025,1
-plazas,0.025,1
-traseras,0.025,1
-seguro,0.125,5
-agradecen,0.025,1
-todavía,0.025,1
-mas,0.025,1
-10,0.025,1
-temperatura,0.05,2
-hora,0.025,1
-pone,0.025,1
-derivado,0.05,2
-termómetro,0.025,1
-obtener,0.025,1
-momento,0.025,1
-forma,0.05,2
-precisa,0.025,1
-interior,0.025,1
-11,0.025,1
-iluminación,0.025,1
-personalizado,0.025,1
-diferente,0.025,1
-alguna,0.05,2
-personalizarlo,0.025,1
-aprender,0.025,1
-proponen,0.025,1
-dordnung,0.025,1
-enseña,0.025,1
-cómo,0.025,1
-tira,0.025,1
-leds,0.05,2
-visuales,0.025,1
-individuales,0.025,1
-conjuntos,0.025,1
-dispositivos,0.025,1
-cuestión,0.025,1
-mejorar,0.025,1
-comprar,0.075,3
-12,0.025,1
-android,0.2,8
-auto,0.05,2
-teléfono,0.025,1
-fan,0.025,1
-servirte,0.025,1
-base,0.05,2
-simular,0.025,1
-llama,0.075,3
-openauto,0.025,1
-funciona,0.025,1
-fluida,0.025,1
-mapas,0.025,1
-reproducción,0.025,1
-problema,0.025,1
-alguno,0.05,2
-arranque,0.025,1
-13,0.025,1
-digital,0.075,3
-antiguo,0.025,1
-significar,0.025,1
-renunciar,0.025,1
-atractivo,0.025,1
-proponérselo,0.025,1
-usuario,0.025,1
-colocado,0.025,1
-plenamente,0.025,1
-funcional,0.025,1
-viejo,0.025,1
-nissan,0.05,2
-s14,0.025,1
-necesitó,0.025,1
-derivar,0.025,1
-14,0.025,1
-generador,0.05,2
-emoticonos,0.05,2
-arduino,0.025,1
-actividad,0.025,1
-común,0.025,1
-matriz,0.025,1
-extrapolado,0.025,1
-ámbito,0.025,1
-crear,0.025,1
-material,0.025,1
-15,0.025,1
-tratar,0.025,1
-animarte,0.025,1
-han,0.025,1
-sentido,0.025,1
-abrumado,0.025,1
-preocupes,0.025,1
-plataformas,0.025,1
-configuraciones,0.05,2
-basadas,0.025,1
-total,0.025,1
-parcialmente,0.025,1
-vienen,0.025,1
-listas,0.025,1
-suficientes,0.025,1
-son,0.025,1
-premontadas,0.025,1
-completas,0.075,3
-escudo,0.025,1
-complejos,0.025,1
-añadiendo,0.025,1
-elemento,0.025,1
-configurar,0.025,1
-caja,0.025,1
-negra,0.025,1
-presión,0.05,2
-neumáticos,0.05,2
-alarma,0.025,1
-personalizada,0.025,1
-seguimiento,0.025,1
-flota,0.025,1
-vehículos,0.05,2
-16,0.025,1
-nomadic,0.05,2
-guías,0.025,1
-ayudan,0.025,1
-montar,0.05,2
-compuesto,0.025,1
-local,0.025,1
-localización,0.025,1
-gratuito,0.025,1
-licencia,0.025,1
-gpl3,0.025,1
-descargar,0.025,1
-usarlo,0.025,1
-has,0.025,1
-montado,0.05,2
-previamente,0.025,1
-ahorras,0.025,1
-trabajo,0.025,1
-icarus,0.05,2
-completamente,0.025,1
-incluyendo,0.025,1
-puedas,0.025,1
-imaginar,0.025,1
-aparcamiento,0.025,1
-hd,0.025,1
-quieras,0.025,1
-salirte,0.025,1
-partir,0.025,1
-199,0.025,1
-temas,0.075,3
-bricopasión,0.025,1
-inicio,0.05,2
-fórmula1,0.05,2
-híbridos,0.075,3
-alternativos,0.05,2
-compactos,0.05,2
-suv,0.05,2
-pruebas,0.05,2
-rumores,0.05,2
-precios,0.05,2
-eléctricos,0.1,4
-comparativa,0.05,2
-autónomos,0.175,7
-ciudad,0.05,2
-cerrada,0.05,2
-respuestas,0.025,1
-tv,0.05,2
-equipo,0.025,1
-editorial,0.025,1
-contacta,0.025,1
-nosotros,0.025,1
-sitios,0.025,1
-gustarán,0.025,1
-xataka,1.0,40
-applesfera,0.125,5
-genbeta,0.125,5
-vidaextra,0.025,1
-explora,0.025,1
-weblogs,0.05,2
-sl,0.05,2
-móviles,0.025,1
-tablets,0.025,1
-aplicaciones,0.025,1
-videojuegos,0.025,1
-fotografía,0.025,1
-domótica,0.025,1
-foto,0.1,4
-smart,0.1,4
-home,0.1,4
-windows,0.1,4
-ciencia,0.1,4
-vida,0.175,7
-magnet,0.1,4
-compradiccion,0.1,4
-esports,0.15,6
-estilo,0.1,4
-moda,0.025,1
-belleza,0.125,5
-salud,0.025,1
-fitness,0.025,1
-familia,0.025,1
-gastronomía,0.025,1
-decoración,0.025,1
-famosos,0.025,1
-trendencias,0.3,12
-hombre,0.1,4
-directo,0.175,7
-paladar,0.175,7
-bebés,0.1,4
-vitónica,0.1,4
-decoesfera,0.1,4
-motor,0.1,4
-competición,0.025,1
-motos,0.025,1
-moto,0.1,4
-ocio,0.075,3
-televisión,0.025,1
-series,0.025,1
-cine,0.025,1
-estrenos,0.025,1
-viajes,0.025,1
-literatura,0.025,1
-espinof,0.1,4
-diario,0.1,4
-viajero,0.1,4
-watmag,0.1,4
-economía,0.075,3
-finanzas,0.025,1
-mundo,0.075,3
-empresa,0.025,1
-fiscalidad,0.025,1
-administración,0.025,1
-recursos,0.025,1
-humanos,0.025,1
-blog,0.2,8
-salmón,0.1,4
-pymes,0.1,4
-latinoamérica,0.075,3
-publicaciones,0.05,2
-méxico,0.275,11
-medios,0.025,1
-clientes,0.025,1
-marcas,0.025,1
-partners,0.025,1
-circula,0.1,4
-pt,0.05,2
-nobbot,0.05,2
-happing,0.025,1
-magazine,0.025,1
-sage,0.05,2
-experience,0.05,2
-optimismo,0.025,1
-naranja,0.05,2
-philips,0.05,2
-lenovo,0.05,2
-saludable,0.025,1
-sanitas,0.025,1
-zona,0.05,2
-cocacola,0.125,5
-seguros,0.05,2
-corriente,0.05,2
-eléctrica,0.075,3
-unlocked,0.05,2
-by,0.15,6
-orange,0.15,6
-cervezas,0.05,2
-alhambra,0.05,2
-mahou,0.05,2
-rentabilibar,0.05,2
-inget,0.05,2
-acer,0.05,2
-aviso,0.025,1
-legal,0.025,1
-condiciones,0.05,2
-cookies,0.05,2
-reciente,0.025,1
-honda,0.025,1
-adelanta,0.025,1
-primeros,0.025,1
-detalles,0.025,1
-crv,0.025,1
-hybrid,0.025,1
-debut,0.025,1
-parís,0.025,1
-184,0.025,1
-cv,0.1,4
-120,0.025,1
-gkm,0.025,1
-co₂,0.025,1
-comisión,0.05,2
-bolsa,0.025,1
-valores,0.025,1
-estados,0.025,1
-unidos,0.025,1
-acusa,0.025,1
-fraude,0.025,1
-elon,0.025,1
-musk,0.025,1
-škoda,0.025,1
-vision,0.025,1
-rs,0.025,1
-será,0.025,1
-híbrido,0.025,1
-enchufable,0.025,1
-245,0.025,1
-70,0.025,1
-kilómetros,0.025,1
-autonomía,0.05,2
-nashhealey,0.025,1
-mans,0.025,1
-coupé,0.025,1
-1953,0.025,1
-sale,0.025,1
-subasta,0.025,1
-especial,0.025,1
-triple,0.025,1
-nacionalidad,0.025,1
-europea,0.025,1
-alerta,0.025,1
-obligar,0.025,1
-reducir,0.025,1
-emisiones,0.025,1
-30,0.025,1
-destruirá,0.025,1
-miles,0.025,1
-empleos,0.025,1
-porsche,0.025,1
-cayenne,0.025,1
-turbo,0.025,1
-techart,0.025,1
-llega,0.025,1
-640,0.025,1
-propone,0.025,1
-tapicería,0.025,1
-lana,0.025,1
-natural,0.025,1
-roshel,0.025,1
-senator,0.025,1
-arv,0.025,1
-bestial,0.025,1
-vehículo,0.025,1
-blindado,0.025,1
-pensado,0.025,1
-operaciones,0.025,1
-swat,0.025,1
-rescate,0.025,1
-q1,0.025,1
-q2,0.025,1
-q3,0.025,1
-nueva,0.025,1
-q4,0.025,1
-clasificación,0.025,1
-fórmula,0.025,1
-2019,0.025,1
-daimler,0.025,1
-releva,0.025,1
-dieter,0.025,1
-zetsche,0.025,1
-presidente,0.025,1
-hizo,0.025,1
-pasara,0.025,1
-mercedes,0.025,1
-reenfocar,0.025,1
-negocio,0.025,1
-movilidad,0.025,1
-llegan,0.025,1
-automóvil,0.025,1
-general,0.025,1
-motors,0.025,1
-sabrá,0.025,1
-escuchan,0.025,1
-conductores,0.025,1
-radio,0.025,1
-volvo,0.025,1
-v60,0.025,1
-cross,0.025,1
-country,0.025,1
-mantiene,0.025,1
-viva,0.025,1
-tradición,0.025,1
-todocamino,0.025,1
-motores,0.025,1
-190,0.025,1
-250,0.025,1
-venían,0.025,1
-cinturón,0.025,1
-tenían,0.025,1
-gasolinera,0.025,1
-aston,0.025,1
-martin,0.025,1
-v6,0.025,1
-v12,0.025,1
-futuro,0.025,1
-project,0.025,1
-003,0.025,1
-confirmado,0.025,1
-volkswagen,0.025,1
-id,0.025,1
-tendrá,0.025,1
-mínima,0.025,1
-330,0.025,1
-km,0.025,1
-posiblemente,0.025,1
-batería,0.025,1
-48,0.025,1
-kwh,0.025,1
-guerra,0.025,1
-estándares,0.025,1
-cargadores,0.025,1
-última,0.025,1
-bestia,0.025,1
-hennessey,0.025,1
-performance,0.025,1
-goliath,0.025,1
-66,0.025,1
-chevrolet,0.025,1
-silverado,0.025,1
-tres,0.025,1
-ejes,0.025,1
-maserati,0.025,1
-ghibli,0.025,1
-ribelle,0.025,1
-diseño,0.025,1
-exclusivo,0.025,1
-edición,0.025,1
-limitada,0.025,1
-200,0.025,1
-unidades,0.025,1
-qashqai,0.025,1
-vs,0.05,2
-kia,0.025,1
-sportage,0.025,1
-cuál,0.05,2
-seat,0.025,1
-ibiza,0.025,1
-opel,0.025,1
-corsa,0.025,1
-2018,0.025,1
-bmw,0.025,1
-mostramos,0.025,1
-persona,0.025,1
-fuera,0.025,1
-hablamos,0.025,1
-subir,0.025,1
-participamos,0.025,1
-journey,0.075,3
-españa,0.025,1
-portugal,0.025,1
+10                            , 0.02702702702702703  , 1                   
+11                            , 0.02702702702702703  , 1                   
+12                            , 0.02702702702702703  , 1                   
+13                            , 0.02702702702702703  , 1                   
+14                            , 0.02702702702702703  , 1                   
+15                            , 0.02702702702702703  , 1                   
+16                            , 0.02702702702702703  , 1                   
+17                            , 0.13513513513513514  , 5                   
+199                           , 0.02702702702702703  , 1                   
+2009                          , 0.02702702702702703  , 1                   
+2018                          , 0.02702702702702703  , 1                   
+2019                          , 0.05405405405405406  , 2                   
+25                            , 0.05405405405405406  , 2                   
+30                            , 0.02702702702702703  , 1                   
+34                            , 0.02702702702702703  , 1                   
+3500                          , 0.02702702702702703  , 1                   
+79                            , 0.02702702702702703  , 1                   
+abierto                       , 0.02702702702702703  , 1                   
+abordo                        , 0.02702702702702703  , 1                   
+abrumado                      , 0.02702702702702703  , 1                   
+acabar                        , 0.02702702702702703  , 1                   
+acaben                        , 0.02702702702702703  , 1                   
+acceso                        , 0.05405405405405406  , 2                   
+acer                          , 0.05405405405405406  , 2                   
+acompaãantes                  , 0.02702702702702703  , 1                   
+acorde                        , 0.02702702702702703  , 1                   
+actividad                     , 0.02702702702702703  , 1                   
+actualizar                    , 0.02702702702702703  , 1                   
+actualmente                   , 0.02702702702702703  , 1                   
+acuerdo                       , 0.02702702702702703  , 1                   
+adaptado                      , 0.02702702702702703  , 1                   
+adaptador                     , 0.02702702702702703  , 1                   
+adecuada                      , 0.02702702702702703  , 1                   
+ademãs                        , 0.10810810810810811  , 4                   
+administraciã³n               , 0.02702702702702703  , 1                   
+agradecen                     , 0.02702702702702703  , 1                   
+ahora                         , 0.02702702702702703  , 1                   
+ahorras                       , 0.02702702702702703  , 1                   
+ahorro                        , 0.02702702702702703  , 1                   
+alarma                        , 0.02702702702702703  , 1                   
+alcance                       , 0.02702702702702703  , 1                   
+alguna                        , 0.05405405405405406  , 2                   
+alguno                        , 0.05405405405405406  , 2                   
+algãºn                        , 0.05405405405405406  , 2                   
+alhambra                      , 0.05405405405405406  , 2                   
+alimentaciã³n                 , 0.05405405405405406  , 2                   
+allin                         , 0.02702702702702703  , 1                   
+almacenada                    , 0.02702702702702703  , 1                   
+almacenamiento                , 0.02702702702702703  , 1                   
+alternativa                   , 0.02702702702702703  , 1                   
+alternativos                  , 0.05405405405405406  , 2                   
+alto                          , 0.02702702702702703  , 1                   
+android                       , 0.21621621621621623  , 8                   
+animarte                      , 0.02702702702702703  , 1                   
+animas                        , 0.02702702702702703  , 1                   
+antiguo                       , 0.02702702702702703  , 1                   
+aparcamiento                  , 0.02702702702702703  , 1                   
+aparcar                       , 0.05405405405405406  , 2                   
+apasionado                    , 0.02702702702702703  , 1                   
+apenas                        , 0.02702702702702703  , 1                   
+aplicaciones                  , 0.02702702702702703  , 1                   
+applesfera                    , 0.13513513513513514  , 5                   
+aprender                      , 0.02702702702702703  , 1                   
+aprendizaje                   , 0.05405405405405406  , 2                   
+aprovechar                    , 0.02702702702702703  , 1                   
+apuntarã                      , 0.02702702702702703  , 1                   
+aquã                          , 0.02702702702702703  , 1                   
+arduino                       , 0.02702702702702703  , 1                   
+argumento                     , 0.02702702702702703  , 1                   
+arma                          , 0.02702702702702703  , 1                   
+arranque                      , 0.02702702702702703  , 1                   
+artãculos                     , 0.08108108108108109  , 3                   
+asegura                       , 0.02702702702702703  , 1                   
+asegurarnos                   , 0.02702702702702703  , 1                   
+asequible                     , 0.08108108108108109  , 3                   
+asociados                     , 0.02702702702702703  , 1                   
+asociar                       , 0.02702702702702703  , 1                   
+aspectos                      , 0.05405405405405406  , 2                   
+aston                         , 0.02702702702702703  , 1                   
+asã                           , 0.10810810810810811  , 4                   
+atiborrado                    , 0.02702702702702703  , 1                   
+atractivo                     , 0.02702702702702703  , 1                   
+aurus                         , 0.02702702702702703  , 1                   
+auto                          , 0.05405405405405406  , 2                   
+autopi                        , 0.02702702702702703  , 1                   
+autã³noma                     , 0.02702702702702703  , 1                   
+autã³nomos                    , 0.1891891891891892  , 7                   
+aventador                     , 0.02702702702702703  , 1                   
+avise                         , 0.02702702702702703  , 1                   
+aviso                         , 0.02702702702702703  , 1                   
+ayuda                         , 0.05405405405405406  , 2                   
+ayudan                        , 0.02702702702702703  , 1                   
+aãadido                       , 0.02702702702702703  , 1                   
+aãadiendo                     , 0.02702702702702703  , 1                   
+aãadirle                      , 0.02702702702702703  , 1                   
+aãos                          , 0.05405405405405406  , 2                   
+aãºn                          , 0.02702702702702703  , 1                   
+barata                        , 0.02702702702702703  , 1                   
+barato                        , 0.02702702702702703  , 1                   
+basadas                       , 0.02702702702702703  , 1                   
+base                          , 0.05405405405405406  , 2                   
+basta                         , 0.02702702702702703  , 1                   
+baterãas                      , 0.02702702702702703  , 1                   
+baão                          , 0.02702702702702703  , 1                   
+bebãs                         , 0.10810810810810811  , 4                   
+belleza                       , 0.13513513513513514  , 5                   
+blog                          , 0.21621621621621623  , 8                   
+bluemagazine                  , 0.05405405405405406  , 2                   
+bluetooth                     , 0.05405405405405406  , 2                   
+bmw                           , 0.05405405405405406  , 2                   
+bolsa                         , 0.02702702702702703  , 1                   
+bordo                         , 0.02702702702702703  , 1                   
+botones                       , 0.02702702702702703  , 1                   
+brake                         , 0.02702702702702703  , 1                   
+brexit                        , 0.02702702702702703  , 1                   
+bricopasiã³n                  , 0.02702702702702703  , 1                   
+buen                          , 0.02702702702702703  , 1                   
+buscado                       , 0.02702702702702703  , 1                   
+buscar                        , 0.02702702702702703  , 1                   
+busquemos                     , 0.02702702702702703  , 1                   
+by                            , 0.16216216216216217  , 6                   
+bãsica                        , 0.02702702702702703  , 1                   
+cabrio                        , 0.02702702702702703  , 1                   
+caja                          , 0.02702702702702703  , 1                   
+calcule                       , 0.02702702702702703  , 1                   
+calidad                       , 0.02702702702702703  , 1                   
+camas                         , 0.02702702702702703  , 1                   
+cambiar                       , 0.02702702702702703  , 1                   
+cambios                       , 0.02702702702702703  , 1                   
+camuflaje                     , 0.02702702702702703  , 1                   
+capaces                       , 0.02702702702702703  , 1                   
+carberry                      , 0.08108108108108109  , 3                   
+carburante                    , 0.02702702702702703  , 1                   
+carcasa                       , 0.02702702702702703  , 1                   
+carril                        , 0.02702702702702703  , 1                   
+cars                          , 0.02702702702702703  , 1                   
+casa                          , 0.08108108108108109  , 3                   
+caso                          , 0.02702702702702703  , 1                   
+center                        , 0.02702702702702703  , 1                   
+centro                        , 0.05405405405405406  , 2                   
+cerrada                       , 0.05405405405405406  , 2                   
+cervezas                      , 0.05405405405405406  , 2                   
+checo                         , 0.02702702702702703  , 1                   
+ciencia                       , 0.10810810810810811  , 4                   
+cine                          , 0.02702702702702703  , 1                   
+circula                       , 0.10810810810810811  , 4                   
+ciudad                        , 0.05405405405405406  , 2                   
+civil                         , 0.02702702702702703  , 1                   
+clientes                      , 0.02702702702702703  , 1                   
+clãsico                       , 0.05405405405405406  , 2                   
+cocacola                      , 0.13513513513513514  , 5                   
+coche                         , 0.8918918918918919  , 33                  
+coches                        , 0.43243243243243246  , 16                  
+colocado                      , 0.02702702702702703  , 1                   
+colocar                       , 0.02702702702702703  , 1                   
+comentarios                   , 0.08108108108108109  , 3                   
+comenzar                      , 0.02702702702702703  , 1                   
+comerciales                   , 0.08108108108108109  , 3                   
+compacto                      , 0.02702702702702703  , 1                   
+compactos                     , 0.05405405405405406  , 2                   
+comparado                     , 0.02702702702702703  , 1                   
+comparativa                   , 0.08108108108108109  , 3                   
+compartir                     , 0.10810810810810811  , 4                   
+compatible                    , 0.05405405405405406  , 2                   
+competiciã³n                  , 0.02702702702702703  , 1                   
+complejos                     , 0.02702702702702703  , 1                   
+completamente                 , 0.02702702702702703  , 1                   
+completas                     , 0.08108108108108109  , 3                   
+completos                     , 0.02702702702702703  , 1                   
+componentes                   , 0.08108108108108109  , 3                   
+compradiccion                 , 0.10810810810810811  , 4                   
+comprar                       , 0.08108108108108109  , 3                   
+compuesto                     , 0.02702702702702703  , 1                   
+comãºn                        , 0.02702702702702703  , 1                   
+concept                       , 0.02702702702702703  , 1                   
+concreto                      , 0.02702702702702703  , 1                   
+condiciones                   , 0.05405405405405406  , 2                   
+conectada                     , 0.02702702702702703  , 1                   
+conectados                    , 0.02702702702702703  , 1                   
+conectamos                    , 0.02702702702702703  , 1                   
+conectar                      , 0.02702702702702703  , 1                   
+conectividad                  , 0.05405405405405406  , 2                   
+conexiã³n                     , 0.02702702702702703  , 1                   
+confianza                     , 0.02702702702702703  , 1                   
+configuraciones               , 0.05405405405405406  , 2                   
+configurar                    , 0.02702702702702703  , 1                   
+confirma                      , 0.02702702702702703  , 1                   
+conjuntos                     , 0.02702702702702703  , 1                   
+conocido                      , 0.02702702702702703  , 1                   
+conocimiento                  , 0.02702702702702703  , 1                   
+conocimientos                 , 0.05405405405405406  , 2                   
+consejo                       , 0.02702702702702703  , 1                   
+consejos                      , 0.08108108108108109  , 3                   
+consola                       , 0.13513513513513514  , 5                   
+consolas                      , 0.02702702702702703  , 1                   
+consumo                       , 0.02702702702702703  , 1                   
+contaban                      , 0.02702702702702703  , 1                   
+contacta                      , 0.02702702702702703  , 1                   
+contactar                     , 0.02702702702702703  , 1                   
+contar                        , 0.02702702702702703  , 1                   
+control                       , 0.10810810810810811  , 4                   
+controlar                     , 0.05405405405405406  , 2                   
+cookies                       , 0.02702702702702703  , 1                   
+corriente                     , 0.05405405405405406  , 2                   
+corsa                         , 0.02702702702702703  , 1                   
+coste                         , 0.05405405405405406  , 2                   
+crear                         , 0.02702702702702703  , 1                   
+cuenta                        , 0.08108108108108109  , 3                   
+cuesta                        , 0.02702702702702703  , 1                   
+cuestiã³n                     , 0.02702702702702703  , 1                   
+curiosidad                    , 0.02702702702702703  , 1                   
+cãmara                        , 0.10810810810810811  , 4                   
+cãmaras                       , 0.10810810810810811  , 4                   
+cã³digo                       , 0.08108108108108109  , 3                   
+cã³mo                         , 0.02702702702702703  , 1                   
+da                            , 0.08108108108108109  , 3                   
+dakar                         , 0.02702702702702703  , 1                   
+dar                           , 0.02702702702702703  , 1                   
+dashcam                       , 0.08108108108108109  , 3                   
+datos                         , 0.02702702702702703  , 1                   
+debemos                       , 0.02702702702702703  , 1                   
+deberãa                       , 0.05405405405405406  , 2                   
+deberãamos                    , 0.02702702702702703  , 1                   
+decidamos                     , 0.02702702702702703  , 1                   
+decoesfera                    , 0.10810810810810811  , 4                   
+decoraciã³n                   , 0.02702702702702703  , 1                   
+defiende                      , 0.02702702702702703  , 1                   
+deja                          , 0.02702702702702703  , 1                   
+delante                       , 0.02702702702702703  , 1                   
+delantera                     , 0.02702702702702703  , 1                   
+dependiendo                   , 0.02702702702702703  , 1                   
+deportivo                     , 0.05405405405405406  , 2                   
+derivado                      , 0.02702702702702703  , 1                   
+derivar                       , 0.02702702702702703  , 1                   
+desarrollado                  , 0.02702702702702703  , 1                   
+descargar                     , 0.02702702702702703  , 1                   
+despreciable                  , 0.02702702702702703  , 1                   
+dev                           , 0.10810810810810811  , 4                   
+diario                        , 0.10810810810810811  , 4                   
+dicho                         , 0.02702702702702703  , 1                   
+diferente                     , 0.02702702702702703  , 1                   
+diferentes                    , 0.13513513513513514  , 5                   
+dificultad                    , 0.02702702702702703  , 1                   
+digital                       , 0.08108108108108109  , 3                   
+dimensiones                   , 0.02702702702702703  , 1                   
+dinero                        , 0.08108108108108109  , 3                   
+dinãmicos                     , 0.02702702702702703  , 1                   
+directa                       , 0.02702702702702703  , 1                   
+directamente                  , 0.16216216216216217  , 6                   
+directo                       , 0.1891891891891892  , 7                   
+diseãado                      , 0.02702702702702703  , 1                   
+disponer                      , 0.05405405405405406  , 2                   
+dispositivo                   , 0.02702702702702703  , 1                   
+dispositivos                  , 0.02702702702702703  , 1                   
+distancia                     , 0.02702702702702703  , 1                   
+distribuciã³n                 , 0.05405405405405406  , 2                   
+diy                           , 0.02702702702702703  , 1                   
+doble                         , 0.02702702702702703  , 1                   
+domã³tica                     , 0.02702702702702703  , 1                   
+dordnung                      , 0.02702702702702703  , 1                   
+dormir                        , 0.02702702702702703  , 1                   
+duty                          , 0.02702702702702703  , 1                   
+dãa                           , 0.10810810810810811  , 4                   
+economãa                      , 0.08108108108108109  , 3                   
+ecosistemas                   , 0.02702702702702703  , 1                   
+editorial                     , 0.02702702702702703  , 1                   
+ejemplo                       , 0.02702702702702703  , 1                   
+elemento                      , 0.02702702702702703  , 1                   
+elementos                     , 0.08108108108108109  , 3                   
+elãctrica                     , 0.05405405405405406  , 2                   
+elãctrico                     , 0.02702702702702703  , 1                   
+elãctricos                    , 0.08108108108108109  , 3                   
+email                         , 0.16216216216216217  , 6                   
+embargo                       , 0.02702702702702703  , 1                   
+emoticonos                    , 0.05405405405405406  , 2                   
+empresa                       , 0.02702702702702703  , 1                   
+emuladora                     , 0.02702702702702703  , 1                   
+emular                        , 0.02702702702702703  , 1                   
+enseãa                        , 0.02702702702702703  , 1                   
+entrar                        , 0.02702702702702703  , 1                   
+entretenido                   , 0.02702702702702703  , 1                   
+entretenimiento               , 0.02702702702702703  , 1                   
+equipamiento                  , 0.02702702702702703  , 1                   
+equipo                        , 0.02702702702702703  , 1                   
+escojas                       , 0.02702702702702703  , 1                   
+escribir                      , 0.02702702702702703  , 1                   
+escudo                        , 0.02702702702702703  , 1                   
+espaãa                        , 0.02702702702702703  , 1                   
+especializada                 , 0.02702702702702703  , 1                   
+esperando                     , 0.02702702702702703  , 1                   
+espinof                       , 0.10810810810810811  , 4                   
+esports                       , 0.16216216216216217  , 6                   
+espãritu                      , 0.05405405405405406  , 2                   
+esquema                       , 0.02702702702702703  , 1                   
+estaremos                     , 0.02702702702702703  , 1                   
+estilo                        , 0.10810810810810811  , 4                   
+estrenos                      , 0.02702702702702703  , 1                   
+estã                          , 0.02702702702702703  , 1                   
+estãbamos                     , 0.02702702702702703  , 1                   
+estãticos                     , 0.02702702702702703  , 1                   
+euros                         , 0.08108108108108109  , 3                   
+evitar                        , 0.02702702702702703  , 1                   
+excelente                     , 0.02702702702702703  , 1                   
+exigencia                     , 0.02702702702702703  , 1                   
+experience                    , 0.05405405405405406  , 2                   
+explora                       , 0.02702702702702703  , 1                   
+extra                         , 0.1891891891891892  , 7                   
+extrapolado                   , 0.02702702702702703  , 1                   
+facebook                      , 0.16216216216216217  , 6                   
+facilidad                     , 0.02702702702702703  , 1                   
+familia                       , 0.02702702702702703  , 1                   
+famosos                       , 0.02702702702702703  , 1                   
+fan                           , 0.02702702702702703  , 1                   
+fca                           , 0.02702702702702703  , 1                   
+fiat                          , 0.02702702702702703  , 1                   
+fija                          , 0.02702702702702703  , 1                   
+filtraciã³n                   , 0.02702702702702703  , 1                   
+finanzas                      , 0.02702702702702703  , 1                   
+firmado                       , 0.02702702702702703  , 1                   
+fiscalidad                    , 0.02702702702702703  , 1                   
+fitness                       , 0.02702702702702703  , 1                   
+flipboard                     , 0.05405405405405406  , 2                   
+flota                         , 0.02702702702702703  , 1                   
+flote                         , 0.02702702702702703  , 1                   
+fluida                        , 0.02702702702702703  , 1                   
+forma                         , 0.05405405405405406  , 2                   
+foto                          , 0.10810810810810811  , 4                   
+fotografãa                    , 0.02702702702702703  , 1                   
+fuego                         , 0.02702702702702703  , 1                   
+fuente                        , 0.02702702702702703  , 1                   
+fuentes                       , 0.02702702702702703  , 1                   
+fuera                         , 0.02702702702702703  , 1                   
+funciona                      , 0.02702702702702703  , 1                   
+funcional                     , 0.02702702702702703  , 1                   
+funcionalidad                 , 0.08108108108108109  , 3                   
+funcionalidades               , 0.02702702702702703  , 1                   
+funcionamiento                , 0.02702702702702703  , 1                   
+futuro                        , 0.02702702702702703  , 1                   
+fã³rmula                      , 0.02702702702702703  , 1                   
+fã³rmula1                     , 0.05405405405405406  , 2                   
+gastronomãa                   , 0.02702702702702703  , 1                   
+genbeta                       , 0.24324324324324326  , 9                   
+generaciã³n                   , 0.02702702702702703  , 1                   
+generador                     , 0.05405405405405406  , 2                   
+generosas                     , 0.02702702702702703  , 1                   
+golpes                        , 0.02702702702702703  , 1                   
+google                        , 0.02702702702702703  , 1                   
+gpl3                          , 0.02702702702702703  , 1                   
+gps                           , 0.10810810810810811  , 4                   
+graba                         , 0.02702702702702703  , 1                   
+grabaciã³n                    , 0.02702702702702703  , 1                   
+gracias                       , 0.05405405405405406  , 2                   
+grados                        , 0.02702702702702703  , 1                   
+gratuito                      , 0.02702702702702703  , 1                   
+gustarãn                      , 0.02702702702702703  , 1                   
+gusto                         , 0.02702702702702703  , 1                   
+guãas                         , 0.02702702702702703  , 1                   
+habla                         , 0.02702702702702703  , 1                   
+hablamos                      , 0.02702702702702703  , 1                   
+habrãs                        , 0.02702702702702703  , 1                   
+han                           , 0.05405405405405406  , 2                   
+happing                       , 0.02702702702702703  , 1                   
+hardware                      , 0.10810810810810811  , 4                   
+harvard                       , 0.02702702702702703  , 1                   
+harãn                         , 0.02702702702702703  , 1                   
+has                           , 0.02702702702702703  , 1                   
+hay                           , 0.16216216216216217  , 6                   
+hd                            , 0.02702702702702703  , 1                   
+heavy                         , 0.02702702702702703  , 1                   
+hombre                        , 0.10810810810810811  , 4                   
+home                          , 0.10810810810810811  , 4                   
+hora                          , 0.02702702702702703  , 1                   
+hotspot                       , 0.05405405405405406  , 2                   
+hoy                           , 0.02702702702702703  , 1                   
+humanos                       , 0.02702702702702703  , 1                   
+hãbridos                      , 0.08108108108108109  , 3                   
+ibiza                         , 0.02702702702702703  , 1                   
+icarus                        , 0.05405405405405406  , 2                   
+ideal                         , 0.08108108108108109  , 3                   
+igual                         , 0.02702702702702703  , 1                   
+iluminaciã³n                  , 0.02702702702702703  , 1                   
+imaginaciã³n                  , 0.05405405405405406  , 2                   
+imaginar                      , 0.02702702702702703  , 1                   
+impacte                       , 0.02702702702702703  , 1                   
+importante                    , 0.05405405405405406  , 2                   
+imãgenes                      , 0.02702702702702703  , 1                   
+incluir                       , 0.05405405405405406  , 2                   
+incluya                       , 0.02702702702702703  , 1                   
+incluyendo                    , 0.02702702702702703  , 1                   
+individuales                  , 0.02702702702702703  , 1                   
+informaciã³n                  , 0.16216216216216217  , 6                   
+inget                         , 0.05405405405405406  , 2                   
+iniciamos                     , 0.02702702702702703  , 1                   
+inicio                        , 0.05405405405405406  , 2                   
+inminente                     , 0.02702702702702703  , 1                   
+instagram                     , 0.08108108108108109  , 3                   
+instalada                     , 0.02702702702702703  , 1                   
+integrada                     , 0.02702702702702703  , 1                   
+integrar                      , 0.05405405405405406  , 2                   
+interesante                   , 0.08108108108108109  , 3                   
+interfaz                      , 0.08108108108108109  , 3                   
+interior                      , 0.02702702702702703  , 1                   
+internet                      , 0.05405405405405406  , 2                   
+inversiã³n                    , 0.05405405405405406  , 2                   
+javier                        , 0.02702702702702703  , 1                   
+jedi                          , 0.02702702702702703  , 1                   
+jeep                          , 0.02702702702702703  , 1                   
+journey                       , 0.08108108108108109  , 3                   
+kia                           , 0.05405405405405406  , 2                   
+koda                          , 0.02702702702702703  , 1                   
+kodi                          , 0.02702702702702703  , 1                   
+lada                          , 0.02702702702702703  , 1                   
+lado                          , 0.02702702702702703  , 1                   
+lamborghini                   , 0.02702702702702703  , 1                   
+land                          , 0.02702702702702703  , 1                   
+latinoamãrica                 , 0.08108108108108109  , 3                   
+le                            , 0.02702702702702703  , 1                   
+leds                          , 0.05405405405405406  , 2                   
+legal                         , 0.02702702702702703  , 1                   
+lenovo                        , 0.05405405405405406  , 2                   
+lexus                         , 0.02702702702702703  , 1                   
+libertad                      , 0.02702702702702703  , 1                   
+libres                        , 0.02702702702702703  , 1                   
+licencia                      , 0.02702702702702703  , 1                   
+ligeros                       , 0.02702702702702703  , 1                   
+limusina                      , 0.02702702702702703  , 1                   
+listas                        , 0.02702702702702703  , 1                   
+literatura                    , 0.02702702702702703  , 1                   
+llama                         , 0.05405405405405406  , 2                   
+llegar                        , 0.02702702702702703  , 1                   
+llevarnos                     , 0.02702702702702703  , 1                   
+local                         , 0.02702702702702703  , 1                   
+localizaciã³n                 , 0.02702702702702703  , 1                   
+logras                        , 0.02702702702702703  , 1                   
+londres                       , 0.02702702702702703  , 1                   
+lãmite                        , 0.05405405405405406  , 2                   
+magazine                      , 0.02702702702702703  , 1                   
+magnet                        , 0.10810810810810811  , 4                   
+mahindra                      , 0.02702702702702703  , 1                   
+mahou                         , 0.05405405405405406  , 2                   
+maker                         , 0.05405405405405406  , 2                   
+mandos                        , 0.02702702702702703  , 1                   
+manera                        , 0.05405405405405406  , 2                   
+manos                         , 0.02702702702702703  , 1                   
+mantendrãn                    , 0.02702702702702703  , 1                   
+mantenimiento                 , 0.02702702702702703  , 1                   
+mapas                         , 0.02702702702702703  , 1                   
+marcas                        , 0.02702702702702703  , 1                   
+marcha                        , 0.02702702702702703  , 1                   
+martin                        , 0.02702702702702703  , 1                   
+mas                           , 0.02702702702702703  , 1                   
+masas                         , 0.02702702702702703  , 1                   
+material                      , 0.02702702702702703  , 1                   
+matriz                        , 0.02702702702702703  , 1                   
+mayorãa                       , 0.02702702702702703  , 1                   
+mclaren                       , 0.02702702702702703  , 1                   
+medida                        , 0.02702702702702703  , 1                   
+medios                        , 0.02702702702702703  , 1                   
+mejor                         , 0.10810810810810811  , 4                   
+mejorar                       , 0.02702702702702703  , 1                   
+mejores                       , 0.10810810810810811  , 4                   
+memoria                       , 0.02702702702702703  , 1                   
+menãº                         , 0.02702702702702703  , 1                   
+microsd                       , 0.05405405405405406  , 2                   
+milãn                         , 0.02702702702702703  , 1                   
+mini                          , 0.02702702702702703  , 1                   
+miniordenador                 , 0.05405405405405406  , 2                   
+minuto                        , 0.02702702702702703  , 1                   
+minutos                       , 0.02702702702702703  , 1                   
+moda                          , 0.05405405405405406  , 2                   
+model                         , 0.02702702702702703  , 1                   
+modificaciones                , 0.02702702702702703  , 1                   
+momento                       , 0.02702702702702703  , 1                   
+montado                       , 0.05405405405405406  , 2                   
+montaje                       , 0.05405405405405406  , 2                   
+montando                      , 0.02702702702702703  , 1                   
+montar                        , 0.02702702702702703  , 1                   
+mostramos                     , 0.02702702702702703  , 1                   
+mostrando                     , 0.02702702702702703  , 1                   
+motivos                       , 0.02702702702702703  , 1                   
+moto                          , 0.10810810810810811  , 4                   
+motor                         , 0.10810810810810811  , 4                   
+motorpasion                   , 0.10810810810810811  , 4                   
+motorpasiã³n                  , 0.3783783783783784  , 14                  
+motos                         , 0.02702702702702703  , 1                   
+mover                         , 0.02702702702702703  , 1                   
+muerte                        , 0.02702702702702703  , 1                   
+muestra                       , 0.02702702702702703  , 1                   
+multimedia                    , 0.10810810810810811  , 4                   
+mundo                         , 0.08108108108108109  , 3                   
+music                         , 0.02702702702702703  , 1                   
+mãs                           , 0.5675675675675675  , 21                  
+mãxico                        , 0.2972972972972973  , 11                  
+mã³dem                        , 0.05405405405405406  , 2                   
+mã³vil                        , 0.13513513513513514  , 5                   
+mã³viles                      , 0.02702702702702703  , 1                   
+mãºltiples                    , 0.02702702702702703  , 1                   
+mãºsica                       , 0.16216216216216217  , 6                   
+nace                          , 0.02702702702702703  , 1                   
+nanorobots                    , 0.02702702702702703  , 1                   
+naranja                       , 0.05405405405405406  , 2                   
+necesidades                   , 0.02702702702702703  , 1                   
+necesitas                     , 0.02702702702702703  , 1                   
+necesitã³                     , 0.02702702702702703  , 1                   
+negra                         , 0.02702702702702703  , 1                   
+neumãticos                    , 0.05405405405405406  , 2                   
+nissan                        , 0.05405405405405406  , 2                   
+niva                          , 0.02702702702702703  , 1                   
+nivel                         , 0.16216216216216217  , 6                   
+nobbot                        , 0.05405405405405406  , 2                   
+nocturna                      , 0.02702702702702703  , 1                   
+nomadic                       , 0.05405405405405406  , 2                   
+nosotros                      , 0.02702702702702703  , 1                   
+nota                          , 0.02702702702702703  , 1                   
+nuestras                      , 0.02702702702702703  , 1                   
+nuevo                         , 0.05405405405405406  , 2                   
+obd                           , 0.05405405405405406  , 2                   
+obtener                       , 0.02702702702702703  , 1                   
+ocio                          , 0.08108108108108109  , 3                   
+ofrece                        , 0.02702702702702703  , 1                   
+ofrecerã                      , 0.02702702702702703  , 1                   
+ojos                          , 0.02702702702702703  , 1                   
+olvidar                       , 0.02702702702702703  , 1                   
+opciones                      , 0.08108108108108109  , 3                   
+opel                          , 0.02702702702702703  , 1                   
+open                          , 0.02702702702702703  , 1                   
+openauto                      , 0.02702702702702703  , 1                   
+optimismo                     , 0.02702702702702703  , 1                   
+orange                        , 0.16216216216216217  , 6                   
+ordenador                     , 0.05405405405405406  , 2                   
+paladar                       , 0.1891891891891892  , 7                   
+panel                         , 0.16216216216216217  , 6                   
+pantalla                      , 0.24324324324324326  , 9                   
+pantallas                     , 0.02702702702702703  , 1                   
+parcialmente                  , 0.02702702702702703  , 1                   
+participamos                  , 0.02702702702702703  , 1                   
+partir                        , 0.02702702702702703  , 1                   
+partners                      , 0.02702702702702703  , 1                   
+parãs                         , 0.02702702702702703  , 1                   
+peatones                      , 0.02702702702702703  , 1                   
+penalva                       , 0.02702702702702703  , 1                   
+pequeãa                       , 0.02702702702702703  , 1                   
+perdiste                      , 0.02702702702702703  , 1                   
+permite                       , 0.10810810810810811  , 4                   
+persona                       , 0.02702702702702703  , 1                   
+personales                    , 0.02702702702702703  , 1                   
+personalizable                , 0.02702702702702703  , 1                   
+personalizada                 , 0.02702702702702703  , 1                   
+personalizado                 , 0.02702702702702703  , 1                   
+personalizar                  , 0.05405405405405406  , 2                   
+personalizarlo                , 0.02702702702702703  , 1                   
+philips                       , 0.05405405405405406  , 2                   
+pi                            , 0.9459459459459459  , 35                  
+pickup                        , 0.02702702702702703  , 1                   
+pimusicbox                    , 0.02702702702702703  , 1                   
+pista                         , 0.02702702702702703  , 1                   
+plataformas                   , 0.02702702702702703  , 1                   
+plazas                        , 0.02702702702702703  , 1                   
+plenamente                    , 0.02702702702702703  , 1                   
+pocas                         , 0.02702702702702703  , 1                   
+podamos                       , 0.05405405405405406  , 2                   
+podrãa                        , 0.02702702702702703  , 1                   
+podrãamos                     , 0.02702702702702703  , 1                   
+pone                          , 0.05405405405405406  , 2                   
+poner                         , 0.08108108108108109  , 3                   
+portugal                      , 0.02702702702702703  , 1                   
+posibilidad                   , 0.02702702702702703  , 1                   
+posibilidades                 , 0.05405405405405406  , 2                   
+posible                       , 0.16216216216216217  , 6                   
+precio                        , 0.05405405405405406  , 2                   
+precios                       , 0.05405405405405406  , 2                   
+precisa                       , 0.02702702702702703  , 1                   
+premontadas                   , 0.02702702702702703  , 1                   
+preocupes                     , 0.02702702702702703  , 1                   
+prepara                       , 0.02702702702702703  , 1                   
+presiã³n                      , 0.05405405405405406  , 2                   
+presupuesto                   , 0.05405405405405406  , 2                   
+pretendemos                   , 0.02702702702702703  , 1                   
+previamente                   , 0.02702702702702703  , 1                   
+primer                        , 0.02702702702702703  , 1                   
+principal                     , 0.02702702702702703  , 1                   
+principalmente                , 0.02702702702702703  , 1                   
+problema                      , 0.02702702702702703  , 1                   
+proceed                       , 0.02702702702702703  , 1                   
+programaciã³n                 , 0.08108108108108109  , 3                   
+programar                     , 0.02702702702702703  , 1                   
+propio                        , 0.02702702702702703  , 1                   
+propios                       , 0.02702702702702703  , 1                   
+proponen                      , 0.02702702702702703  , 1                   
+proponãrselo                  , 0.02702702702702703  , 1                   
+protecciã³n                   , 0.02702702702702703  , 1                   
+protegida                     , 0.02702702702702703  , 1                   
+prototipo                     , 0.02702702702702703  , 1                   
+proyecto                      , 0.2702702702702703  , 10                  
+proyectos                     , 0.2972972972972973  , 11                  
+pruebas                       , 0.08108108108108109  , 3                   
+prã³xima                      , 0.02702702702702703  , 1                   
+pt                            , 0.05405405405405406  , 2                   
+publicaciones                 , 0.05405405405405406  , 2                   
+publicidad                    , 0.1891891891891892  , 7                   
+puedas                        , 0.02702702702702703  , 1                   
+puedes                        , 0.08108108108108109  , 3                   
+puertas                       , 0.02702702702702703  , 1                   
+puerto                        , 0.05405405405405406  , 2                   
+puertos                       , 0.02702702702702703  , 1                   
+pulgadas                      , 0.02702702702702703  , 1                   
+punto                         , 0.05405405405405406  , 2                   
+putin                         , 0.02702702702702703  , 1                   
+pymes                         , 0.10810810810810811  , 4                   
+qashqai                       , 0.02702702702702703  , 1                   
+quedarte                      , 0.02702702702702703  , 1                   
+queramos                      , 0.05405405405405406  , 2                   
+queremos                      , 0.10810810810810811  , 4                   
+quieras                       , 0.02702702702702703  , 1                   
+quieres                       , 0.05405405405405406  , 2                   
+quã                           , 0.10810810810810811  , 4                   
+ram                           , 0.02702702702702703  , 1                   
+raspberri                     , 0.02702702702702703  , 1                   
+raspberry                     , 0.8648648648648649  , 32                  
+ratos                         , 0.02702702702702703  , 1                   
+rc                            , 0.02702702702702703  , 1                   
+real                          , 0.02702702702702703  , 1                   
+realidad                      , 0.02702702702702703  , 1                   
+realizar                      , 0.02702702702702703  , 1                   
+realizarse                    , 0.02702702702702703  , 1                   
+recibe                        , 0.05405405405405406  , 2                   
+reciente                      , 0.02702702702702703  , 1                   
+recomendaciones               , 0.02702702702702703  , 1                   
+recomendadas                  , 0.02702702702702703  , 1                   
+recurriendo                   , 0.02702702702702703  , 1                   
+recurrir                      , 0.02702702702702703  , 1                   
+recursos                      , 0.02702702702702703  , 1                   
+rentabilibar                  , 0.05405405405405406  , 2                   
+renunciar                     , 0.02702702702702703  , 1                   
+reproducciã³n                 , 0.02702702702702703  , 1                   
+requieren                     , 0.02702702702702703  , 1                   
+require                       , 0.02702702702702703  , 1                   
+responde                      , 0.02702702702702703  , 1                   
+respuestas                    , 0.02702702702702703  , 1                   
+restante                      , 0.02702702702702703  , 1                   
+retira                        , 0.02702702702702703  , 1                   
+retoques                      , 0.02702702702702703  , 1                   
+retro                         , 0.13513513513513514  , 5                   
+retropie                      , 0.02702702702702703  , 1                   
+revoluciones                  , 0.02702702702702703  , 1                   
+roadster                      , 0.02702702702702703  , 1                   
+rollsroyce                    , 0.05405405405405406  , 2                   
+rover                         , 0.02702702702702703  , 1                   
+rpi                           , 0.1891891891891892  , 7                   
+rs                            , 0.02702702702702703  , 1                   
+rss                           , 0.08108108108108109  , 3                   
+rumores                       , 0.05405405405405406  , 2                   
+ruso                          , 0.02702702702702703  , 1                   
+s14                           , 0.02702702702702703  , 1                   
+sage                          , 0.05405405405405406  , 2                   
+sainz                         , 0.02702702702702703  , 1                   
+salida                        , 0.02702702702702703  , 1                   
+salimos                       , 0.02702702702702703  , 1                   
+salirnos                      , 0.02702702702702703  , 1                   
+salirte                       , 0.02702702702702703  , 1                   
+salmã³n                       , 0.10810810810810811  , 4                   
+salpicadero                   , 0.08108108108108109  , 3                   
+salud                         , 0.02702702702702703  , 1                   
+saludable                     , 0.02702702702702703  , 1                   
+salã³n                        , 0.02702702702702703  , 1                   
+sanitas                       , 0.02702702702702703  , 1                   
+sea                           , 0.05405405405405406  , 2                   
+seat                          , 0.02702702702702703  , 1                   
+seguimiento                   , 0.02702702702702703  , 1                   
+seguramente                   , 0.02702702702702703  , 1                   
+seguridad                     , 0.02702702702702703  , 1                   
+seguro                        , 0.13513513513513514  , 5                   
+seguros                       , 0.05405405405405406  , 2                   
+segãºn                        , 0.05405405405405406  , 2                   
+senat                         , 0.02702702702702703  , 1                   
+sensores                      , 0.08108108108108109  , 3                   
+sentido                       , 0.02702702702702703  , 1                   
+sentirnos                     , 0.02702702702702703  , 1                   
+serie                         , 0.10810810810810811  , 4                   
+series                        , 0.02702702702702703  , 1                   
+servicios                     , 0.02702702702702703  , 1                   
+servirte                      , 0.02702702702702703  , 1                   
+servirã                       , 0.02702702702702703  , 1                   
+servãa                        , 0.02702702702702703  , 1                   
+serã                          , 0.02702702702702703  , 1                   
+shield                        , 0.05405405405405406  , 2                   
+shooting                      , 0.02702702702702703  , 1                   
+significar                    , 0.02702702702702703  , 1                   
+sim                           , 0.02702702702702703  , 1                   
+simular                       , 0.02702702702702703  , 1                   
+sistema                       , 0.6486486486486487  , 24                  
+sistemas                      , 0.05405405405405406  , 2                   
+sitio                         , 0.08108108108108109  , 3                   
+sitios                        , 0.02702702702702703  , 1                   
+sl                            , 0.05405405405405406  , 2                   
+smart                         , 0.10810810810810811  , 4                   
+smartphone                    , 0.10810810810810811  , 4                   
+software                      , 0.1891891891891892  , 7                   
+sol                           , 0.02702702702702703  , 1                   
+soluciones                    , 0.05405405405405406  , 2                   
+solvente                      , 0.02702702702702703  , 1                   
+son                           , 0.02702702702702703  , 1                   
+sonido                        , 0.08108108108108109  , 3                   
+sonos                         , 0.02702702702702703  , 1                   
+soporte                       , 0.02702702702702703  , 1                   
+soporten                      , 0.02702702702702703  , 1                   
+sportage                      , 0.02702702702702703  , 1                   
+spotify                       , 0.05405405405405406  , 2                   
+streamed                      , 0.02702702702702703  , 1                   
+streaming                     , 0.08108108108108109  , 3                   
+subido                        , 0.02702702702702703  , 1                   
+subir                         , 0.02702702702702703  , 1                   
+suele                         , 0.05405405405405406  , 2                   
+suficientes                   , 0.02702702702702703  , 1                   
+supercargadores               , 0.02702702702702703  , 1                   
+suscribir                     , 0.05405405405405406  , 2                   
+suscrãbete                    , 0.02702702702702703  , 1                   
+suv                           , 0.08108108108108109  , 3                   
+svj                           , 0.02702702702702703  , 1                   
+sã                            , 0.02702702702702703  , 1                   
+sãguenos                      , 0.08108108108108109  , 3                   
+tablets                       , 0.02702702702702703  , 1                   
+tamaão                        , 0.02702702702702703  , 1                   
+tambiãn                       , 0.08108108108108109  , 3                   
+tantas                        , 0.02702702702702703  , 1                   
+tarifa                        , 0.02702702702702703  , 1                   
+tarjeta                       , 0.05405405405405406  , 2                   
+teaser                        , 0.05405405405405406  , 2                   
+tecnologãa                    , 0.2702702702702703  , 10                  
+televisiã³n                   , 0.02702702702702703  , 1                   
+telãfono                      , 0.02702702702702703  , 1                   
+temas                         , 0.08108108108108109  , 3                   
+temperatura                   , 0.05405405405405406  , 2                   
+tengamos                      , 0.05405405405405406  , 2                   
+termã³metro                   , 0.02702702702702703  , 1                   
+tesla                         , 0.16216216216216217  , 6                   
+tienes                        , 0.08108108108108109  , 3                   
+tipo                          , 0.02702702702702703  , 1                   
+tira                          , 0.02702702702702703  , 1                   
+todavãa                       , 0.02702702702702703  , 1                   
+toma                          , 0.02702702702702703  , 1                   
+total                         , 0.02702702702702703  , 1                   
+trabajo                       , 0.02702702702702703  , 1                   
+trasera                       , 0.10810810810810811  , 4                   
+traseras                      , 0.02702702702702703  , 1                   
+tratar                        , 0.02702702702702703  , 1                   
+trendencias                   , 0.32432432432432434  , 12                  
+tv                            , 0.05405405405405406  , 2                   
+twitter                       , 0.16216216216216217  , 6                   
+tãctil                        , 0.08108108108108109  , 3                   
+tãº                           , 0.24324324324324326  , 9                   
+une                           , 0.02702702702702703  , 1                   
+unlocked                      , 0.05405405405405406  , 2                   
+usarlo                        , 0.02702702702702703  , 1                   
+usuario                       , 0.02702702702702703  , 1                   
+valle                         , 0.02702702702702703  , 1                   
+vehãculos                     , 0.05405405405405406  , 2                   
+velocidad                     , 0.05405405405405406  , 2                   
+ventajas                      , 0.05405405405405406  , 2                   
+ver                           , 0.1891891891891892  , 7                   
+versiã³n                      , 0.02702702702702703  , 1                   
+viaje                         , 0.02702702702702703  , 1                   
+viajero                       , 0.10810810810810811  , 4                   
+viajes                        , 0.02702702702702703  , 1                   
+vida                          , 0.1891891891891892  , 7                   
+vidaextra                     , 0.02702702702702703  , 1                   
+videojuegos                   , 0.02702702702702703  , 1                   
+viejo                         , 0.02702702702702703  , 1                   
+vienen                        , 0.02702702702702703  , 1                   
+vision                        , 0.05405405405405406  , 2                   
+visiã³n                       , 0.05405405405405406  , 2                   
+vista                         , 0.02702702702702703  , 1                   
+visuales                      , 0.02702702702702703  , 1                   
+vitã³nica                     , 0.10810810810810811  , 4                   
+volante                       , 0.02702702702702703  , 1                   
+volverã                       , 0.02702702702702703  , 1                   
+vs                            , 0.05405405405405406  , 2                   
+vãdeo                         , 0.13513513513513514  , 5                   
+vãdeos                        , 0.05405405405405406  , 2                   
+watmag                        , 0.10810810810810811  , 4                   
+weblogs                       , 0.05405405405405406  , 2                   
+wifi                          , 0.1891891891891892  , 7                   
+windows                       , 0.10810810810810811  , 4                   
+wsl                           , 0.05405405405405406  , 2                   
+xataka                        , 1.0           , 37                  
+youtube                       , 0.08108108108108109  , 3                   
+zero                          , 0.02702702702702703  , 1                   
+zona                          , 0.05405405405405406  , 2                   
+zonas                         , 0.02702702702702703  , 1                   
+âcarlos                       , 0.02702702702702703  , 1                   
+âcontrolar                    , 0.02702702702702703  , 1                   
+âcuãl                         , 0.05405405405405406  , 2                   
+âpor                          , 0.05405405405405406  , 2                   
+ãmbito                        , 0.02702702702702703  , 1                   

@@ -1,826 +1,901 @@
-secciones,0.04,1
-inicio,0.16,4
-contenido,0.04,1
-the,0.76,19
-new,0.48,12
-york,0.48,12
-times,0.52,13
-noticias,0.12,3
-autoritarismo,0.08,2
-chino,0.24,6
-futuro,0.12,3
-basa,0.12,3
-alta,0.2,5
-tecnología,0.6,15
-ajustes,0.04,1
-close,0.04,1
-search,0.12,3
-sponsored,0.04,1
-by,0.04,1
-site,0.08,2
-navigation,0.04,1
-buscar,0.08,2
-nytimescom,0.04,1
-desactive,0.04,1
-entrada,0.04,1
-texto,0.04,1
-irse,0.04,1
-httpsnytims2jkjdxz,0.04,1
-publicidad,0.12,3
-negocios,0.08,2
-paul,0.04,1
-mozur,0.04,1
-13,0.12,3
-julio,0.16,4
-2018,0.2,5
-volver,0.28,7
-artículo,0.36,9
-principal,0.28,7
-comparte,0.08,2
-página,0.08,2
-continue,0.28,7
-reading,0.28,7
-main,0.28,7
-story,0.28,7
-foto,0.28,7
-video,0.08,2
-muestra,0.24,6
-software,0.16,4
-reconocimiento,0.68,17
-facial,0.64,16
-sede,0.04,1
-compañía,0.08,2
-inteligencia,0.36,9
-artificial,0.32,8
-megvii,0.16,4
-pekín,0.2,5
-credit,0.28,7
-gilles,0.24,6
-sabrie,0.04,1
-read,0.04,1
-in,0.04,1
-english,0.08,2
-zhengzhou,0.2,5
-china,1.0,25
-ciudad,0.2,5
-policía,0.44,11
-llevaba,0.04,1
-anteojos,0.12,3
-divisó,0.04,1
-contrabandista,0.08,2
-heroína,0.08,2
-estación,0.16,4
-trenes,0.2,5
-qingdao,0.04,1
-famosa,0.04,1
-herencia,0.04,1
-colonial,0.04,1
-alemana,0.04,1
-cámaras,0.36,9
-funcionan,0.12,3
-ayudaron,0.04,1
-atrapara,0.04,1
-decenas,0.04,1
-sospechosos,0.08,2
-medio,0.08,2
-enorme,0.08,2
-festival,0.04,1
-cerveza,0.04,1
-celebra,0.04,1
-años,0.08,2
-wuhu,0.04,1
-cámara,0.04,1
-identificó,0.04,1
-sospechoso,0.04,1
-homicidio,0.04,1
-fugitivo,0.04,1
-compraba,0.04,1
-comida,0.04,1
-vendedor,0.04,1
-callejero,0.04,1
-millones,0.44,11
-miles,0.04,1
-líneas,0.08,2
-código,0.04,1
-está,0.44,11
-construyendo,0.04,1
-autoritario,0.04,1
-acogiendo,0.04,1
-tecnologías,0.12,3
-identificar,0.08,2
-monitorear,0.08,2
-400,0.04,1
-personas,0.32,8
-país,0.24,6
-busca,0.12,3
-montar,0.04,1
-inmenso,0.04,1
-sistema,0.32,8
-vigilancia,0.48,12
-nacional,0.16,4
-precedentes,0.04,1
-ayuda,0.12,3
-crucial,0.04,1
-floreciente,0.04,1
-industria,0.08,2
-tecnológica,0.16,4
-pasado,0.12,3
-importante,0.08,2
-instintos,0.04,1
-comentó,0.12,3
-shan,0.04,1
-jun,0.04,1
-jefe,0.04,1
-adjunto,0.04,1
-atraparon,0.04,1
-captabas,0.04,1
-pasaba,0.04,1
-oportunidad,0.04,1
-invalidando,0.04,1
-visión,0.04,1
-común,0.04,1
-gran,0.08,2
-democratizadora,0.04,1
-da,0.08,2
-libertad,0.08,2
-conecta,0.04,1
-mundo,0.12,3
-derivado,0.04,1
-control,0.08,2
-empleados,0.16,4
-oficinas,0.08,2
-sabrié,0.2,5
-explora,0.04,1
-nytimescomes,0.04,1
-hermosa,0.04,1
-compleja,0.04,1
-bogotá,0.04,1
-guía,0.08,2
-viajeros,0.08,2
-primerizos,0.04,1
-algunas,0.08,2
-ciudades,0.04,1
-escanean,0.04,1
-estaciones,0.04,1
-encontrar,0.04,1
-buscados,0.04,1
-monitores,0.04,1
-tamaño,0.04,1
-vallas,0.04,1
-publicitarias,0.04,1
-muestran,0.04,1
-rostros,0.2,5
-peatones,0.2,5
-imprudentes,0.08,2
-lista,0.04,1
-nombres,0.08,2
-gente,0.36,9
-paga,0.04,1
-deudas,0.04,1
-escáneres,0.04,1
-vigilan,0.04,1
-entradas,0.04,1
-complejos,0.04,1
-habitacionales,0.04,1
-hay,0.12,3
-estimado,0.04,1
-doscientos,0.04,1
-cuatro,0.12,3
-veces,0.08,2
-cantidad,0.04,1
-estados,0.04,1
-unidos,0.04,1
-esfuerzos,0.08,2
-complementan,0.04,1
-sistemas,0.08,2
-rastrean,0.08,2
-internet,0.04,1
-comunicaciones,0.04,1
-alojamientos,0.04,1
-hoteles,0.04,1
-viajes,0.04,1
-tren,0.04,1
-avión,0.04,1
-trayectos,0.04,1
-auto,0.04,1
-lugares,0.16,4
-pesar,0.04,1
-ambiciones,0.08,2
-superan,0.04,1
-capacidades,0.08,2
-instalada,0.04,1
-cruce,0.04,1
-existir,0.04,1
-siguiente,0.04,1
-calle,0.16,4
-ineficiencias,0.04,1
-burocráticas,0.04,1
-impiden,0.04,1
-creación,0.04,1
-red,0.16,4
-nivel,0.12,3
-partido,0.16,4
-comunista,0.16,4
-vez,0.04,1
-sea,0.08,2
-problema,0.08,2
-lejos,0.04,1
-esconder,0.04,1
-regular,0.04,1
-autoridades,0.12,3
-chinas,0.16,4
-manifiestan,0.04,1
-exageran,0.04,1
-percepción,0.04,1
-mantener,0.08,2
-población,0.04,1
-avanzados,0.04,1
-invasivo,0.04,1
-masiva,0.04,1
-instalado,0.08,2
-occidente,0.04,1
-rastrear,0.08,2
-miembros,0.04,1
-minoría,0.04,1
-musulmana,0.04,1
-etnia,0.04,1
-uigur,0.04,1
-mapear,0.04,1
-relaciones,0.04,1
-amigos,0.04,1
-familiares,0.04,1
-acuerdo,0.2,5
-tuvo,0.04,1
-acceso,0.08,2
-posiblemente,0.04,1
-manera,0.04,1
-completamente,0.04,1
-nueva,0.16,4
-gobierno,0.28,7
-maneje,0.04,1
-economía,0.16,4
-sociedad,0.04,1
-opinó,0.04,1
-martin,0.08,2
-chorzempa,0.16,4
-investigador,0.12,3
-instituto,0.12,3
-peterson,0.12,3
-internacional,0.08,2
-meta,0.04,1
-forma,0.08,2
-algorítmica,0.04,1
-ejercer,0.04,1
-añadió,0.04,1
-policías,0.04,1
-portando,0.04,1
-luoyang,0.04,1
-reuters,0.04,1
-juego,0.04,1
-vergüenza,0.08,2
-intersección,0.08,2
-sur,0.04,1
-puente,0.04,1
-changhong,0.04,1
-xiangyang,0.2,5
-solía,0.04,1
-pesadilla,0.04,1
-autos,0.04,1
-pasaban,0.04,1
-rápido,0.04,1
-corrían,0.04,1
-verano,0.04,1
-instaló,0.08,2
-conectadas,0.08,2
-pantalla,0.16,4
-colocó,0.04,1
-fotos,0.2,5
-infractores,0.08,2
-mostraban,0.04,1
-lado,0.04,1
-nombre,0.04,1
-número,0.04,1
-identificación,0.04,1
-emocionaba,0.04,1
-ver,0.08,2
-guan,0.08,2
-yue,0.08,2
-vocera,0.04,1
-medios,0.12,3
-propagandísticos,0.04,1
-les,0.16,4
-dijeron,0.08,2
-castigo,0.04,1
-captura,0.04,1
-percatas,0.04,1
-vecinos,0.04,1
-colegas,0.04,1
-harán,0.04,1
-hablarán,0.04,1
-espaldas,0.04,1
-mencionó,0.08,2
-causa,0.04,1
-soportar,0.04,1
-estrategia,0.08,2
-idea,0.12,3
-antigua,0.08,2
-autoridad,0.04,1
-fuerte,0.04,1
-traer,0.04,1
-orden,0.08,2
-turbulento,0.04,1
-mao,0.2,5
-zedong,0.04,1
-llevó,0.04,1
-filosofía,0.04,1
-extremos,0.04,1
-devastadores,0.04,1
-mandato,0.04,1
-vertical,0.04,1
-produjo,0.04,1
-hambruna,0.04,1
-después,0.08,2
-revolución,0.04,1
-cultural,0.04,1
-sucesores,0.04,1
-anhelaban,0.04,1
-temían,0.04,1
-consecuencias,0.04,1
-régimen,0.04,1
-totalitario,0.04,1
-formaron,0.04,1
-nuevo,0.04,1
-pueblo,0.12,3
-cambio,0.04,1
-impotencia,0.04,1
-política,0.12,3
-esencia,0.04,1
-dejaría,0.04,1
-paz,0.04,1
-permitiría,0.04,1
-hacerse,0.04,1
-ricas,0.04,1
-funcionó,0.04,1
-censura,0.04,1
-fuerza,0.04,1
-policial,0.04,1
-mantuvieron,0.04,1
-encontró,0.04,1
-aún,0.12,3
-actitud,0.04,1
-sirvió,0.04,1
-dar,0.08,2
-décadas,0.12,3
-veloz,0.04,1
-crecimiento,0.04,1
-económico,0.04,1
-actualidad,0.12,3
-escrito,0.04,1
-desmoronando,0.04,1
-creciendo,0.04,1
-ritmo,0.04,1
-sufre,0.04,1
-grave,0.04,1
-brecha,0.04,1
-riqueza,0.04,1
-salarios,0.04,1
-jugosos,0.04,1
-mejor,0.04,1
-vida,0.08,2
-expectativas,0.04,1
-altas,0.04,1
-turistas,0.04,1
-haciendo,0.04,1
-fila,0.04,1
-visitar,0.04,1
-mausoleo,0.04,1
-debajo,0.04,1
-poste,0.04,1
-sostiene,0.04,1
-once,0.04,1
-xi,0.08,2
-jinping,0.04,1
-máximo,0.04,1
-dirigente,0.04,1
-realizado,0.04,1
-maniobras,0.04,1
-solidificar,0.04,1
-cambios,0.04,1
-ley,0.08,2
-implican,0.04,1
-gobernar,0.04,1
-mandatario,0.04,1
-además,0.04,1
-impuesto,0.04,1
-serie,0.08,2
-medidas,0.04,1
-severas,0.04,1
-corrupción,0.04,1
-generalizada,0.04,1
-significarle,0.04,1
-enemigos,0.04,1
-apoyo,0.04,1
-recurrido,0.04,1
-creencias,0.04,1
-importancia,0.04,1
-culto,0.04,1
-personalidad,0.04,1
-papel,0.04,1
-diaria,0.04,1
-le,0.04,1
-lograrlo,0.04,1
-reformas,0.04,1
-apertura,0.04,1
-han,0.16,4
-fracasado,0.04,1
-nadie,0.04,1
-atreve,0.04,1
-decirlo,0.04,1
-historiador,0.08,2
-zhang,0.12,3
-lifan,0.08,2
-citar,0.04,1
-siguió,0.04,1
-actual,0.08,2
-creado,0.12,3
-segregación,0.08,2
-social,0.08,2
-económica,0.08,2
-severa,0.08,2
-gobernantes,0.08,2
-dinero,0.12,3
-contribuyentes,0.08,2
-monitorearlos,0.08,2
-lanzado,0.04,1
-mejora,0.04,1
-convertido,0.04,1
-mayor,0.04,1
-mercado,0.04,1
-seguridad,0.2,5
-analistas,0.04,1
-estiman,0.04,1
-2020,0.04,1
-tendrá,0.04,1
-trescientos,0.04,1
-instaladas,0.04,1
-compradores,0.04,1
-chinos,0.04,1
-agotarán,0.04,1
-tres,0.04,1
-cuartas,0.04,1
-partes,0.04,1
-servidores,0.04,1
-diseñados,0.04,1
-escanear,0.04,1
-videos,0.04,1
-predijo,0.04,1
-ihs,0.04,1
-markit,0.04,1
-firma,0.08,2
-investigación,0.08,2
-próximos,0.04,1
-gastará,0.04,1
-30000,0.04,1
-dólares,0.2,5
-adicionales,0.04,1
-fisgonear,0.08,2
-experto,0.04,1
-citan,0.04,1
-contratos,0.04,1
-gubernamentales,0.04,1
-impulsando,0.04,1
-desarrollo,0.04,1
-vestimenta,0.04,1
-andar,0.04,1
-persona,0.04,1
-comenzado,0.04,1
-aparecer,0.04,1
-dispositivos,0.04,1
-experimentales,0.04,1
-gafas,0.08,2
-instalaciones,0.04,1
-shangái,0.04,1
-empresa,0.24,6
-emergente,0.08,2
-yitu,0.16,4
-monitorea,0.04,1
-movimientos,0.04,1
-oficina,0.08,2
-menudo,0.04,1
-empresas,0.2,5
-emergentes,0.12,3
-insisten,0.04,1
-utilicen,0.04,1
-shanghái,0.04,1
-llamada,0.04,1
-llevado,0.04,1
-extremo,0.04,1
-pasillos,0.04,1
-plagados,0.04,1
-buscan,0.04,1
-escritorios,0.04,1
-salida,0.04,1
-pasando,0.04,1
-salón,0.04,1
-descanso,0.04,1
-caminos,0.04,1
-recorren,0.04,1
-monitorean,0.04,1
-televisión,0.04,1
-puntos,0.04,1
-azules,0.04,1
-monitor,0.04,1
-idas,0.04,1
-venidas,0.04,1
-días,0.08,2
-día,0.08,2
-vuelto,0.04,1
-negocio,0.04,1
-gasta,0.04,1
-generación,0.04,1
-presentado,0.04,1
-satisfacer,0.04,1
-demanda,0.04,1
-desarrollando,0.04,1
-aplicaciones,0.08,2
-competitivas,0.04,1
-mundial,0.04,1
-imágenes,0.12,3
-voz,0.04,1
-2017,0.08,2
-obtuvo,0.08,2
-primer,0.04,1
-lugar,0.04,1
-concurso,0.04,1
-abierto,0.04,1
-algoritmos,0.04,1
-organizó,0.04,1
-director,0.04,1
-estadounidense,0.04,1
-obtuvieron,0.04,1
-buenas,0.04,1
-calificaciones,0.04,1
-auge,0.04,1
-tecnológico,0.04,1
-sirviendo,0.04,1
-alto,0.04,1
-escala,0.04,1
-inversión,0.04,1
-compite,0.04,1
-silicon,0.04,1
-valley,0.04,1
-inversionistas,0.08,2
-entusiasmados,0.04,1
-dedicadas,0.04,1
-recursos,0.04,1
-mayo,0.04,1
-sensetime,0.04,1
-recaudó,0.04,1
-620,0.04,1
-valuó,0.04,1
-cerca,0.08,2
-500,0.04,1
-mes,0.04,1
-alcanzó,0.04,1
-200,0.04,1
-rival,0.04,1
-460,0.04,1
-incluían,0.04,1
-fondo,0.04,1
-respaldado,0.04,1
-cúpula,0.04,1
-complejo,0.08,2
-habitacional,0.08,2
-residentes,0.08,2
-pudieran,0.04,1
-pasar,0.04,1
-rápidamente,0.04,1
-puertas,0.08,2
-suma,0.04,1
-colección,0.04,1
-locales,0.08,2
-funcionarios,0.08,2
-wen,0.04,1
-yangli,0.04,1
-ejecutivo,0.12,3
-number,0.08,2
-community,0.08,2
-fabrica,0.04,1
-producto,0.04,1
-señaló,0.08,2
-trabajando,0.04,1
-objetivo,0.16,4
-detectar,0.04,1
-enfrentamientos,0.04,1
-multitudes,0.04,1
-permitirá,0.04,1
-utilice,0.04,1
-mapas,0.04,1
-virtuales,0.04,1
-edificios,0.04,1
-vive,0.04,1
-sala,0.04,1
-exhibición,0.04,1
-for,0.04,1
-bienvenido,0.04,1
-panóptico,0.08,2
-eficaz,0.04,1
-funcionar,0.04,1
-ejemplo,0.08,2
-son,0.08,2
-velocidad,0.04,1
-ubicada,0.04,1
-centro,0.04,1
-presumió,0.04,1
-lentes,0.08,2
-comunicación,0.04,1
-fuentes,0.04,1
-tomaron,0.04,1
-traía,0.04,1
-puestas,0.04,1
-oscuras,0.04,1
-embargo,0.04,1
-queda,0.04,1
-quieto,0.04,1
-durante,0.04,1
-segundos,0.04,1
-usado,0.04,1
-principalmente,0.04,1
-revisar,0.04,1
-portar,0.04,1
-identificaciones,0.04,1
-falsas,0.04,1
-base,0.04,1
-datos,0.08,2
-individuos,0.04,1
-marcado,0.04,1
-terrorismo,0.04,1
-criminales,0.08,2
-narcotraficantes,0.04,1
-activistas,0.04,1
-políticos,0.04,1
-incluye,0.04,1
-veinte,0.04,1
-treinta,0.04,1
-incapaz,0.04,1
-analizar,0.04,1
-quien,0.04,1
-pidió,0.04,1
-identificado,0.04,1
-información,0.04,1
-pública,0.04,1
-tela,0.04,1
-digital,0.04,1
-retazos,0.04,1
-ve,0.04,1
-archivos,0.04,1
-digitalizados,0.04,1
-encuentran,0.04,1
-hojas,0.04,1
-cálculo,0.04,1
-incompatibles,0.04,1
-cuadran,0.04,1
-facilidad,0.08,2
-espera,0.04,1
-algún,0.04,1
-sirvan,0.04,1
-equipos,0.04,1
-revisan,0.04,1
-paso,0.04,1
-peatonal,0.04,1
-aparecen,0.04,1
-instantánea,0.04,1
-valla,0.04,1
-publicitaria,0.04,1
-semanas,0.04,1
-redujeron,0.04,1
-retraso,0.04,1
-cinco,0.04,1
-seis,0.04,1
-humanos,0.04,1
-escudriñan,0.04,1
-hacerlas,0.04,1
-coincidir,0.04,1
-identidades,0.04,1
-obstante,0.04,1
-suelen,0.04,1
-secreto,0.04,1
-temas,0.04,1
-embarcado,0.04,1
-campaña,0.04,1
-convencer,0.04,1
-funcionando,0.04,1
-final,0.08,2
-sepa,0.08,2
-vigilando,0.08,2
-incertidumbre,0.08,2
-vuelve,0.08,2
-obediente,0.08,2
-propagandistas,0.04,1
-gustan,0.04,1
-historias,0.04,1
-eventos,0.04,1
-publicó,0.04,1
-diario,0.08,2
-periódico,0.04,1
-oficial,0.04,1
-cubrió,0.04,1
-arrestos,0.04,1
-realizados,0.04,1
-conciertos,0.04,1
-estrella,0.04,1
-pop,0.04,1
-jacky,0.04,1
-cheung,0.04,1
-hacía,0.04,1
-referencia,0.04,1
-letras,0.04,1
-cantante,0.04,1
-amor,0.04,1
-infinita,0.04,1
-atrapar,0.04,1
-exterior,0.04,1
-cruzan,0.04,1
-permitidos,0.04,1
-números,0.04,1
-identidad,0.04,1
-avergonzar,0.04,1
-respeten,0.04,1
-funciona,0.04,1
-disminuido,0.04,1
-imprudencia,0.04,1
-robo,0.04,1
-bicicletas,0.04,1
-acabó,0.04,1
-completo,0.04,1
-administración,0.04,1
-edificio,0.04,1
-afirmó,0.04,1
-describió,0.04,1
-seguirá,0.04,1
-reglas,0.04,1
-precisamente,0.04,1
-sabe,0.08,2
-observando,0.04,1
-carolyn,0.04,1
-colaboró,0.04,1
-reportaje,0.04,1
-videovigilancia,0.04,1
-relacionadas,0.04,1
-nuevas,0.04,1
-ciudadanos,0.04,1
-exhiben,0.04,1
-11,0.08,2
-diciembre,0.04,1
-facebook,0.04,1
-insiste,0.04,1
-enciende,0.04,1
-alarmas,0.04,1
-diamantes,0.04,1
-compromisos,0.04,1
-españa,0.08,2
-puigdemont,0.04,1
-extraditado,0.04,1
-buscaba,0.04,1
-regístrate,0.04,1
-boletín,0.08,2
-suscríbete,0.08,2
-español,0.08,2
-destacadas,0.04,1
-mejores,0.04,1
-artículos,0.04,1
-entender,0.04,1
-sucediendo,0.04,1
-américa,0.04,1
-latina,0.04,1
-favor,0.08,2
-comprueba,0.04,1
-robot,0.04,1
-clic,0.04,1
-casilla,0.04,1
-correo,0.08,2
-electrónico,0.08,2
-válida,0.04,1
-selecciona,0.04,1
-boletines,0.08,2
-deseas,0.04,1
-suscribirte,0.08,2
-gracias,0.04,1
-sometimiento,0.04,1
-error,0.04,1
-vuelva,0.04,1
-intentarlo,0.04,1
-suscrito,0.04,1
-mira,0.04,1
-privacidad,0.08,2
-cancela,0.04,1
-suscripción,0.04,1
-contáctanos,0.04,1
-quieras,0.04,1
-index,0.04,1
-edición,0.04,1
-中文,0.04,1
-chinese,0.04,1
-company,0.04,1
-condiciones,0.04,1
-preguntas,0.04,1
+11                            , 0.07692307692307693  , 2                   
+13                            , 0.11538461538461539  , 3                   
+200                           , 0.038461538461538464  , 1                   
+2017                          , 0.07692307692307693  , 2                   
+2018                          , 0.19230769230769232  , 5                   
+2020                          , 0.038461538461538464  , 1                   
+30000                         , 0.038461538461538464  , 1                   
+460                           , 0.038461538461538464  , 1                   
+620                           , 0.038461538461538464  , 1                   
+abierto                       , 0.038461538461538464  , 1                   
+acabã³                        , 0.038461538461538464  , 1                   
+acceso                        , 0.07692307692307693  , 2                   
+acciones                      , 0.038461538461538464  , 1                   
+acogiendo                     , 0.038461538461538464  , 1                   
+acorta                        , 0.038461538461538464  , 1                   
+actitud                       , 0.038461538461538464  , 1                   
+activistas                    , 0.038461538461538464  , 1                   
+actual                        , 0.07692307692307693  , 2                   
+actualidad                    , 0.11538461538461539  , 3                   
+acuerdo                       , 0.23076923076923078  , 6                   
+ademãs                        , 0.038461538461538464  , 1                   
+adicionales                   , 0.038461538461538464  , 1                   
+adjunto                       , 0.038461538461538464  , 1                   
+administraciã³n               , 0.038461538461538464  , 1                   
+afecta                        , 0.038461538461538464  , 1                   
+afirmã³                       , 0.038461538461538464  , 1                   
+agotarãn                      , 0.038461538461538464  , 1                   
+ahã                           , 0.038461538461538464  , 1                   
+aire                          , 0.038461538461538464  , 1                   
+ajustes                       , 0.038461538461538464  , 1                   
+alarmas                       , 0.038461538461538464  , 1                   
+alcanzã³                      , 0.038461538461538464  , 1                   
+alemana                       , 0.038461538461538464  , 1                   
+alerta                        , 0.038461538461538464  , 1                   
+algoritmos                    , 0.038461538461538464  , 1                   
+algorãtmica                   , 0.038461538461538464  , 1                   
+algunas                       , 0.07692307692307693  , 2                   
+algãºn                        , 0.038461538461538464  , 1                   
+alojamientos                  , 0.038461538461538464  , 1                   
+alta                          , 0.19230769230769232  , 5                   
+altas                         , 0.038461538461538464  , 1                   
+alternativa                   , 0.038461538461538464  , 1                   
+alto                          , 0.038461538461538464  , 1                   
+ambiciones                    , 0.07692307692307693  , 2                   
+amigos                        , 0.038461538461538464  , 1                   
+amor                          , 0.038461538461538464  , 1                   
+amãrica                       , 0.11538461538461539  , 3                   
+analistas                     , 0.038461538461538464  , 1                   
+analizar                      , 0.038461538461538464  , 1                   
+andar                         , 0.038461538461538464  , 1                   
+anhelaban                     , 0.038461538461538464  , 1                   
+anteojos                      , 0.11538461538461539  , 3                   
+anterior                      , 0.038461538461538464  , 1                   
+antigua                       , 0.07692307692307693  , 2                   
+aparecen                      , 0.038461538461538464  , 1                   
+aparecer                      , 0.038461538461538464  , 1                   
+apertura                      , 0.038461538461538464  , 1                   
+aplicaciones                  , 0.07692307692307693  , 2                   
+apoyo                         , 0.038461538461538464  , 1                   
+archivos                      , 0.038461538461538464  , 1                   
+arrestos                      , 0.038461538461538464  , 1                   
+artificial                    , 0.3076923076923077  , 8                   
+artãculo                      , 0.34615384615384615  , 9                   
+artãculos                     , 0.038461538461538464  , 1                   
+asã                           , 0.07692307692307693  , 2                   
+atrapar                       , 0.038461538461538464  , 1                   
+atrapara                      , 0.038461538461538464  , 1                   
+atraparon                     , 0.038461538461538464  , 1                   
+atreve                        , 0.038461538461538464  , 1                   
+auge                          , 0.038461538461538464  , 1                   
+auto                          , 0.038461538461538464  , 1                   
+autoridad                     , 0.038461538461538464  , 1                   
+autoridades                   , 0.11538461538461539  , 3                   
+autoritario                   , 0.038461538461538464  , 1                   
+autoritarismo                 , 0.07692307692307693  , 2                   
+autos                         , 0.038461538461538464  , 1                   
+avanzados                     , 0.038461538461538464  , 1                   
+avergonzar                    , 0.038461538461538464  , 1                   
+aviã³n                        , 0.038461538461538464  , 1                   
+ayuda                         , 0.15384615384615385  , 4                   
+ayudanytimescom               , 0.038461538461538464  , 1                   
+ayudaron                      , 0.038461538461538464  , 1                   
+azules                        , 0.038461538461538464  , 1                   
+aãadiã³                       , 0.038461538461538464  , 1                   
+aãos                          , 0.07692307692307693  , 2                   
+aãºn                          , 0.15384615384615385  , 4                   
+basa                          , 0.11538461538461539  , 3                   
+base                          , 0.038461538461538464  , 1                   
+bicicletas                    , 0.038461538461538464  , 1                   
+bienvenido                    , 0.038461538461538464  , 1                   
+boletines                     , 0.07692307692307693  , 2                   
+boletãn                       , 0.07692307692307693  , 2                   
+brecha                        , 0.038461538461538464  , 1                   
+buenas                        , 0.038461538461538464  , 1                   
+burocrãticas                  , 0.038461538461538464  , 1                   
+busca                         , 0.11538461538461539  , 3                   
+buscaba                       , 0.038461538461538464  , 1                   
+buscados                      , 0.038461538461538464  , 1                   
+buscan                        , 0.038461538461538464  , 1                   
+buscar                        , 0.07692307692307693  , 2                   
+by                            , 0.038461538461538464  , 1                   
+calificaciones                , 0.038461538461538464  , 1                   
+calle                         , 0.15384615384615385  , 4                   
+callejero                     , 0.038461538461538464  , 1                   
+cambio                        , 0.038461538461538464  , 1                   
+cambios                       , 0.038461538461538464  , 1                   
+caminos                       , 0.038461538461538464  , 1                   
+campaãa                       , 0.038461538461538464  , 1                   
+canadã                        , 0.038461538461538464  , 1                   
+cancela                       , 0.038461538461538464  , 1                   
+cantante                      , 0.038461538461538464  , 1                   
+cantidad                      , 0.038461538461538464  , 1                   
+capacidades                   , 0.07692307692307693  , 2                   
+captabas                      , 0.038461538461538464  , 1                   
+captura                       , 0.038461538461538464  , 1                   
+cargando                      , 0.038461538461538464  , 1                   
+carolyn                       , 0.038461538461538464  , 1                   
+casilla                       , 0.038461538461538464  , 1                   
+castigo                       , 0.038461538461538464  , 1                   
+causa                         , 0.038461538461538464  , 1                   
+celebra                       , 0.038461538461538464  , 1                   
+censura                       , 0.038461538461538464  , 1                   
+centro                        , 0.038461538461538464  , 1                   
+cerca                         , 0.07692307692307693  , 2                   
+cerrar                        , 0.038461538461538464  , 1                   
+cerveza                       , 0.038461538461538464  , 1                   
+changhong                     , 0.038461538461538464  , 1                   
+cheung                        , 0.038461538461538464  , 1                   
+china                         , 1.0           , 26                  
+chinas                        , 0.15384615384615385  , 4                   
+chinese                       , 0.07692307692307693  , 2                   
+chino                         , 0.23076923076923078  , 6                   
+chinos                        , 0.038461538461538464  , 1                   
+chorzempa                     , 0.15384615384615385  , 4                   
+cinco                         , 0.038461538461538464  , 1                   
+citan                         , 0.038461538461538464  , 1                   
+citar                         , 0.038461538461538464  , 1                   
+ciudad                        , 0.19230769230769232  , 5                   
+ciudadanos                    , 0.038461538461538464  , 1                   
+ciudades                      , 0.038461538461538464  , 1                   
+clic                          , 0.038461538461538464  , 1                   
+close                         , 0.11538461538461539  , 3                   
+cognitivas                    , 0.038461538461538464  , 1                   
+coincidir                     , 0.038461538461538464  , 1                   
+colaborã³                     , 0.038461538461538464  , 1                   
+colecciã³n                    , 0.038461538461538464  , 1                   
+colegas                       , 0.038461538461538464  , 1                   
+colocã³                       , 0.038461538461538464  , 1                   
+colonial                      , 0.038461538461538464  , 1                   
+comentã³                      , 0.11538461538461539  , 3                   
+comenzado                     , 0.038461538461538464  , 1                   
+comida                        , 0.038461538461538464  , 1                   
+community                     , 0.07692307692307693  , 2                   
+company                       , 0.038461538461538464  , 1                   
+comparte                      , 0.07692307692307693  , 2                   
+compaããa                      , 0.07692307692307693  , 2                   
+competitivas                  , 0.038461538461538464  , 1                   
+compite                       , 0.038461538461538464  , 1                   
+complejo                      , 0.07692307692307693  , 2                   
+complejos                     , 0.038461538461538464  , 1                   
+complementan                  , 0.038461538461538464  , 1                   
+completamente                 , 0.038461538461538464  , 1                   
+completo                      , 0.038461538461538464  , 1                   
+compraba                      , 0.038461538461538464  , 1                   
+compradores                   , 0.038461538461538464  , 1                   
+compromisos                   , 0.038461538461538464  , 1                   
+comprueba                     , 0.038461538461538464  , 1                   
+comunicaciones                , 0.038461538461538464  , 1                   
+comunicaciã³n                 , 0.038461538461538464  , 1                   
+comunista                     , 0.15384615384615385  , 4                   
+comãºn                        , 0.038461538461538464  , 1                   
+conciertos                    , 0.038461538461538464  , 1                   
+concurso                      , 0.038461538461538464  , 1                   
+condiciones                   , 0.038461538461538464  , 1                   
+conecta                       , 0.038461538461538464  , 1                   
+conectadas                    , 0.07692307692307693  , 2                   
+consecuencias                 , 0.038461538461538464  , 1                   
+construyendo                  , 0.038461538461538464  , 1                   
+contaminado                   , 0.038461538461538464  , 1                   
+contenido                     , 0.038461538461538464  , 1                   
+continue                      , 0.2692307692307692  , 7                   
+contrabandista                , 0.07692307692307693  , 2                   
+contratos                     , 0.038461538461538464  , 1                   
+contribuyentes                , 0.07692307692307693  , 2                   
+control                       , 0.07692307692307693  , 2                   
+contãctanos                   , 0.07692307692307693  , 2                   
+convencer                     , 0.038461538461538464  , 1                   
+convertido                    , 0.038461538461538464  , 1                   
+correo                        , 0.07692307692307693  , 2                   
+corrupciã³n                   , 0.038461538461538464  , 1                   
+corrãan                       , 0.038461538461538464  , 1                   
+creaciã³n                     , 0.038461538461538464  , 1                   
+creado                        , 0.11538461538461539  , 3                   
+creciendo                     , 0.038461538461538464  , 1                   
+crecimiento                   , 0.038461538461538464  , 1                   
+credit                        , 0.2692307692307692  , 7                   
+creencias                     , 0.038461538461538464  , 1                   
+criminales                    , 0.07692307692307693  , 2                   
+cruce                         , 0.038461538461538464  , 1                   
+crucial                       , 0.038461538461538464  , 1                   
+cruzan                        , 0.038461538461538464  , 1                   
+cuadran                       , 0.038461538461538464  , 1                   
+cuartas                       , 0.038461538461538464  , 1                   
+cuatro                        , 0.07692307692307693  , 2                   
+cubriã³                       , 0.038461538461538464  , 1                   
+culto                         , 0.038461538461538464  , 1                   
+cultura                       , 0.07692307692307693  , 2                   
+cultural                      , 0.038461538461538464  , 1                   
+cãlculo                       , 0.038461538461538464  , 1                   
+cãmara                        , 0.038461538461538464  , 1                   
+cãmaras                       , 0.34615384615384615  , 9                   
+cã³digo                       , 0.038461538461538464  , 1                   
+cã³mo                         , 0.038461538461538464  , 1                   
+cãºpula                       , 0.038461538461538464  , 1                   
+da                            , 0.07692307692307693  , 2                   
+dar                           , 0.07692307692307693  , 2                   
+datos                         , 0.07692307692307693  , 2                   
+debajo                        , 0.038461538461538464  , 1                   
+decenas                       , 0.038461538461538464  , 1                   
+decirloâ                      , 0.038461538461538464  , 1                   
+dedicadas                     , 0.038461538461538464  , 1                   
+dejarãa                       , 0.038461538461538464  , 1                   
+demanda                       , 0.038461538461538464  , 1                   
+democratizadora               , 0.038461538461538464  , 1                   
+derivado                      , 0.038461538461538464  , 1                   
+desactive                     , 0.038461538461538464  , 1                   
+desarrollando                 , 0.038461538461538464  , 1                   
+desarrollo                    , 0.038461538461538464  , 1                   
+descanso                      , 0.038461538461538464  , 1                   
+describiã³                    , 0.038461538461538464  , 1                   
+deseas                        , 0.038461538461538464  , 1                   
+desmoronando                  , 0.038461538461538464  , 1                   
+despuãs                       , 0.07692307692307693  , 2                   
+destacadas                    , 0.038461538461538464  , 1                   
+detectar                      , 0.038461538461538464  , 1                   
+deudas                        , 0.038461538461538464  , 1                   
+devastadores                  , 0.038461538461538464  , 1                   
+diamantes                     , 0.038461538461538464  , 1                   
+diaria                        , 0.038461538461538464  , 1                   
+diario                        , 0.07692307692307693  , 2                   
+diciembre                     , 0.038461538461538464  , 1                   
+digital                       , 0.038461538461538464  , 1                   
+digitalizados                 , 0.038461538461538464  , 1                   
+dijeron                       , 0.07692307692307693  , 2                   
+dinero                        , 0.11538461538461539  , 3                   
+director                      , 0.038461538461538464  , 1                   
+dirigente                     , 0.038461538461538464  , 1                   
+diseãados                     , 0.038461538461538464  , 1                   
+disminuido                    , 0.038461538461538464  , 1                   
+dispositivos                  , 0.038461538461538464  , 1                   
+divisã³                       , 0.038461538461538464  , 1                   
+doscientos                    , 0.038461538461538464  , 1                   
+durante                       , 0.038461538461538464  , 1                   
+dãa                           , 0.07692307692307693  , 2                   
+dãas                          , 0.07692307692307693  , 2                   
+dãcadas                       , 0.11538461538461539  , 3                   
+dã³lares                      , 0.19230769230769232  , 5                   
+economãa                      , 0.15384615384615385  , 4                   
+econã³mica                    , 0.07692307692307693  , 2                   
+econã³mico                    , 0.038461538461538464  , 1                   
+ediciã³n                      , 0.07692307692307693  , 2                   
+edificio                      , 0.038461538461538464  , 1                   
+edificios                     , 0.038461538461538464  , 1                   
+ee                            , 0.038461538461538464  , 1                   
+eficaz                        , 0.038461538461538464  , 1                   
+ejecutivo                     , 0.11538461538461539  , 3                   
+ejemplo                       , 0.07692307692307693  , 2                   
+ejercer                       , 0.038461538461538464  , 1                   
+electrã³nico                  , 0.07692307692307693  , 2                   
+email                         , 0.11538461538461539  , 3                   
+embarcado                     , 0.038461538461538464  , 1                   
+embargo                       , 0.038461538461538464  , 1                   
+emergente                     , 0.07692307692307693  , 2                   
+emergentes                    , 0.11538461538461539  , 3                   
+emocionaba                    , 0.038461538461538464  , 1                   
+empleados                     , 0.15384615384615385  , 4                   
+empresa                       , 0.23076923076923078  , 6                   
+empresas                      , 0.19230769230769232  , 5                   
+enciende                      , 0.038461538461538464  , 1                   
+encontrar                     , 0.038461538461538464  , 1                   
+encontrã³                     , 0.038461538461538464  , 1                   
+encuentran                    , 0.038461538461538464  , 1                   
+enemigos                      , 0.038461538461538464  , 1                   
+enfrentamientos               , 0.038461538461538464  , 1                   
+english                       , 0.11538461538461539  , 3                   
+enorme                        , 0.07692307692307693  , 2                   
+entender                      , 0.038461538461538464  , 1                   
+entrada                       , 0.038461538461538464  , 1                   
+entradas                      , 0.038461538461538464  , 1                   
+entusiasmados                 , 0.038461538461538464  , 1                   
+equipos                       , 0.038461538461538464  , 1                   
+error                         , 0.038461538461538464  , 1                   
+escala                        , 0.038461538461538464  , 1                   
+escanean                      , 0.038461538461538464  , 1                   
+escanear                      , 0.038461538461538464  , 1                   
+esconder                      , 0.038461538461538464  , 1                   
+escrito                       , 0.038461538461538464  , 1                   
+escritorios                   , 0.038461538461538464  , 1                   
+escudriãan                    , 0.038461538461538464  , 1                   
+escãndalo                     , 0.038461538461538464  , 1                   
+escãneres                     , 0.038461538461538464  , 1                   
+esencia                       , 0.038461538461538464  , 1                   
+esfuerzos                     , 0.07692307692307693  , 2                   
+esoâ                          , 0.038461538461538464  , 1                   
+espaldasâ                     , 0.038461538461538464  , 1                   
+espaãa                        , 0.07692307692307693  , 2                   
+espaãol                       , 0.11538461538461539  , 3                   
+espera                        , 0.038461538461538464  , 1                   
+estaciones                    , 0.038461538461538464  , 1                   
+estaciã³n                     , 0.15384615384615385  , 4                   
+estados                       , 0.038461538461538464  , 1                   
+estadounidense                , 0.038461538461538464  , 1                   
+estimado                      , 0.038461538461538464  , 1                   
+estiman                       , 0.038461538461538464  , 1                   
+estrategia                    , 0.07692307692307693  , 2                   
+estrella                      , 0.038461538461538464  , 1                   
+estã                          , 0.4230769230769231  , 11                  
+estãn                         , 0.3076923076923077  , 8                   
+etnia                         , 0.038461538461538464  , 1                   
+eventos                       , 0.038461538461538464  , 1                   
+exageran                      , 0.038461538461538464  , 1                   
+exhiben                       , 0.038461538461538464  , 1                   
+exhibiciã³n                   , 0.038461538461538464  , 1                   
+exige                         , 0.038461538461538464  , 1                   
+existir                       , 0.038461538461538464  , 1                   
+expectativas                  , 0.038461538461538464  , 1                   
+experimentales                , 0.038461538461538464  , 1                   
+experto                       , 0.038461538461538464  , 1                   
+explora                       , 0.038461538461538464  , 1                   
+exterior                      , 0.038461538461538464  , 1                   
+extraditado                   , 0.038461538461538464  , 1                   
+extremo                       , 0.038461538461538464  , 1                   
+extremos                      , 0.038461538461538464  , 1                   
+fabrica                       , 0.038461538461538464  , 1                   
+facebook                      , 0.11538461538461539  , 3                   
+facial                        , 0.6153846153846154  , 16                  
+facilidad                     , 0.038461538461538464  , 1                   
+facilidadâ                    , 0.038461538461538464  , 1                   
+falsas                        , 0.038461538461538464  , 1                   
+familiares                    , 0.038461538461538464  , 1                   
+famosa                        , 0.038461538461538464  , 1                   
+favor                         , 0.07692307692307693  , 2                   
+festival                      , 0.038461538461538464  , 1                   
+fila                          , 0.038461538461538464  , 1                   
+filosofãa                     , 0.038461538461538464  , 1                   
+final                         , 0.07692307692307693  , 2                   
+firma                         , 0.07692307692307693  , 2                   
+fisgonear                     , 0.07692307692307693  , 2                   
+floreciente                   , 0.038461538461538464  , 1                   
+fondo                         , 0.038461538461538464  , 1                   
+for                           , 0.038461538461538464  , 1                   
+forma                         , 0.07692307692307693  , 2                   
+formaron                      , 0.038461538461538464  , 1                   
+foto                          , 0.2692307692307692  , 7                   
+fotos                         , 0.19230769230769232  , 5                   
+fracasado                     , 0.038461538461538464  , 1                   
+frecuentes                    , 0.038461538461538464  , 1                   
+fuentes                       , 0.038461538461538464  , 1                   
+fuerte                        , 0.038461538461538464  , 1                   
+fuerza                        , 0.038461538461538464  , 1                   
+fugitivo                      , 0.038461538461538464  , 1                   
+funciona                      , 0.038461538461538464  , 1                   
+funcionan                     , 0.11538461538461539  , 3                   
+funcionando                   , 0.038461538461538464  , 1                   
+funcionar                     , 0.038461538461538464  , 1                   
+funcionarios                  , 0.07692307692307693  , 2                   
+funcionã³                     , 0.038461538461538464  , 1                   
+futuro                        , 0.11538461538461539  , 3                   
+gafas                         , 0.07692307692307693  , 2                   
+gasta                         , 0.038461538461538464  , 1                   
+gastarã                       , 0.038461538461538464  , 1                   
+generaciã³n                   , 0.038461538461538464  , 1                   
+generalizada                  , 0.038461538461538464  , 1                   
+gente                         , 0.34615384615384615  , 9                   
+gilles                        , 0.23076923076923078  , 6                   
+go                            , 0.038461538461538464  , 1                   
+gobernantes                   , 0.07692307692307693  , 2                   
+gobernar                      , 0.038461538461538464  , 1                   
+gobierno                      , 0.23076923076923078  , 6                   
+gobiernoâ                     , 0.038461538461538464  , 1                   
+gran                          , 0.07692307692307693  , 2                   
+grave                         , 0.038461538461538464  , 1                   
+guan                          , 0.07692307692307693  , 2                   
+gubernamentales               , 0.038461538461538464  , 1                   
+gustan                        , 0.038461538461538464  , 1                   
+guãa                          , 0.038461538461538464  , 1                   
+habilidades                   , 0.038461538461538464  , 1                   
+habitacional                  , 0.07692307692307693  , 2                   
+habitacionales                , 0.038461538461538464  , 1                   
+hablarãn                      , 0.038461538461538464  , 1                   
+hacerlas                      , 0.038461538461538464  , 1                   
+hacerse                       , 0.038461538461538464  , 1                   
+haciendo                      , 0.038461538461538464  , 1                   
+hacãa                         , 0.038461538461538464  , 1                   
+hambruna                      , 0.038461538461538464  , 1                   
+han                           , 0.15384615384615385  , 4                   
+harãn                         , 0.038461538461538464  , 1                   
+hay                           , 0.15384615384615385  , 4                   
+herencia                      , 0.038461538461538464  , 1                   
+heroãna                       , 0.07692307692307693  , 2                   
+historiador                   , 0.07692307692307693  , 2                   
+historias                     , 0.038461538461538464  , 1                   
+hojas                         , 0.038461538461538464  , 1                   
+homicidio                     , 0.038461538461538464  , 1                   
+hoteles                       , 0.038461538461538464  , 1                   
+httpsnytims2jkjdxz            , 0.038461538461538464  , 1                   
+humanos                       , 0.038461538461538464  , 1                   
+idas                          , 0.038461538461538464  , 1                   
+idea                          , 0.11538461538461539  , 3                   
+identidad                     , 0.038461538461538464  , 1                   
+identidades                   , 0.038461538461538464  , 1                   
+identificaciones              , 0.038461538461538464  , 1                   
+identificaciã³n               , 0.038461538461538464  , 1                   
+identificado                  , 0.038461538461538464  , 1                   
+identificar                   , 0.07692307692307693  , 2                   
+identificã³                   , 0.038461538461538464  , 1                   
+ihs                           , 0.038461538461538464  , 1                   
+impiden                       , 0.038461538461538464  , 1                   
+implican                      , 0.038461538461538464  , 1                   
+importancia                   , 0.038461538461538464  , 1                   
+importante                    , 0.07692307692307693  , 2                   
+impotencia                    , 0.038461538461538464  , 1                   
+imprudencia                   , 0.038461538461538464  , 1                   
+imprudentes                   , 0.07692307692307693  , 2                   
+impuesto                      , 0.038461538461538464  , 1                   
+impulsando                    , 0.038461538461538464  , 1                   
+imãgenes                      , 0.11538461538461539  , 3                   
+in                            , 0.038461538461538464  , 1                   
+incapaz                       , 0.038461538461538464  , 1                   
+incertidumbre                 , 0.07692307692307693  , 2                   
+incluye                       , 0.038461538461538464  , 1                   
+incluãan                      , 0.038461538461538464  , 1                   
+incompatibles                 , 0.038461538461538464  , 1                   
+index                         , 0.038461538461538464  , 1                   
+individuos                    , 0.038461538461538464  , 1                   
+industria                     , 0.07692307692307693  , 2                   
+ineficiencias                 , 0.038461538461538464  , 1                   
+infinita                      , 0.038461538461538464  , 1                   
+influenza                     , 0.038461538461538464  , 1                   
+informaciã³n                  , 0.038461538461538464  , 1                   
+infractores                   , 0.07692307692307693  , 2                   
+inicio                        , 0.23076923076923078  , 6                   
+inmediatas                    , 0.038461538461538464  , 1                   
+inmenso                       , 0.038461538461538464  , 1                   
+insiste                       , 0.038461538461538464  , 1                   
+insisten                      , 0.038461538461538464  , 1                   
+instalaciones                 , 0.038461538461538464  , 1                   
+instalada                     , 0.038461538461538464  , 1                   
+instaladas                    , 0.038461538461538464  , 1                   
+instalado                     , 0.07692307692307693  , 2                   
+instalã³                      , 0.07692307692307693  , 2                   
+instantãnea                   , 0.038461538461538464  , 1                   
+instintosâ                    , 0.038461538461538464  , 1                   
+instituto                     , 0.11538461538461539  , 3                   
+inteligencia                  , 0.34615384615384615  , 9                   
+intentarlo                    , 0.038461538461538464  , 1                   
+internacional                 , 0.07692307692307693  , 2                   
+internet                      , 0.038461538461538464  , 1                   
+intersecciã³n                 , 0.07692307692307693  , 2                   
+invalidando                   , 0.038461538461538464  , 1                   
+invasivo                      , 0.038461538461538464  , 1                   
+inversionistas                , 0.07692307692307693  , 2                   
+inversiã³n                    , 0.038461538461538464  , 1                   
+investigaciã³n                , 0.07692307692307693  , 2                   
+investigador                  , 0.11538461538461539  , 3                   
+irse                          , 0.038461538461538464  , 1                   
+jacky                         , 0.038461538461538464  , 1                   
+jefe                          , 0.038461538461538464  , 1                   
+jinping                       , 0.038461538461538464  , 1                   
+juego                         , 0.038461538461538464  , 1                   
+jugosos                       , 0.038461538461538464  , 1                   
+julio                         , 0.15384615384615385  , 4                   
+jun                           , 0.038461538461538464  , 1                   
+lado                          , 0.038461538461538464  , 1                   
+lanzado                       , 0.038461538461538464  , 1                   
+latina                        , 0.11538461538461539  , 3                   
+le                            , 0.038461538461538464  , 1                   
+lejos                         , 0.038461538461538464  , 1                   
+lentes                        , 0.07692307692307693  , 2                   
+les                           , 0.15384615384615385  , 4                   
+letras                        , 0.038461538461538464  , 1                   
+ley                           , 0.07692307692307693  , 2                   
+libertad                      , 0.07692307692307693  , 2                   
+lifan                         , 0.07692307692307693  , 2                   
+lista                         , 0.038461538461538464  , 1                   
+llamada                       , 0.038461538461538464  , 1                   
+llevaba                       , 0.038461538461538464  , 1                   
+llevado                       , 0.038461538461538464  , 1                   
+llevã³                        , 0.038461538461538464  , 1                   
+locales                       , 0.07692307692307693  , 2                   
+lograrlo                      , 0.038461538461538464  , 1                   
+lugar                         , 0.038461538461538464  , 1                   
+lugares                       , 0.15384615384615385  , 4                   
+luoyang                       , 0.038461538461538464  , 1                   
+lãneas                        , 0.07692307692307693  , 2                   
+machu                         , 0.038461538461538464  , 1                   
+main                          , 0.2692307692307692  , 7                   
+mandatario                    , 0.038461538461538464  , 1                   
+mandato                       , 0.038461538461538464  , 1                   
+maneje                        , 0.038461538461538464  , 1                   
+manera                        , 0.038461538461538464  , 1                   
+manifiestan                   , 0.038461538461538464  , 1                   
+maniobras                     , 0.038461538461538464  , 1                   
+mantener                      , 0.07692307692307693  , 2                   
+mantuvieron                   , 0.038461538461538464  , 1                   
+mao                           , 0.19230769230769232  , 5                   
+mapas                         , 0.038461538461538464  , 1                   
+mapear                        , 0.038461538461538464  , 1                   
+marcado                       , 0.038461538461538464  , 1                   
+markit                        , 0.038461538461538464  , 1                   
+martin                        , 0.07692307692307693  , 2                   
+masiva                        , 0.038461538461538464  , 1                   
+mausoleo                      , 0.038461538461538464  , 1                   
+mayo                          , 0.038461538461538464  , 1                   
+mayor                         , 0.038461538461538464  , 1                   
+medidas                       , 0.038461538461538464  , 1                   
+medio                         , 0.07692307692307693  , 2                   
+medioambiente                 , 0.038461538461538464  , 1                   
+medios                        , 0.11538461538461539  , 3                   
+megvii                        , 0.15384615384615385  , 4                   
+mejor                         , 0.038461538461538464  , 1                   
+mejora                        , 0.038461538461538464  , 1                   
+mejores                       , 0.038461538461538464  , 1                   
+mencionã³                     , 0.07692307692307693  , 2                   
+menudo                        , 0.038461538461538464  , 1                   
+mercado                       , 0.038461538461538464  , 1                   
+mes                           , 0.038461538461538464  , 1                   
+meta                          , 0.038461538461538464  , 1                   
+miembros                      , 0.038461538461538464  , 1                   
+miles                         , 0.038461538461538464  , 1                   
+millones                      , 0.4230769230769231  , 11                  
+minorãa                       , 0.038461538461538464  , 1                   
+mira                          , 0.038461538461538464  , 1                   
+moda                          , 0.038461538461538464  , 1                   
+modal                         , 0.07692307692307693  , 2                   
+monitor                       , 0.038461538461538464  , 1                   
+monitorea                     , 0.038461538461538464  , 1                   
+monitorean                    , 0.038461538461538464  , 1                   
+monitorear                    , 0.07692307692307693  , 2                   
+monitorearlosâ                , 0.07692307692307693  , 2                   
+monitores                     , 0.038461538461538464  , 1                   
+montar                        , 0.038461538461538464  , 1                   
+mostraban                     , 0.038461538461538464  , 1                   
+movimientos                   , 0.038461538461538464  , 1                   
+mozur                         , 0.038461538461538464  , 1                   
+muestra                       , 0.23076923076923078  , 6                   
+muestran                      , 0.038461538461538464  , 1                   
+muestras                      , 0.038461538461538464  , 1                   
+multitudes                    , 0.038461538461538464  , 1                   
+mundial                       , 0.038461538461538464  , 1                   
+mundo                         , 0.11538461538461539  , 3                   
+musulmana                     , 0.038461538461538464  , 1                   
+mãs                           , 0.46153846153846156  , 12                  
+mãxico                        , 0.038461538461538464  , 1                   
+mãximo                        , 0.038461538461538464  , 1                   
+nacional                      , 0.15384615384615385  , 4                   
+nadie                         , 0.038461538461538464  , 1                   
+narcotraficantes              , 0.038461538461538464  , 1                   
+navigation                    , 0.038461538461538464  , 1                   
+negocio                       , 0.038461538461538464  , 1                   
+negocios                      , 0.11538461538461539  , 3                   
+new                           , 0.46153846153846156  , 12                  
+nicaragua                     , 0.07692307692307693  , 2                   
+nivel                         , 0.11538461538461539  , 3                   
+nombre                        , 0.038461538461538464  , 1                   
+nombres                       , 0.07692307692307693  , 2                   
+noticias                      , 0.2692307692307692  , 7                   
+nueva                         , 0.15384615384615385  , 4                   
+nuevas                        , 0.038461538461538464  , 1                   
+nuevo                         , 0.038461538461538464  , 1                   
+number                        , 0.07692307692307693  , 2                   
+nytimescom                    , 0.038461538461538464  , 1                   
+nytimescomes                  , 0.038461538461538464  , 1                   
+nytimeses                     , 0.15384615384615385  , 4                   
+nãºmero                       , 0.038461538461538464  , 1                   
+nãºmeros                      , 0.038461538461538464  , 1                   
+obedienteâ                    , 0.07692307692307693  , 2                   
+objetivo                      , 0.15384615384615385  , 4                   
+observando                    , 0.038461538461538464  , 1                   
+obstante                      , 0.038461538461538464  , 1                   
+obtuvieron                    , 0.038461538461538464  , 1                   
+obtuvo                        , 0.07692307692307693  , 2                   
+occidente                     , 0.038461538461538464  , 1                   
+oculta                        , 0.038461538461538464  , 1                   
+oficial                       , 0.038461538461538464  , 1                   
+oficina                       , 0.07692307692307693  , 2                   
+oficinas                      , 0.07692307692307693  , 2                   
+once                          , 0.038461538461538464  , 1                   
+onu                           , 0.038461538461538464  , 1                   
+opiniã³n                      , 0.07692307692307693  , 2                   
+opinã³                        , 0.038461538461538464  , 1                   
+oportunidadâ                  , 0.038461538461538464  , 1                   
+orden                         , 0.07692307692307693  , 2                   
+organizã³                     , 0.038461538461538464  , 1                   
+oscuras                       , 0.038461538461538464  , 1                   
+otrosâ                        , 0.038461538461538464  , 1                   
+paga                          , 0.038461538461538464  , 1                   
+pantalla                      , 0.15384615384615385  , 4                   
+panã³ptico                    , 0.07692307692307693  , 2                   
+papel                         , 0.038461538461538464  , 1                   
+partes                        , 0.038461538461538464  , 1                   
+partido                       , 0.15384615384615385  , 4                   
+pasaba                        , 0.038461538461538464  , 1                   
+pasaban                       , 0.038461538461538464  , 1                   
+pasado                        , 0.11538461538461539  , 3                   
+pasando                       , 0.038461538461538464  , 1                   
+pasar                         , 0.038461538461538464  , 1                   
+pasillos                      , 0.038461538461538464  , 1                   
+paso                          , 0.038461538461538464  , 1                   
+paul                          , 0.038461538461538464  , 1                   
+paz                           , 0.038461538461538464  , 1                   
+paãs                          , 0.23076923076923078  , 6                   
+peatonal                      , 0.038461538461538464  , 1                   
+peatones                      , 0.19230769230769232  , 5                   
+pekãn                         , 0.19230769230769232  , 5                   
+peligroso                     , 0.038461538461538464  , 1                   
+percatas                      , 0.038461538461538464  , 1                   
+percepciã³n                   , 0.038461538461538464  , 1                   
+periã³dico                    , 0.038461538461538464  , 1                   
+permitidos                    , 0.038461538461538464  , 1                   
+permitirã                     , 0.038461538461538464  , 1                   
+permitirãa                    , 0.038461538461538464  , 1                   
+persona                       , 0.038461538461538464  , 1                   
+personalidad                  , 0.038461538461538464  , 1                   
+personas                      , 0.3076923076923077  , 8                   
+perãº                         , 0.038461538461538464  , 1                   
+pesadilla                     , 0.038461538461538464  , 1                   
+pesar                         , 0.038461538461538464  , 1                   
+peterson                      , 0.11538461538461539  , 3                   
+picchu                        , 0.038461538461538464  , 1                   
+pidiã³                        , 0.038461538461538464  , 1                   
+plagados                      , 0.038461538461538464  , 1                   
+poblaciã³n                    , 0.038461538461538464  , 1                   
+podrãa                        , 0.07692307692307693  , 2                   
+podrãan                       , 0.038461538461538464  , 1                   
+policial                      , 0.038461538461538464  , 1                   
+policãa                       , 0.4230769230769231  , 11                  
+policãas                      , 0.038461538461538464  , 1                   
+polãtica                      , 0.11538461538461539  , 3                   
+polãticos                     , 0.038461538461538464  , 1                   
+pop                           , 0.038461538461538464  , 1                   
+portando                      , 0.038461538461538464  , 1                   
+portar                        , 0.038461538461538464  , 1                   
+posibilidades                 , 0.038461538461538464  , 1                   
+posiblemente                  , 0.038461538461538464  , 1                   
+poste                         , 0.038461538461538464  , 1                   
+precedentes                   , 0.038461538461538464  , 1                   
+precisamente                  , 0.038461538461538464  , 1                   
+predijo                       , 0.038461538461538464  , 1                   
+preguntas                     , 0.07692307692307693  , 2                   
+presentado                    , 0.038461538461538464  , 1                   
+presumiã³                     , 0.038461538461538464  , 1                   
+primer                        , 0.038461538461538464  , 1                   
+principal                     , 0.2692307692307692  , 7                   
+principalmente                , 0.038461538461538464  , 1                   
+privacidad                    , 0.07692307692307693  , 2                   
+problema                      , 0.07692307692307693  , 2                   
+producto                      , 0.038461538461538464  , 1                   
+produjo                       , 0.038461538461538464  , 1                   
+propagandistas                , 0.038461538461538464  , 1                   
+propagandãsticos              , 0.038461538461538464  , 1                   
+prã³ximos                     , 0.038461538461538464  , 1                   
+publicidad                    , 0.11538461538461539  , 3                   
+publicitaria                  , 0.038461538461538464  , 1                   
+publicitarias                 , 0.038461538461538464  , 1                   
+publicã³                      , 0.038461538461538464  , 1                   
+pudieran                      , 0.038461538461538464  , 1                   
+pueblo                        , 0.11538461538461539  , 3                   
+puente                        , 0.038461538461538464  , 1                   
+puertas                       , 0.07692307692307693  , 2                   
+puestas                       , 0.038461538461538464  , 1                   
+puigdemont                    , 0.038461538461538464  , 1                   
+puntos                        , 0.038461538461538464  , 1                   
+pãgina                        , 0.07692307692307693  , 2                   
+pãºblica                      , 0.038461538461538464  , 1                   
+qingdao                       , 0.038461538461538464  , 1                   
+queda                         , 0.038461538461538464  , 1                   
+quien                         , 0.038461538461538464  , 1                   
+quieras                       , 0.038461538461538464  , 1                   
+quieto                        , 0.038461538461538464  , 1                   
+quiãn                         , 0.038461538461538464  , 1                   
+rastrean                      , 0.07692307692307693  , 2                   
+rastrear                      , 0.07692307692307693  , 2                   
+read                          , 0.038461538461538464  , 1                   
+reading                       , 0.2692307692307692  , 7                   
+realizado                     , 0.038461538461538464  , 1                   
+realizados                    , 0.038461538461538464  , 1                   
+recaudã³                      , 0.038461538461538464  , 1                   
+reconocimiento                , 0.6538461538461539  , 17                  
+recorren                      , 0.038461538461538464  , 1                   
+recurrido                     , 0.038461538461538464  , 1                   
+recursos                      , 0.038461538461538464  , 1                   
+red                           , 0.15384615384615385  , 4                   
+redujeron                     , 0.038461538461538464  , 1                   
+referencia                    , 0.038461538461538464  , 1                   
+reformas                      , 0.038461538461538464  , 1                   
+reglas                        , 0.038461538461538464  , 1                   
+regular                       , 0.038461538461538464  , 1                   
+regãstrate                    , 0.038461538461538464  , 1                   
+relacionadas                  , 0.038461538461538464  , 1                   
+relaciones                    , 0.038461538461538464  , 1                   
+reportaje                     , 0.038461538461538464  , 1                   
+reposado                      , 0.07692307692307693  , 2                   
+residentes                    , 0.07692307692307693  , 2                   
+respaldado                    , 0.038461538461538464  , 1                   
+respeten                      , 0.038461538461538464  , 1                   
+retazos                       , 0.038461538461538464  , 1                   
+retenido                      , 0.038461538461538464  , 1                   
+retraso                       , 0.038461538461538464  , 1                   
+reuters                       , 0.038461538461538464  , 1                   
+revisan                       , 0.038461538461538464  , 1                   
+revisar                       , 0.038461538461538464  , 1                   
+revoluciã³n                   , 0.038461538461538464  , 1                   
+ricas                         , 0.038461538461538464  , 1                   
+riqueza                       , 0.038461538461538464  , 1                   
+ritmo                         , 0.038461538461538464  , 1                   
+rival                         , 0.038461538461538464  , 1                   
+robo                          , 0.038461538461538464  , 1                   
+robot                         , 0.038461538461538464  , 1                   
+rostros                       , 0.19230769230769232  , 5                   
+rãgimen                       , 0.038461538461538464  , 1                   
+rãpidamente                   , 0.038461538461538464  , 1                   
+rãpido                        , 0.038461538461538464  , 1                   
+sabe                          , 0.07692307692307693  , 2                   
+sabrie                        , 0.038461538461538464  , 1                   
+sabriã                        , 0.19230769230769232  , 5                   
+sala                          , 0.038461538461538464  , 1                   
+salarios                      , 0.038461538461538464  , 1                   
+salida                        , 0.038461538461538464  , 1                   
+salud                         , 0.038461538461538464  , 1                   
+salã³n                        , 0.038461538461538464  , 1                   
+satisfacer                    , 0.038461538461538464  , 1                   
+sea                           , 0.07692307692307693  , 2                   
+search                        , 0.11538461538461539  , 3                   
+secciones                     , 0.038461538461538464  , 1                   
+secreto                       , 0.038461538461538464  , 1                   
+sede                          , 0.038461538461538464  , 1                   
+segregaciã³n                  , 0.07692307692307693  , 2                   
+seguirã                       , 0.038461538461538464  , 1                   
+segundos                      , 0.038461538461538464  , 1                   
+seguridad                     , 0.19230769230769232  , 5                   
+segãºn                        , 0.038461538461538464  , 1                   
+seis                          , 0.038461538461538464  , 1                   
+selecciona                    , 0.038461538461538464  , 1                   
+semanas                       , 0.038461538461538464  , 1                   
+sensetime                     , 0.038461538461538464  , 1                   
+sepa                          , 0.07692307692307693  , 2                   
+serie                         , 0.07692307692307693  , 2                   
+servidores                    , 0.038461538461538464  , 1                   
+severa                        , 0.07692307692307693  , 2                   
+severas                       , 0.038461538461538464  , 1                   
+seãalã³                       , 0.07692307692307693  , 2                   
+shan                          , 0.038461538461538464  , 1                   
+shanghãi                      , 0.038461538461538464  , 1                   
+shangãi                       , 0.038461538461538464  , 1                   
+share                         , 0.11538461538461539  , 3                   
+significarle                  , 0.038461538461538464  , 1                   
+siguiente                     , 0.07692307692307693  , 2                   
+siguiã³                       , 0.038461538461538464  , 1                   
+silicon                       , 0.038461538461538464  , 1                   
+sirvan                        , 0.038461538461538464  , 1                   
+sirviendo                     , 0.038461538461538464  , 1                   
+sirviã³                       , 0.038461538461538464  , 1                   
+sistema                       , 0.3076923076923077  , 8                   
+sistemas                      , 0.07692307692307693  , 2                   
+site                          , 0.07692307692307693  , 2                   
+situaciã³n                    , 0.038461538461538464  , 1                   
+social                        , 0.07692307692307693  , 2                   
+sociedadâ                     , 0.038461538461538464  , 1                   
+software                      , 0.15384615384615385  , 4                   
+solidificar                   , 0.038461538461538464  , 1                   
+solãa                         , 0.038461538461538464  , 1                   
+sometimiento                  , 0.038461538461538464  , 1                   
+son                           , 0.07692307692307693  , 2                   
+soportar                      , 0.038461538461538464  , 1                   
+sospechoso                    , 0.038461538461538464  , 1                   
+sospechosos                   , 0.07692307692307693  , 2                   
+sostiene                      , 0.038461538461538464  , 1                   
+sponsored                     , 0.038461538461538464  , 1                   
+story                         , 0.2692307692307692  , 7                   
+sucediendo                    , 0.038461538461538464  , 1                   
+sucesores                     , 0.038461538461538464  , 1                   
+suelen                        , 0.038461538461538464  , 1                   
+sufre                         , 0.038461538461538464  , 1                   
+suma                          , 0.038461538461538464  , 1                   
+sume                          , 0.038461538461538464  , 1                   
+superan                       , 0.038461538461538464  , 1                   
+sur                           , 0.038461538461538464  , 1                   
+suscribirte                   , 0.07692307692307693  , 2                   
+suscripciã³n                  , 0.038461538461538464  , 1                   
+suscrito                      , 0.038461538461538464  , 1                   
+suscrãbete                    , 0.07692307692307693  , 2                   
+tamaão                        , 0.038461538461538464  , 1                   
+tambiãn                       , 0.11538461538461539  , 3                   
+tecnologãa                    , 0.5769230769230769  , 15                  
+tecnologãas                   , 0.11538461538461539  , 3                   
+tecnolã³gica                  , 0.15384615384615385  , 4                   
+tecnolã³gico                  , 0.038461538461538464  , 1                   
+tela                          , 0.038461538461538464  , 1                   
+televisiã³n                   , 0.038461538461538464  , 1                   
+temas                         , 0.038461538461538464  , 1                   
+temãan                        , 0.038461538461538464  , 1                   
+tendrã                        , 0.038461538461538464  , 1                   
+tenistas                      , 0.038461538461538464  , 1                   
+terrorismo                    , 0.038461538461538464  , 1                   
+texto                         , 0.038461538461538464  , 1                   
+the                           , 0.7307692307692307  , 19                  
+this                          , 0.07692307692307693  , 2                   
+times                         , 0.5384615384615384  , 14                  
+to                            , 0.038461538461538464  , 1                   
+tomaron                       , 0.038461538461538464  , 1                   
+totalitario                   , 0.038461538461538464  , 1                   
+trabajando                    , 0.038461538461538464  , 1                   
+traer                         , 0.038461538461538464  , 1                   
+trayectos                     , 0.038461538461538464  , 1                   
+traãa                         , 0.038461538461538464  , 1                   
+treinta                       , 0.038461538461538464  , 1                   
+tren                          , 0.038461538461538464  , 1                   
+trenes                        , 0.19230769230769232  , 5                   
+tres                          , 0.038461538461538464  , 1                   
+trescientos                   , 0.038461538461538464  , 1                   
+turbulento                    , 0.038461538461538464  , 1                   
+turistas                      , 0.038461538461538464  , 1                   
+tuvo                          , 0.038461538461538464  , 1                   
+tweet                         , 0.11538461538461539  , 3                   
+twitter                       , 0.07692307692307693  , 2                   
+tãº                           , 0.038461538461538464  , 1                   
+ubicada                       , 0.038461538461538464  , 1                   
+uigur                         , 0.038461538461538464  , 1                   
+unidosâ                       , 0.038461538461538464  , 1                   
+usado                         , 0.038461538461538464  , 1                   
+utilice                       , 0.038461538461538464  , 1                   
+utilicen                      , 0.038461538461538464  , 1                   
+uu                            , 0.038461538461538464  , 1                   
+valla                         , 0.038461538461538464  , 1                   
+vallas                        , 0.038461538461538464  , 1                   
+valley                        , 0.038461538461538464  , 1                   
+valuã³                        , 0.038461538461538464  , 1                   
+ve                            , 0.038461538461538464  , 1                   
+veces                         , 0.07692307692307693  , 2                   
+vecinos                       , 0.038461538461538464  , 1                   
+veinte                        , 0.038461538461538464  , 1                   
+velocidad                     , 0.038461538461538464  , 1                   
+veloz                         , 0.038461538461538464  , 1                   
+vendedor                      , 0.038461538461538464  , 1                   
+venidas                       , 0.038461538461538464  , 1                   
+ver                           , 0.07692307692307693  , 2                   
+verano                        , 0.038461538461538464  , 1                   
+vergã¼enza                    , 0.07692307692307693  , 2                   
+vertical                      , 0.038461538461538464  , 1                   
+vestimenta                    , 0.038461538461538464  , 1                   
+vez                           , 0.038461538461538464  , 1                   
+viajeros                      , 0.038461538461538464  , 1                   
+viajes                        , 0.038461538461538464  , 1                   
+vida                          , 0.11538461538461539  , 3                   
+video                         , 0.07692307692307693  , 2                   
+videos                        , 0.038461538461538464  , 1                   
+videovigilancia               , 0.038461538461538464  , 1                   
+vigilan                       , 0.038461538461538464  , 1                   
+vigilancia                    , 0.46153846153846156  , 12                  
+vigilando                     , 0.07692307692307693  , 2                   
+virtuales                     , 0.038461538461538464  , 1                   
+virus                         , 0.038461538461538464  , 1                   
+visitar                       , 0.038461538461538464  , 1                   
+visiã³n                       , 0.038461538461538464  , 1                   
+visten                        , 0.038461538461538464  , 1                   
+vive                          , 0.038461538461538464  , 1                   
+vocera                        , 0.038461538461538464  , 1                   
+volver                        , 0.2692307692307692  , 7                   
+voz                           , 0.038461538461538464  , 1                   
+vuelto                        , 0.038461538461538464  , 1                   
+vuelva                        , 0.038461538461538464  , 1                   
+vuelve                        , 0.07692307692307693  , 2                   
+vãlida                        , 0.038461538461538464  , 1                   
+wen                           , 0.038461538461538464  , 1                   
+whatsapp                      , 0.11538461538461539  , 3                   
+window                        , 0.07692307692307693  , 2                   
+wuhu                          , 0.038461538461538464  , 1                   
+xi                            , 0.07692307692307693  , 2                   
+xiangyang                     , 0.19230769230769232  , 5                   
+yangli                        , 0.038461538461538464  , 1                   
+yitu                          , 0.15384615384615385  , 4                   
+york                          , 0.46153846153846156  , 12                  
+yue                           , 0.07692307692307693  , 2                   
+zedong                        , 0.038461538461538464  , 1                   
+zhang                         , 0.11538461538461539  , 3                   
+zhengzhou                     , 0.19230769230769232  , 5                   
+âcuatro                       , 0.038461538461538464  , 1                   
+âentre                        , 0.038461538461538464  , 1                   
+âgracias                      , 0.038461538461538464  , 1                   
+âno                           , 0.038461538461538464  , 1                   
+âquã                          , 0.038461538461538464  , 1                   
+âœa                           , 0.038461538461538464  , 1                   
+âœel                          , 0.15384615384615385  , 4                   
+âœen                          , 0.038461538461538464  , 1                   
+âœeres                        , 0.038461538461538464  , 1                   
+âœesta                        , 0.038461538461538464  , 1                   
+âœla                          , 0.038461538461538464  , 1                   
+âœlas                         , 0.038461538461538464  , 1                   
+âœsi                          , 0.07692307692307693  , 2                   
+äæ                            , 0.07692307692307693  , 2                   

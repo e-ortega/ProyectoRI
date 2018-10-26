@@ -1,1307 +1,1318 @@
-menu,0.015625,1
-inicio,0.015625,1
-ecosistemas,0.609375,39
-definición,0.015625,1
-tipos,0.078125,5
-artículos,0.046875,3
-vocabulario,0.015625,1
-zonas,0.28125,18
-protegidas,0.15625,10
-parques,0.078125,5
-nacionales,0.0625,4
-reservas,0.109375,7
-biológicas,0.03125,2
-naturales,0.140625,9
-privadas,0.046875,3
-forestales,0.015625,1
-absolutas,0.015625,1
-humedales,0.0625,4
-protectoras,0.03125,2
-refugios,0.046875,3
-vida,0.203125,13
-silvestre,0.1875,12
-indígenas,0.046875,3
-etnias,0.03125,2
-toponimia,0.03125,2
-biodiversidad,0.1875,12
-algas,0.03125,2
-anfibios,0.078125,5
-árboles,0.0625,4
-artrópodos,0.03125,2
-aves,0.109375,7
-equinodermos,0.03125,2
-gusanos,0.03125,2
-helechos,0.03125,2
-mamíferos,0.078125,5
-moluscos,0.03125,2
-musgos,0.046875,3
-peces,0.0625,4
-plantas,0.078125,5
-reptiles,0.078125,5
-blog,0.078125,5
-miércoles,0.015625,1
-16,0.015625,1
-abril,0.078125,5
-2014,0.046875,3
-zona,0.15625,10
-protectora,0.078125,5
-tablas,0.109375,7
-costa,0.578125,37
-rica,0.546875,35
-necesita,0.109375,7
-especies,0.359375,23
-creada,0.03125,2
-decreto,0.03125,2
-ley,0.015625,1
-nº,0.03125,2
-6638,0.015625,1
-30,0.015625,1
-septiembre,0.03125,2
-1981,0.015625,1
-convertido,0.015625,1
-refugio,0.15625,10
-parte,0.046875,3
-parque,0.0625,4
-internacional,0.015625,1
-amistad,0.03125,2
-lugares,0.046875,3
-biodiversos,0.03125,2
-mundo,0.046875,3
-creó,0.015625,1
-tenía,0.015625,1
-10000,0.015625,1
-hectáreas,0.03125,2
-posteriormente,0.015625,1
-22,0.03125,2
-febrero,0.046875,3
-1982,0.015625,1
-área,0.1875,12
-amplió,0.015625,1
-19602,0.015625,1
-encuentra,0.03125,2
-extremo,0.015625,1
-oriental,0.015625,1
-vertiente,0.015625,1
-pacífica,0.03125,2
-cordillera,0.046875,3
-talamanca,0.015625,1
-distrito,0.015625,1
-segundo,0.015625,1
-cantón,0.015625,1
-coto,0.015625,1
-brus,0.015625,1
-provincia,0.015625,1
-puntarenas,0.015625,1
-húmeda,0.015625,1
-cuenta,0.0625,4
-ríos,0.09375,6
-proveen,0.015625,1
-suministro,0.015625,1
-agua,0.0625,4
-residentes,0.015625,1
-cercana,0.015625,1
-región,0.03125,2
-san,0.0625,4
-vito,0.046875,3
-fundamental,0.03125,2
-preservar,0.03125,2
-cuencas,0.03125,2
-hidrográficas,0.03125,2
-utilización,0.015625,1
-potencial,0.015625,1
-hidroeléctrico,0.015625,1
-pueda,0.015625,1
-generar,0.015625,1
-dada,0.015625,1
-abrupta,0.015625,1
-topografía,0.015625,1
-está,0.015625,1
-drenada,0.015625,1
-río,0.296875,19
-cotón,0.046875,3
-red,0.015625,1
-hidrográfica,0.015625,1
-formada,0.03125,2
-cedro,0.03125,2
-gemelos,0.015625,1
-cotito,0.015625,1
-hamaca,0.015625,1
-suray,0.015625,1
-bellavista,0.015625,1
-unen,0.015625,1
-margen,0.03125,2
-derecha,0.015625,1
-abrupto,0.015625,1
-izquierdo,0.015625,1
-impide,0.015625,1
-formación,0.015625,1
-afluentes,0.015625,1
-presentes,0.015625,1
-encuentran,0.0625,4
-bosque,1.0,64
-húmedo,0.25,16
-premontano,0.140625,9
-montano,0.125,8
-pluvial,0.09375,6
-flora,0.09375,6
-destacada,0.03125,2
-aguacatillo,0.015625,1
-amarillón,0.015625,1
-campano,0.015625,1
-candelillo,0.015625,1
-dulce,0.078125,5
-cerillo,0.03125,2
-ciprés,0.015625,1
-lorito,0.015625,1
-encino,0.015625,1
-esfagno,0.015625,1
-fruta,0.015625,1
-dorada,0.015625,1
-ira,0.015625,1
-rosa,0.03125,2
-maría,0.03125,2
-madroño,0.015625,1
-quina,0.015625,1
-quizarrá,0.015625,1
-roble,0.046875,3
-copey,0.015625,1
-iraza,0.015625,1
-borucas,0.015625,1
-tirrá,0.015625,1
-igualmente,0.015625,1
-troncos,0.015625,1
-cargados,0.015625,1
-epífitas,0.015625,1
-bromelias,0.015625,1
-fauna,0.09375,6
-terrestre,0.015625,1
-armadillo,0.015625,1
-armado,0.015625,1
-zopilote,0.03125,2
-cariblanco,0.015625,1
-cabro,0.015625,1
-monte,0.046875,3
-conejo,0.015625,1
-danta,0.015625,1
-ceibita,0.015625,1
-manigordo,0.015625,1
-jaguar,0.03125,2
-puma,0.015625,1
-caucel,0.015625,1
-león,0.015625,1
-breñero,0.015625,1
-tigrillo,0.015625,1
-mapachín,0.015625,1
-martilla,0.015625,1
-mono,0.046875,3
-congo,0.015625,1
-colorado,0.03125,2
-carablanca,0.015625,1
-nutria,0.015625,1
-perro,0.015625,1
-puerco,0.015625,1
-espín,0.015625,1
-pizote,0.015625,1
-perezoso,0.03125,2
-dedos,0.03125,2
-tres,0.046875,3
-tolomucos,0.015625,1
-saínos,0.015625,1
-venados,0.015625,1
-zorrillo,0.015625,1
-hediondo,0.015625,1
-forman,0.015625,1
-extenso,0.015625,1
-águila,0.046875,3
-harpía,0.015625,1
-crestada,0.015625,1
-solitaria,0.015625,1
-codorniz,0.015625,1
-moteada,0.015625,1
-capitán,0.015625,1
-cocora,0.015625,1
-colibrí,0.046875,3
-volcanero,0.03125,2
-garganta,0.03125,2
-fuego,0.03125,2
-gavilán,0.015625,1
-colirrojo,0.015625,1
-halcón,0.015625,1
-pechiscastaño,0.015625,1
-junco,0.015625,1
-lechucita,0.015625,1
-serranera,0.015625,1
-paloma,0.015625,1
-collareja,0.015625,1
-pava,0.015625,1
-negra,0.015625,1
-perico,0.015625,1
-aliamarillo,0.015625,1
-periquito,0.015625,1
-listado,0.015625,1
-tucancillo,0.015625,1
-verde,0.046875,3
-viuda,0.015625,1
-roja,0.015625,1
-cabecirrojo,0.015625,1
-panterpe,0.015625,1
-insignis,0.015625,1
-hay,0.03125,2
-visita,0.015625,1
-complicada,0.015625,1
-difícil,0.015625,1
-acceso,0.015625,1
-visitantes,0.015625,1
-tendrían,0.015625,1
-camino,0.015625,1
-tierra,0.015625,1
-une,0.015625,1
-lucha,0.015625,1
-publicat,0.015625,1
-per,0.015625,1
-0254,0.015625,1
-enviar,0.015625,1
-correo,0.015625,1
-electrónico,0.015625,1
-blogthis,0.015625,1
-compartir,0.046875,3
-twitter,0.015625,1
-facebook,0.015625,1
-pinterest,0.015625,1
-etiquetes,0.015625,1
-comentaris,0.015625,1
-comentario,0.03125,2
-17,0.03125,2
-0627,0.015625,1
-estimado,0.015625,1
-blogger,0.03125,2
-natalia,0.03125,2
-responsable,0.015625,1
-comunicación,0.015625,1
-paperblog,0.046875,3
-haberlo,0.015625,1
-descubierto,0.015625,1
-pongo,0.015625,1
-contacto,0.015625,1
-invitarte,0.015625,1
-conocer,0.046875,3
-proyecto,0.03125,2
-httpespaperblogcom,0.015625,1
-nuevo,0.03125,2
-servicio,0.015625,1
-periodismo,0.015625,1
-ciudadano,0.015625,1
-plataforma,0.015625,1
-digital,0.015625,1
-revista,0.015625,1
-blogs,0.03125,2
-da,0.03125,2
-mejores,0.015625,1
-inscritos,0.015625,1
-concepto,0.015625,1
-interesa,0.015625,1
-tienes,0.015625,1
-proponer,0.015625,1
-participar,0.015625,1
-estarían,0.015625,1
-acompañados,0.015625,1
-nombreseudónimo,0.015625,1
-ficha,0.015625,1
-perfil,0.015625,1
-además,0.015625,1
-vínculos,0.015625,1
-original,0.015625,1
-principio,0.015625,1
-final,0.015625,1
-interesantes,0.015625,1
-podrán,0.015625,1
-seleccionados,0.015625,1
-equipo,0.015625,1
-aparecer,0.015625,1
-portada,0.015625,1
-podrás,0.015625,1
-seleccionado,0.015625,1
-autor,0.015625,1
-día,0.046875,3
-espero,0.015625,1
-motive,0.015625,1
-iniciamos,0.015625,1
-ilusión,0.015625,1
-enero,0.03125,2
-2010,0.015625,1
-échale,0.015625,1
-ojo,0.015625,1
-dudes,0.015625,1
-escribirme,0.015625,1
-detalles,0.015625,1
-recibe,0.015625,1
-cordial,0.015625,1
-afectuoso,0.015625,1
-saludo,0.015625,1
-responder,0.015625,1
-eliminar,0.015625,1
-agregar,0.015625,1
-cargar,0.015625,1
-entrada,0.046875,3
-reciente,0.015625,1
-antigua,0.015625,1
-página,0.015625,1
-principal,0.078125,5
-suscribirse,0.015625,1
-comentarios,0.015625,1
-atom,0.015625,1
-establecer,0.03125,2
-clasificación,0.0625,4
-tarea,0.03125,2
-fácil,0.03125,2
-son,0.171875,11
-unidades,0.046875,3
-discretas,0.03125,2
-existen,0.0625,4
-transición,0.03125,2
-producto,0.046875,3
-cambios,0.125,8
-diferentes,0.140625,9
-variables,0.03125,2
-abióticas,0.03125,2
-científicos,0.03125,2
-han,0.03125,2
-establecido,0.03125,2
-sistemas,0.03125,2
-terrestres,0.046875,3
-utilizando,0.03125,2
-diversos,0.03125,2
-parámetros,0.03125,2
-bióticos,0.03125,2
-abióticos,0.015625,1
-utilizados,0.015625,1
-existe,0.015625,1
-pués,0.015625,1
-sistema,0.03125,2
-oficial,0.015625,1
-único,0.03125,2
-país,0.078125,5
-lista,0.015625,1
-pisos,0.015625,1
-altitudinales,0.015625,1
-acantilados,0.015625,1
-arrecifes,0.078125,5
-coral,0.046875,3
-arrozal,0.015625,1
-dominio,0.015625,1
-quercus,0.015625,1
-oleoides,0.015625,1
-galería,0.015625,1
-santa,0.03125,2
-yolillo,0.015625,1
-deciduo,0.046875,3
-bajura,0.09375,6
-intermedio,0.015625,1
-ombrófilo,0.078125,5
-semideciduo,0.09375,6
-mixto,0.109375,7
-anegado,0.015625,1
-estacional,0.09375,6
-pino,0.015625,1
-nublado,0.015625,1
-nuboso,0.03125,2
-pantanoso,0.140625,9
-inundado,0.015625,1
-periodicamente,0.015625,1
-ocasional,0.015625,1
-ribereño,0.015625,1
-seco,0.140625,9
-basal,0.03125,2
-transicional,0.015625,1
-secundario,0.015625,1
-tardío,0.015625,1
-tierras,0.03125,2
-bajas,0.015625,1
-costeras,0.03125,2
-elevadas,0.03125,2
-tropical,0.640625,41
-sequía,0.015625,1
-baja,0.125,8
-altitud,0.03125,2
-hidrófilo,0.015625,1
-alta,0.078125,5
-montaña,0.0625,4
-lluvioso,0.046875,3
-aluvial,0.046875,3
-dominado,0.140625,9
-palmas,0.03125,2
-arbustivo,0.03125,2
-rocosa,0.015625,1
-ecosistema,0.015625,1
-urbano,0.015625,1
-subterráneos,0.015625,1
-estanques,0.015625,1
-estepa,0.015625,1
-edáfica,0.015625,1
-arbustiva,0.046875,3
-estuarios,0.015625,1
-herbazal,0.09375,6
-matorral,0.140625,9
-espinoso,0.03125,2
-arbolado,0.0625,4
-gramíneas,0.078125,5
-denso,0.125,8
-ralo,0.046875,3
-lagos,0.015625,1
-pantanos,0.015625,1
-lagunas,0.03125,2
-canales,0.03125,2
-costeros,0.046875,3
-residuales,0.03125,2
-llanura,0.015625,1
-manglar,0.046875,3
-helecho,0.015625,1
-holillo,0.015625,1
-mangles,0.015625,1
-pantano,0.03125,2
-herbáceo,0.015625,1
-carrizal,0.015625,1
-typha,0.015625,1
-páramo,0.03125,2
-subalpino,0.03125,2
-plantación,0.15625,10
-arbolada,0.03125,2
-café,0.03125,2
-arbórea,0.09375,6
-maderable,0.03125,2
-pochote,0.015625,1
-teca,0.015625,1
-banano,0.03125,2
-jaúl,0.015625,1
-melina,0.015625,1
-frutal,0.03125,2
-palma,0.015625,1
-coníferas,0.015625,1
-herbácea,0.03125,2
-caña,0.015625,1
-azúcar,0.015625,1
-playas,0.046875,3
-arenosas,0.015625,1
-dunas,0.015625,1
-fangosas,0.015625,1
-potrero,0.03125,2
-pradera,0.015625,1
-pastos,0.015625,1
-marinos,0.046875,3
-robledal,0.015625,1
-sabana,0.078125,5
-abierta,0.015625,1
-altura,0.015625,1
-selva,0.109375,7
-meseta,0.015625,1
-ondulada,0.015625,1
-accidentada,0.015625,1
-escarpada,0.015625,1
-suelos,0.015625,1
-aluviales,0.015625,1
-drenados,0.03125,2
-igapoide,0.015625,1
-terrenos,0.03125,2
-sedimentarios,0.015625,1
-mal,0.015625,1
-tacotal,0.015625,1
-turbera,0.015625,1
-vegetación,0.015625,1
-berma,0.015625,1
-enlaces,0.015625,1
-consultados,0.015625,1
-espec,0.015625,1
-nacional,0.234375,15
-volcán,0.171875,11
-arenal,0.109375,7
-especie,0.015625,1
-especi,0.015625,1
-81,0.03125,2
-seguidores,0.015625,1
-únete,0.03125,2
-regiones,0.03125,2
-destinadas,0.015625,1
-gran,0.0625,4
-importancia,0.09375,6
-protección,0.09375,6
-conservación,0.046875,3
-variedad,0.015625,1
-afectados,0.015625,1
-ocupación,0.015625,1
-humana,0.015625,1
-diversas,0.015625,1
-científica,0.015625,1
-poseen,0.015625,1
-paisaje,0.03125,2
-natural,0.09375,6
-espectacular,0.03125,2
-belleza,0.03125,2
-permitir,0.015625,1
-paso,0.03125,2
-turismo,0.046875,3
-general,0.015625,1
-vigilancia,0.015625,1
-restricciones,0.015625,1
-oportunas,0.015625,1
-reserva,0.265625,17
-biológica,0.03125,2
-especialmente,0.015625,1
-protegida,0.015625,1
-alto,0.03125,2
-esencialmente,0.03125,2
-inalteradas,0.015625,1
-decir,0.046875,3
-hechos,0.03125,2
-hombre,0.03125,2
-contienen,0.046875,3
-delicados,0.03125,2
-proceso,0.03125,2
-ecológico,0.03125,2
-sigue,0.0625,4
-curso,0.03125,2
-naturaleza,0.125,8
-marítimas,0.015625,1
-privada,0.03125,2
-vital,0.015625,1
-manos,0.015625,1
-cuyo,0.015625,1
-objetivo,0.046875,3
-recursos,0.046875,3
-promover,0.015625,1
-crecimiento,0.03125,2
-sostenible,0.0625,4
-amigable,0.015625,1
-medio,0.046875,3
-ambiente,0.0625,4
-funcionan,0.015625,1
-amortiguación,0.015625,1
-permite,0.015625,1
-libre,0.015625,1
-circulación,0.015625,1
-convierten,0.015625,1
-islas,0.015625,1
-forestal,0.21875,14
-inalterada,0.015625,1
-privados,0.015625,1
-geográfica,0.0625,4
-posee,0.03125,2
-marinocosteros,0.03125,2
-combinación,0.015625,1
-fines,0.015625,1
-principales,0.0625,4
-serán,0.03125,2
-investigación,0.015625,1
-incremento,0.015625,1
-manejo,0.0625,4
-silvestres,0.015625,1
-especial,0.046875,3
-encuentren,0.015625,1
-vías,0.015625,1
-extinción,0.03125,2
-efectos,0.015625,1
-clasificarlos,0.015625,1
-clases,0.015625,1
-propiedad,0.046875,3
-estatal,0.015625,1
-mixta,0.015625,1
-humedal,0.0625,4
-contiene,0.015625,1
-dependencia,0.015625,1
-regímenes,0.03125,2
-acuáticos,0.03125,2
-artificiales,0.015625,1
-permanentes,0.015625,1
-temporales,0.015625,1
-lénticos,0.015625,1
-lóticos,0.015625,1
-dulces,0.015625,1
-salobres,0.015625,1
-salados,0.015625,1
-incluyendo,0.015625,1
-extensiones,0.015625,1
-marinas,0.046875,3
-límite,0.03125,2
-posterior,0.015625,1
-fanerógamas,0.015625,1
-ausencia,0.015625,1
-seis,0.015625,1
-metros,0.015625,1
-profundidad,0.015625,1
-marea,0.015625,1
-cuya,0.015625,1
-función,0.015625,1
-dichos,0.015625,1
-asegurar,0.015625,1
-mantenimiento,0.046875,3
-funciones,0.015625,1
-ecológicas,0.015625,1
-provisión,0.015625,1
-bienes,0.015625,1
-servicios,0.046875,3
-ambientales,0.046875,3
-bosques,0.046875,3
-aptitud,0.015625,1
-sea,0.015625,1
-regulación,0.015625,1
-régimen,0.03125,2
-hidrológico,0.015625,1
-suelo,0.03125,2
-marina,0.109375,7
-costera,0.03125,2
-yu,0.03125,2
-oceánica,0.0625,4
-prioritariamente,0.015625,1
-garantizan,0.015625,1
-integridad,0.015625,1
-viabilidad,0.015625,1
-beneficiando,0.015625,1
-comunidades,0.03125,2
-humanas,0.015625,1
-mediante,0.015625,1
-caracterizado,0.015625,1
-impacto,0.015625,1
-criterios,0.015625,1
-técnicos,0.015625,1
-conservar,0.03125,2
-hábitat,0.015625,1
-objeto,0.015625,1
-actividades,0.015625,1
-garantizar,0.03125,2
-plazo,0.015625,1
-generan,0.015625,1
-flujo,0.015625,1
-productos,0.046875,3
-objetivos,0.015625,1
-orden,0.015625,1
-jerárquico,0.015625,1
-siguientes,0.015625,1
-oceánicos,0.015625,1
-nivel,0.015625,1
-genes,0.015625,1
-mantener,0.015625,1
-atributos,0.015625,1
-culturales,0.015625,1
-tradicionales,0.015625,1
-monumento,0.046875,3
-elementos,0.03125,2
-cantonal,0.015625,1
-consisten,0.015625,1
-objetos,0.015625,1
-carácter,0.015625,1
-excepcional,0.015625,1
-escénica,0.015625,1
-científico,0.015625,1
-resuelve,0.015625,1
-incorporarlos,0.015625,1
-creados,0.015625,1
-ministerio,0.015625,1
-energía,0.015625,1
-administrados,0.015625,1
-municipalidades,0.015625,1
-respectivas,0.015625,1
-archivo,0.015625,1
-2018,0.03125,2
-104,0.015625,1
-agosto,0.078125,5
-19,0.015625,1
-julio,0.078125,5
-20,0.03125,2
-junio,0.03125,2
-13,0.03125,2
-mayo,0.046875,3
-26,0.015625,1
-2016,0.015625,1
-2015,0.015625,1
-49,0.015625,1
-diciembre,0.03125,2
-28,0.03125,2
-taboga,0.03125,2
-cureña,0.03125,2
-cerro,0.125,8
-jardín,0.03125,2
-santos,0.03125,2
-pacuarematina,0.03125,2
-volcánica,0.015625,1
-central,0.03125,2
-pacuare,0.03125,2
-emergencia,0.015625,1
-absoluta,0.03125,2
-nicolás,0.03125,2
-wessberg,0.03125,2
-cabo,0.03125,2
-blanco,0.046875,3
-hacienda,0.0625,4
-vie,0.015625,1
-camaronal,0.03125,2
-palustrino,0.015625,1
-corral,0.03125,2
-piedra,0.03125,2
-conchal,0.03125,2
-lacustrillo,0.03125,2
-cañas,0.03125,2
-golfo,0.03125,2
-térraba,0.03125,2
-sierpe,0.03125,2
-montes,0.046875,3
-submarinos,0.03125,2
-macho,0.03125,2
-limonci,0.015625,1
-grecia,0.03125,2
-guayabo,0.046875,3
-bahía,0.015625,1
-junquillal,0.03125,2
-estación,0.0625,4
-experimental,0.03125,2
-horizontes,0.03125,2
-cipancí,0.03125,2
-maquenque,0.046875,3
-corredor,0.03125,2
-fronte,0.015625,1
-marzo,0.03125,2
-2012,0.015625,1
-101,0.015625,1
-noviembre,0.03125,2
-50,0.015625,1
-12,0.015625,1
-2011,0.015625,1
-73,0.015625,1
-14,0.03125,2
-octubre,0.015625,1
-18,0.015625,1
-31,0.015625,1
-problemas,0.015625,1
-ecológicos,0.015625,1
-captura,0.03125,2
-décadas,0.015625,1
-media,0.015625,1
-bajado,0.015625,1
-pargo,0.015625,1
-seda,0.015625,1
-cabrilla,0.015625,1
-pelágicos,0.015625,1
-pez,0.03125,2
-vela,0.015625,1
-dorado,0.015625,1
-espada,0.015625,1
-producción,0.015625,1
-camarón,0.015625,1
-descendido,0.015625,1
-sostenidamente,0.015625,1
-1984,0.015625,1
-capturan,0.015625,1
-niveles,0.015625,1
-históricos,0.015625,1
-mas,0.015625,1
-bajos,0.015625,1
-conocidos,0.015625,1
-pesca,0.015625,1
-excesiva,0.015625,1
-veces,0.015625,1
-ilegal,0.0625,4
-causa,0.015625,1
-problema,0.015625,1
-amenaza,0.015625,1
-cambio,0.0625,4
-lluvia,0.03125,2
-afectan,0.015625,1
-poblaciones,0.03125,2
-insectos,0.03125,2
-fuente,0.015625,1
-alimento,0.015625,1
-animales,0.03125,2
-períodos,0.015625,1
-intensos,0.015625,1
-terreno,0.015625,1
-inunda,0.015625,1
-erosiona,0.015625,1
-caen,0.015625,1
-afectando,0.015625,1
-ejemplo,0.046875,3
-población,0.03125,2
-monos,0.015625,1
-amenazadas,0.078125,5
-exinten,0.015625,1
-cantidad,0.015625,1
-reducidas,0.015625,1
-catalogadas,0.015625,1
-peligro,0.078125,5
-primeras,0.015625,1
-incluyen,0.015625,1
-1642,0.015625,1
-grupos,0.015625,1
-corales,0.015625,1
-arañas,0.015625,1
-88,0.015625,1
-exintinción,0.015625,1
-32,0.015625,1
-orquídeas,0.015625,1
-comercio,0.046875,3
-casos,0.015625,1
-lacra,0.015625,1
-comercializa,0.015625,1
-subproductoshay,0.015625,1
-1700,0.015625,1
-extintas,0.03125,2
-consideran,0.015625,1
-ollotis,0.03125,2
-periglenes,0.015625,1
-holdridgei,0.015625,1
-craugastor,0.015625,1
-escoces,0.015625,1
-10,0.015625,1
-años,0.03125,2
-constancia,0.015625,1
-número,0.015625,1
-aumenta,0.015625,1
-patrón,0.015625,1
-irregular,0.03125,2
-arribada,0.015625,1
-tortugas,0.046875,3
-lora,0.015625,1
-arribadas,0.015625,1
-tipo,0.03125,2
-producen,0.015625,1
-ahora,0.015625,1
-anualmente,0.015625,1
-vez,0.03125,2
-estacionales,0.015625,1
-conflictos,0.015625,1
-aumento,0.09375,6
-urbanas,0.015625,1
-debido,0.015625,1
-basureros,0.015625,1
-contaminación,0.046875,3
-cultivos,0.03125,2
-destrucción,0.015625,1
-hábitatsproduce,0.015625,1
-invasiónes,0.015625,1
-ataques,0.015625,1
-frecuentes,0.015625,1
-cocodrilos,0.03125,2
-serpientes,0.015625,1
-agrícolas,0.015625,1
-conlleva,0.015625,1
-cautiverio,0.015625,1
-calentamiento,0.046875,3
-global,0.03125,2
-climático,0.046875,3
-estriba,0.015625,1
-transformación,0.015625,1
-guanacaste,0.03125,2
-serían,0.015625,1
-secos,0.015625,1
-calientes,0.015625,1
-desencadena,0.015625,1
-serie,0.015625,1
-eventos,0.015625,1
-biológicos,0.015625,1
-favorecer,0.015625,1
-desfavorecer,0.015625,1
-tamaño,0.015625,1
-poblacional,0.015625,1
-reducción,0.015625,1
-calidad,0.015625,1
-hojarasca,0.015625,1
-sexo,0.015625,1
-caimanes,0.015625,1
-sitios,0.015625,1
-anidamiento,0.015625,1
-machos,0.015625,1
-disminución,0.03125,2
-ranas,0.015625,1
-lagartijas,0.015625,1
-días,0.015625,1
-neblina,0.015625,1
-ubicación,0.015625,1
-algunas,0.015625,1
-desgaste,0.015625,1
-inadecuado,0.015625,1
-agroquímicos,0.015625,1
-industrias,0.015625,1
-descargas,0.015625,1
-aguas,0.03125,2
-tratamiento,0.015625,1
-contaminan,0.015625,1
-mantos,0.015625,1
-acuíferos,0.03125,2
-grado,0.015625,1
-ocasiones,0.015625,1
-seriamente,0.015625,1
-amenazados,0.015625,1
-deforestación,0.03125,2
-protege,0.015625,1
-territorio,0.015625,1
-destruyendo,0.015625,1
-quebrando,0.015625,1
-legislación,0.015625,1
-queda,0.015625,1
-corta,0.015625,1
-aumentar,0.015625,1
-carreteras,0.015625,1
-potreros,0.015625,1
-desarrollo,0.015625,1
-turístico,0.015625,1
-descontrolado,0.015625,1
-producir,0.015625,1
-alteraciones,0.015625,1
-costarricenses,0.0625,4
-manglares,0.015625,1
-caza,0.03125,2
-jaguares,0.03125,2
-causas,0.015625,1
-disponibilidad,0.015625,1
-presas,0.015625,1
-chancho,0.015625,1
-cacería,0.015625,1
-obliga,0.015625,1
-felinos,0.015625,1
-buscar,0.015625,1
-comida,0.015625,1
-ganado,0.015625,1
-fincas,0.015625,1
-suele,0.015625,1
-ocasionar,0.015625,1
-muerte,0.015625,1
-saíno,0.015625,1
-condicionado,0.015625,1
-comunidad,0.015625,1
-google,0.015625,1
-ballena,0.015625,1
-barbilla,0.015625,1
-barra,0.03125,2
-honda,0.015625,1
-braulio,0.015625,1
-carrillo,0.015625,1
-cahuita,0.015625,1
-carara,0.015625,1
-chirripó,0.015625,1
-corcovado,0.015625,1
-diriá,0.015625,1
-isla,0.125,8
-coco,0.03125,2
-juan,0.015625,1
-castro,0.03125,2
-cangreja,0.015625,1
-baulas,0.015625,1
-quetzales,0.015625,1
-manuel,0.03125,2
-antonio,0.015625,1
-palo,0.015625,1
-piedras,0.015625,1
-blancas,0.03125,2
-rincón,0.015625,1
-vieja,0.015625,1
-tapantí,0.015625,1
-tortuguero,0.03125,2
-irazú,0.03125,2
-poás,0.015625,1
-tenorio,0.03125,2
-turrialba,0.015625,1
-alberto,0.015625,1
-brenes,0.015625,1
-vueltas,0.015625,1
-hitoy,0.015625,1
-cerere,0.015625,1
-caño,0.03125,2
-negritos,0.015625,1
-pájaros,0.015625,1
-lomas,0.015625,1
-bardubal,0.015625,1
-monteverde,0.03125,2
-dantica,0.015625,1
-rubén,0.015625,1
-torres,0.015625,1
-rojas,0.015625,1
-archie,0.015625,1
-carr,0.015625,1
-alegre,0.015625,1
-caletas,0.015625,1
-arío,0.015625,1
-negro,0.015625,1
-cataratas,0.03125,2
-redondo,0.015625,1
-dantas,0.015625,1
-fronterizo,0.015625,1
-curú,0.015625,1
-donald,0.015625,1
-peters,0.015625,1
-hayes,0.015625,1
-dr,0.015625,1
-rafael,0.015625,1
-lucas,0.03125,2
-rodríguez,0.015625,1
-caballero,0.015625,1
-fernando,0.015625,1
-cervantes,0.015625,1
-golfito,0.03125,2
-gandoca,0.015625,1
-manzanillo,0.015625,1
-barú,0.015625,1
-copano,0.015625,1
-viejo,0.015625,1
-iguanita,0.015625,1
-bolaños,0.015625,1
-ensenada,0.015625,1
-marta,0.015625,1
-camelias,0.015625,1
-limoncito,0.015625,1
-mata,0.015625,1
-redonda,0.015625,1
-ostional,0.015625,1
-pejeperro,0.015625,1
-peñas,0.015625,1
-playa,0.015625,1
-hermosa,0.015625,1
-punta,0.03125,2
-mala,0.015625,1
-preciosa,0.015625,1
-platanares,0.015625,1
-claro,0.015625,1
-rancho,0.015625,1
-merced,0.015625,1
-tamarindo,0.015625,1
-tespisque,0.015625,1
-safari,0.015625,1
-adventures,0.015625,1
-tigre,0.015625,1
-paz,0.03125,2
-eterno,0.015625,1
-niños,0.015625,1
-esquinas,0.015625,1
-chachagua,0.015625,1
-laguna,0.109375,7
-lagarto,0.015625,1
-ángeles,0.015625,1
-tiskita,0.015625,1
-abangares,0.03125,2
-guácimopococí,0.015625,1
-caraigres,0.015625,1
-atenas,0.015625,1
-cruz,0.015625,1
-nara,0.015625,1
-cerros,0.03125,2
-escazú,0.015625,1
-carpintera,0.015625,1
-cuenca,0.0625,4
-siquirres,0.015625,1
-tuis,0.015625,1
-chayote,0.015625,1
-rodeo,0.015625,1
-montealto,0.015625,1
-oro,0.015625,1
-península,0.03125,2
-nicoya,0.015625,1
-quebrada,0.015625,1
-rosario,0.015625,1
-grande,0.015625,1
-navarro,0.015625,1
-sombrero,0.015625,1
-tiribí,0.015625,1
-toro,0.015625,1
-tivives,0.015625,1
-miravalles,0.015625,1
-cariari,0.015625,1
-caribe,0.03125,2
-noreste,0.015625,1
-lacustrino,0.03125,2
-bonilla,0.015625,1
-bonillita,0.015625,1
-tamborcito,0.015625,1
-paraguas,0.015625,1
-cuarto,0.015625,1
-madrigal,0.015625,1
-laguneta,0.015625,1
-dabagri,0.015625,1
-pejeperropejeperrito,0.015625,1
-riberino,0.015625,1
-zapandí,0.015625,1
-centro,0.015625,1
-biológico,0.015625,1
-quebradas,0.015625,1
-cruces,0.015625,1
-jardines,0.015625,1
-lankester,0.015625,1
-santuario,0.046875,3
-alturas,0.015625,1
-lapas,0.015625,1
-natuwa,0.015625,1
-perezosos,0.015625,1
-zooave,0.015625,1
-museo,0.015625,1
-pieza,0.015625,1
-clave,0.015625,1
-descubrir,0.015625,1
-mega,0.015625,1
-centroamérica,0.015625,1
-semanas,0.015625,1
-ároles,0.015625,1
-osa,0.015625,1
-bixa,0.015625,1
-orellana,0.015625,1
-achiote,0.015625,1
-meses,0.015625,1
-snit,0.015625,1
-datos,0.015625,1
-espaciales,0.015625,1
-geoportal,0.015625,1
-año,0.015625,1
-vulcanología,0.015625,1
-sismología,0.015625,1
-costarricense,0.046875,3
-visitar,0.015625,1
-áreas,0.015625,1
-patrimonio,0.03125,2
-bribri,0.015625,1
-indígena,0.015625,1
-pura,0.015625,1
-amigs,0.015625,1
-bienvenidos,0.015625,1
-considerado,0.015625,1
-países,0.015625,1
-planeta,0.015625,1
-90,0.015625,1
-mil,0.015625,1
-conocidas,0.015625,1
-aproximadamente,0.015625,1
-45,0.015625,1
-conoce,0.015625,1
-mundosi,0.015625,1
-examina,0.015625,1
-evidente,0.03125,2
-biológicamente,0.015625,1
-hablando,0.015625,1
-naciones,0.015625,1
-ricas,0.015625,1
-laderas,0.015625,1
-boscosas,0.015625,1
-volcanes,0.015625,1
-ambas,0.015625,1
-costas9000,0.015625,1
-flores,0.015625,1
-850,0.015625,1
-209,0.015625,1
-383,0.015625,1
-alrededor,0.015625,1
-2000,0.015625,1
-mariposas,0.015625,1
-4500,0.015625,1
-polillas,0.015625,1
-riqueza,0.015625,1
-impresionante,0.015625,1
-diversidad,0.015625,1
-faunaestablecer,0.015625,1
-abióticoshemos,0.015625,1
-intentado,0.015625,1
-unificar,0.015625,1
-clasificaciones,0.015625,1
-mayor,0.03125,2
-entendimiento,0.015625,1
-total,0.015625,1
-visitas,0.015625,1
-arca,0.015625,1
-océanos,0.015625,1
-voladores,0.015625,1
-primates,0.015625,1
-herbívoros,0.015625,1
-carnívoros,0.015625,1
-saurios,0.015625,1
-ofidios,0.015625,1
-quelonios,0.015625,1
-continentales,0.015625,1
-urodelos,0.015625,1
-anuros,0.015625,1
-poliplacóforos,0.015625,1
-cefalópodos,0.015625,1
-gasterópodos,0.015625,1
-escafópodos,0.015625,1
-bivalvos,0.015625,1
-miriápodos,0.015625,1
-crustáceos,0.015625,1
-arácnidos,0.015625,1
-anélidos,0.015625,1
-platelmintos,0.015625,1
-nemátodos,0.015625,1
-frutales,0.015625,1
-acuáticas,0.015625,1
-parásitas,0.015625,1
-arbustos,0.015625,1
-hierbas,0.015625,1
-biodiversa,0.015625,1
-billetes,0.015625,1
-preservacion,0.015625,1
-humanidad,0.015625,1
-fitogeográficas,0.015625,1
-salvaguardar,0.015625,1
-descubre,0.015625,1
-problemática,0.03125,2
-agalychnis,0.015625,1
-callidryas,0.015625,1
-cascada,0.015625,1
-bagaces,0.015625,1
-strelitzia,0.015625,1
-reginae,0.015625,1
-atardecer,0.015625,1
-lachesis,0.015625,1
-stenophrys,0.015625,1
-salvajes,0.015625,1
-delfines,0.015625,1
-ara,0.015625,1
-macao,0.015625,1
-amenazada,0.015625,1
-salvaje,0.015625,1
-diversa,0.015625,1
-viva,0.015625,1
-fenómeno,0.0625,4
-niño,0.0625,4
-pocas,0.015625,1
-oscilaciones,0.015625,1
-anuales,0.015625,1
-clima,0.046875,3
-explican,0.015625,1
-medida,0.015625,1
-condición,0.015625,1
-ístmica,0.015625,1
-éste,0.015625,1
-presenta,0.03125,2
-influencia,0.03125,2
-océano,0.03125,2
-pacífico,0.03125,2
-oeste,0.015625,1
-mar,0.015625,1
-implica,0.015625,1
-raíz,0.015625,1
-ve,0.015625,1
-afectado,0.015625,1
-anomalías,0.015625,1
-producidas,0.015625,1
-superficie,0.015625,1
-caso,0.015625,1
-variabilidad,0.03125,2
-interanual,0.015625,1
-temperatura,0.015625,1
-superficial,0.015625,1
-aún,0.015625,1
-climática,0.015625,1
-manera,0.015625,1
-vasto,0.015625,1
-complejo,0.015625,1
-fluctuaciones,0.015625,1
-climáticas,0.03125,2
-durante,0.03125,2
-lluviosa,0.015625,1
-período,0.015625,1
-prolongado,0.015625,1
-tomando,0.015625,1
-consideración,0.015625,1
-posibles,0.015625,1
-asociados,0.015625,1
-importante,0.015625,1
-realizar,0.015625,1
-análisis,0.015625,1
-comportamiento,0.03125,2
-climáticos,0.015625,1
-evento,0.015625,1
-síguenos,0.015625,1
-email,0.015625,1
-plantilla,0.015625,1
-tecnología,0.015625,1
+0254                          , 0.015873015873015872  , 1                   
+0627                          , 0.015873015873015872  , 1                   
+10                            , 0.015873015873015872  , 1                   
+10000                         , 0.015873015873015872  , 1                   
+101                           , 0.015873015873015872  , 1                   
+12                            , 0.015873015873015872  , 1                   
+13                            , 0.031746031746031744  , 2                   
+14                            , 0.031746031746031744  , 2                   
+16                            , 0.015873015873015872  , 1                   
+1642                          , 0.015873015873015872  , 1                   
+17                            , 0.047619047619047616  , 3                   
+1700                          , 0.015873015873015872  , 1                   
+18                            , 0.015873015873015872  , 1                   
+19602                         , 0.015873015873015872  , 1                   
+1981                          , 0.015873015873015872  , 1                   
+1982                          , 0.015873015873015872  , 1                   
+1984                          , 0.015873015873015872  , 1                   
+20                            , 0.031746031746031744  , 2                   
+2000                          , 0.015873015873015872  , 1                   
+2010                          , 0.015873015873015872  , 1                   
+2011                          , 0.015873015873015872  , 1                   
+2012                          , 0.015873015873015872  , 1                   
+2014                          , 0.047619047619047616  , 3                   
+2015                          , 0.015873015873015872  , 1                   
+2016                          , 0.015873015873015872  , 1                   
+2018                          , 0.031746031746031744  , 2                   
+209                           , 0.015873015873015872  , 1                   
+22                            , 0.031746031746031744  , 2                   
+26                            , 0.015873015873015872  , 1                   
+28                            , 0.031746031746031744  , 2                   
+30                            , 0.015873015873015872  , 1                   
+31                            , 0.015873015873015872  , 1                   
+32                            , 0.015873015873015872  , 1                   
+383                           , 0.015873015873015872  , 1                   
+45                            , 0.015873015873015872  , 1                   
+4500                          , 0.015873015873015872  , 1                   
+49                            , 0.015873015873015872  , 1                   
+50                            , 0.015873015873015872  , 1                   
+6638                          , 0.015873015873015872  , 1                   
+73                            , 0.015873015873015872  , 1                   
+81                            , 0.031746031746031744  , 2                   
+850                           , 0.015873015873015872  , 1                   
+88                            , 0.015873015873015872  , 1                   
+90                            , 0.015873015873015872  , 1                   
+98                            , 0.015873015873015872  , 1                   
+abangares                     , 0.031746031746031744  , 2                   
+abierta                       , 0.015873015873015872  , 1                   
+abiã³ticas                    , 0.031746031746031744  , 2                   
+abiã³ticos                    , 0.015873015873015872  , 1                   
+abiã³ticoshemos               , 0.015873015873015872  , 1                   
+abril                         , 0.07936507936507936  , 5                   
+abrupta                       , 0.015873015873015872  , 1                   
+abrupto                       , 0.015873015873015872  , 1                   
+absoluta                      , 0.031746031746031744  , 2                   
+absolutas                     , 0.015873015873015872  , 1                   
+acantilados                   , 0.015873015873015872  , 1                   
+acceso                        , 0.015873015873015872  , 1                   
+accidentada                   , 0.015873015873015872  , 1                   
+achiote                       , 0.015873015873015872  , 1                   
+acompaãados                   , 0.015873015873015872  , 1                   
+actividades                   , 0.015873015873015872  , 1                   
+acuãferos                     , 0.031746031746031744  , 2                   
+acuãticas                     , 0.015873015873015872  , 1                   
+acuãticos                     , 0.031746031746031744  , 2                   
+ademãs                        , 0.015873015873015872  , 1                   
+administrados                 , 0.015873015873015872  , 1                   
+afectado                      , 0.015873015873015872  , 1                   
+afectados                     , 0.015873015873015872  , 1                   
+afectan                       , 0.015873015873015872  , 1                   
+afectando                     , 0.015873015873015872  , 1                   
+afectuoso                     , 0.015873015873015872  , 1                   
+afluentes                     , 0.015873015873015872  , 1                   
+agalychnis                    , 0.015873015873015872  , 1                   
+agosto                        , 0.07936507936507936  , 5                   
+agregar                       , 0.015873015873015872  , 1                   
+agroquãmicos                  , 0.015873015873015872  , 1                   
+agrãcolas                     , 0.015873015873015872  , 1                   
+agua                          , 0.06349206349206349  , 4                   
+aguacatillo                   , 0.015873015873015872  , 1                   
+aguas                         , 0.031746031746031744  , 2                   
+ahora                         , 0.015873015873015872  , 1                   
+alberto                       , 0.015873015873015872  , 1                   
+alegre                        , 0.015873015873015872  , 1                   
+algas                         , 0.031746031746031744  , 2                   
+algunas                       , 0.015873015873015872  , 1                   
+aliamarillo                   , 0.015873015873015872  , 1                   
+alimento                      , 0.015873015873015872  , 1                   
+alrededor                     , 0.015873015873015872  , 1                   
+alta                          , 0.07936507936507936  , 5                   
+alteraciones                  , 0.015873015873015872  , 1                   
+altitud                       , 0.031746031746031744  , 2                   
+altitudinales                 , 0.015873015873015872  , 1                   
+alto                          , 0.031746031746031744  , 2                   
+altura                        , 0.015873015873015872  , 1                   
+aluvial                       , 0.047619047619047616  , 3                   
+aluviales                     , 0.015873015873015872  , 1                   
+amarillã³n                    , 0.015873015873015872  , 1                   
+ambas                         , 0.015873015873015872  , 1                   
+ambientales                   , 0.047619047619047616  , 3                   
+ambiente                      , 0.06349206349206349  , 4                   
+amenaza                       , 0.015873015873015872  , 1                   
+amenazada                     , 0.015873015873015872  , 1                   
+amenazadas                    , 0.07936507936507936  , 5                   
+amenazados                    , 0.015873015873015872  , 1                   
+amigable                      , 0.015873015873015872  , 1                   
+amigs                         , 0.015873015873015872  , 1                   
+amistad                       , 0.031746031746031744  , 2                   
+amortiguaciã³n                , 0.015873015873015872  , 1                   
+ampliã³                       , 0.015873015873015872  , 1                   
+anegado                       , 0.015873015873015872  , 1                   
+anfibios                      , 0.07936507936507936  , 5                   
+anidamiento                   , 0.015873015873015872  , 1                   
+animales                      , 0.031746031746031744  , 2                   
+anomalãas                     , 0.015873015873015872  , 1                   
+antigua                       , 0.015873015873015872  , 1                   
+antonio                       , 0.015873015873015872  , 1                   
+anuales                       , 0.015873015873015872  , 1                   
+anualmente                    , 0.015873015873015872  , 1                   
+anuros                        , 0.015873015873015872  , 1                   
+anãlidos                      , 0.015873015873015872  , 1                   
+anãlisis                      , 0.015873015873015872  , 1                   
+aparecer                      , 0.015873015873015872  , 1                   
+aproximadamente               , 0.015873015873015872  , 1                   
+aptitud                       , 0.015873015873015872  , 1                   
+ara                           , 0.015873015873015872  , 1                   
+araãas                        , 0.015873015873015872  , 1                   
+arbolada                      , 0.031746031746031744  , 2                   
+arbolado                      , 0.06349206349206349  , 4                   
+arbustiva                     , 0.047619047619047616  , 3                   
+arbustivo                     , 0.031746031746031744  , 2                   
+arbustos                      , 0.015873015873015872  , 1                   
+arbãrea                       , 0.09523809523809523  , 6                   
+arca                          , 0.015873015873015872  , 1                   
+archie                        , 0.015873015873015872  , 1                   
+archivo                       , 0.015873015873015872  , 1                   
+arenal                        , 0.1111111111111111  , 7                   
+arenosas                      , 0.015873015873015872  , 1                   
+armadillo                     , 0.015873015873015872  , 1                   
+armado                        , 0.015873015873015872  , 1                   
+arrecifes                     , 0.07936507936507936  , 5                   
+arribada                      , 0.015873015873015872  , 1                   
+arribadas                     , 0.015873015873015872  , 1                   
+arrozal                       , 0.015873015873015872  , 1                   
+artificiales                  , 0.015873015873015872  , 1                   
+artrãpodos                    , 0.015873015873015872  , 1                   
+artrã³podos                   , 0.015873015873015872  , 1                   
+artãculos                     , 0.047619047619047616  , 3                   
+arãcnidos                     , 0.015873015873015872  , 1                   
+arão                          , 0.015873015873015872  , 1                   
+asegurar                      , 0.015873015873015872  , 1                   
+asociados                     , 0.015873015873015872  , 1                   
+asã                           , 0.06349206349206349  , 4                   
+ataques                       , 0.015873015873015872  , 1                   
+atardecer                     , 0.015873015873015872  , 1                   
+atenas                        , 0.015873015873015872  , 1                   
+atom                          , 0.015873015873015872  , 1                   
+atributos                     , 0.015873015873015872  , 1                   
+aumenta                       , 0.015873015873015872  , 1                   
+aumentar                      , 0.015873015873015872  , 1                   
+aumento                       , 0.09523809523809523  , 6                   
+ausencia                      , 0.015873015873015872  , 1                   
+autor                         , 0.015873015873015872  , 1                   
+aves                          , 0.1111111111111111  , 7                   
+azãšcar                       , 0.015873015873015872  , 1                   
+aão                           , 0.015873015873015872  , 1                   
+aãos                          , 0.031746031746031744  , 2                   
+aãºn                          , 0.015873015873015872  , 1                   
+bagaces                       , 0.015873015873015872  , 1                   
+bahãa                         , 0.015873015873015872  , 1                   
+baja                          , 0.12698412698412698  , 8                   
+bajado                        , 0.015873015873015872  , 1                   
+bajas                         , 0.015873015873015872  , 1                   
+bajos                         , 0.015873015873015872  , 1                   
+bajura                        , 0.09523809523809523  , 6                   
+ballena                       , 0.015873015873015872  , 1                   
+banano                        , 0.031746031746031744  , 2                   
+barbilla                      , 0.015873015873015872  , 1                   
+bardubal                      , 0.015873015873015872  , 1                   
+barra                         , 0.031746031746031744  , 2                   
+barãš                         , 0.015873015873015872  , 1                   
+basal                         , 0.031746031746031744  , 2                   
+basureros                     , 0.015873015873015872  , 1                   
+baulas                        , 0.015873015873015872  , 1                   
+bellavista                    , 0.015873015873015872  , 1                   
+belleza                       , 0.031746031746031744  , 2                   
+beneficiando                  , 0.015873015873015872  , 1                   
+berma                         , 0.015873015873015872  , 1                   
+bienes                        , 0.015873015873015872  , 1                   
+bienvenidos                   , 0.015873015873015872  , 1                   
+billetes                      , 0.015873015873015872  , 1                   
+biodiversa                    , 0.015873015873015872  , 1                   
+biodiversidad                 , 0.19047619047619047  , 12                  
+biodiversos                   , 0.031746031746031744  , 2                   
+biolãgica                     , 0.015873015873015872  , 1                   
+biolãgico                     , 0.015873015873015872  , 1                   
+biolã³gica                    , 0.015873015873015872  , 1                   
+biolã³gicamente               , 0.015873015873015872  , 1                   
+biolã³gicas                   , 0.031746031746031744  , 2                   
+biolã³gicos                   , 0.015873015873015872  , 1                   
+bivalvos                      , 0.015873015873015872  , 1                   
+bixa                          , 0.015873015873015872  , 1                   
+biã³ticos                     , 0.031746031746031744  , 2                   
+blancas                       , 0.031746031746031744  , 2                   
+blanco                        , 0.047619047619047616  , 3                   
+blog                          , 0.07936507936507936  , 5                   
+blogger                       , 0.031746031746031744  , 2                   
+blogs                         , 0.031746031746031744  , 2                   
+blogthis                      , 0.015873015873015872  , 1                   
+bolaãos                       , 0.015873015873015872  , 1                   
+bonilla                       , 0.015873015873015872  , 1                   
+bonillita                     , 0.015873015873015872  , 1                   
+borucas                       , 0.015873015873015872  , 1                   
+boscosas                      , 0.015873015873015872  , 1                   
+bosque                        , 1.0           , 63                  
+bosques                       , 0.047619047619047616  , 3                   
+braulio                       , 0.015873015873015872  , 1                   
+brenes                        , 0.015873015873015872  , 1                   
+breãero                       , 0.015873015873015872  , 1                   
+bribri                        , 0.015873015873015872  , 1                   
+bromelias                     , 0.015873015873015872  , 1                   
+brus                          , 0.015873015873015872  , 1                   
+buscar                        , 0.015873015873015872  , 1                   
+caballero                     , 0.015873015873015872  , 1                   
+cabecirrojo                   , 0.015873015873015872  , 1                   
+cabo                          , 0.031746031746031744  , 2                   
+cabrilla                      , 0.015873015873015872  , 1                   
+cabro                         , 0.015873015873015872  , 1                   
+cacerãa                       , 0.015873015873015872  , 1                   
+caen                          , 0.015873015873015872  , 1                   
+cafã                          , 0.031746031746031744  , 2                   
+cahuita                       , 0.015873015873015872  , 1                   
+caimanes                      , 0.015873015873015872  , 1                   
+calentamiento                 , 0.047619047619047616  , 3                   
+caletas                       , 0.015873015873015872  , 1                   
+calidad                       , 0.015873015873015872  , 1                   
+calientes                     , 0.015873015873015872  , 1                   
+callidryas                    , 0.015873015873015872  , 1                   
+camaronal                     , 0.031746031746031744  , 2                   
+camarã³n                      , 0.015873015873015872  , 1                   
+cambio                        , 0.06349206349206349  , 4                   
+cambios                       , 0.12698412698412698  , 8                   
+camelias                      , 0.015873015873015872  , 1                   
+camino                        , 0.015873015873015872  , 1                   
+campano                       , 0.015873015873015872  , 1                   
+canales                       , 0.031746031746031744  , 2                   
+candelillo                    , 0.015873015873015872  , 1                   
+cangreja                      , 0.015873015873015872  , 1                   
+cantidad                      , 0.015873015873015872  , 1                   
+cantonal                      , 0.015873015873015872  , 1                   
+cantã³n                       , 0.015873015873015872  , 1                   
+capitãn                       , 0.015873015873015872  , 1                   
+captura                       , 0.031746031746031744  , 2                   
+capturan                      , 0.015873015873015872  , 1                   
+carablanca                    , 0.015873015873015872  , 1                   
+caracterizado                 , 0.015873015873015872  , 1                   
+caraigres                     , 0.015873015873015872  , 1                   
+carara                        , 0.015873015873015872  , 1                   
+cargados                      , 0.015873015873015872  , 1                   
+cargar                        , 0.015873015873015872  , 1                   
+cariari                       , 0.015873015873015872  , 1                   
+caribe                        , 0.031746031746031744  , 2                   
+cariblanco                    , 0.015873015873015872  , 1                   
+carnãvoros                    , 0.015873015873015872  , 1                   
+carpintera                    , 0.015873015873015872  , 1                   
+carr                          , 0.015873015873015872  , 1                   
+carreteras                    , 0.015873015873015872  , 1                   
+carrillo                      , 0.015873015873015872  , 1                   
+carrizal                      , 0.015873015873015872  , 1                   
+carãcter                      , 0.015873015873015872  , 1                   
+cascada                       , 0.015873015873015872  , 1                   
+caso                          , 0.015873015873015872  , 1                   
+casos                         , 0.015873015873015872  , 1                   
+castro                        , 0.031746031746031744  , 2                   
+catalogadas                   , 0.015873015873015872  , 1                   
+cataratas                     , 0.031746031746031744  , 2                   
+caucel                        , 0.015873015873015872  , 1                   
+causa                         , 0.015873015873015872  , 1                   
+causas                        , 0.015873015873015872  , 1                   
+cautiverio                    , 0.015873015873015872  , 1                   
+caza                          , 0.031746031746031744  , 2                   
+caãa                          , 0.015873015873015872  , 1                   
+caãas                         , 0.031746031746031744  , 2                   
+caão                          , 0.031746031746031744  , 2                   
+cedro                         , 0.031746031746031744  , 2                   
+cefalã³podos                  , 0.015873015873015872  , 1                   
+ceibita                       , 0.015873015873015872  , 1                   
+central                       , 0.031746031746031744  , 2                   
+centro                        , 0.015873015873015872  , 1                   
+centroamãrica                 , 0.015873015873015872  , 1                   
+cercana                       , 0.015873015873015872  , 1                   
+cerere                        , 0.015873015873015872  , 1                   
+cerillo                       , 0.031746031746031744  , 2                   
+cerro                         , 0.1111111111111111  , 7                   
+cerros                        , 0.031746031746031744  , 2                   
+cervantes                     , 0.015873015873015872  , 1                   
+chachagua                     , 0.015873015873015872  , 1                   
+chancho                       , 0.015873015873015872  , 1                   
+chayote                       , 0.015873015873015872  , 1                   
+chirripã                      , 0.015873015873015872  , 1                   
+cientãfica                    , 0.015873015873015872  , 1                   
+cientãfico                    , 0.015873015873015872  , 1                   
+cientãficos                   , 0.031746031746031744  , 2                   
+cipancã                       , 0.031746031746031744  , 2                   
+ciprãs                        , 0.015873015873015872  , 1                   
+circulaciã³n                  , 0.015873015873015872  , 1                   
+ciudadano                     , 0.015873015873015872  , 1                   
+claro                         , 0.015873015873015872  , 1                   
+clases                        , 0.015873015873015872  , 1                   
+clasificaciones               , 0.015873015873015872  , 1                   
+clasificaciã³n                , 0.06349206349206349  , 4                   
+clasificarlos                 , 0.015873015873015872  , 1                   
+clave                         , 0.015873015873015872  , 1                   
+clima                         , 0.047619047619047616  , 3                   
+climãtica                     , 0.015873015873015872  , 1                   
+climãticas                    , 0.031746031746031744  , 2                   
+climãtico                     , 0.047619047619047616  , 3                   
+climãticos                    , 0.015873015873015872  , 1                   
+coco                          , 0.031746031746031744  , 2                   
+cocodrilos                    , 0.031746031746031744  , 2                   
+cocora                        , 0.015873015873015872  , 1                   
+codorniz                      , 0.015873015873015872  , 1                   
+colibrã                       , 0.047619047619047616  , 3                   
+colirrojo                     , 0.015873015873015872  , 1                   
+collareja                     , 0.015873015873015872  , 1                   
+colorado                      , 0.031746031746031744  , 2                   
+combinaciã³n                  , 0.015873015873015872  , 1                   
+comentario                    , 0.031746031746031744  , 2                   
+comentarios                   , 0.015873015873015872  , 1                   
+comentaris                    , 0.015873015873015872  , 1                   
+comercializa                  , 0.015873015873015872  , 1                   
+comercio                      , 0.047619047619047616  , 3                   
+comida                        , 0.015873015873015872  , 1                   
+compartir                     , 0.047619047619047616  , 3                   
+complejo                      , 0.015873015873015872  , 1                   
+complicada                    , 0.015873015873015872  , 1                   
+comportamiento                , 0.031746031746031744  , 2                   
+comunicaciã³n                 , 0.015873015873015872  , 1                   
+comunidad                     , 0.015873015873015872  , 1                   
+comunidades                   , 0.031746031746031744  , 2                   
+concepto                      , 0.015873015873015872  , 1                   
+conchal                       , 0.031746031746031744  , 2                   
+condicionado                  , 0.015873015873015872  , 1                   
+condiciã³n                    , 0.015873015873015872  , 1                   
+conejo                        , 0.015873015873015872  , 1                   
+conflictos                    , 0.015873015873015872  , 1                   
+congo                         , 0.015873015873015872  , 1                   
+conlleva                      , 0.015873015873015872  , 1                   
+conoce                        , 0.015873015873015872  , 1                   
+conocer                       , 0.047619047619047616  , 3                   
+conocidas                     , 0.015873015873015872  , 1                   
+conocidos                     , 0.015873015873015872  , 1                   
+conservaciã³n                 , 0.047619047619047616  , 3                   
+conservar                     , 0.031746031746031744  , 2                   
+consideraciã³n                , 0.015873015873015872  , 1                   
+considerado                   , 0.015873015873015872  , 1                   
+consideran                    , 0.015873015873015872  , 1                   
+consisten                     , 0.015873015873015872  , 1                   
+constancia                    , 0.015873015873015872  , 1                   
+consultados                   , 0.015873015873015872  , 1                   
+contacto                      , 0.015873015873015872  , 1                   
+contaminaciãn                 , 0.015873015873015872  , 1                   
+contaminaciã³n                , 0.031746031746031744  , 2                   
+contaminan                    , 0.015873015873015872  , 1                   
+contiene                      , 0.015873015873015872  , 1                   
+contienen                     , 0.047619047619047616  , 3                   
+continentales                 , 0.015873015873015872  , 1                   
+convertido                    , 0.015873015873015872  , 1                   
+convierten                    , 0.015873015873015872  , 1                   
+conãferas                     , 0.015873015873015872  , 1                   
+copano                        , 0.015873015873015872  , 1                   
+copey                         , 0.015873015873015872  , 1                   
+coral                         , 0.047619047619047616  , 3                   
+corales                       , 0.015873015873015872  , 1                   
+corcovado                     , 0.015873015873015872  , 1                   
+cordial                       , 0.015873015873015872  , 1                   
+cordillera                    , 0.047619047619047616  , 3                   
+corral                        , 0.031746031746031744  , 2                   
+corredor                      , 0.031746031746031744  , 2                   
+correo                        , 0.015873015873015872  , 1                   
+corta                         , 0.015873015873015872  , 1                   
+costa                         , 0.5873015873015873  , 37                  
+costarricense                 , 0.047619047619047616  , 3                   
+costarricenses                , 0.06349206349206349  , 4                   
+costas9000                    , 0.015873015873015872  , 1                   
+costera                       , 0.031746031746031744  , 2                   
+costeras                      , 0.031746031746031744  , 2                   
+costeros                      , 0.047619047619047616  , 3                   
+cotito                        , 0.015873015873015872  , 1                   
+coto                          , 0.015873015873015872  , 1                   
+cotãn                         , 0.015873015873015872  , 1                   
+cotã³n                        , 0.031746031746031744  , 2                   
+craugastor                    , 0.015873015873015872  , 1                   
+creada                        , 0.031746031746031744  , 2                   
+creados                       , 0.015873015873015872  , 1                   
+crecimiento                   , 0.031746031746031744  , 2                   
+crestada                      , 0.015873015873015872  , 1                   
+creã³                         , 0.015873015873015872  , 1                   
+criterios                     , 0.015873015873015872  , 1                   
+cruces                        , 0.015873015873015872  , 1                   
+crustãceos                    , 0.015873015873015872  , 1                   
+cruz                          , 0.015873015873015872  , 1                   
+cuarto                        , 0.015873015873015872  , 1                   
+cuenca                        , 0.06349206349206349  , 4                   
+cuencas                       , 0.031746031746031744  , 2                   
+cuenta                        , 0.06349206349206349  , 4                   
+cultivos                      , 0.031746031746031744  , 2                   
+culturales                    , 0.015873015873015872  , 1                   
+cureãa                        , 0.031746031746031744  , 2                   
+curso                         , 0.031746031746031744  , 2                   
+curãš                         , 0.015873015873015872  , 1                   
+cuya                          , 0.015873015873015872  , 1                   
+cuyo                          , 0.015873015873015872  , 1                   
+da                            , 0.031746031746031744  , 2                   
+dabagri                       , 0.015873015873015872  , 1                   
+dada                          , 0.015873015873015872  , 1                   
+danta                         , 0.015873015873015872  , 1                   
+dantica                       , 0.015873015873015872  , 1                   
+datos                         , 0.015873015873015872  , 1                   
+debido                        , 0.015873015873015872  , 1                   
+deciduo                       , 0.047619047619047616  , 3                   
+decir                         , 0.047619047619047616  , 3                   
+decreto                       , 0.031746031746031744  , 2                   
+dedos                         , 0.031746031746031744  , 2                   
+definiciã³n                   , 0.015873015873015872  , 1                   
+deforestaciãn                 , 0.015873015873015872  , 1                   
+deforestaciã³n                , 0.015873015873015872  , 1                   
+delfines                      , 0.015873015873015872  , 1                   
+delicados                     , 0.031746031746031744  , 2                   
+denso                         , 0.12698412698412698  , 8                   
+dependencia                   , 0.015873015873015872  , 1                   
+derecha                       , 0.015873015873015872  , 1                   
+desarrollo                    , 0.015873015873015872  , 1                   
+descargas                     , 0.015873015873015872  , 1                   
+descendido                    , 0.015873015873015872  , 1                   
+descontrolado                 , 0.015873015873015872  , 1                   
+descubierto                   , 0.015873015873015872  , 1                   
+descubre                      , 0.015873015873015872  , 1                   
+descubrir                     , 0.015873015873015872  , 1                   
+desencadena                   , 0.015873015873015872  , 1                   
+desfavorecer                  , 0.015873015873015872  , 1                   
+desgaste                      , 0.015873015873015872  , 1                   
+destacada                     , 0.031746031746031744  , 2                   
+destinadas                    , 0.015873015873015872  , 1                   
+destrucciã³n                  , 0.015873015873015872  , 1                   
+destruyendo                   , 0.015873015873015872  , 1                   
+detalles                      , 0.015873015873015872  , 1                   
+dichos                        , 0.015873015873015872  , 1                   
+diciembre                     , 0.031746031746031744  , 2                   
+diferentes                    , 0.14285714285714285  , 9                   
+difãcil                       , 0.015873015873015872  , 1                   
+digital                       , 0.015873015873015872  , 1                   
+diriã                         , 0.015873015873015872  , 1                   
+discretas                     , 0.031746031746031744  , 2                   
+disminuciã³n                  , 0.031746031746031744  , 2                   
+disponibilidad                , 0.015873015873015872  , 1                   
+distrito                      , 0.015873015873015872  , 1                   
+diversa                       , 0.015873015873015872  , 1                   
+diversas                      , 0.015873015873015872  , 1                   
+diversidad                    , 0.015873015873015872  , 1                   
+diversos                      , 0.031746031746031744  , 2                   
+dominado                      , 0.14285714285714285  , 9                   
+dominio                       , 0.015873015873015872  , 1                   
+donald                        , 0.015873015873015872  , 1                   
+dorada                        , 0.015873015873015872  , 1                   
+dorado                        , 0.015873015873015872  , 1                   
+dr                            , 0.015873015873015872  , 1                   
+drenada                       , 0.015873015873015872  , 1                   
+drenados                      , 0.031746031746031744  , 2                   
+dudes                         , 0.015873015873015872  , 1                   
+dulce                         , 0.07936507936507936  , 5                   
+dulces                        , 0.015873015873015872  , 1                   
+dunas                         , 0.015873015873015872  , 1                   
+durante                       , 0.031746031746031744  , 2                   
+dãa                           , 0.047619047619047616  , 3                   
+dãas                          , 0.015873015873015872  , 1                   
+dãcadas                       , 0.015873015873015872  , 1                   
+ecolãgicos                    , 0.015873015873015872  , 1                   
+ecolã³gicas                   , 0.015873015873015872  , 1                   
+ecolã³gico                    , 0.031746031746031744  , 2                   
+ecosistema                    , 0.015873015873015872  , 1                   
+ecosistemas                   , 0.6190476190476191  , 39                  
+edãfica                       , 0.015873015873015872  , 1                   
+efectos                       , 0.015873015873015872  , 1                   
+ejemplo                       , 0.047619047619047616  , 3                   
+electrã³nico                  , 0.015873015873015872  , 1                   
+elementos                     , 0.031746031746031744  , 2                   
+elevadas                      , 0.031746031746031744  , 2                   
+eliminar                      , 0.015873015873015872  , 1                   
+email                         , 0.015873015873015872  , 1                   
+emergencia                    , 0.015873015873015872  , 1                   
+encino                        , 0.015873015873015872  , 1                   
+encuentra                     , 0.031746031746031744  , 2                   
+encuentran                    , 0.06349206349206349  , 4                   
+encuentren                    , 0.015873015873015872  , 1                   
+energãa                       , 0.015873015873015872  , 1                   
+enero                         , 0.031746031746031744  , 2                   
+enlaces                       , 0.015873015873015872  , 1                   
+ensenada                      , 0.015873015873015872  , 1                   
+entendimiento                 , 0.015873015873015872  , 1                   
+entrada                       , 0.047619047619047616  , 3                   
+enviar                        , 0.015873015873015872  , 1                   
+epãfitas                      , 0.015873015873015872  , 1                   
+equinodermos                  , 0.031746031746031744  , 2                   
+equipo                        , 0.015873015873015872  , 1                   
+erosiona                      , 0.015873015873015872  , 1                   
+escafã³podos                  , 0.015873015873015872  , 1                   
+escarpada                     , 0.015873015873015872  , 1                   
+escazãš                       , 0.015873015873015872  , 1                   
+escoces                       , 0.015873015873015872  , 1                   
+escribirme                    , 0.015873015873015872  , 1                   
+escãnica                      , 0.015873015873015872  , 1                   
+esencialmente                 , 0.031746031746031744  , 2                   
+esfagno                       , 0.015873015873015872  , 1                   
+espaciales                    , 0.015873015873015872  , 1                   
+espada                        , 0.015873015873015872  , 1                   
+espec                         , 0.015873015873015872  , 1                   
+especi                        , 0.015873015873015872  , 1                   
+especial                      , 0.047619047619047616  , 3                   
+especialmente                 , 0.015873015873015872  , 1                   
+especie                       , 0.015873015873015872  , 1                   
+especies                      , 0.36507936507936506  , 23                  
+espectacular                  , 0.031746031746031744  , 2                   
+espero                        , 0.015873015873015872  , 1                   
+espinoso                      , 0.031746031746031744  , 2                   
+espãn                         , 0.015873015873015872  , 1                   
+establecer                    , 0.031746031746031744  , 2                   
+establecido                   , 0.031746031746031744  , 2                   
+estacional                    , 0.09523809523809523  , 6                   
+estacionales                  , 0.015873015873015872  , 1                   
+estaciãn                      , 0.047619047619047616  , 3                   
+estaciã³n                     , 0.015873015873015872  , 1                   
+estanques                     , 0.015873015873015872  , 1                   
+estarãan                      , 0.015873015873015872  , 1                   
+estatal                       , 0.015873015873015872  , 1                   
+estepa                        , 0.015873015873015872  , 1                   
+estimado                      , 0.015873015873015872  , 1                   
+estriba                       , 0.015873015873015872  , 1                   
+estuarios                     , 0.015873015873015872  , 1                   
+estã                          , 0.015873015873015872  , 1                   
+estãn                         , 0.047619047619047616  , 3                   
+eterno                        , 0.015873015873015872  , 1                   
+etiquetes                     , 0.015873015873015872  , 1                   
+etnias                        , 0.031746031746031744  , 2                   
+evento                        , 0.015873015873015872  , 1                   
+eventos                       , 0.015873015873015872  , 1                   
+evidente                      , 0.031746031746031744  , 2                   
+examina                       , 0.015873015873015872  , 1                   
+excepcional                   , 0.015873015873015872  , 1                   
+excesiva                      , 0.015873015873015872  , 1                   
+exinten                       , 0.015873015873015872  , 1                   
+exintinciã³n                  , 0.015873015873015872  , 1                   
+existe                        , 0.015873015873015872  , 1                   
+existen                       , 0.06349206349206349  , 4                   
+experimental                  , 0.031746031746031744  , 2                   
+explican                      , 0.015873015873015872  , 1                   
+extensiones                   , 0.015873015873015872  , 1                   
+extenso                       , 0.015873015873015872  , 1                   
+extinciã³n                    , 0.031746031746031744  , 2                   
+extintas                      , 0.031746031746031744  , 2                   
+extremo                       , 0.015873015873015872  , 1                   
+facebook                      , 0.015873015873015872  , 1                   
+fanerã³gamas                  , 0.015873015873015872  , 1                   
+fangosas                      , 0.015873015873015872  , 1                   
+fauna                         , 0.09523809523809523  , 6                   
+faunaestablecer               , 0.015873015873015872  , 1                   
+favorecer                     , 0.015873015873015872  , 1                   
+febrero                       , 0.047619047619047616  , 3                   
+felinos                       , 0.015873015873015872  , 1                   
+fenãmeno                      , 0.015873015873015872  , 1                   
+fenã³meno                     , 0.047619047619047616  , 3                   
+fernando                      , 0.015873015873015872  , 1                   
+ficha                         , 0.015873015873015872  , 1                   
+final                         , 0.015873015873015872  , 1                   
+fincas                        , 0.015873015873015872  , 1                   
+fines                         , 0.015873015873015872  , 1                   
+fitogeogrãficas               , 0.015873015873015872  , 1                   
+flora                         , 0.09523809523809523  , 6                   
+flores                        , 0.015873015873015872  , 1                   
+fluctuaciones                 , 0.015873015873015872  , 1                   
+flujo                         , 0.015873015873015872  , 1                   
+forestal                      , 0.2222222222222222  , 14                  
+forestales                    , 0.015873015873015872  , 1                   
+formaciã³n                    , 0.015873015873015872  , 1                   
+formada                       , 0.031746031746031744  , 2                   
+forman                        , 0.015873015873015872  , 1                   
+frecuentes                    , 0.015873015873015872  , 1                   
+fronte                        , 0.015873015873015872  , 1                   
+fronterizo                    , 0.015873015873015872  , 1                   
+fruta                         , 0.015873015873015872  , 1                   
+frutal                        , 0.031746031746031744  , 2                   
+frutales                      , 0.015873015873015872  , 1                   
+fuego                         , 0.031746031746031744  , 2                   
+fuente                        , 0.015873015873015872  , 1                   
+funcionan                     , 0.015873015873015872  , 1                   
+funciones                     , 0.015873015873015872  , 1                   
+funciã³n                      , 0.015873015873015872  , 1                   
+fundamental                   , 0.031746031746031744  , 2                   
+fãcil                         , 0.031746031746031744  , 2                   
+galerãa                       , 0.015873015873015872  , 1                   
+ganado                        , 0.015873015873015872  , 1                   
+gandoca                       , 0.015873015873015872  , 1                   
+garantizan                    , 0.015873015873015872  , 1                   
+garantizar                    , 0.031746031746031744  , 2                   
+garganta                      , 0.031746031746031744  , 2                   
+gasterã³podos                 , 0.015873015873015872  , 1                   
+gavilãn                       , 0.015873015873015872  , 1                   
+gemelos                       , 0.015873015873015872  , 1                   
+general                       , 0.015873015873015872  , 1                   
+generan                       , 0.015873015873015872  , 1                   
+generar                       , 0.015873015873015872  , 1                   
+genes                         , 0.015873015873015872  , 1                   
+geogrãfica                    , 0.06349206349206349  , 4                   
+geoportal                     , 0.015873015873015872  , 1                   
+global                        , 0.031746031746031744  , 2                   
+golfito                       , 0.031746031746031744  , 2                   
+golfo                         , 0.031746031746031744  , 2                   
+google                        , 0.015873015873015872  , 1                   
+grado                         , 0.015873015873015872  , 1                   
+gramãneas                     , 0.07936507936507936  , 5                   
+gran                          , 0.06349206349206349  , 4                   
+grande                        , 0.015873015873015872  , 1                   
+grecia                        , 0.031746031746031744  , 2                   
+grupos                        , 0.015873015873015872  , 1                   
+guanacaste                    , 0.031746031746031744  , 2                   
+guayabo                       , 0.047619047619047616  , 3                   
+gusanos                       , 0.031746031746031744  , 2                   
+guãcimopococã                 , 0.015873015873015872  , 1                   
+haberlo                       , 0.015873015873015872  , 1                   
+hablando                      , 0.015873015873015872  , 1                   
+hacienda                      , 0.06349206349206349  , 4                   
+halcã³n                       , 0.015873015873015872  , 1                   
+hamaca                        , 0.015873015873015872  , 1                   
+han                           , 0.031746031746031744  , 2                   
+harpãa                        , 0.015873015873015872  , 1                   
+hay                           , 0.031746031746031744  , 2                   
+hayes                         , 0.015873015873015872  , 1                   
+hechos                        , 0.031746031746031744  , 2                   
+hectãreas                     , 0.031746031746031744  , 2                   
+hediondo                      , 0.015873015873015872  , 1                   
+helecho                       , 0.015873015873015872  , 1                   
+helechos                      , 0.031746031746031744  , 2                   
+herbazal                      , 0.09523809523809523  , 6                   
+herbãcea                      , 0.031746031746031744  , 2                   
+herbãceo                      , 0.015873015873015872  , 1                   
+herbãvoros                    , 0.015873015873015872  , 1                   
+hermosa                       , 0.015873015873015872  , 1                   
+hidroelãctrico                , 0.015873015873015872  , 1                   
+hidrogrãfica                  , 0.015873015873015872  , 1                   
+hidrogrãficas                 , 0.031746031746031744  , 2                   
+hidrolã³gico                  , 0.015873015873015872  , 1                   
+hidrãfilo                     , 0.015873015873015872  , 1                   
+hierbas                       , 0.015873015873015872  , 1                   
+histã³ricos                   , 0.015873015873015872  , 1                   
+hitoy                         , 0.015873015873015872  , 1                   
+hojarasca                     , 0.015873015873015872  , 1                   
+holdridgei                    , 0.015873015873015872  , 1                   
+holillo                       , 0.015873015873015872  , 1                   
+hombre                        , 0.031746031746031744  , 2                   
+honda                         , 0.015873015873015872  , 1                   
+horas                         , 0.015873015873015872  , 1                   
+horizontes                    , 0.031746031746031744  , 2                   
+httpespaperblogcom            , 0.015873015873015872  , 1                   
+humana                        , 0.015873015873015872  , 1                   
+humanas                       , 0.015873015873015872  , 1                   
+humedal                       , 0.06349206349206349  , 4                   
+humedales                     , 0.06349206349206349  , 4                   
+hãbitat                       , 0.015873015873015872  , 1                   
+hãbitatsproduce               , 0.015873015873015872  , 1                   
+hãºmeda                       , 0.015873015873015872  , 1                   
+hãºmedo                       , 0.031746031746031744  , 2                   
+hãšmedo                       , 0.2222222222222222  , 14                  
+igapoide                      , 0.015873015873015872  , 1                   
+igualmente                    , 0.015873015873015872  , 1                   
+iguanita                      , 0.015873015873015872  , 1                   
+ilegal                        , 0.06349206349206349  , 4                   
+ilusiã³n                      , 0.015873015873015872  , 1                   
+impacto                       , 0.015873015873015872  , 1                   
+impide                        , 0.015873015873015872  , 1                   
+implica                       , 0.015873015873015872  , 1                   
+importancia                   , 0.09523809523809523  , 6                   
+importante                    , 0.015873015873015872  , 1                   
+impresionante                 , 0.015873015873015872  , 1                   
+inadecuado                    , 0.015873015873015872  , 1                   
+inalterada                    , 0.015873015873015872  , 1                   
+inalteradas                   , 0.015873015873015872  , 1                   
+incluyen                      , 0.015873015873015872  , 1                   
+incluyendo                    , 0.015873015873015872  , 1                   
+incorporarlos                 , 0.015873015873015872  , 1                   
+incremento                    , 0.015873015873015872  , 1                   
+industrias                    , 0.015873015873015872  , 1                   
+indãgena                      , 0.015873015873015872  , 1                   
+indãgenas                     , 0.047619047619047616  , 3                   
+influencia                    , 0.031746031746031744  , 2                   
+iniciamos                     , 0.015873015873015872  , 1                   
+inicio                        , 0.015873015873015872  , 1                   
+inscritos                     , 0.015873015873015872  , 1                   
+insectos                      , 0.031746031746031744  , 2                   
+insignis                      , 0.015873015873015872  , 1                   
+integridad                    , 0.015873015873015872  , 1                   
+intensos                      , 0.015873015873015872  , 1                   
+intentado                     , 0.015873015873015872  , 1                   
+interanual                    , 0.015873015873015872  , 1                   
+interesa                      , 0.015873015873015872  , 1                   
+interesantes                  , 0.015873015873015872  , 1                   
+intermedio                    , 0.015873015873015872  , 1                   
+internacional                 , 0.015873015873015872  , 1                   
+inunda                        , 0.015873015873015872  , 1                   
+inundado                      , 0.015873015873015872  , 1                   
+invasiã³nes                   , 0.015873015873015872  , 1                   
+investigaciã³n                , 0.015873015873015872  , 1                   
+invitarte                     , 0.015873015873015872  , 1                   
+ira                           , 0.015873015873015872  , 1                   
+iraza                         , 0.015873015873015872  , 1                   
+irazãš                        , 0.031746031746031744  , 2                   
+irregular                     , 0.031746031746031744  , 2                   
+isla                          , 0.12698412698412698  , 8                   
+islas                         , 0.015873015873015872  , 1                   
+izquierdo                     , 0.015873015873015872  , 1                   
+jaguar                        , 0.031746031746031744  , 2                   
+jaguares                      , 0.031746031746031744  , 2                   
+jardines                      , 0.015873015873015872  , 1                   
+jardãn                        , 0.031746031746031744  , 2                   
+jaãšl                         , 0.015873015873015872  , 1                   
+jerãrquico                    , 0.015873015873015872  , 1                   
+juan                          , 0.015873015873015872  , 1                   
+julio                         , 0.07936507936507936  , 5                   
+junco                         , 0.015873015873015872  , 1                   
+junio                         , 0.031746031746031744  , 2                   
+junquillal                    , 0.031746031746031744  , 2                   
+lachesis                      , 0.015873015873015872  , 1                   
+lacra                         , 0.015873015873015872  , 1                   
+lacustrillo                   , 0.031746031746031744  , 2                   
+lacustrino                    , 0.031746031746031744  , 2                   
+laderas                       , 0.015873015873015872  , 1                   
+lagartijas                    , 0.015873015873015872  , 1                   
+lagarto                       , 0.015873015873015872  , 1                   
+lagos                         , 0.015873015873015872  , 1                   
+laguna                        , 0.1111111111111111  , 7                   
+lagunas                       , 0.031746031746031744  , 2                   
+laguneta                      , 0.015873015873015872  , 1                   
+lankester                     , 0.015873015873015872  , 1                   
+lapas                         , 0.015873015873015872  , 1                   
+lechucita                     , 0.015873015873015872  , 1                   
+legislaciã³n                  , 0.015873015873015872  , 1                   
+ley                           , 0.015873015873015872  , 1                   
+leã³n                         , 0.015873015873015872  , 1                   
+libre                         , 0.015873015873015872  , 1                   
+limonci                       , 0.015873015873015872  , 1                   
+limoncito                     , 0.015873015873015872  , 1                   
+lista                         , 0.015873015873015872  , 1                   
+listado                       , 0.015873015873015872  , 1                   
+llanura                       , 0.015873015873015872  , 1                   
+lluvia                        , 0.031746031746031744  , 2                   
+lluviosa                      , 0.015873015873015872  , 1                   
+lluvioso                      , 0.031746031746031744  , 2                   
+lomas                         , 0.015873015873015872  , 1                   
+lora                          , 0.015873015873015872  , 1                   
+lorito                        , 0.015873015873015872  , 1                   
+lucas                         , 0.031746031746031744  , 2                   
+lucha                         , 0.015873015873015872  , 1                   
+lugares                       , 0.047619047619047616  , 3                   
+lãmite                        , 0.031746031746031744  , 2                   
+lãnticos                      , 0.015873015873015872  , 1                   
+lã³ticos                      , 0.015873015873015872  , 1                   
+macao                         , 0.015873015873015872  , 1                   
+macho                         , 0.031746031746031744  , 2                   
+machos                        , 0.015873015873015872  , 1                   
+maderable                     , 0.031746031746031744  , 2                   
+madrigal                      , 0.015873015873015872  , 1                   
+madroão                       , 0.015873015873015872  , 1                   
+mal                           , 0.015873015873015872  , 1                   
+mala                          , 0.015873015873015872  , 1                   
+mamãferos                     , 0.07936507936507936  , 5                   
+manejo                        , 0.06349206349206349  , 4                   
+manera                        , 0.015873015873015872  , 1                   
+manglar                       , 0.047619047619047616  , 3                   
+manglares                     , 0.015873015873015872  , 1                   
+mangles                       , 0.015873015873015872  , 1                   
+manigordo                     , 0.015873015873015872  , 1                   
+manos                         , 0.015873015873015872  , 1                   
+mantener                      , 0.015873015873015872  , 1                   
+mantenimiento                 , 0.047619047619047616  , 3                   
+mantos                        , 0.015873015873015872  , 1                   
+manuel                        , 0.031746031746031744  , 2                   
+manzanillo                    , 0.015873015873015872  , 1                   
+mapachãn                      , 0.015873015873015872  , 1                   
+maquenque                     , 0.047619047619047616  , 3                   
+mar                           , 0.015873015873015872  , 1                   
+marea                         , 0.015873015873015872  , 1                   
+margen                        , 0.031746031746031744  , 2                   
+marina                        , 0.1111111111111111  , 7                   
+marinas                       , 0.047619047619047616  , 3                   
+marinocosteros                , 0.031746031746031744  , 2                   
+marinos                       , 0.047619047619047616  , 3                   
+mariposas                     , 0.015873015873015872  , 1                   
+marta                         , 0.015873015873015872  , 1                   
+martilla                      , 0.015873015873015872  , 1                   
+marzo                         , 0.031746031746031744  , 2                   
+marãa                         , 0.031746031746031744  , 2                   
+marãtimas                     , 0.015873015873015872  , 1                   
+mas                           , 0.015873015873015872  , 1                   
+mata                          , 0.015873015873015872  , 1                   
+matorral                      , 0.14285714285714285  , 9                   
+mayo                          , 0.047619047619047616  , 3                   
+mayor                         , 0.031746031746031744  , 2                   
+media                         , 0.015873015873015872  , 1                   
+mediante                      , 0.015873015873015872  , 1                   
+medida                        , 0.015873015873015872  , 1                   
+medio                         , 0.047619047619047616  , 3                   
+mega                          , 0.015873015873015872  , 1                   
+mejores                       , 0.015873015873015872  , 1                   
+melina                        , 0.015873015873015872  , 1                   
+menu                          , 0.015873015873015872  , 1                   
+merced                        , 0.015873015873015872  , 1                   
+meses                         , 0.015873015873015872  , 1                   
+meseta                        , 0.015873015873015872  , 1                   
+metros                        , 0.015873015873015872  , 1                   
+mil                           , 0.015873015873015872  , 1                   
+ministerio                    , 0.015873015873015872  , 1                   
+miravalles                    , 0.015873015873015872  , 1                   
+miriãpodos                    , 0.015873015873015872  , 1                   
+mixta                         , 0.015873015873015872  , 1                   
+mixto                         , 0.1111111111111111  , 7                   
+miãrcoles                     , 0.015873015873015872  , 1                   
+moluscos                      , 0.031746031746031744  , 2                   
+mono                          , 0.047619047619047616  , 3                   
+monos                         , 0.015873015873015872  , 1                   
+montano                       , 0.12698412698412698  , 8                   
+montaãa                       , 0.06349206349206349  , 4                   
+monte                         , 0.047619047619047616  , 3                   
+montealto                     , 0.015873015873015872  , 1                   
+montes                        , 0.047619047619047616  , 3                   
+monteverde                    , 0.031746031746031744  , 2                   
+monumento                     , 0.047619047619047616  , 3                   
+moteada                       , 0.015873015873015872  , 1                   
+motive                        , 0.015873015873015872  , 1                   
+muerte                        , 0.015873015873015872  , 1                   
+mundo                         , 0.047619047619047616  , 3                   
+mundosi                       , 0.015873015873015872  , 1                   
+municipalidades               , 0.015873015873015872  , 1                   
+museo                         , 0.015873015873015872  , 1                   
+musgos                        , 0.047619047619047616  , 3                   
+mãs                           , 0.30158730158730157  , 19                  
+nacional                      , 0.23809523809523808  , 15                  
+nacionales                    , 0.06349206349206349  , 4                   
+naciones                      , 0.015873015873015872  , 1                   
+nara                          , 0.015873015873015872  , 1                   
+natalia                       , 0.031746031746031744  , 2                   
+natural                       , 0.07936507936507936  , 5                   
+naturales                     , 0.14285714285714285  , 9                   
+naturaleza                    , 0.12698412698412698  , 8                   
+natuwa                        , 0.015873015873015872  , 1                   
+navarro                       , 0.015873015873015872  , 1                   
+neblina                       , 0.015873015873015872  , 1                   
+necesita                      , 0.1111111111111111  , 7                   
+negra                         , 0.015873015873015872  , 1                   
+negritos                      , 0.015873015873015872  , 1                   
+negro                         , 0.015873015873015872  , 1                   
+nemãtodos                     , 0.015873015873015872  , 1                   
+nicolãs                       , 0.031746031746031744  , 2                   
+nicoya                        , 0.015873015873015872  , 1                   
+ningãºn                       , 0.015873015873015872  , 1                   
+nivel                         , 0.015873015873015872  , 1                   
+niveles                       , 0.015873015873015872  , 1                   
+nião                          , 0.06349206349206349  , 4                   
+niãos                         , 0.015873015873015872  , 1                   
+nombreseudã³nimo              , 0.015873015873015872  , 1                   
+noreste                       , 0.015873015873015872  , 1                   
+noviembre                     , 0.031746031746031744  , 2                   
+nublado                       , 0.015873015873015872  , 1                   
+nuboso                        , 0.031746031746031744  , 2                   
+nuevo                         , 0.031746031746031744  , 2                   
+nutria                        , 0.015873015873015872  , 1                   
+nâº                           , 0.031746031746031744  , 2                   
+nãºmero                       , 0.015873015873015872  , 1                   
+objetivo                      , 0.047619047619047616  , 3                   
+objetivos                     , 0.015873015873015872  , 1                   
+objeto                        , 0.015873015873015872  , 1                   
+objetos                       , 0.015873015873015872  , 1                   
+obliga                        , 0.015873015873015872  , 1                   
+ocasional                     , 0.015873015873015872  , 1                   
+ocasionar                     , 0.015873015873015872  , 1                   
+ocasiones                     , 0.015873015873015872  , 1                   
+oceãnica                      , 0.06349206349206349  , 4                   
+oceãnicos                     , 0.015873015873015872  , 1                   
+octubre                       , 0.015873015873015872  , 1                   
+ocupaciã³n                    , 0.015873015873015872  , 1                   
+ocãano                        , 0.031746031746031744  , 2                   
+ocãanos                       , 0.015873015873015872  , 1                   
+oeste                         , 0.015873015873015872  , 1                   
+oficial                       , 0.015873015873015872  , 1                   
+ofidios                       , 0.015873015873015872  , 1                   
+ojo                           , 0.015873015873015872  , 1                   
+oleoides                      , 0.015873015873015872  , 1                   
+ollotis                       , 0.031746031746031744  , 2                   
+ombrãfilo                     , 0.07936507936507936  , 5                   
+ondulada                      , 0.015873015873015872  , 1                   
+oportunas                     , 0.015873015873015872  , 1                   
+orden                         , 0.015873015873015872  , 1                   
+orellana                      , 0.015873015873015872  , 1                   
+oriental                      , 0.015873015873015872  , 1                   
+original                      , 0.015873015873015872  , 1                   
+oro                           , 0.015873015873015872  , 1                   
+orquãdeas                     , 0.015873015873015872  , 1                   
+osa                           , 0.015873015873015872  , 1                   
+oscilaciones                  , 0.015873015873015872  , 1                   
+ostional                      , 0.015873015873015872  , 1                   
+pacuare                       , 0.031746031746031744  , 2                   
+pacuarematina                 , 0.031746031746031744  , 2                   
+pacãfica                      , 0.031746031746031744  , 2                   
+pacãfico                      , 0.031746031746031744  , 2                   
+paisaje                       , 0.031746031746031744  , 2                   
+palma                         , 0.015873015873015872  , 1                   
+palmas                        , 0.031746031746031744  , 2                   
+palo                          , 0.015873015873015872  , 1                   
+paloma                        , 0.015873015873015872  , 1                   
+palustrino                    , 0.015873015873015872  , 1                   
+pantano                       , 0.031746031746031744  , 2                   
+pantanos                      , 0.015873015873015872  , 1                   
+pantanoso                     , 0.14285714285714285  , 9                   
+panterpe                      , 0.015873015873015872  , 1                   
+paperblog                     , 0.047619047619047616  , 3                   
+paraguas                      , 0.015873015873015872  , 1                   
+pargo                         , 0.015873015873015872  , 1                   
+parque                        , 0.06349206349206349  , 4                   
+parques                       , 0.07936507936507936  , 5                   
+parte                         , 0.047619047619047616  , 3                   
+participar                    , 0.015873015873015872  , 1                   
+parãmetros                    , 0.031746031746031744  , 2                   
+parãsitas                     , 0.015873015873015872  , 1                   
+paso                          , 0.031746031746031744  , 2                   
+pastos                        , 0.015873015873015872  , 1                   
+patrimonio                    , 0.015873015873015872  , 1                   
+patrãn                        , 0.015873015873015872  , 1                   
+pava                          , 0.015873015873015872  , 1                   
+paz                           , 0.031746031746031744  , 2                   
+paãs                          , 0.07936507936507936  , 5                   
+paãses                        , 0.015873015873015872  , 1                   
+peces                         , 0.06349206349206349  , 4                   
+pechiscastaão                 , 0.015873015873015872  , 1                   
+pejeperro                     , 0.015873015873015872  , 1                   
+pejeperropejeperrito          , 0.015873015873015872  , 1                   
+peligro                       , 0.07936507936507936  , 5                   
+pelãgicos                     , 0.015873015873015872  , 1                   
+penãnsula                     , 0.031746031746031744  , 2                   
+per                           , 0.015873015873015872  , 1                   
+perezoso                      , 0.031746031746031744  , 2                   
+perezosos                     , 0.015873015873015872  , 1                   
+perfil                        , 0.015873015873015872  , 1                   
+perico                        , 0.015873015873015872  , 1                   
+periglenes                    , 0.015873015873015872  , 1                   
+periodicamente                , 0.015873015873015872  , 1                   
+periodismo                    , 0.015873015873015872  , 1                   
+periquito                     , 0.015873015873015872  , 1                   
+permanentes                   , 0.015873015873015872  , 1                   
+permite                       , 0.015873015873015872  , 1                   
+permitir                      , 0.015873015873015872  , 1                   
+perro                         , 0.015873015873015872  , 1                   
+perãodo                       , 0.015873015873015872  , 1                   
+perãodos                      , 0.015873015873015872  , 1                   
+pesca                         , 0.015873015873015872  , 1                   
+peters                        , 0.015873015873015872  , 1                   
+pez                           , 0.031746031746031744  , 2                   
+peãas                         , 0.015873015873015872  , 1                   
+piedra                        , 0.031746031746031744  , 2                   
+piedras                       , 0.015873015873015872  , 1                   
+pieza                         , 0.015873015873015872  , 1                   
+pino                          , 0.015873015873015872  , 1                   
+pinterest                     , 0.015873015873015872  , 1                   
+pisos                         , 0.015873015873015872  , 1                   
+pizote                        , 0.015873015873015872  , 1                   
+planeta                       , 0.015873015873015872  , 1                   
+plantaciãn                    , 0.15873015873015872  , 10                  
+plantas                       , 0.07936507936507936  , 5                   
+plantilla                     , 0.015873015873015872  , 1                   
+plataforma                    , 0.015873015873015872  , 1                   
+platanares                    , 0.015873015873015872  , 1                   
+platelmintos                  , 0.015873015873015872  , 1                   
+playa                         , 0.015873015873015872  , 1                   
+playas                        , 0.047619047619047616  , 3                   
+plazo                         , 0.015873015873015872  , 1                   
+pluvial                       , 0.09523809523809523  , 6                   
+poblacional                   , 0.015873015873015872  , 1                   
+poblaciones                   , 0.031746031746031744  , 2                   
+poblaciãn                     , 0.015873015873015872  , 1                   
+poblaciã³n                    , 0.015873015873015872  , 1                   
+pocas                         , 0.015873015873015872  , 1                   
+pochote                       , 0.015873015873015872  , 1                   
+podrãa                        , 0.015873015873015872  , 1                   
+podrãn                        , 0.015873015873015872  , 1                   
+podrãs                        , 0.015873015873015872  , 1                   
+polillas                      , 0.015873015873015872  , 1                   
+poliplacã³foros               , 0.015873015873015872  , 1                   
+pongo                         , 0.015873015873015872  , 1                   
+portada                       , 0.015873015873015872  , 1                   
+posee                         , 0.031746031746031744  , 2                   
+poseen                        , 0.015873015873015872  , 1                   
+posibles                      , 0.015873015873015872  , 1                   
+posterior                     , 0.015873015873015872  , 1                   
+posteriormente                , 0.015873015873015872  , 1                   
+potencial                     , 0.015873015873015872  , 1                   
+potrero                       , 0.031746031746031744  , 2                   
+potreros                      , 0.015873015873015872  , 1                   
+poãs                          , 0.015873015873015872  , 1                   
+pradera                       , 0.015873015873015872  , 1                   
+preciosa                      , 0.015873015873015872  , 1                   
+premontano                    , 0.14285714285714285  , 9                   
+presas                        , 0.015873015873015872  , 1                   
+presenta                      , 0.031746031746031744  , 2                   
+presentes                     , 0.015873015873015872  , 1                   
+preservacion                  , 0.015873015873015872  , 1                   
+preservar                     , 0.031746031746031744  , 2                   
+primates                      , 0.015873015873015872  , 1                   
+primeras                      , 0.015873015873015872  , 1                   
+principal                     , 0.07936507936507936  , 5                   
+principales                   , 0.06349206349206349  , 4                   
+principio                     , 0.015873015873015872  , 1                   
+prioritariamente              , 0.015873015873015872  , 1                   
+privada                       , 0.031746031746031744  , 2                   
+privadas                      , 0.047619047619047616  , 3                   
+privados                      , 0.015873015873015872  , 1                   
+problema                      , 0.015873015873015872  , 1                   
+problemas                     , 0.015873015873015872  , 1                   
+problemãtica                  , 0.031746031746031744  , 2                   
+proceso                       , 0.031746031746031744  , 2                   
+producciã³n                   , 0.015873015873015872  , 1                   
+producen                      , 0.015873015873015872  , 1                   
+producidas                    , 0.015873015873015872  , 1                   
+producir                      , 0.015873015873015872  , 1                   
+producto                      , 0.047619047619047616  , 3                   
+productos                     , 0.047619047619047616  , 3                   
+profundidad                   , 0.015873015873015872  , 1                   
+prolongado                    , 0.015873015873015872  , 1                   
+promover                      , 0.015873015873015872  , 1                   
+propiedad                     , 0.047619047619047616  , 3                   
+proponer                      , 0.015873015873015872  , 1                   
+protecciã³n                   , 0.09523809523809523  , 6                   
+protectora                    , 0.07936507936507936  , 5                   
+protectoras                   , 0.031746031746031744  , 2                   
+protege                       , 0.015873015873015872  , 1                   
+protegida                     , 0.015873015873015872  , 1                   
+protegidas                    , 0.15873015873015872  , 10                  
+proveen                       , 0.015873015873015872  , 1                   
+provincia                     , 0.015873015873015872  , 1                   
+provisiã³n                    , 0.015873015873015872  , 1                   
+proyecto                      , 0.031746031746031744  , 2                   
+publicat                      , 0.015873015873015872  , 1                   
+pueda                         , 0.015873015873015872  , 1                   
+puerco                        , 0.015873015873015872  , 1                   
+puma                          , 0.015873015873015872  , 1                   
+punta                         , 0.031746031746031744  , 2                   
+puntarenas                    , 0.015873015873015872  , 1                   
+pura                          , 0.015873015873015872  , 1                   
+puãs                          , 0.015873015873015872  , 1                   
+pãgina                        , 0.015873015873015872  , 1                   
+pãjaros                       , 0.015873015873015872  , 1                   
+pãramo                        , 0.031746031746031744  , 2                   
+quebrada                      , 0.015873015873015872  , 1                   
+quebradas                     , 0.015873015873015872  , 1                   
+quebrando                     , 0.015873015873015872  , 1                   
+queda                         , 0.015873015873015872  , 1                   
+quelonios                     , 0.015873015873015872  , 1                   
+quercus                       , 0.015873015873015872  , 1                   
+quetzales                     , 0.015873015873015872  , 1                   
+quina                         , 0.015873015873015872  , 1                   
+quizarrã                      , 0.015873015873015872  , 1                   
+quã                           , 0.1746031746031746  , 11                  
+rafael                        , 0.015873015873015872  , 1                   
+ralo                          , 0.047619047619047616  , 3                   
+ranas                         , 0.015873015873015872  , 1                   
+rancho                        , 0.015873015873015872  , 1                   
+raãz                          , 0.015873015873015872  , 1                   
+realizar                      , 0.015873015873015872  , 1                   
+recibe                        , 0.015873015873015872  , 1                   
+reciente                      , 0.015873015873015872  , 1                   
+recursos                      , 0.047619047619047616  , 3                   
+red                           , 0.015873015873015872  , 1                   
+redonda                       , 0.015873015873015872  , 1                   
+redondo                       , 0.015873015873015872  , 1                   
+reducciã³n                    , 0.015873015873015872  , 1                   
+reducidas                     , 0.015873015873015872  , 1                   
+refugio                       , 0.15873015873015872  , 10                  
+refugios                      , 0.047619047619047616  , 3                   
+reginae                       , 0.015873015873015872  , 1                   
+regiones                      , 0.031746031746031744  , 2                   
+regiã³n                       , 0.031746031746031744  , 2                   
+regulaciã³n                   , 0.015873015873015872  , 1                   
+regãmenes                     , 0.031746031746031744  , 2                   
+reptiles                      , 0.07936507936507936  , 5                   
+reserva                       , 0.2698412698412698  , 17                  
+reservas                      , 0.1111111111111111  , 7                   
+residentes                    , 0.015873015873015872  , 1                   
+residuales                    , 0.031746031746031744  , 2                   
+respectivas                   , 0.015873015873015872  , 1                   
+responder                     , 0.015873015873015872  , 1                   
+responsable                   , 0.015873015873015872  , 1                   
+restricciones                 , 0.015873015873015872  , 1                   
+resuelve                      , 0.015873015873015872  , 1                   
+revista                       , 0.015873015873015872  , 1                   
+ribereão                      , 0.015873015873015872  , 1                   
+riberino                      , 0.015873015873015872  , 1                   
+rica                          , 0.5555555555555556  , 35                  
+ricas                         , 0.015873015873015872  , 1                   
+rincãn                        , 0.015873015873015872  , 1                   
+riqueza                       , 0.015873015873015872  , 1                   
+roble                         , 0.047619047619047616  , 3                   
+robledal                      , 0.015873015873015872  , 1                   
+rocosa                        , 0.015873015873015872  , 1                   
+rodeo                         , 0.015873015873015872  , 1                   
+rodrãguez                     , 0.015873015873015872  , 1                   
+roja                          , 0.015873015873015872  , 1                   
+rojas                         , 0.015873015873015872  , 1                   
+rosa                          , 0.031746031746031744  , 2                   
+rosario                       , 0.015873015873015872  , 1                   
+rubãn                         , 0.015873015873015872  , 1                   
+rãgimen                       , 0.031746031746031744  , 2                   
+rão                           , 0.30158730158730157  , 19                  
+rãos                          , 0.09523809523809523  , 6                   
+sabana                        , 0.07936507936507936  , 5                   
+salados                       , 0.015873015873015872  , 1                   
+salobres                      , 0.015873015873015872  , 1                   
+saludo                        , 0.015873015873015872  , 1                   
+salvaguardar                  , 0.015873015873015872  , 1                   
+salvaje                       , 0.015873015873015872  , 1                   
+salvajes                      , 0.015873015873015872  , 1                   
+san                           , 0.06349206349206349  , 4                   
+santa                         , 0.031746031746031744  , 2                   
+santos                        , 0.031746031746031744  , 2                   
+santuario                     , 0.031746031746031744  , 2                   
+saurios                       , 0.015873015873015872  , 1                   
+saãno                         , 0.015873015873015872  , 1                   
+saãnos                        , 0.015873015873015872  , 1                   
+sea                           , 0.015873015873015872  , 1                   
+seco                          , 0.14285714285714285  , 9                   
+secos                         , 0.015873015873015872  , 1                   
+secundario                    , 0.015873015873015872  , 1                   
+seda                          , 0.015873015873015872  , 1                   
+sedimentarios                 , 0.015873015873015872  , 1                   
+seguidores                    , 0.015873015873015872  , 1                   
+segundo                       , 0.015873015873015872  , 1                   
+segãºn                        , 0.015873015873015872  , 1                   
+seis                          , 0.015873015873015872  , 1                   
+seleccionado                  , 0.015873015873015872  , 1                   
+seleccionados                 , 0.015873015873015872  , 1                   
+selva                         , 0.1111111111111111  , 7                   
+semideciduo                   , 0.09523809523809523  , 6                   
+septiembre                    , 0.015873015873015872  , 1                   
+sequãa                        , 0.015873015873015872  , 1                   
+seriamente                    , 0.015873015873015872  , 1                   
+serie                         , 0.015873015873015872  , 1                   
+serpientes                    , 0.015873015873015872  , 1                   
+serranera                     , 0.015873015873015872  , 1                   
+servicio                      , 0.015873015873015872  , 1                   
+servicios                     , 0.047619047619047616  , 3                   
+serãan                        , 0.015873015873015872  , 1                   
+serãn                         , 0.031746031746031744  , 2                   
+sexo                          , 0.015873015873015872  , 1                   
+sierpe                        , 0.031746031746031744  , 2                   
+sigue                         , 0.06349206349206349  , 4                   
+siguientes                    , 0.015873015873015872  , 1                   
+silvestre                     , 0.19047619047619047  , 12                  
+silvestres                    , 0.015873015873015872  , 1                   
+siquirres                     , 0.015873015873015872  , 1                   
+sismologãa                    , 0.015873015873015872  , 1                   
+sistema                       , 0.031746031746031744  , 2                   
+sistemas                      , 0.031746031746031744  , 2                   
+sitios                        , 0.015873015873015872  , 1                   
+snit                          , 0.015873015873015872  , 1                   
+solitaria                     , 0.015873015873015872  , 1                   
+sombrero                      , 0.015873015873015872  , 1                   
+son                           , 0.1746031746031746  , 11                  
+sostenible                    , 0.06349206349206349  , 4                   
+sostenidamente                , 0.015873015873015872  , 1                   
+stenophrys                    , 0.015873015873015872  , 1                   
+strelitzia                    , 0.015873015873015872  , 1                   
+subalpino                     , 0.031746031746031744  , 2                   
+submarinos                    , 0.031746031746031744  , 2                   
+subproductoshay               , 0.015873015873015872  , 1                   
+subterrãneos                  , 0.015873015873015872  , 1                   
+suele                         , 0.015873015873015872  , 1                   
+suelo                         , 0.031746031746031744  , 2                   
+suelos                        , 0.015873015873015872  , 1                   
+suministro                    , 0.015873015873015872  , 1                   
+superficial                   , 0.015873015873015872  , 1                   
+superficie                    , 0.015873015873015872  , 1                   
+suray                         , 0.015873015873015872  , 1                   
+suscribirse                   , 0.015873015873015872  , 1                   
+sãguenos                      , 0.015873015873015872  , 1                   
+sã³lo                         , 0.015873015873015872  , 1                   
+tablas                        , 0.1111111111111111  , 7                   
+taboga                        , 0.031746031746031744  , 2                   
+tacotal                       , 0.015873015873015872  , 1                   
+talamanca                     , 0.015873015873015872  , 1                   
+tamarindo                     , 0.015873015873015872  , 1                   
+tamaão                        , 0.015873015873015872  , 1                   
+tambiãn                       , 0.015873015873015872  , 1                   
+tamborcito                    , 0.015873015873015872  , 1                   
+tapantã                       , 0.015873015873015872  , 1                   
+tardão                        , 0.015873015873015872  , 1                   
+tarea                         , 0.031746031746031744  , 2                   
+teca                          , 0.015873015873015872  , 1                   
+tecnologãa                    , 0.015873015873015872  , 1                   
+temperatura                   , 0.015873015873015872  , 1                   
+temporales                    , 0.015873015873015872  , 1                   
+tendrãan                      , 0.015873015873015872  , 1                   
+tenorio                       , 0.031746031746031744  , 2                   
+tenãa                         , 0.015873015873015872  , 1                   
+terreno                       , 0.015873015873015872  , 1                   
+terrenos                      , 0.031746031746031744  , 2                   
+terrestre                     , 0.015873015873015872  , 1                   
+terrestres                    , 0.047619047619047616  , 3                   
+territorio                    , 0.015873015873015872  , 1                   
+tienes                        , 0.015873015873015872  , 1                   
+tierra                        , 0.015873015873015872  , 1                   
+tierras                       , 0.031746031746031744  , 2                   
+tigre                         , 0.015873015873015872  , 1                   
+tigrillo                      , 0.015873015873015872  , 1                   
+tipo                          , 0.031746031746031744  , 2                   
+tipos                         , 0.07936507936507936  , 5                   
+tiribã                        , 0.015873015873015872  , 1                   
+tirrã                         , 0.015873015873015872  , 1                   
+tiskita                       , 0.015873015873015872  , 1                   
+tivives                       , 0.015873015873015872  , 1                   
+tolomucos                     , 0.015873015873015872  , 1                   
+tomando                       , 0.015873015873015872  , 1                   
+topografãa                    , 0.015873015873015872  , 1                   
+toponimia                     , 0.031746031746031744  , 2                   
+toro                          , 0.015873015873015872  , 1                   
+torres                        , 0.015873015873015872  , 1                   
+tortugas                      , 0.047619047619047616  , 3                   
+tortuguero                    , 0.031746031746031744  , 2                   
+total                         , 0.015873015873015872  , 1                   
+tradicionales                 , 0.015873015873015872  , 1                   
+transformaciã³n               , 0.015873015873015872  , 1                   
+transicional                  , 0.015873015873015872  , 1                   
+transiciã³n                   , 0.031746031746031744  , 2                   
+tratamiento                   , 0.015873015873015872  , 1                   
+tres                          , 0.047619047619047616  , 3                   
+troncos                       , 0.015873015873015872  , 1                   
+tropical                      , 0.6507936507936508  , 41                  
+tucancillo                    , 0.015873015873015872  , 1                   
+tuis                          , 0.015873015873015872  , 1                   
+turbera                       , 0.015873015873015872  , 1                   
+turismo                       , 0.047619047619047616  , 3                   
+turrialba                     , 0.015873015873015872  , 1                   
+turãstico                     , 0.015873015873015872  , 1                   
+twitter                       , 0.015873015873015872  , 1                   
+typha                         , 0.015873015873015872  , 1                   
+tãcnicos                      , 0.015873015873015872  , 1                   
+tãrraba                       , 0.031746031746031744  , 2                   
+tãº                           , 0.015873015873015872  , 1                   
+ubicaciã³n                    , 0.015873015873015872  , 1                   
+une                           , 0.015873015873015872  , 1                   
+unen                          , 0.015873015873015872  , 1                   
+unidades                      , 0.047619047619047616  , 3                   
+unificar                      , 0.015873015873015872  , 1                   
+urbanas                       , 0.015873015873015872  , 1                   
+urbano                        , 0.015873015873015872  , 1                   
+urodelos                      , 0.015873015873015872  , 1                   
+utilizaciã³n                  , 0.015873015873015872  , 1                   
+utilizados                    , 0.015873015873015872  , 1                   
+utilizando                    , 0.031746031746031744  , 2                   
+variabilidad                  , 0.031746031746031744  , 2                   
+variables                     , 0.031746031746031744  , 2                   
+variedad                      , 0.015873015873015872  , 1                   
+vasto                         , 0.015873015873015872  , 1                   
+ve                            , 0.015873015873015872  , 1                   
+veces                         , 0.015873015873015872  , 1                   
+vegetaciãn                    , 0.015873015873015872  , 1                   
+vela                          , 0.015873015873015872  , 1                   
+venados                       , 0.015873015873015872  , 1                   
+verde                         , 0.047619047619047616  , 3                   
+vertiente                     , 0.015873015873015872  , 1                   
+vez                           , 0.031746031746031744  , 2                   
+viabilidad                    , 0.015873015873015872  , 1                   
+vida                          , 0.20634920634920634  , 13                  
+vie                           , 0.015873015873015872  , 1                   
+vieja                         , 0.015873015873015872  , 1                   
+viejo                         , 0.015873015873015872  , 1                   
+vigilancia                    , 0.015873015873015872  , 1                   
+visita                        , 0.015873015873015872  , 1                   
+visitantes                    , 0.015873015873015872  , 1                   
+visitar                       , 0.015873015873015872  , 1                   
+visitas                       , 0.015873015873015872  , 1                   
+vital                         , 0.015873015873015872  , 1                   
+vito                          , 0.047619047619047616  , 3                   
+viuda                         , 0.015873015873015872  , 1                   
+viva                          , 0.015873015873015872  , 1                   
+vocabulario                   , 0.015873015873015872  , 1                   
+voladores                     , 0.015873015873015872  , 1                   
+volcanero                     , 0.031746031746031744  , 2                   
+volcanes                      , 0.015873015873015872  , 1                   
+volcãn                        , 0.1746031746031746  , 11                  
+volcãnica                     , 0.015873015873015872  , 1                   
+vueltas                       , 0.015873015873015872  , 1                   
+vulcanologãa                  , 0.015873015873015872  , 1                   
+vãas                          , 0.015873015873015872  , 1                   
+vãnculos                      , 0.015873015873015872  , 1                   
+wessberg                      , 0.031746031746031744  , 2                   
+yolillo                       , 0.015873015873015872  , 1                   
+yu                            , 0.031746031746031744  , 2                   
+zapandã                       , 0.015873015873015872  , 1                   
+zona                          , 0.15873015873015872  , 10                  
+zonas                         , 0.2857142857142857  , 18                  
+zooave                        , 0.015873015873015872  , 1                   
+zopilote                      , 0.031746031746031744  , 2                   
+zorrillo                      , 0.015873015873015872  , 1                   
+ãchale                        , 0.015873015873015872  , 1                   
+ãguila                        , 0.047619047619047616  , 3                   
+ãngeles                       , 0.015873015873015872  , 1                   
+ãrboles                       , 0.06349206349206349  , 4                   
+ãrea                          , 0.19047619047619047  , 12                  
+ãreas                         , 0.015873015873015872  , 1                   
+ãroles                        , 0.015873015873015872  , 1                   
+ãste                          , 0.015873015873015872  , 1                   
+ãstmica                       , 0.015873015873015872  , 1                   
+ãºnico                        , 0.031746031746031744  , 2                   
+ãšnete                        , 0.031746031746031744  , 2                   

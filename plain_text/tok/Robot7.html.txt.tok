@@ -1,194 +1,197 @@
-inicio,0.25,2
-acerca,0.25,2
-colaboradores,0.25,2
-política,0.625,5
-privacidad,0.625,5
-cookies,0.5,4
-aviso,0.375,3
-legal,0.375,3
-referencias,0.25,2
-categorías,0.5,4
-comunicación,0.25,2
-internet,0.5,4
-marketing,0.25,2
-multimedia,0.25,2
-ocio,0.25,2
-productividad,0.25,2
-programación,0.25,2
-diseño,0.25,2
-web,0.375,3
-social,0.25,2
-proyectos,0.25,2
-educativos,0.25,2
-contacto,0.25,2
-publicidad,0.25,2
-suscripción,0.25,2
-twitter,0.25,2
-facebook,0.25,2
-google,0.375,3
-plus,0.25,2
-youtube,0.25,2
-menu,0.125,1
-baidu,0.25,2
-presenta,0.125,1
-propio,0.125,1
-robot,0.125,1
-asistente,0.125,1
-hogar,0.125,1
-16,0.125,1
-nov,0.125,1
-2017,0.125,1
-chino,0.125,1
-quiere,0.125,1
-quedarse,0.125,1
-sector,0.125,1
-vez,0.125,1
-presente,0.125,1
-día,0.5,4
-robots,0.25,2
-asistentes,0.125,1
-ayudan,0.125,1
-obtener,0.125,1
-información,0.25,2
-presentado,0.125,1
-presentó,0.125,1
-domésticos,0.25,2
-altavoz,0.5,4
-inteligente,0.375,3
-tecnología,0.5,4
-dueros,0.25,2
-compañía,0.125,1
-semejante,0.125,1
-usada,0.125,1
-alexa,0.25,2
-amazon,0.125,1
-cortana,0.125,1
-microsoft,0.125,1
-son,0.125,1
-tres,0.125,1
-nuevos,0.125,1
-dispositivos,0.25,2
-serie,0.125,1
-raven,1.0,8
-saldrá,0.125,1
-venta,0.125,1
-diciembre,0.125,1
-250,0.125,1
-dólares,0.125,1
-cuenta,0.125,1
-controlador,0.25,2
-táctil,0.125,1
-pantalla,0.25,2
-led,0.25,2
-separar,0.125,1
-base,0.125,1
-dispositivo,0.25,2
-controlarse,0.125,1
-voz,0.125,1
-capaz,0.125,1
-controlar,0.125,1
-aparatos,0.125,1
-inteligentes,0.125,1
-motor,0.125,1
-inteligencia,0.125,1
-artificial,0.25,2
-permite,0.125,1
-realizar,0.25,2
-tareas,0.125,1
-semejantes,0.125,1
-buscar,0.125,1
-crear,0.125,1
-alertas,0.125,1
-transacciones,0.125,1
-reproducir,0.125,1
-música,0.125,1
-está,0.25,2
-vídeo,0.25,2
-home,0.125,1
-brazo,0.125,1
-robótico,0.125,1
-capacidad,0.125,1
-girar,0.125,1
-moverse,0.125,1
-imitar,0.125,1
-expresión,0.125,1
-emoción,0.125,1
-vemos,0.125,1
-parece,0.125,1
-útil,0.125,1
-divertido,0.125,1
-incluirá,0.125,1
-procesamiento,0.125,1
-lenguaje,0.125,1
-natural,0.125,1
-visión,0.25,2
-computadora,0.125,1
-construir,0.125,1
-modelo,0.125,1
-entorno,0.125,1
-hay,0.25,2
-detalles,0.125,1
-aparato,0.125,1
-indican,0.125,1
-variada,0.125,1
-incluye,0.125,1
-reconocimiento,0.125,1
-facial,0.125,1
-conducción,0.125,1
-autónoma,0.125,1
-apollo,0.125,1
-comentan,0.125,1
-venturebeat,0.125,1
-aún,0.125,1
-precios,0.125,1
-fechas,0.125,1
-lanzamiento,0.125,1
-estaremos,0.125,1
-atentos,0.125,1
-comparte,0.125,1
-juan,0.25,2
-diego,0.25,2
-polo,0.25,2
-estudió,0.125,1
-ingeniería,0.125,1
-telecomunicaciones,0.125,1
-upc,0.125,1
-barcelona,0.125,1
-trabajando,0.125,1
-ingeniero,0.125,1
-profesor,0.125,1
-analista,0.125,1
-1998,0.125,1
-2005,0.125,1
-decidió,0.125,1
-emprender,0.125,1
-creando,0.125,1
-wwwhatsnewcom,0.125,1
-busca,0.125,1
-wwwhatsnew,0.125,1
-patrocinadores,0.125,1
-vuelos,0.25,2
-ofertas,0.125,1
-hospedaje,0.125,1
-cc,0.125,1
-20052018,0.125,1
-derechos,0.125,1
-reservados,0.125,1
-licencia,0.125,1
-creative,0.125,1
-commons,0.125,1
-referencia,0.125,1
-enlace,0.125,1
-obligatorio,0.125,1
-utilizamos,0.125,1
-asegurar,0.125,1
-damos,0.125,1
-mejor,0.125,1
-experiencia,0.125,1
-usuario,0.125,1
-sitio,0.25,2
-continúa,0.125,1
-utilizando,0.125,1
-asumiremos,0.125,1
-acuerdo,0.25,2
-leer,0.125,1
+16                            , 0.125         , 1                   
+1998                          , 0.125         , 1                   
+2005                          , 0.125         , 1                   
+20052018                      , 0.125         , 1                   
+2017                          , 0.125         , 1                   
+250                           , 0.125         , 1                   
+acerca                        , 0.25          , 2                   
+acuerdo                       , 0.25          , 2                   
+alertas                       , 0.125         , 1                   
+alexa                         , 0.25          , 2                   
+altavoz                       , 0.5           , 4                   
+amazon                        , 0.125         , 1                   
+analista                      , 0.125         , 1                   
+aparato                       , 0.125         , 1                   
+aparatos                      , 0.125         , 1                   
+apollo                        , 0.125         , 1                   
+aquã                          , 0.125         , 1                   
+artificial                    , 0.25          , 2                   
+asegurar                      , 0.125         , 1                   
+asistente                     , 0.125         , 1                   
+asistentes                    , 0.125         , 1                   
+asumiremos                    , 0.125         , 1                   
+atentos                       , 0.125         , 1                   
+atrãs                         , 0.125         , 1                   
+autã³noma                     , 0.125         , 1                   
+aviso                         , 0.375         , 3                   
+ayudan                        , 0.125         , 1                   
+aãºn                          , 0.125         , 1                   
+baidu                         , 0.25          , 2                   
+barcelona                     , 0.125         , 1                   
+base                          , 0.125         , 1                   
+brazo                         , 0.125         , 1                   
+busca                         , 0.125         , 1                   
+buscar                        , 0.125         , 1                   
+capacidad                     , 0.125         , 1                   
+capaz                         , 0.125         , 1                   
+categorãas                    , 0.5           , 4                   
+cc                            , 0.125         , 1                   
+chino                         , 0.125         , 1                   
+colaboradores                 , 0.25          , 2                   
+comentan                      , 0.125         , 1                   
+commons                       , 0.125         , 1                   
+comparte                      , 0.125         , 1                   
+compaããa                      , 0.125         , 1                   
+computadora                   , 0.125         , 1                   
+comunicaciã³n                 , 0.25          , 2                   
+conducciã³n                   , 0.125         , 1                   
+construir                     , 0.125         , 1                   
+contacto                      , 0.25          , 2                   
+continãºa                     , 0.125         , 1                   
+controlador                   , 0.25          , 2                   
+controlar                     , 0.125         , 1                   
+controlarse                   , 0.125         , 1                   
+cookies                       , 0.5           , 4                   
+cortana                       , 0.125         , 1                   
+creando                       , 0.125         , 1                   
+crear                         , 0.125         , 1                   
+creative                      , 0.125         , 1                   
+cuenta                        , 0.125         , 1                   
+damos                         , 0.125         , 1                   
+decidiã³                      , 0.125         , 1                   
+derechos                      , 0.125         , 1                   
+detalles                      , 0.125         , 1                   
+diciembre                     , 0.125         , 1                   
+diego                         , 0.25          , 2                   
+diseão                        , 0.25          , 2                   
+dispositivo                   , 0.25          , 2                   
+dispositivos                  , 0.25          , 2                   
+divertido                     , 0.125         , 1                   
+domãsticos                    , 0.25          , 2                   
+dueros                        , 0.25          , 2                   
+dãa                           , 0.5           , 4                   
+dã³lares                      , 0.125         , 1                   
+educativos                    , 0.25          , 2                   
+emociã³n                      , 0.125         , 1                   
+emprender                     , 0.125         , 1                   
+enlace                        , 0.125         , 1                   
+entorno                       , 0.125         , 1                   
+estaremos                     , 0.125         , 1                   
+estudiã³                      , 0.125         , 1                   
+estã                          , 0.25          , 2                   
+experiencia                   , 0.125         , 1                   
+expresiã³n                    , 0.125         , 1                   
+facebook                      , 0.25          , 2                   
+facial                        , 0.125         , 1                   
+fechas                        , 0.125         , 1                   
+girar                         , 0.125         , 1                   
+google                        , 0.375         , 3                   
+hay                           , 0.25          , 2                   
+hogar                         , 0.125         , 1                   
+home                          , 0.125         , 1                   
+hospedaje                     , 0.125         , 1                   
+imitar                        , 0.125         , 1                   
+incluirã                      , 0.125         , 1                   
+incluye                       , 0.125         , 1                   
+indican                       , 0.125         , 1                   
+informaciã³n                  , 0.25          , 2                   
+ingeniero                     , 0.125         , 1                   
+ingenierãa                    , 0.125         , 1                   
+inicio                        , 0.25          , 2                   
+inteligencia                  , 0.125         , 1                   
+inteligente                   , 0.375         , 3                   
+inteligentes                  , 0.125         , 1                   
+internet                      , 0.5           , 4                   
+juan                          , 0.25          , 2                   
+lanzamiento                   , 0.125         , 1                   
+led                           , 0.25          , 2                   
+leer                          , 0.125         , 1                   
+legal                         , 0.375         , 3                   
+lenguaje                      , 0.125         , 1                   
+licencia                      , 0.125         , 1                   
+marketing                     , 0.25          , 2                   
+mejor                         , 0.125         , 1                   
+menu                          , 0.125         , 1                   
+microsoft                     , 0.125         , 1                   
+modelo                        , 0.125         , 1                   
+motor                         , 0.125         , 1                   
+moverse                       , 0.125         , 1                   
+multimedia                    , 0.25          , 2                   
+mãs                           , 0.25          , 2                   
+mãºsica                       , 0.125         , 1                   
+natural                       , 0.125         , 1                   
+nov                           , 0.125         , 1                   
+nuevos                        , 0.125         , 1                   
+obligatorio                   , 0.125         , 1                   
+obtener                       , 0.125         , 1                   
+ocio                          , 0.25          , 2                   
+ofertas                       , 0.125         , 1                   
+pantalla                      , 0.25          , 2                   
+parece                        , 0.125         , 1                   
+patrocinadores                , 0.125         , 1                   
+permite                       , 0.125         , 1                   
+plus                          , 0.25          , 2                   
+polo                          , 0.25          , 2                   
+polãtica                      , 0.625         , 5                   
+precios                       , 0.125         , 1                   
+presenta                      , 0.125         , 1                   
+presentado                    , 0.125         , 1                   
+presente                      , 0.125         , 1                   
+presentã³                     , 0.125         , 1                   
+privacidad                    , 0.625         , 5                   
+procesamiento                 , 0.125         , 1                   
+productividad                 , 0.25          , 2                   
+profesor                      , 0.125         , 1                   
+programaciã³n                 , 0.25          , 2                   
+propio                        , 0.125         , 1                   
+proyectos                     , 0.25          , 2                   
+publicidad                    , 0.25          , 2                   
+quedarse                      , 0.125         , 1                   
+quiere                        , 0.125         , 1                   
+raven                         , 1.0           , 8                   
+realizar                      , 0.25          , 2                   
+reconocimiento                , 0.125         , 1                   
+referencia                    , 0.125         , 1                   
+referencias                   , 0.25          , 2                   
+reproducir                    , 0.125         , 1                   
+reservados                    , 0.125         , 1                   
+robot                         , 0.125         , 1                   
+robots                        , 0.25          , 2                   
+robã³tico                     , 0.125         , 1                   
+saldrã                        , 0.125         , 1                   
+sector                        , 0.125         , 1                   
+semejante                     , 0.125         , 1                   
+semejantes                    , 0.125         , 1                   
+separar                       , 0.125         , 1                   
+serie                         , 0.125         , 1                   
+sitio                         , 0.25          , 2                   
+social                        , 0.25          , 2                   
+son                           , 0.125         , 1                   
+suscripciã³n                  , 0.25          , 2                   
+tareas                        , 0.125         , 1                   
+tecnologãa                    , 0.5           , 4                   
+telecomunicaciones            , 0.125         , 1                   
+trabajando                    , 0.125         , 1                   
+transacciones                 , 0.125         , 1                   
+tres                          , 0.125         , 1                   
+twitter                       , 0.25          , 2                   
+tãctil                        , 0.125         , 1                   
+upc                           , 0.125         , 1                   
+usada                         , 0.125         , 1                   
+usuario                       , 0.125         , 1                   
+utilizamos                    , 0.125         , 1                   
+utilizando                    , 0.125         , 1                   
+variada                       , 0.125         , 1                   
+vemos                         , 0.125         , 1                   
+venta                         , 0.125         , 1                   
+venturebeat                   , 0.125         , 1                   
+vez                           , 0.125         , 1                   
+visiã³n                       , 0.25          , 2                   
+voz                           , 0.125         , 1                   
+vuelos                        , 0.25          , 2                   
+vãdeo                         , 0.25          , 2                   
+web                           , 0.375         , 3                   
+wwwhatsnew                    , 0.125         , 1                   
+wwwhatsnewcom                 , 0.125         , 1                   
+youtube                       , 0.25          , 2                   
+ãºtil                         , 0.125         , 1                   

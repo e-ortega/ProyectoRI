@@ -1,682 +1,802 @@
-digital,0.2,5
-trends,0.16,4
-español,0.2,5
-secciones,0.08,2
-features,0.04,1
-opinión,0.04,1
-english,0.04,1
-menú,0.04,1
-buscar,0.08,2
-regresar,0.04,1
-publicidad,0.08,2
-contáctenos,0.08,2
-política,0.08,2
-privacidad,0.04,1
-condiciones,0.04,1
-inglés,0.12,3
-the,0.52,13
-manual,0.08,2
-nosotros,0.04,1
-carreras,0.04,1
-equipo,0.08,2
-editorial,0.08,2
-prensa,0.04,1
-redes,0.12,3
-sociales,0.12,3
-facebook,0.16,4
-twitter,0.08,2
-instagram,0.08,2
-linkedin,0.08,2
-youtube,0.08,2
-fuentes,0.08,2
-rss,0.08,2
-categorías,0.04,1
-populares,0.04,1
-celulares,0.04,1
-computación,0.04,1
-autos,0.08,2
-videojuegos,0.12,3
-fotografía,0.08,2
-casa,0.4,10
-inteligente,0.12,3
-electrodomésticos,0.04,1
-cine,0.24,6
-entretenimiento,0.48,12
-deportes,0.04,1
-tecnología,0.08,2
-vestible,0.08,2
-guías,0.08,2
-videos,0.04,1
-compartir,0.16,4
-haz,0.08,2
-tweet,0.08,2
-mejores,1.0,25
-películas,0.64,16
-infantiles,0.12,3
-netflix,0.96,24
-hay,0.08,2
-ver,0.28,7
-ideal,0.04,1
-niños,0.2,5
-adultos,0.12,3
-disfruta,0.04,1
-disponibles,0.12,3
-estefania,0.16,4
-oliver,0.16,4
-publicado,0.6,15
-september,0.04,1
-19,0.04,1
-2018,0.08,2
-91918,0.04,1
-streaming,0.12,3
-nuevo,0.08,2
-series,0.24,6
-comedias,0.16,4
-románticas,0.08,2
-dramas,0.04,1
-tienes,0.16,4
-resulta,0.04,1
-complicado,0.04,1
-encontrar,0.08,2
-pequeños,0.04,1
-preocupes,0.08,2
-hemos,0.24,6
-hecho,0.04,1
-pequeña,0.04,1
-selección,0.24,6
-algunas,0.12,3
-además,0.08,2
-subrayar,0.04,1
-disfrutar,0.12,3
-maravillosas,0.04,1
-historias,0.04,1
-padres,0.04,1
-pasarán,0.04,1
-buen,0.04,1
-rato,0.04,1
-nota,0.04,1
-títulos,0.04,1
-elegido,0.04,1
-estados,0.04,1
-unidos,0.04,1
-embargo,0.16,4
-estén,0.04,1
-países,0.04,1
-emperors,0.12,3
-new,0.12,3
-groove,0.12,3
-2000,0.04,1
-evita,0.04,1
-tono,0.04,1
-dramático,0.04,1
-90,0.04,1
-disney,0.32,8
-mulan,0.2,5
-jorobado,0.04,1
-notre,0.04,1
-dame,0.04,1
-pasar,0.04,1
-humor,0.12,3
-travieso,0.04,1
-payasadas,0.04,1
-ambientada,0.08,2
-imperio,0.08,2
-inca,0.04,1
-película,0.52,13
-cuenta,0.04,1
-historia,0.2,5
-joven,0.16,4
-emperador,0.08,2
-kuzco,0.2,5
-david,0.04,1
-spade,0.04,1
-insensible,0.04,1
-piensa,0.04,1
-propia,0.08,2
-gloria,0.04,1
-llega,0.08,2
-idear,0.04,1
-plan,0.04,1
-demoler,0.04,1
-campesino,0.04,1
-pacha,0.12,3
-john,0.04,1
-goodman,0.04,1
-construir,0.04,1
-resort,0.04,1
-megalomanía,0.04,1
-supera,0.04,1
-después,0.24,6
-despedir,0.04,1
-consejera,0.04,1
-confabuladora,0.04,1
-yzma,0.08,2
-eartha,0.04,1
-kitt,0.04,1
-poción,0.04,1
-mágica,0.04,1
-convertir,0.04,1
-llama,0.04,1
-toma,0.04,1
-control,0.04,1
-encuentra,0.04,1
-quien,0.12,3
-le,0.2,5
-ofrece,0.16,4
-ayuda,0.08,2
-cambia,0.04,1
-idea,0.04,1
-destrucción,0.04,1
-viajan,0.04,1
-jungla,0.04,1
-pone,0.04,1
-contacto,0.04,1
-humanidad,0.04,1
-desarrollan,0.04,1
-amistad,0.08,2
-inestable,0.04,1
-encantadora,0.04,1
-colores,0.04,1
-brillantes,0.04,1
-despreocupado,0.04,1
-divertir,0.04,1
-cualquiera,0.04,1
-instant,0.24,6
-queue,0.24,6
-coco,0.08,2
-2017,0.08,2
-pixar,0.08,2
-inspirada,0.04,1
-festividad,0.04,1
-mexicana,0.04,1
-día,0.36,9
-muertos,0.08,2
-miguel,0.12,3
-niño,0.04,1
-sueña,0.08,2
-músico,0.16,4
-lamentablemente,0.04,1
-familia,0.04,1
-impide,0.04,1
-desarrollar,0.04,1
-habilidades,0.04,1
-debido,0.04,1
-tatarabuelo,0.08,2
-abandonó,0.04,1
-esposa,0.04,1
-hija,0.04,1
-años,0.16,4
-volverse,0.04,1
-famoso,0.04,1
-accidente,0.04,1
-entra,0.04,1
-tierra,0.04,1
-podrá,0.04,1
-salir,0.04,1
-familiar,0.04,1
-difunto,0.04,1
-concede,0.04,1
-bendición,0.04,1
-tatarabuela,0.04,1
-dará,0.04,1
-promete,0.08,2
-niega,0.04,1
-renunciar,0.04,1
-sueño,0.04,1
-escapa,0.04,1
-iron,0.12,3
-giant,0.12,3
-1999,0.04,1
-leyenda,0.08,2
-animación,0.12,3
-brad,0.04,1
-bird,0.04,1
-hizo,0.04,1
-debut,0.04,1
-director,0.04,1
-animada,0.04,1
-guión,0.04,1
-brillante,0.04,1
-visión,0.04,1
-inquebrantable,0.04,1
-1957,0.04,1
-arranca,0.04,1
-objeto,0.12,3
-grande,0.04,1
-cae,0.04,1
-espacio,0.08,2
-aterriza,0.04,1
-bosque,0.08,2
-cerca,0.04,1
-rockwell,0.04,1
-maine,0.04,1
-llamado,0.08,2
-hogarth,0.12,3
-hughes,0.04,1
-eli,0.04,1
-marienthal,0.04,1
-tropieza,0.04,1
-robot,0.04,1
-gigante,0.08,2
-amigo,0.04,1
-vuelve,0.04,1
-oscuro,0.04,1
-agente,0.04,1
-gobierno,0.04,1
-kent,0.04,1
-mansley,0.04,1
-christopher,0.04,1
-mcdonald,0.04,1
-investigar,0.04,1
-misterioso,0.04,1
-caído,0.04,1
-creyendo,0.04,1
-superarma,0.04,1
-rusa,0.04,1
-está,0.12,3
-ambientado,0.04,1
-contexto,0.04,1
-guerra,0.04,1
-fría,0.04,1
-centra,0.04,1
-trata,0.04,1
-enseñarle,0.04,1
-forjar,0.04,1
-identidad,0.04,1
-kubo,0.28,7
-and,0.12,3
-two,0.16,4
-strings,0.12,3
-2016,0.08,2
-sigue,0.12,3
-ojo,0.12,3
-art,0.04,1
-parkinson,0.04,1
-vive,0.08,2
-madre,0.08,2
-charlize,0.04,1
-theron,0.04,1
-advierte,0.04,1
-pasee,0.04,1
-afuera,0.04,1
-medianoche,0.04,1
-abuelo,0.08,2
-parte,0.04,1
-rey,0.08,2
-luna,0.08,2
-ralph,0.04,1
-fiennes,0.04,1
-robó,0.04,1
-quiere,0.04,1
-arrebatarle,0.04,1
-segundo,0.04,1
-caso,0.04,1
-omiso,0.04,1
-advertencia,0.04,1
-llamar,0.04,1
-atención,0.12,3
-debe,0.08,2
-emprender,0.04,1
-viaje,0.04,1
-espada,0.04,1
-armadura,0.04,1
-padre,0.04,1
-derrotar,0.04,1
-tías,0.04,1
-malvadas,0.04,1
-hermosa,0.04,1
-suficientemente,0.08,2
-simple,0.04,1
-madura,0.04,1
-1998,0.08,2
-lanzamiento,0.04,1
-inicial,0.04,1
-sido,0.04,1
-plagada,0.04,1
-dilemas,0.04,1
-feministas,0.04,1
-estereotipos,0.04,1
-controvertidos,0.04,1
-queridas,0.04,1
-catálogo,0.04,1
-clásico,0.04,1
-retratando,0.04,1
-china,0.04,1
-hua,0.04,1
-mingna,0.04,1
-wen,0.04,1
-conjunto,0.04,1
-canciones,0.04,1
-memorables,0.08,2
-alegre,0.04,1
-camaradería,0.04,1
-magnífica,0.04,1
-aborda,0.04,1
-temas,0.04,1
-honor,0.04,1
-deber,0.04,1
-adecuada,0.04,1
-edades,0.04,1
-princesa,0.04,1
-clásica,0.04,1
-rotundo,0.04,1
-decisión,0.04,1
-consciente,0.04,1
-aprender,0.04,1
-moana,0.2,5
-entrada,0.04,1
-panteón,0.04,1
-aventura,0.08,2
-autodescubrimiento,0.04,1
-basa,0.04,1
-gran,0.04,1
-medida,0.04,1
-mitología,0.04,1
-polinesia,0.04,1
-aulii,0.04,1
-cravalho,0.04,1
-isla,0.08,2
-motonui,0.08,2
-genteha,0.04,1
-permanecido,0.04,1
-aislada,0.04,1
-dios,0.04,1
-maui,0.08,2
-dwayne,0.04,1
-johnson,0.04,1
-robara,0.04,1
-corazón,0.08,2
-diosa,0.04,1
-fiti,0.08,2
-causando,0.04,1
-océano,0.04,1
-llenara,0.04,1
-monstruos,0.04,1
-plaga,0.04,1
-mata,0.04,1
-plantas,0.04,1
-decide,0.04,1
-devolver,0.04,1
-isleños,0.04,1
-puedan,0.04,1
-navegar,0.08,2
-vez,0.04,1
-recurrir,0.04,1
-encontrará,0.04,1
-difícil,0.08,2
-emocionante,0.04,1
-personajes,0.04,1
-escenario,0.04,1
-espectadores,0.04,1
-encontrarán,0.04,1
-único,0.04,1
-recomendaciones,0.08,2
-editor,0.04,1
-deberías,0.04,1
-perder,0.04,1
-puedes,0.16,4
-lista,0.08,2
-hbo,0.12,3
-subwoofers,0.16,4
-dinero,0.08,2
-comprar,0.12,3
-próximamente,0.04,1
-sabido,0.04,1
-it,0.04,1
-chapter,0.04,1
-mostrar,0.08,2
-comentarios,0.04,1
-artículos,0.04,1
-relacionados,0.04,1
-choque,0.04,1
-titanes,0.04,1
-cómo,0.16,4
-luchan,0.04,1
-hijos,0.08,2
-sólida,0.04,1
-ventaja,0.04,1
-plataformas,0.04,1
-punto,0.04,1
-enfrentarse,0.04,1
-cara,0.08,2
-play,0.04,1
-premio,0.04,1
-mayor,0.04,1
-milenka,0.12,3
-peña,0.12,3
-mercado,0.04,1
-gustos,0.08,2
-bolsillos,0.04,1
-únicos,0.04,1
-dejen,0.04,1
-felices,0.04,1
-complicados,0.04,1
-elegir,0.04,1
-dónde,0.04,1
-buscarlos,0.04,1
-pensando,0.04,1
-ampliar,0.04,1
-sistema,0.04,1
-damos,0.04,1
-guía,0.16,4
-definitiva,0.04,1
-días,0.2,5
-daniel,0.16,4
-matus,0.16,4
-gustan,0.04,1
-risa,0.04,1
-encontrarás,0.04,1
-disfrutas,0.04,1
-haga,0.04,1
-reír,0.04,1
-ofrezca,0.04,1
-bonita,0.04,1
-amor,0.04,1
-gustará,0.04,1
-shape,0.04,1
-of,0.04,1
-water,0.04,1
-goodfellas,0.04,1
-aprovecha,0.08,2
-mostramos,0.08,2
-podrás,0.08,2
-contiene,0.04,1
-clásicas,0.04,1
-estrenos,0.04,1
-recientes,0.04,1
-dt,0.08,2
-seriéfilos,0.04,1
-perderse,0.04,1
-mejor,0.04,1
-libre,0.04,1
-encanta,0.04,1
-cliente,0.04,1
-nuestras,0.04,1
-ahora,0.04,1
-famosa,0.04,1
-plataforma,0.08,2
-llegó,0.04,1
-tráiler,0.04,1
-nueva,0.08,2
-mundo,0.16,4
-harry,0.04,1
-potter,0.04,1
-actualidad,0.04,1
-produciendo,0.04,1
-largometrajes,0.04,1
-verlos,0.04,1
-tráilers,0.04,1
-nuevas,0.08,2
-puedas,0.04,1
-escoger,0.04,1
-cuál,0.04,1
-maría,0.16,4
-lopes,0.16,4
-juega,0.04,1
-fortnite,0.12,3
-juego,0.04,1
-cruzado,0.04,1
-ps4,0.08,2
-consolas,0.04,1
-sony,0.04,1
-agregando,0.04,1
-soporte,0.04,1
-crossplay,0.04,1
-juegos,0.04,1
-terceros,0.04,1
-comenzando,0.04,1
-dueños,0.04,1
-podrán,0.04,1
-jugar,0.04,1
-usuarios,0.08,2
-switch,0.04,1
-xbox,0.04,1
-one,0.04,1
-pc,0.08,2
-dispositivos,0.04,1
-móviles,0.04,1
-perfil,0.08,2
-usas,0.08,2
-decimos,0.04,1
-eliminarlo,0.04,1
-explicamos,0.04,1
-paso,0.08,2
-borrar,0.04,1
-teléfono,0.04,1
-tablet,0.04,1
-algún,0.04,1
-dispositivo,0.04,1
-smart,0.04,1
-tv,0.12,3
-desechar,0.04,1
-posible,0.04,1
-bueno,0.08,2
-verdad,0.04,1
-terrarium,0.08,2
-cierra,0.04,1
-motivos,0.04,1
-preocuparse,0.04,1
-televisión,0.04,1
-pago,0.04,1
-pronto,0.04,1
-aparece,0.04,1
-tentadora,0.04,1
-llamada,0.04,1
-servicio,0.08,2
-gratuito,0.04,1
-ilimitado,0.04,1
-real,0.04,1
-claro,0.04,1
-ajusta,0.04,1
-precios,0.08,2
-medios,0.04,1
-preferencias,0.04,1
-antiguos,0.04,1
-clientes,0.08,2
-hayan,0.04,1
-molestado,0.04,1
-aumento,0.04,1
-últimos,0.08,2
-potenciales,0.04,1
-nuevos,0.04,1
-estarse,0.04,1
-preguntando,0.04,1
-les,0.04,1
-conviene,0.04,1
-aclaramos,0.04,1
-realidad,0.08,2
-virtual,0.08,2
-mira,0.08,2
-lucen,0.04,1
-gafas,0.04,1
-oculus,0.08,2
-quest,0.08,2
-llegarán,0.04,1
-2019,0.04,1
-opción,0.04,1
-une,0.04,1
-última,0.04,1
-incorporación,0.04,1
-gama,0.04,1
-auriculares,0.04,1
-rv,0.04,1
-independientes,0.04,1
-potente,0.04,1
-avanzado,0.04,1
-quieres,0.04,1
-despistar,0.04,1
-alguien,0.04,1
-resultará,0.04,1
-fácil,0.04,1
-cambias,0.04,1
-voz,0.08,2
-aplicaciones,0.08,2
-examinado,0.04,1
-fondo,0.04,1
-cambiar,0.04,1
-seleccionando,0.04,1
-saca,0.04,1
-bart,0.04,1
-simpson,0.04,1
-interior,0.04,1
-darth,0.04,1
-vader,0.04,1
-guardabas,0.04,1
-secreto,0.04,1
-juliana,0.04,1
-jara,0.04,1
-et,0.08,2
-tiburón,0.04,1
-descubre,0.08,2
-bandas,0.08,2
-sonoras,0.08,2
-tiempos,0.04,1
-elaboramos,0.04,1
-escuchado,0.04,1
-inolvidable,0.04,1
-pieza,0.04,1
-jurassic,0.04,1
-park,0.04,1
-extra,0.04,1
-terrestrial,0.04,1
-incluidas,0.04,1
-16,0.04,1
-horas,0.08,2
-apple,0.08,2
-siri,0.08,2
-sentido,0.04,1
-respuestas,0.12,3
-asistente,0.04,1
-hablando,0.04,1
-durante,0.04,1
-esfuerzo,0.04,1
-desenterrar,0.04,1
-divertidas,0.04,1
-da,0.04,1
-hazle,0.04,1
-alguna,0.04,1
-preguntas,0.04,1
-15,0.04,1
-leído,0.04,1
-revisión,0.08,2
-iphone,0.08,2
-plus,0.04,1
-asombrosas,0.04,1
-imágenes,0.04,1
-telefonía,0.04,1
-celular,0.04,1
-revision,0.04,1
-productos,0.04,1
-noticias,0.08,2
-tecnológicas,0.04,1
-herramientas,0.04,1
-mejora,0.04,1
-estilo,0.04,1
-vida,0.04,1
-suscribirse,0.04,1
-boletín,0.04,1
-derechos,0.08,2
-autor,0.04,1
-designtechnica,0.04,1
-corporation,0.04,1
-reservados,0.04,1
+11                            , 0.05          , 1                   
+12                            , 0.05          , 1                   
+13                            , 0.05          , 1                   
+14                            , 0.05          , 1                   
+17                            , 0.1           , 2                   
+1879                          , 0.05          , 1                   
+1943                          , 0.05          , 1                   
+2008                          , 0.05          , 1                   
+2014                          , 0.05          , 1                   
+2015                          , 0.05          , 1                   
+2016                          , 0.1           , 2                   
+2017                          , 0.05          , 1                   
+2018                          , 0.25          , 5                   
+2019                          , 0.05          , 1                   
+21                            , 0.05          , 1                   
+40                            , 0.05          , 1                   
+50                            , 0.05          , 1                   
+81718                         , 0.05          , 1                   
+abandonados                   , 0.05          , 1                   
+abandonã³                     , 0.05          , 1                   
+acaba                         , 0.05          , 1                   
+acceso                        , 0.05          , 1                   
+accesorios                    , 0.05          , 1                   
+accidentalmente               , 0.05          , 1                   
+accidente                     , 0.05          , 1                   
+aclimatarse                   , 0.05          , 1                   
+acondicionado                 , 0.05          , 1                   
+actualizado                   , 0.05          , 1                   
+adapta                        , 0.05          , 1                   
+adaptaciã³n                   , 0.05          , 1                   
+ademãs                        , 0.1           , 2                   
+administras                   , 0.05          , 1                   
+adoptando                     , 0.05          , 1                   
+adoptivo                      , 0.05          , 1                   
+adorable                      , 0.05          , 1                   
+adultos                       , 0.15          , 3                   
+aficiã³n                      , 0.05          , 1                   
+afortunadamente               , 0.05          , 1                   
+agosto                        , 0.1           , 2                   
+ahora                         , 0.1           , 2                   
+ahorrar                       , 0.05          , 1                   
+ahorros                       , 0.05          , 1                   
+aire                          , 0.05          , 1                   
+aislada                       , 0.05          , 1                   
+algunas                       , 0.1           , 2                   
+alien                         , 0.05          , 1                   
+allã                          , 0.05          , 1                   
+alumna                        , 0.05          , 1                   
+amados                        , 0.05          , 1                   
+amantes                       , 0.05          , 1                   
+ambas                         , 0.05          , 1                   
+amiga                         , 0.05          , 1                   
+amigo                         , 0.05          , 1                   
+anfitriã³n                    , 0.05          , 1                   
+angelina                      , 0.05          , 1                   
+animaciã³n                    , 0.1           , 2                   
+animada                       , 0.05          , 1                   
+animales                      , 0.1           , 2                   
+antoine                       , 0.05          , 1                   
+antãtesis                     , 0.05          , 1                   
+anunciada                     , 0.05          , 1                   
+anunciar                      , 0.05          , 1                   
+anunciara                     , 0.05          , 1                   
+aparece                       , 0.05          , 1                   
+apariciã³n                    , 0.05          , 1                   
+apartamento                   , 0.05          , 1                   
+apartamentos                  , 0.05          , 1                   
+apasionante                   , 0.05          , 1                   
+aplaudidos                    , 0.05          , 1                   
+aplicaciones                  , 0.05          , 1                   
+apple                         , 0.15          , 3                   
+apps                          , 0.1           , 2                   
+aprende                       , 0.05          , 1                   
+aquã                          , 0.05          , 1                   
+artãculos                     , 0.05          , 1                   
+artãstico                     , 0.05          , 1                   
+asistente                     , 0.05          , 1                   
+asombrosas                    , 0.05          , 1                   
+assassins                     , 0.1           , 2                   
+assistant                     , 0.15          , 3                   
+asteroide                     , 0.05          , 1                   
+asã                           , 0.15          , 3                   
+aterriza                      , 0.05          , 1                   
+atrãs                         , 0.1           , 2                   
+august                        , 0.05          , 1                   
+aulii                         , 0.05          , 1                   
+auriculares                   , 0.1           , 2                   
+autodescubrimiento            , 0.05          , 1                   
+autor                         , 0.05          , 1                   
+autos                         , 0.1           , 2                   
+avance                        , 0.1           , 2                   
+aventura                      , 0.15          , 3                   
+aventuras                     , 0.05          , 1                   
+ayuda                         , 0.1           , 2                   
+ayudarte                      , 0.05          , 1                   
+ayudarãn                      , 0.05          , 1                   
+aão                           , 0.05          , 1                   
+aãos                          , 0.15          , 3                   
+aãºn                          , 0.05          , 1                   
+bailarina                     , 0.1           , 2                   
+barras                        , 0.05          , 1                   
+basa                          , 0.05          , 1                   
+bases                         , 0.05          , 1                   
+bendiciã³n                    , 0.05          , 1                   
+bergens                       , 0.05          , 1                   
+black                         , 0.05          , 1                   
+blanco                        , 0.05          , 1                   
+boletãn                       , 0.05          , 1                   
+bond                          , 0.05          , 1                   
+botã³n                        , 0.05          , 1                   
+branch                        , 0.05          , 1                   
+bretaãa                       , 0.05          , 1                   
+bridges                       , 0.05          , 1                   
+brillantemente                , 0.05          , 1                   
+brock                         , 0.05          , 1                   
+bt                            , 0.05          , 1                   
+buen                          , 0.05          , 1                   
+buena                         , 0.05          , 1                   
+buenas                        , 0.05          , 1                   
+buscar                        , 0.1           , 2                   
+calidad                       , 0.05          , 1                   
+calor                         , 0.05          , 1                   
+cambiar                       , 0.05          , 1                   
+cantidad                      , 0.05          , 1                   
+caprichoso                    , 0.05          , 1                   
+capturando                    , 0.05          , 1                   
+caracterãsticas               , 0.05          , 1                   
+cards                         , 0.1           , 2                   
+cargadoras                    , 0.05          , 1                   
+caros                         , 0.05          , 1                   
+carrera                       , 0.05          , 1                   
+carreras                      , 0.05          , 1                   
+casa                          , 0.5           , 10                  
+categorãas                    , 0.05          , 1                   
+causando                      , 0.05          , 1                   
+ceder                         , 0.05          , 1                   
+celular                       , 0.15          , 3                   
+celulares                     , 0.05          , 1                   
+centra                        , 0.05          , 1                   
+central                       , 0.05          , 1                   
+ceremonia                     , 0.05          , 1                   
+cgi                           , 0.1           , 2                   
+cinco                         , 0.05          , 1                   
+cine                          , 0.05          , 1                   
+clase                         , 0.05          , 1                   
+coco                          , 0.1           , 2                   
+coleccionables                , 0.05          , 1                   
+coleccionarla                 , 0.05          , 1                   
+colorido                      , 0.05          , 1                   
+combina                       , 0.05          , 1                   
+comedias                      , 0.1           , 2                   
+comentarios                   , 0.05          , 1                   
+comenzar                      , 0.05          , 1                   
+comodidad                     , 0.05          , 1                   
+compartir                     , 0.25          , 5                   
+competidores                  , 0.05          , 1                   
+compilamos                    , 0.05          , 1                   
+complicado                    , 0.05          , 1                   
+computaciã³n                  , 0.05          , 1                   
+computadora                   , 0.05          , 1                   
+concede                       , 0.05          , 1                   
+condiciones                   , 0.05          , 1                   
+conectar                      , 0.05          , 1                   
+conejito                      , 0.05          , 1                   
+conoce                        , 0.1           , 2                   
+conocida                      , 0.1           , 2                   
+conseguido                    , 0.05          , 1                   
+conseguirlo                   , 0.05          , 1                   
+consejos                      , 0.1           , 2                   
+contamos                      , 0.1           , 2                   
+contarã                       , 0.05          , 1                   
+continuaciã³n                 , 0.05          , 1                   
+controles                     , 0.05          , 1                   
+contãctenos                   , 0.1           , 2                   
+convencer                     , 0.05          , 1                   
+convertirse                   , 0.1           , 2                   
+corazã³n                      , 0.1           , 2                   
+corporation                   , 0.05          , 1                   
+corre                         , 0.05          , 1                   
+correas                       , 0.05          , 1                   
+cortes                        , 0.05          , 1                   
+cravalho                      , 0.05          , 1                   
+creada                        , 0.05          , 1                   
+creado                        , 0.1           , 2                   
+creadores                     , 0.05          , 1                   
+crear                         , 0.1           , 2                   
+creed                         , 0.1           , 2                   
+cuenta                        , 0.25          , 5                   
+cuãles                        , 0.05          , 1                   
+cã³micos                      , 0.05          , 1                   
+cã³mo                         , 0.1           , 2                   
+da                            , 0.05          , 1                   
+daniel                        , 0.15          , 3                   
+danza                         , 0.05          , 1                   
+dark                          , 0.05          , 1                   
+darã                          , 0.05          , 1                   
+debe                          , 0.15          , 3                   
+debes                         , 0.05          , 1                   
+debido                        , 0.05          , 1                   
+decide                        , 0.05          , 1                   
+decididos                     , 0.05          , 1                   
+decir                         , 0.05          , 1                   
+dejado                        , 0.05          , 1                   
+deportes                      , 0.05          , 1                   
+derechos                      , 0.1           , 2                   
+desafiar                      , 0.05          , 1                   
+desarrolladores               , 0.05          , 1                   
+desarrollar                   , 0.05          , 1                   
+descubre                      , 0.2           , 4                   
+desea                         , 0.05          , 1                   
+deseados                      , 0.05          , 1                   
+designtechnica                , 0.05          , 1                   
+despedido                     , 0.05          , 1                   
+despicable                    , 0.05          , 1                   
+despuãs                       , 0.2           , 4                   
+destruir                      , 0.05          , 1                   
+detalle                       , 0.05          , 1                   
+detalles                      , 0.05          , 1                   
+detective                     , 0.1           , 2                   
+devolver                      , 0.05          , 1                   
+diamante                      , 0.05          , 1                   
+diferencias                   , 0.05          , 1                   
+diferente                     , 0.05          , 1                   
+difunto                       , 0.05          , 1                   
+difãcil                       , 0.1           , 2                   
+digital                       , 0.25          , 5                   
+dinero                        , 0.05          , 1                   
+dios                          , 0.05          , 1                   
+diosa                         , 0.05          , 1                   
+directamente                  , 0.05          , 1                   
+directo                       , 0.05          , 1                   
+director                      , 0.1           , 2                   
+discos                        , 0.05          , 1                   
+diseão                        , 0.05          , 1                   
+disfruta                      , 0.1           , 2                   
+disfrutar                     , 0.15          , 3                   
+disney                        , 0.35          , 7                   
+disponibles                   , 0.1           , 2                   
+dispositivos                  , 0.05          , 1                   
+divertida                     , 0.05          , 1                   
+divertidos                    , 0.05          , 1                   
+dominante                     , 0.05          , 1                   
+domãsticos                    , 0.1           , 2                   
+dorado                        , 0.05          , 1                   
+dragã³n                       , 0.05          , 1                   
+dramas                        , 0.05          , 1                   
+dreamworks                    , 0.1           , 2                   
+dru                           , 0.1           , 2                   
+dueãa                         , 0.05          , 1                   
+dueãos                        , 0.05          , 1                   
+duke                          , 0.05          , 1                   
+duro                          , 0.05          , 1                   
+dustin                        , 0.05          , 1                   
+dwayne                        , 0.05          , 1                   
+dãa                           , 0.2           , 4                   
+dãas                          , 0.3           , 6                   
+dã³nde                        , 0.05          , 1                   
+e3                            , 0.05          , 1                   
+econã³micos                   , 0.05          , 1                   
+eddie                         , 0.05          , 1                   
+edificio                      , 0.05          , 1                   
+editor                        , 0.05          , 1                   
+editorial                     , 0.1           , 2                   
+ejãrcito                      , 0.05          , 1                   
+electrodomãsticos             , 0.05          , 1                   
+elegido                       , 0.05          , 1                   
+embarcarãn                    , 0.05          , 1                   
+embargo                       , 0.25          , 5                   
+emocionante                   , 0.1           , 2                   
+emociã³n                      , 0.05          , 1                   
+empezamosâ                    , 0.05          , 1                   
+empezar                       , 0.05          , 1                   
+encantadora                   , 0.05          , 1                   
+encantadores                  , 0.05          , 1                   
+encantarã                     , 0.05          , 1                   
+encanto                       , 0.05          , 1                   
+encontrar                     , 0.1           , 2                   
+encontrarã                    , 0.05          , 1                   
+encontrarãn                   , 0.05          , 1                   
+encontrarãs                   , 0.05          , 1                   
+encuentra                     , 0.1           , 2                   
+energy                        , 0.1           , 2                   
+enfrentan                     , 0.05          , 1                   
+english                       , 0.05          , 1                   
+enteran                       , 0.05          , 1                   
+entra                         , 0.05          , 1                   
+entrada                       , 0.05          , 1                   
+entrar                        , 0.05          , 1                   
+entraãable                    , 0.05          , 1                   
+entraãables                   , 0.05          , 1                   
+entrega                       , 0.05          , 1                   
+entretenimiento               , 0.5           , 10                  
+equipo                        , 0.1           , 2                   
+escapa                        , 0.1           , 2                   
+escenario                     , 0.05          , 1                   
+escribir                      , 0.05          , 1                   
+escritor                      , 0.1           , 2                   
+escuchando                    , 0.05          , 1                   
+espacio                       , 0.05          , 1                   
+espaãol                       , 0.2           , 4                   
+espectadores                  , 0.05          , 1                   
+esperas                       , 0.05          , 1                   
+esposa                        , 0.05          , 1                   
+estados                       , 0.05          , 1                   
+estefania                     , 0.3           , 6                   
+estilo                        , 0.05          , 1                   
+estrella                      , 0.05          , 1                   
+estrellas                     , 0.05          , 1                   
+estrena                       , 0.05          , 1                   
+estreno                       , 0.05          , 1                   
+estrenã³                      , 0.05          , 1                   
+estã                          , 0.1           , 2                   
+estãn                         , 0.2           , 4                   
+eterna                        , 0.05          , 1                   
+excusas                       , 0.05          , 1                   
+exitosa                       , 0.05          , 1                   
+facebook                      , 0.2           , 4                   
+faltarã                       , 0.05          , 1                   
+familia                       , 0.05          , 1                   
+familiar                      , 0.05          , 1                   
+famoso                        , 0.05          , 1                   
+fan                           , 0.05          , 1                   
+favorita                      , 0.1           , 2                   
+favorito                      , 0.05          , 1                   
+favoritos                     , 0.05          , 1                   
+features                      , 0.05          , 1                   
+fecha                         , 0.05          , 1                   
+felices                       , 0.05          , 1                   
+felicia                       , 0.05          , 1                   
+feliz                         , 0.05          , 1                   
+festividad                    , 0.05          , 1                   
+fideos                        , 0.05          , 1                   
+finales                       , 0.05          , 1                   
+finanzas                      , 0.05          , 1                   
+fiti                          , 0.1           , 2                   
+fiveâ                         , 0.05          , 1                   
+fotografãa                    , 0.1           , 2                   
+foy                           , 0.05          , 1                   
+fracasa                       , 0.05          , 1                   
+francãs                       , 0.05          , 1                   
+fu                            , 0.2           , 4                   
+fuentes                       , 0.1           , 2                   
+funciones                     , 0.05          , 1                   
+gags                          , 0.05          , 1                   
+ganas                         , 0.05          , 1                   
+ganso                         , 0.05          , 1                   
+generadas                     , 0.05          , 1                   
+genteha                       , 0.05          , 1                   
+george                        , 0.05          , 1                   
+gigante                       , 0.05          , 1                   
+google                        , 0.05          , 1                   
+gran                          , 0.25          , 5                   
+grand                         , 0.05          , 1                   
+gru                           , 0.1           , 2                   
+guerrero                      , 0.05          , 1                   
+gusta                         , 0.05          , 1                   
+gustaron                      , 0.05          , 1                   
+gustarã                       , 0.05          , 1                   
+guãa                          , 0.05          , 1                   
+guãas                         , 0.1           , 2                   
+habilidades                   , 0.1           , 2                   
+habitaciã³n                   , 0.05          , 1                   
+han                           , 0.05          , 1                   
+hardy                         , 0.05          , 1                   
+harã                          , 0.05          , 1                   
+hay                           , 0.05          , 1                   
+haya                          , 0.05          , 1                   
+hayan                         , 0.1           , 2                   
+haz                           , 0.1           , 2                   
+hbo                           , 0.25          , 5                   
+hdr                           , 0.05          , 1                   
+headphones                    , 0.05          , 1                   
+hecho                         , 0.05          , 1                   
+hemos                         , 0.15          , 3                   
+hermano                       , 0.05          , 1                   
+herramientas                  , 0.05          , 1                   
+hija                          , 0.1           , 2                   
+historia                      , 0.45          , 9                   
+historias                     , 0.05          , 1                   
+hoffman                       , 0.05          , 1                   
+hogar                         , 0.1           , 2                   
+hollywood                     , 0.05          , 1                   
+horas                         , 0.3           , 6                   
+house                         , 0.15          , 3                   
+hulu                          , 0.05          , 1                   
+hãroes                        , 0.05          , 1                   
+idea                          , 0.05          , 1                   
+idolatra                      , 0.05          , 1                   
+ifa                           , 0.05          , 1                   
+impacto                       , 0.05          , 1                   
+impide                        , 0.05          , 1                   
+impresionantes                , 0.05          , 1                   
+imãgenes                      , 0.15          , 3                   
+incluido                      , 0.05          , 1                   
+incondicionales               , 0.05          , 1                   
+increãbles                    , 0.05          , 1                   
+infantil                      , 0.1           , 2                   
+infantiles                    , 0.15          , 3                   
+inglãs                        , 0.15          , 3                   
+inspirada                     , 0.05          , 1                   
+instagram                     , 0.1           , 2                   
+instant                       , 0.45          , 9                   
+inteligente                   , 0.2           , 4                   
+intensivo                     , 0.05          , 1                   
+intercalar                    , 0.05          , 1                   
+interpreta                    , 0.05          , 1                   
+inusuales                     , 0.05          , 1                   
+inversiones                   , 0.05          , 1                   
+inversiã³n                    , 0.05          , 1                   
+involucrar                    , 0.05          , 1                   
+iphone                        , 0.1           , 2                   
+irãn                          , 0.05          , 1                   
+isla                          , 0.1           , 2                   
+isleãos                       , 0.05          , 1                   
+jack                          , 0.05          , 1                   
+jara                          , 0.05          , 1                   
+jeff                          , 0.05          , 1                   
+johnson                       , 0.05          , 1                   
+jolie                         , 0.05          , 1                   
+joven                         , 0.1           , 2                   
+juegos                        , 0.05          , 1                   
+juliana                       , 0.05          , 1                   
+king                          , 0.05          , 1                   
+knight                        , 0.05          , 1                   
+kung                          , 0.2           , 4                   
+lamentablemente               , 0.05          , 1                   
+lateral                       , 0.05          , 1                   
+le                            , 0.15          , 3                   
+leap                          , 0.05          , 1                   
+legendario                    , 0.05          , 1                   
+leãdo                         , 0.05          , 1                   
+life                          , 0.05          , 1                   
+linkedin                      , 0.1           , 2                   
+lista                         , 0.25          , 5                   
+literatura                    , 0.1           , 2                   
+little                        , 0.05          , 1                   
+liu                           , 0.05          , 1                   
+llama                         , 0.05          , 1                   
+llamado                       , 0.1           , 2                   
+llegan                        , 0.1           , 2                   
+llenara                       , 0.05          , 1                   
+logra                         , 0.05          , 1                   
+londres                       , 0.05          , 1                   
+lopes                         , 0.25          , 5                   
+lucas                         , 0.05          , 1                   
+luchar                        , 0.05          , 1                   
+lucy                          , 0.05          , 1                   
+mackenzie                     , 0.05          , 1                   
+madre                         , 0.05          , 1                   
+maduro                        , 0.05          , 1                   
+maestro                       , 0.1           , 2                   
+malo                          , 0.05          , 1                   
+manera                        , 0.05          , 1                   
+manhattan                     , 0.05          , 1                   
+manual                        , 0.1           , 2                   
+maravillosas                  , 0.05          , 1                   
+mark                          , 0.05          , 1                   
+marãa                         , 0.25          , 5                   
+mascota                       , 0.05          , 1                   
+mascotas                      , 0.1           , 2                   
+mata                          , 0.05          , 1                   
+matus                         , 0.15          , 3                   
+maui                          , 0.1           , 2                   
+max                           , 0.1           , 2                   
+mcadams                       , 0.05          , 1                   
+media                         , 0.05          , 1                   
+medida                        , 0.05          , 1                   
+medusa                        , 0.05          , 1                   
+mejor                         , 0.25          , 5                   
+mejora                        , 0.05          , 1                   
+mejores                       , 0.85          , 17                  
+memorables                    , 0.05          , 1                   
+menãº                         , 0.05          , 1                   
+mercado                       , 0.05          , 1                   
+mermelada                     , 0.05          , 1                   
+mexicana                      , 0.05          , 1                   
+michael                       , 0.05          , 1                   
+miedo                         , 0.05          , 1                   
+miguel                        , 0.15          , 3                   
+milenka                       , 0.1           , 2                   
+mira                          , 0.05          , 1                   
+mitologãa                     , 0.05          , 1                   
+moana                         , 0.25          , 5                   
+moda                          , 0.05          , 1                   
+modelos                       , 0.05          , 1                   
+momento                       , 0.1           , 2                   
+monstruos                     , 0.1           , 2                   
+montã³n                       , 0.05          , 1                   
+mostramos                     , 0.2           , 4                   
+mostrar                       , 0.1           , 2                   
+motonui                       , 0.1           , 2                   
+muertos                       , 0.1           , 2                   
+muestra                       , 0.05          , 1                   
+mundo                         , 0.05          , 1                   
+mãs                           , 1.0           , 20                  
+mãºsica                       , 0.1           , 2                   
+mãºsico                       , 0.15          , 3                   
+narrativa                     , 0.05          , 1                   
+natal                         , 0.05          , 1                   
+navegar                       , 0.1           , 2                   
+netflix                       , 0.85          , 17                  
+niega                         , 0.05          , 1                   
+nintendo                      , 0.05          , 1                   
+niãa                          , 0.05          , 1                   
+nião                          , 0.05          , 1                   
+niãos                         , 0.2           , 4                   
+nombre                        , 0.1           , 2                   
+nosotros                      , 0.05          , 1                   
+noticias                      , 0.1           , 2                   
+nueva                         , 0.05          , 1                   
+nuevo                         , 0.25          , 5                   
+nuevos                        , 0.15          , 3                   
+numerosos                     , 0.05          , 1                   
+ocãano                        , 0.05          , 1                   
+odyssey                       , 0.1           , 2                   
+of                            , 0.15          , 3                   
+ofrecerã                      , 0.05          , 1                   
+oliver                        , 0.3           , 6                   
+online                        , 0.05          , 1                   
+opera                         , 0.05          , 1                   
+opiniã³n                      , 0.05          , 1                   
+oportunidad                   , 0.1           , 2                   
+optimista                     , 0.05          , 1                   
+ordenador                     , 0.05          , 1                   
+orfanato                      , 0.05          , 1                   
+orientados                    , 0.05          , 1                   
+original                      , 0.05          , 1                   
+osborne                       , 0.05          , 1                   
+oso                           , 0.2           , 4                   
+oyentes                       , 0.05          , 1                   
+paddington                    , 0.15          , 3                   
+padre                         , 0.1           , 2                   
+padres                        , 0.1           , 2                   
+panda                         , 0.15          , 3                   
+panteã³n                      , 0.05          , 1                   
+park                          , 0.05          , 1                   
+parte                         , 0.05          , 1                   
+parãs                         , 0.05          , 1                   
+pasado                        , 0.1           , 2                   
+pasar                         , 0.1           , 2                   
+pasarãn                       , 0.05          , 1                   
+pasiã³n                       , 0.05          , 1                   
+paul                          , 0.05          , 1                   
+paãses                        , 0.05          , 1                   
+pc                            , 0.05          , 1                   
+pegado                        , 0.05          , 1                   
+peligro                       , 0.05          , 1                   
+pelo                          , 0.05          , 1                   
+pelãcula                      , 0.55          , 11                  
+pelãculamusical               , 0.05          , 1                   
+pelãculas                     , 0.55          , 11                  
+pensado                       , 0.05          , 1                   
+pensar                        , 0.05          , 1                   
+pensã³                        , 0.05          , 1                   
+pequeãa                       , 0.05          , 1                   
+pequeão                       , 0.05          , 1                   
+pequeãos                      , 0.05          , 1                   
+perder                        , 0.05          , 1                   
+periodista                    , 0.05          , 1                   
+permanecido                   , 0.05          , 1                   
+permitirãn                    , 0.05          , 1                   
+perro                         , 0.05          , 1                   
+persona                       , 0.05          , 1                   
+personajes                    , 0.15          , 3                   
+peruano                       , 0.05          , 1                   
+pets                          , 0.05          , 1                   
+peãa                          , 0.1           , 2                   
+piloto                        , 0.05          , 1                   
+pixar                         , 0.15          , 3                   
+plaga                         , 0.05          , 1                   
+planes                        , 0.05          , 1                   
+plantas                       , 0.05          , 1                   
+play                          , 0.1           , 2                   
+plus                          , 0.05          , 1                   
+po                            , 0.1           , 2                   
+poderoso                      , 0.05          , 1                   
+podrã                         , 0.05          , 1                   
+podrãs                        , 0.05          , 1                   
+polinesia                     , 0.05          , 1                   
+polãtica                      , 0.05          , 1                   
+poppy                         , 0.05          , 1                   
+populares                     , 0.15          , 3                   
+posibles                      , 0.05          , 1                   
+positivo                      , 0.05          , 1                   
+precio                        , 0.05          , 1                   
+prensa                        , 0.05          , 1                   
+preocupes                     , 0.05          , 1                   
+presentã³                     , 0.05          , 1                   
+presupuesto                   , 0.05          , 1                   
+pretende                      , 0.05          , 1                   
+primer                        , 0.1           , 2                   
+primera                       , 0.05          , 1                   
+prince                        , 0.05          , 1                   
+princesa                      , 0.05          , 1                   
+principales                   , 0.1           , 2                   
+principito                    , 0.15          , 3                   
+privacidad                    , 0.05          , 1                   
+proclamado                    , 0.05          , 1                   
+productos                     , 0.05          , 1                   
+profesional                   , 0.05          , 1                   
+programaciã³n                 , 0.05          , 1                   
+promete                       , 0.05          , 1                   
+pronto                        , 0.05          , 1                   
+propiedad                     , 0.05          , 1                   
+propio                        , 0.1           , 2                   
+protagonizado                 , 0.05          , 1                   
+provecho                      , 0.05          , 1                   
+prãncipe                      , 0.05          , 1                   
+prã³xima                      , 0.05          , 1                   
+prã³ximamente                 , 0.05          , 1                   
+publicado                     , 0.75          , 15                  
+publicidad                    , 0.1           , 2                   
+puedan                        , 0.05          , 1                   
+puedes                        , 0.2           , 4                   
+pãºblico                      , 0.05          , 1                   
+quedan                        , 0.05          , 1                   
+quedarnos                     , 0.05          , 1                   
+quede                         , 0.05          , 1                   
+queremos                      , 0.05          , 1                   
+queue                         , 0.45          , 9                   
+quien                         , 0.05          , 1                   
+quiere                        , 0.05          , 1                   
+quieres                       , 0.05          , 1                   
+quinteto                      , 0.1           , 2                   
+quiãnes                       , 0.15          , 3                   
+quã                           , 0.05          , 1                   
+rachel                        , 0.05          , 1                   
+rato                          , 0.05          , 1                   
+realizar                      , 0.05          , 1                   
+recibe                        , 0.05          , 1                   
+recientemente                 , 0.05          , 1                   
+reclutando                    , 0.05          , 1                   
+recomendaciones               , 0.05          , 1                   
+recurrir                      , 0.05          , 1                   
+redes                         , 0.15          , 3                   
+regresar                      , 0.05          , 1                   
+relacionados                  , 0.05          , 1                   
+relaciã³n                     , 0.05          , 1                   
+relato                        , 0.05          , 1                   
+reloj                         , 0.05          , 1                   
+renunciar                     , 0.05          , 1                   
+reparto                       , 0.05          , 1                   
+reservados                    , 0.05          , 1                   
+respecto                      , 0.05          , 1                   
+resulta                       , 0.05          , 1                   
+resurgimiento                 , 0.05          , 1                   
+retome                        , 0.05          , 1                   
+revision                      , 0.05          , 1                   
+revisiã³n                     , 0.1           , 2                   
+rises                         , 0.05          , 1                   
+rivalidad                     , 0.05          , 1                   
+robar                         , 0.05          , 1                   
+robara                        , 0.05          , 1                   
+romãnticas                    , 0.1           , 2                   
+rss                           , 0.1           , 2                   
+rãpidamente                   , 0.05          , 1                   
+sacudido                      , 0.05          , 1                   
+saga                          , 0.1           , 2                   
+sagrada                       , 0.05          , 1                   
+sahara                        , 0.05          , 1                   
+saintexupãry                  , 0.05          , 1                   
+salir                         , 0.05          , 1                   
+sea                           , 0.05          , 1                   
+secciones                     , 0.1           , 2                   
+secret                        , 0.05          , 1                   
+secreta                       , 0.05          , 1                   
+seguidores                    , 0.05          , 1                   
+seguramente                   , 0.05          , 1                   
+selecciã³n                    , 0.1           , 2                   
+selva                         , 0.05          , 1                   
+sentã³                        , 0.05          , 1                   
+septiembre                    , 0.1           , 2                   
+seres                         , 0.1           , 2                   
+serie                         , 0.05          , 1                   
+series                        , 0.25          , 5                   
+servicio                      , 0.2           , 4                   
+servicios                     , 0.1           , 2                   
+shrek                         , 0.05          , 1                   
+sido                          , 0.1           , 2                   
+siempreâ                      , 0.05          , 1                   
+siglo                         , 0.05          , 1                   
+sigue                         , 0.1           , 2                   
+siguiente                     , 0.05          , 1                   
+simbiã³tico                   , 0.05          , 1                   
+siri                          , 0.05          , 1                   
+sistem                        , 0.05          , 1                   
+smart                         , 0.05          , 1                   
+snowball                      , 0.05          , 1                   
+sobrehumanas                  , 0.05          , 1                   
+sociales                      , 0.15          , 3                   
+son                           , 0.15          , 3                   
+sonido                        , 0.05          , 1                   
+south                         , 0.05          , 1                   
+spoilers                      , 0.05          , 1                   
+spotify                       , 0.05          , 1                   
+star                          , 0.1           , 2                   
+stopmotion                    , 0.05          , 1                   
+streaming                     , 0.4           , 8                   
+subrayar                      , 0.05          , 1                   
+subtãtulos                    , 0.05          , 1                   
+sueãa                         , 0.1           , 2                   
+sueão                         , 0.1           , 2                   
+sumar                         , 0.05          , 1                   
+suscribirse                   , 0.05          , 1                   
+suscripciã³n                  , 0.05          , 1                   
+switch                        , 0.05          , 1                   
+sã³lo                         , 0.1           , 2                   
+tambiãn                       , 0.25          , 5                   
+tartamudeos                   , 0.05          , 1                   
+tatarabuela                   , 0.05          , 1                   
+tatarabuelo                   , 0.1           , 2                   
+tecnologãa                    , 0.1           , 2                   
+tecnolã³gicas                 , 0.05          , 1                   
+telefonãa                     , 0.15          , 3                   
+televisores                   , 0.05          , 1                   
+telãfono                      , 0.05          , 1                   
+temporada                     , 0.2           , 4                   
+tendencias                    , 0.05          , 1                   
+tendremos                     , 0.05          , 1                   
+tendrã                        , 0.05          , 1                   
+tendrãa                       , 0.05          , 1                   
+tercera                       , 0.15          , 3                   
+teresa                        , 0.05          , 1                   
+terremoto                     , 0.05          , 1                   
+terror                        , 0.05          , 1                   
+the                           , 0.25          , 5                   
+tienda                        , 0.05          , 1                   
+tienes                        , 0.05          , 1                   
+tierra                        , 0.05          , 1                   
+tipos                         , 0.05          , 1                   
+tom                           , 0.05          , 1                   
+torpemente                    , 0.05          , 1                   
+trae                          , 0.1           , 2                   
+trata                         , 0.05          , 1                   
+travãs                        , 0.05          , 1                   
+trends                        , 0.2           , 4                   
+trolls                        , 0.2           , 4                   
+tropical                      , 0.05          , 1                   
+true                          , 0.1           , 2                   
+tv                            , 0.05          , 1                   
+tweet                         , 0.1           , 2                   
+twitter                       , 0.1           , 2                   
+tãtulos                       , 0.05          , 1                   
+ubisoft                       , 0.05          , 1                   
+unidos                        , 0.05          , 1                   
+unirse                        , 0.05          , 1                   
+utiliza                       , 0.05          , 1                   
+vale                          , 0.05          , 1                   
+vecino                        , 0.05          , 1                   
+vendido                       , 0.05          , 1                   
+vengarse                      , 0.05          , 1                   
+venir                         , 0.05          , 1                   
+venom                         , 0.1           , 2                   
+ver                           , 0.2           , 4                   
+verdad                        , 0.05          , 1                   
+verla                         , 0.05          , 1                   
+vestible                      , 0.1           , 2                   
+vez                           , 0.05          , 1                   
+viaja                         , 0.05          , 1                   
+vida                          , 0.2           , 4                   
+video                         , 0.05          , 1                   
+videojuegos                   , 0.3           , 6                   
+videos                        , 0.05          , 1                   
+villano                       , 0.15          , 3                   
+villanos                      , 0.1           , 2                   
+vinilo                        , 0.05          , 1                   
+vinilos                       , 0.05          , 1                   
+vive                          , 0.15          , 3                   
+voice                         , 0.1           , 2                   
+volverse                      , 0.05          , 1                   
+voz                           , 0.05          , 1                   
+vuelve                        , 0.05          , 1                   
+vãctor                        , 0.05          , 1                   
+warriorâ                      , 0.05          , 1                   
+wars                          , 0.1           , 2                   
+watch                         , 0.05          , 1                   
+youtube                       , 0.1           , 2                   
+âa                            , 0.05          , 1                   
+âaquã                         , 0.05          , 1                   
+âcansado                      , 0.05          , 1                   
+âcon                          , 0.05          , 1                   
+âhay                          , 0.05          , 1                   
+âideal                        , 0.05          , 1                   
+âintentas                     , 0.05          , 1                   
+âla                           , 0.05          , 1                   
+âlistos                       , 0.05          , 1                   
+âlos                          , 0.05          , 1                   
+âno                           , 0.05          , 1                   
+âpor                          , 0.05          , 1                   
+âquiãn                        , 0.05          , 1                   
+âquãdate                      , 0.05          , 1                   
+âsin                          , 0.05          , 1                   
+âsãcale                       , 0.05          , 1                   
+âte                           , 0.1           , 2                   
+âtienes                       , 0.05          , 1                   
+âvuelta                       , 0.05          , 1                   
+âœdragon                      , 0.05          , 1                   
+âœfurious                     , 0.05          , 1                   
+ãl                            , 0.05          , 1                   
+ãxito                         , 0.05          , 1                   
+ãºltima                       , 0.1           , 2                   
+ãºnico                        , 0.05          , 1                   

@@ -1,0 +1,74 @@
+           Modelo Cosmológico del Universo Viviente              CAPITULOS      Introducción   Definiciones.   Hipótesis   Gravedad Cuántica   Materia oscura   Lentes Gravitatorias   Onda gravitatoria   Transformaciones de Lorentz   Precesión perihelio de Mercurio   Supernovas Ia. Energía oscura   Irreversibilidad en Física Cuántica   Efecto Casimir   Campo unificado   Flecha del tiempo   Redshift cosmológico   Big Bang. Origen del Universo   Universo Viviente   Principio de Mach. Antigravedad   Link interesantes     Busque algo en este sitio:         powered by FreeFind         15.- BIG BANG. ORIGEN DEL UNIVERSO   Según la hipótesis que planteo en estas páginas, el origen de
+nuestro universo sería una partícula de Planck con
+densidad de energía 1,23 10 93 g/cc, Radio longitud
+de Planck y edad tiempo de Planck, generada por el colapso de una
+estrella masiva en el núcleo de una galaxia joven en un universo mas
+antiguo que el nuestro del que seríamos "hijo".
+Este fenómeno sería facilmente asimilable a lo que ahora podemos
+observar como cuasar.
+Con un simple cálculo, podemos ver que durante el primer segundo el
+universo creció hasta 2 10 38 g.
+Si calculamos las temperaturas en diversos momentos de su historia
+(cada momento se caracteriza por un número entero N)
+conociendo la densidad ρ = 3 m p / 8 π N 2 l p 3 , podemos verificar que
+las temperaturas se corresponden fielmente a las teóricas del
+universo según la versión standard del Big Bang.   Podríamos considerarlo como el momento de la concepción de un universo.
+A continuación trataré de dar una interpretación personal a los resultados encontrados en los epígrafes anteriores.   La hipótesis en la que se basa este modelo propone un universo con 6 dimensiones macroscópicas, tres temporales
+y tres espaciales y otras tres microscópicas. Estas dimensiones nacen a partir de la aparición de los diversos
+tipos de sucesos, es decir,
+el devenir histórico del universo no sería una sucesión de sucesos desarrollados en estas dimensiones,
+sino el surgimiento de diversos tipos de sucesos que darán lugar a la dimensionalidad del universo al ser observados
+(las interacciones son los mecanismos de observación),
+las dimensiones de los universos son parámetros que permiten describir los sucesos.  Naturalmente no todos los sucesos debieron surgir al inicio del universo. El primer suceso (Big Bang) define la
+coordenada cosmológica t 3 y es generado por la interacción unificada (interacción entre universos).
+Puede identificarse este suceso con el colapso gravitatorio del núcleo de una galaxia en el universo madre
+formando un agujero negro, inicialmente del tamaño de la masa de Planck. Posteriormente nace la interacción 
+gravitatoria, ésta da lugar a la aparición de sucesos gravitatorios
+(redistribución de las densidades de energía) definiendo la coordenada gravitatoria t 1 y las
+espaciales x, y y z. Esta interacción gravitatoria no es la misma que la que conocemos actualmente. 
+Como vimos en el epígrafe 3, al no existir partículas elementales, no pueden ser observadas, en consecuencia la
+expresión (3.4) no puede transformarse en la (3.5). En ese mismo epígrafe se llega posteriormente a la conocida expresión
+de Newton para la gravedad; dicha expresión en este caso sería de la forma V= G M / R h . M en este caso no
+puede ser mas que la energía total del universo, es decir todo el universo sería una superficie equipotencial, aunque
+fluctuaciones cuánticas podrían generar acumulaciones de energía locales.
+Durante un determinado tiempo (medido sobre t 3 ) el universo careció de cualquier otro tipo de suceso, desde
+el punto de vista de la historia de los sucesos electromagnéticos (coordenada t 2 ) este periodo puede ser identificado
+con el periodo inflacionario propuesto por Alan Guth, el campo escalar inflatrón postulado en la teoría inflacionaria
+podría ser identificado con el campo gravitatorio del universo madre (V= G M / R h como vimos antes). 
+Este periodo, medido sobre la coordenada cosmológica, pudo durar
+19.000 millones de años, no existirían las cargas eléctricas y durante él pudieron formarse grandes acumulaciones de
+energía, originadas en las fluctuaciones cuánticas indicadas anteriormente, precursoras de las actuales
+galaxias (¿galaxias negras?). Al llegar al tamaño adecuado (ver epígrafe 13),
+pudo instaurarse la flecha del tiempo electromagnética (coordenada t 2 )
+y con ella las cargas electricas, las acumulaciones de energía
+anteriores se convirtieron en pequeños Big-Bang. Las ondas de choque al
+encontrase unas con otras generaron
+las estructuras a gran escala formadas de galaxias que se observan
+ahora; desde este punto de vista,
+la estructura a gran escala del universo se formó a la vez que las
+galaxias que la constituyen,
+hecho que las últimas observaciones parecen confirmar. Este suceso
+equivale a la separación de las interacciones gravitatoria y
+electrodébil, es a partir de este momento en el que la gravedad toma la
+forma actual (ver expresión 3.5).
+Los sucesos posteriores son explicado por el modelo standard del Big
+Bang.     Sin embargo, desde nuestro punto de vista como observadores en el tiempo t 2 , el universo aparece
+en expansión con un aparente freno geométrico gravitatorio. Si hacemos el esfuerzo de imaginarnos el aspecto del universo
+como observadores en el tiempo t 1 ,
+nos daríamos cuenta de que en este nuevo universo el aspecto es en
+contracción con un aparente freno geométrico electromagnético.
+¿Cuál es el aspecto "real" del universo?.
+Si recordamos el epígrafe 1, las partículas 1/2 masa de Planck, que
+sirven de portadoras de la interacción entre universos,
+entran con energía mecánica total nula.
+Este hecho unido a la criticidad intrínseca que propone este modelo
+para la energía total del universo respalda la asunción del estado
+estacionario como la mejor descripción para nuestro universo
+actualmente.  La propuesta cosmológica del modelo Universo Viviente podríamos resumirla de la siguiente forma:
+El Universo nació al eclosionar un agujero negro en nuestro Universo madre, este suceso se puede identificar
+con el Big Bang y generó la coordenada cosmológica t 3 y las espaciales. Creció hasta alcanzar diversos estados estacionarios (estáticos)
+de equilibrio entre la interacción con su Universo Madre y la interacción con sus diversos Universos hijos
+(nucleos de galaxias), estos estados estacionarios permiten la aparición de sucesos electromagnéticos y gravitatorios
+generando las coordenadas temporales electromagnéticas y gravitatoria,
+en la primera se observa al universo en expansión en la segunda se observa al universo en contracción.
+Actualmente nos encontramos en el último estado estacionario.  En consecuencia se podría decir que este modelo cosmológico cumple el principio cosmológico perfecto.        © Jorge Alés, 2002. http://www.universoviviente.com                 

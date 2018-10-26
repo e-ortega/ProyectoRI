@@ -1,0 +1,16 @@
+      AVISOS                    DATOS 
+		GENERALES         Horas Teoría    2 horas por semana      Horas Práctica    2 horas por semana      Profesor     Samuel Oporto Díaz  soporto@wiphala.net      Horario de Clases    Sábados:    
+				5:00 PM - 9:00 PM      Libro de Texto        Área    Curso-Taller 
+				Investigación en Inteligencia Artificial                 SUMILLA                   OBJETIVOS 
+		DEL CURSO      Objetivos Generales     Objetivos Conceptuales    Objetivos Procedimentales.   Objetivos Actitudinales.                PRE-REQUISITOS        Conocimientos de 
+			inferencia lógica.    Conocimientos de MatLab.    Conocimientos de algún lenguaje de programación.                MAPA 
+		CONCEPTUAL                         CONTENIDO 
+		DEL CURSO                D   Fecha   S    Temario   Laboratorio      Sa    10-Sep    1     Conjuntos Difusos, Conjuntos Clásicos y Funciones de 
+					Membresía       Lab1      Sa    17-Sep    2     Operaciones y Relaciones en 
+					Conjuntos Difusos, Principio de Extensión     Lab2      Sa    24-Sep    3     Lógica clásica y lógica difusa 
+					y Variables Lingüísticas      Lab3      Sa    01-Oct    4     Sistema de reglas difusas e 
+					Inferencia difusa      Lab4      Sa    08-Oct    5     Fuzificadores y defusificadores      Lab5                       BIBLIOGRAFÍA      Bibliografía Básica:     Bibliografía Complementaría:                 LABORATORIOS     Durante el desarrollo del curso se tomarán 
+		5 
+		laboratorios.         Laboratorio 1.    Funciones de membresía.   Fecha de entrega:         Laboratorio 2.    Fecha de entrega:         Laboratorio 3.    Fecha de entrega:         Laboratorio 4.    Fecha de entrega:         Laboratorio 
+		5.    Fecha de entrega:                          RECURSOS DE 
+		SOFTWARE               

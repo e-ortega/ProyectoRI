@@ -1,231 +1,286 @@
-juegos,0.6666666666666666,8
-web,0.4166666666666667,5
-inicio,0.08333333333333333,1
-regístrate,0.08333333333333333,1
-multijugador,0.25,3
-categorias,0.08333333333333333,1
-acción,0.08333333333333333,1
-animación,0.08333333333333333,1
-aventuras,0.08333333333333333,1
-bestias,0.08333333333333333,1
-carreras,0.08333333333333333,1
-cartas,0.08333333333333333,1
-casinos,0.08333333333333333,1
-chorradas,0.08333333333333333,1
-clásicos,0.08333333333333333,1
-coches,0.08333333333333333,1
-deportes,0.08333333333333333,1
-estrategia,0.08333333333333333,1
-habilidad,0.08333333333333333,1
-infantiles,0.08333333333333333,1
-inteligencia,0.08333333333333333,1
-lucha,0.08333333333333333,1
-musica,0.08333333333333333,1
-naves,0.08333333333333333,1
-navidad,0.16666666666666666,2
-nintendo,0.08333333333333333,1
-online,0.4166666666666667,5
-plataformas,0.08333333333333333,1
-sudoku,0.08333333333333333,1
-tiros,0.08333333333333333,1
-disparos,0.08333333333333333,1
-vídeos,0.08333333333333333,1
-mmorpg,0.08333333333333333,1
-gratis,0.3333333333333333,4
-sindicar,0.08333333333333333,1
-rss,0.25,3
-nuevos,0.08333333333333333,1
-top,0.08333333333333333,1
-ball,0.16666666666666666,2
-mania,0.08333333333333333,1
-recuerdas,0.08333333333333333,1
-juego,1.0,12
-popular,0.08333333333333333,1
-llamado,0.08333333333333333,1
-zuma,0.16666666666666666,2
-mejor,0.08333333333333333,1
-tarea,0.08333333333333333,1
-bolas,0.16666666666666666,2
-desaparecen,0.08333333333333333,1
-lleguen,0.08333333333333333,1
-rana,0.08333333333333333,1
-obtenga,0.08333333333333333,1
-tres,0.08333333333333333,1
-añadido,0.5,6
-07102014,0.08333333333333333,1
-jugar,0.5833333333333334,7
-recomendar,0.5,6
-añadir,0.5,6
-favoritos,0.5,6
-memoria,0.08333333333333333,1
-comida,0.16666666666666666,2
-rápida,0.16666666666666666,2
-memoriza,0.08333333333333333,1
-platos,0.16666666666666666,2
-emparejalos,0.08333333333333333,1
-igual,0.08333333333333333,1
-sencillo,0.08333333333333333,1
-nivel,0.16666666666666666,2
-número,0.08333333333333333,1
-ira,0.08333333333333333,1
-subiendo,0.08333333333333333,1
-asi,0.08333333333333333,1
-concéntrate,0.08333333333333333,1
-estate,0.08333333333333333,1
-atento,0.08333333333333333,1
-06102014,0.08333333333333333,1
-snipers,0.08333333333333333,1
-guns,0.08333333333333333,1
-and,0.08333333333333333,1
-enemies,0.08333333333333333,1
-entrenamiento,0.08333333333333333,1
-comenzado,0.08333333333333333,1
-tienes,0.16666666666666666,2
-prácticas,0.08333333333333333,1
-tiro,0.08333333333333333,1
-convertirte,0.08333333333333333,1
-policia,0.08333333333333333,1
-serás,0.08333333333333333,1
-capaz,0.08333333333333333,1
-derribar,0.08333333333333333,1
-blancos,0.08333333333333333,1
-veremos,0.08333333333333333,1
-05102014,0.08333333333333333,1
-delicious,0.08333333333333333,1
-chocolate,0.25,3
-cookies,0.08333333333333333,1
-cocina,0.08333333333333333,1
-propias,0.08333333333333333,1
-galletas,0.16666666666666666,2
-conviértete,0.08333333333333333,1
-auténtico,0.08333333333333333,1
-rey,0.08333333333333333,1
-repostería,0.08333333333333333,1
-sueño,0.08333333333333333,1
-nadar,0.08333333333333333,1
-miles,0.16666666666666666,2
-puedes,0.08333333333333333,1
-empezar,0.08333333333333333,1
-aqui,0.08333333333333333,1
-04102014,0.08333333333333333,1
-test,0.08333333333333333,1
-estilo,0.16666666666666666,2
-dispones,0.08333333333333333,1
-tocador,0.08333333333333333,1
-elementos,0.08333333333333333,1
-maquillaje,0.08333333333333333,1
-peluquería,0.08333333333333333,1
-realizar,0.08333333333333333,1
-excelentes,0.08333333333333333,1
-pruebas,0.08333333333333333,1
-ver,0.08333333333333333,1
-queda,0.08333333333333333,1
-nuevo,0.08333333333333333,1
-pensado,0.08333333333333333,1
-02102014,0.08333333333333333,1
-gift,0.08333333333333333,1
-rush,0.08333333333333333,1
-divertido,0.08333333333333333,1
-rompecabzas,0.08333333333333333,1
-tendrás,0.08333333333333333,1
-ayudar,0.08333333333333333,1
-pequeña,0.08333333333333333,1
-araña,0.08333333333333333,1
-llegar,0.08333333333333333,1
-hijos,0.08333333333333333,1
-pasar,0.08333333333333333,1
-debes,0.16666666666666666,2
-tirar,0.08333333333333333,1
-red,0.08333333333333333,1
-lugares,0.08333333333333333,1
-adecuados,0.08333333333333333,1
-esquivar,0.08333333333333333,1
-01102014,0.08333333333333333,1
-siguiente,0.08333333333333333,1
-plugin,0.08333333333333333,1
-flash,0.08333333333333333,1
-shockwave,0.08333333333333333,1
-java,0.08333333333333333,1
-acceso,0.08333333333333333,1
-usuario,0.08333333333333333,1
-email,0.08333333333333333,1
-password,0.16666666666666666,2
-registrarse,0.08333333333333333,1
-recordar,0.08333333333333333,1
-mas,0.08333333333333333,1
-jugados,0.08333333333333333,1
-votados,0.08333333333333333,1
-parchis,0.08333333333333333,1
-chinchón,0.08333333333333333,1
-parchís,0.08333333333333333,1
-drag,0.16666666666666666,2
-racer,0.16666666666666666,2
-v3,0.08333333333333333,1
-aparcar,0.08333333333333333,1
-batalla,0.16666666666666666,2
-hombres,0.08333333333333333,1
-mujeres,0.08333333333333333,1
-dragon,0.08333333333333333,1
-magical,0.08333333333333333,1
-kicks,0.08333333333333333,1
-sodoku,0.08333333333333333,1
-miniclip,0.08333333333333333,1
-empire,0.08333333333333333,1
-dominó,0.08333333333333333,1
-metal,0.08333333333333333,1
-slug,0.08333333333333333,1
-mision,0.08333333333333333,1
-paz,0.08333333333333333,1
-egyptian,0.08333333333333333,1
-tale,0.08333333333333333,1
-evolution,0.08333333333333333,1
-medieval,0.08333333333333333,1
-battle,0.08333333333333333,1
-knight,0.08333333333333333,1
-zewalle,0.08333333333333333,1
-candy,0.08333333333333333,1
-mountain,0.08333333333333333,1
-massacre,0.08333333333333333,1
-sitios,0.08333333333333333,1
-recomendados,0.08333333333333333,1
-decoración,0.08333333333333333,1
-interiores,0.08333333333333333,1
-digital,0.08333333333333333,1
-prueba,0.08333333333333333,1
-velocidad,0.08333333333333333,1
-adsl,0.08333333333333333,1
-webs,0.08333333333333333,1
-amigas,0.08333333333333333,1
-copyright,0.16666666666666666,2
-19902016,0.08333333333333333,1
-color,0.16666666666666666,2
-vivo,0.16666666666666666,2
-internet,0.16666666666666666,2
-derechos,0.08333333333333333,1
-reservados,0.08333333333333333,1
-política,0.08333333333333333,1
-privacidad,0.08333333333333333,1
-aviso,0.08333333333333333,1
-legal,0.08333333333333333,1
-hosting,0.08333333333333333,1
-stackscale,0.08333333333333333,1
-juegoswebcom,0.08333333333333333,1
-desarrollada,0.08333333333333333,1
-proyecto,0.08333333333333333,1
-hermanos,0.08333333333333333,1
-carrero,0.08333333333333333,1
-ves,0.08333333333333333,1
-algún,0.25,3
-funciona,0.08333333333333333,1
-crees,0.08333333333333333,1
-vulnera,0.08333333333333333,1
-derecho,0.08333333333333333,1
-autor,0.08333333333333333,1
-infórmanoslo,0.08333333333333333,1
-listados,0.08333333333333333,1
-hospedados,0.08333333333333333,1
-original,0.08333333333333333,1
-son,0.08333333333333333,1
-propiedad,0.08333333333333333,1
-respectivos,0.08333333333333333,1
-autores,0.08333333333333333,1
+1209106                       , 0.025         , 1                   
+18                            , 0.025         , 1                   
+19952006                      , 0.025         , 1                   
+3603                          , 0.025         , 1                   
+515                           , 0.025         , 1                   
+60                            , 0.025         , 1                   
+acabar                        , 0.025         , 1                   
+acción                        , 0.05          , 2                   
+adultos                       , 0.025         , 1                   
+agua                          , 0.025         , 1                   
+algún                         , 0.075         , 3                   
+alimentos                     , 0.025         , 1                   
+alojados                      , 0.025         , 1                   
+alojamiento                   , 0.05          , 2                   
+alternativamente              , 0.025         , 1                   
+animaciones                   , 0.025         , 1                   
+animación                     , 0.025         , 1                   
+animados                      , 0.025         , 1                   
+aprovecha                     , 0.025         , 1                   
+archivo                       , 0.025         , 1                   
+autor                         , 0.025         , 1                   
+avances                       , 0.025         , 1                   
+avanzar                       , 0.025         , 1                   
+aventuras                     , 0.05          , 2                   
+aviso                         , 0.025         , 1                   
+añadirlos                     , 0.025         , 1                   
+barra                         , 0.025         , 1                   
+bestias                       , 0.025         , 1                   
+big                           , 0.025         , 1                   
+blog                          , 0.025         , 1                   
+bomb                          , 0.025         , 1                   
+bomboncitas                   , 0.025         , 1                   
+bromas                        , 0.025         , 1                   
+buenos                        , 0.025         , 1                   
+buscar                        , 0.025         , 1                   
+canguros                      , 0.025         , 1                   
+carreras                      , 0.05          , 2                   
+carrero                       , 0.025         , 1                   
+cartas                        , 0.05          , 2                   
+casinos                       , 0.025         , 1                   
+castellano                    , 0.025         , 1                   
+categorias                    , 0.025         , 1                   
+categorías                    , 0.025         , 1                   
+chistes                       , 0.025         , 1                   
+chorradas                     , 0.05          , 2                   
+clásicos                      , 0.05          , 2                   
+cobarde                       , 0.025         , 1                   
+coches                        , 0.05          , 2                   
+combinar                      , 0.05          , 2                   
+comprar                       , 0.05          , 2                   
+contactos                     , 0.025         , 1                   
+contricante                   , 0.025         , 1                   
+copyright                     , 0.05          , 2                   
+crazy                         , 0.025         , 1                   
+crees                         , 0.025         , 1                   
+cursores                      , 0.025         , 1                   
+cursos                        , 0.075         , 3                   
+cyberjuegos                   , 0.025         , 1                   
+cálico                        , 0.025         , 1                   
+círculo                       , 0.025         , 1                   
+david                         , 0.025         , 1                   
+debate                        , 0.025         , 1                   
+debes                         , 0.025         , 1                   
+dedicados                     , 0.025         , 1                   
+defenderte                    , 0.025         , 1                   
+defiéndete                    , 0.025         , 1                   
+deluxe                        , 0.05          , 2                   
+deportes                      , 0.05          , 2                   
+derecho                       , 0.025         , 1                   
+derechos                      , 0.025         , 1                   
+desarrolladores               , 0.025         , 1                   
+descripciones                 , 0.025         , 1                   
+dia                           , 0.025         , 1                   
+diariogratis                  , 0.025         , 1                   
+diccionarios                  , 0.025         , 1                   
+diferentes                    , 0.025         , 1                   
+directorio                    , 0.05          , 2                   
+diseño                        , 0.025         , 1                   
+disparos                      , 0.05          , 2                   
+disponemos                    , 0.025         , 1                   
+dispones                      , 0.025         , 1                   
+doll                          , 0.025         , 1                   
+dominios                      , 0.025         , 1                   
+drag                          , 0.05          , 2                   
+dulce                         , 0.025         , 1                   
+días                          , 0.025         , 1                   
+electrónico                   , 0.025         , 1                   
+energia                       , 0.025         , 1                   
+enviar                        , 0.025         , 1                   
+eróticos                      , 0.05          , 2                   
+esgratisnet                   , 0.025         , 1                   
+espaciadora                   , 0.025         , 1                   
+espada                        , 0.025         , 1                   
+españa                        , 0.025         , 1                   
+españoles                     , 0.025         , 1                   
+estan                         , 0.025         , 1                   
+estrategia                    , 0.05          , 2                   
+expuestos                     , 0.025         , 1                   
+ferca                         , 0.025         , 1                   
+fernándezbaillo               , 0.025         , 1                   
+flash                         , 0.1           , 4                   
+flechas                       , 0.025         , 1                   
+fuentes                       , 0.025         , 1                   
+funciona                      , 0.025         , 1                   
+futuro                        , 0.025         , 1                   
+galería                       , 0.025         , 1                   
+gif                           , 0.025         , 1                   
+gifs                          , 0.075         , 3                   
+gladiadores                   , 0.025         , 1                   
+gladiator                     , 0.025         , 1                   
+golpes                        , 0.025         , 1                   
+google                        , 0.025         , 1                   
+gratis                        , 0.3           , 12                  
+gratuita                      , 0.025         , 1                   
+gratuitos                     , 0.05          , 2                   
+gráfico                       , 0.025         , 1                   
+habilidad                     , 0.05          , 2                   
+habilidades                   , 0.025         , 1                   
+han                           , 0.025         , 1                   
+hardcoretoons                 , 0.025         , 1                   
+hentai                        , 0.025         , 1                   
+hotel                         , 0.025         , 1                   
+humor                         , 0.025         , 1                   
+infantiles                    , 0.05          , 2                   
+infórmanos                    , 0.025         , 1                   
+inicio                        , 0.025         , 1                   
+inmediato                     , 0.025         , 1                   
+intercambio                   , 0.05          , 2                   
+internet                      , 0.025         , 1                   
+jack                          , 0.025         , 1                   
+java                          , 0.05          , 2                   
+jocjuegos                     , 0.025         , 1                   
+juego                         , 0.375         , 15                  
+juegos                        , 1.0           , 40                  
+juegosjuegos                  , 0.025         , 1                   
+jugadas                       , 0.025         , 1                   
+jugados                       , 0.025         , 1                   
+jugar                         , 0.2           , 8                   
+kanguros                      , 0.025         , 1                   
+karateka                      , 0.025         , 1                   
+karatekas                     , 0.025         , 1                   
+karla                         , 0.025         , 1                   
+koomparte                     , 0.025         , 1                   
+kumite                        , 0.05          , 2                   
+kungfu                        , 0.05          , 2                   
+lanzadera                     , 0.025         , 1                   
+lanzan                        , 0.025         , 1                   
+laura                         , 0.025         , 1                   
+legal                         , 0.025         , 1                   
+line                          , 0.05          , 2                   
+login                         , 0.025         , 1                   
+logos                         , 0.025         , 1                   
+lucha                         , 0.175         , 7                   
+madness                       , 0.025         , 1                   
+maestros                      , 0.025         , 1                   
+mas                           , 0.025         , 1                   
+masters                       , 0.05          , 2                   
+mayoría                       , 0.025         , 1                   
+mediante                      , 0.05          , 2                   
+medida                        , 0.025         , 1                   
+mees                          , 0.025         , 1                   
+melodias                      , 0.025         , 1                   
+mensajes                      , 0.025         , 1                   
+meta                          , 0.025         , 1                   
+minijuegos                    , 0.025         , 1                   
+mms                           , 0.025         , 1                   
+money                         , 0.025         , 1                   
+montón                        , 0.025         , 1                   
+movimientos                   , 0.025         , 1                   
+mp3                           , 0.025         , 1                   
+multijugador                  , 0.05          , 2                   
+mundo                         , 0.05          , 2                   
+musica                        , 0.025         , 1                   
+mysqls                        , 0.025         , 1                   
+móviles                       , 0.05          , 2                   
+música                        , 0.025         , 1                   
+naves                         , 0.05          , 2                   
+navidad                       , 0.05          , 2                   
+network                       , 0.025         , 1                   
+ninja                         , 0.025         , 1                   
+noquear                       , 0.025         , 1                   
+on                            , 0.05          , 2                   
+online                        , 0.075         , 3                   
+opciones                      , 0.025         , 1                   
+orgasmatic                    , 0.025         , 1                   
+original                      , 0.025         , 1                   
+oscuro                        , 0.025         , 1                   
+pamela                        , 0.025         , 1                   
+partidas                      , 0.025         , 1                   
+partners                      , 0.025         , 1                   
+password                      , 0.05          , 2                   
+patadas                       , 0.025         , 1                   
+peleas                        , 0.025         , 1                   
+peleones                      , 0.025         , 1                   
+pensamientos                  , 0.025         , 1                   
+pierdes                       , 0.025         , 1                   
+plataformas                   , 0.05          , 2                   
+plugin                        , 0.025         , 1                   
+politica                      , 0.025         , 1                   
+privacidad                    , 0.025         , 1                   
+programación                  , 0.05          , 2                   
+programas                     , 0.025         , 1                   
+propiedad                     , 0.05          , 2                   
+publijuegos                   , 0.025         , 1                   
+puedes                        , 0.075         , 3                   
+pulsa                         , 0.025         , 1                   
+puñetazos                     , 0.025         , 1                   
+página                        , 0.025         , 1                   
+quieres                       , 0.025         , 1                   
+racer                         , 0.05          , 2                   
+racing                        , 0.025         , 1                   
+ranking                       , 0.025         , 1                   
+recomendable                  , 0.025         , 1                   
+recomendado                   , 0.025         , 1                   
+recomendamos                  , 0.025         , 1                   
+recomendar                    , 0.175         , 7                   
+recomendarnos                 , 0.025         , 1                   
+recuerda                      , 0.025         , 1                   
+recuperar                     , 0.025         , 1                   
+recursos                      , 0.05          , 2                   
+recursosgratiscom             , 0.025         , 1                   
+red                           , 0.05          , 2                   
+redeemer                      , 0.025         , 1                   
+referenciados                 , 0.025         , 1                   
+reflejos                      , 0.025         , 1                   
+registrarse                   , 0.025         , 1                   
+registro                      , 0.025         , 1                   
+remitidos                     , 0.025         , 1                   
+reservados                    , 0.025         , 1                   
+respectivos                   , 0.025         , 1                   
+resto                         , 0.05          , 2                   
+retirado                      , 0.025         , 1                   
+retroceder                    , 0.025         , 1                   
+rival                         , 0.025         , 1                   
+rivales                       , 0.025         , 1                   
+romper                        , 0.025         , 1                   
+sacarlo                       , 0.025         , 1                   
+san                           , 0.05          , 2                   
+sandias                       , 0.025         , 1                   
+sangriento                    , 0.025         , 1                   
+segundos                      , 0.025         , 1                   
+servidores                    , 0.025         , 1                   
+será                          , 0.05          , 2                   
+sexus                         , 0.025         , 1                   
+shockwave                     , 0.05          , 2                   
+sido                          , 0.025         , 1                   
+siguientes                    , 0.025         , 1                   
+sistema                       , 0.025         , 1                   
+sitio                         , 0.025         , 1                   
+sitios                        , 0.025         , 1                   
+sl                            , 0.025         , 1                   
+smashing                      , 0.025         , 1                   
+sodoku                        , 0.05          , 2                   
+son                           , 0.05          , 2                   
+submarina                     , 0.025         , 1                   
+submarinas                    , 0.025         , 1                   
+sumo                          , 0.025         , 1                   
+televisión                    , 0.025         , 1                   
+tendras                       , 0.025         , 1                   
+tendrás                       , 0.05          , 2                   
+tienda                        , 0.025         , 1                   
+tipografias                   , 0.025         , 1                   
+tiros                         , 0.05          , 2                   
+tonterias                     , 0.025         , 1                   
+top                           , 0.025         , 1                   
+toy                           , 0.025         , 1                   
+trainer                       , 0.025         , 1                   
+turno                         , 0.025         , 1                   
+tv                            , 0.025         , 1                   
+usuarios                      , 0.025         , 1                   
+utiliza                       , 0.05          , 2                   
+v3                            , 0.025         , 1                   
+valentin                      , 0.025         , 1                   
+valentín                      , 0.025         , 1                   
+vendidos                      , 0.025         , 1                   
+ves                           , 0.025         , 1                   
+votados                       , 0.025         , 1                   
+vulnera                       , 0.025         , 1                   
+warhammer                     , 0.025         , 1                   
+web                           , 0.15          , 6                   
+weblogs                       , 0.05          , 2                   
+webs                          , 0.025         , 1                   
+xa                            , 0.025         , 1                   
+xd                            , 0.025         , 1                   
+zona                          , 0.025         , 1                   
+zumbar                        , 0.025         , 1                   

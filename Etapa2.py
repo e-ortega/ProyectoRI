@@ -30,7 +30,6 @@ def run():
     calculePeso()
 
 
-
 # llena el vector stop_words usando la  lista de palabras que se deben omitir
 def fill_stop_words():
     file_name = "stopwords.txt"
@@ -42,8 +41,8 @@ def fill_stop_words():
 
 # lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
 def read_urls():
-    file_name = "URL1.txt"
-    file = open(file_name, "r", encoding="utf-8-sig")
+    file_name = "URLS.txt"
+    file = open(file_name, "r", encoding="utf-8")
     for line in file:
         separator = []
         for word in line.split():
@@ -53,57 +52,30 @@ def read_urls():
 
 # substrae el texto de un html y lo guarda en un archivo
 def html_parser(separator):
-    name = separator[0]
+    name = str(separator[0])
+    name = name.replace(u'\ufeff', '')
     file_name = name + '.txt'
+    file_dir = os.path.dirname(__file__)
+
+    abs_file_path = file_dir + "/Coleccion" + '/' + name
+    page = open(abs_file_path, 'r', encoding="utf-8")
+    print("name is:" + name)
+    soup = BeautifulSoup(page, 'html.parser')
+    text = soup.findAll(text=True)
+    visible_texts = filter(tag_visible, text)
+    texts = u" ".join(t.strip() for t in visible_texts)
+    #  print("Procesando archivo " + file_name)
+    path_file = os.path.join(path, plain_text_dir, file_name)
+
+    # create an empty file.
     try:
-        file_dir = os.path.dirname(__file__)
-        abs_file_path = file_dir+ "/Coleccion"+'/'+ name
+        file_text = open(path_file, '+w', encoding="utf-8")
+        file_text.write(texts)
+        file_text.close()
+        tokenizer(path_file)
+    except IOError:
+        print("Algo pasó creando el archivo el documento: [%s].", file_name)
 
-        with open(abs_file_path, 'r',encoding="utf-8") as page:
-            #if page.status_code == HTTPStatus.OK:
-            print("name is:" + name)
-            soup = BeautifulSoup(page, 'html.parser')
-            text = soup.findAll(text=True)
-            visible_texts = filter(tag_visible, text)
-            texts = u" ".join(t.strip() for t in visible_texts)
-            #  print("Procesando archivo " + file_name)
-            path_file = os.path.join(path, plain_text_dir, file_name)
-
-            # create an empty file.
-            try:
-                file_text = open(path_file, '+w', encoding="utf-8")
-                file_text.write(texts)
-                file_text.close()
-                tokenizer(path_file)
-            except IOError:
-                print("Algo pasó creando el archivo el documento: [%s].", file_name)
-    except requests.exceptions.RequestException as error:
-        print(error)
-        requests_errors.append(file_name)
-
-    # name = separator[0]
-    # file_name = name + '.txt'
-    # try:
-    #     page = requests.get(separator[1])
-    #     if page.status_code == HTTPStatus.OK:
-    #         soup = BeautifulSoup(page.content, 'html.parser')
-    #         text = soup.findAll(text=True)
-    #         visible_texts = filter(tag_visible, text)
-    #         texts = u" ".join(t.strip() for t in visible_texts)
-    #         #  print("Procesando archivo " + file_name)
-    #         path_file = os.path.join(path, plain_text_dir, file_name)
-    #
-    #         # create an empty file.
-    #         try:
-    #             file_text = open(path_file, '+w', encoding="utf-8")
-    #             file_text.write(texts)
-    #             file_text.close()
-    #             tokenizer(path_file)
-    #         except IOError:
-    #             print("Algo pasó creando el archivo el documento: [%s].", file_name)
-    # except requests.exceptions.RequestException as error:
-    #     print(error)
-    #     requests_errors.append(file_name)
 
 
 def tag_visible(element):
@@ -173,8 +145,10 @@ def normalize_frequency(file_name, word_list, frequency_list):
     else:
         requests_errors.append(file_name)
 
+
 # crea un archivo .tok a partir de los vectores de palabras y frecuencias normalizadas
 def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
+    # global tok_path
     tok_path = r'.\plain_text\tok'
     if not os.path.exists(tok_path):
         os.makedirs(tok_path)
@@ -185,7 +159,7 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
     for passnum in range(1, len(word_list)):
         i = 0
         for element in range(0, len(word_list) - passnum):
-            if (word_list[i] > word_list[i + 1]):
+            if word_list[i] > word_list[i + 1]:
                 temp = word_list[i]
                 word_list[i] = word_list[i + 1]
                 word_list[i + 1] = temp
@@ -211,36 +185,6 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
         file_text.close()
     except IOError:
         print("Algo pasó creando el .tok para el documento: [%s].", file_name)
-
-
-# def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
-    # file_name = file_name + '.tok'
-	# for passnum in range(len(word_list)-1,0,-1):
-          # i=0
-          # for element in range(passnum):
-            # if word_list[i]>word_list[i+1]:
-                # temp = word_list[i]
-                # word_list[i] = word_list[i+1]
-                # word_list[i+1] = temp
-                # temp = normalized_frequency_list[i]
-                # normalized_frequency_list[i] = normalized_frequency_list[i+1]
-                # normalized_frequency_list[i+1] = temp
-                # temp = frequency_list[i]
-                # frequency_list[i] = frequency_list[i+1]
-                # frequency_list[i+1] = temp
-            # i += 1
-    # try:
-        # file_text = open(file_name, '+w', encoding="utf-8")
-        # vector_str = [str(i) for i in normalized_frequency_list]
-        # vector_frequency = [str(i) for i in frequency_list]
-        # counter = 0
-        # for word in word_list:
-            # #file_text.write(word + "," + vector_str[counter] + "," + vector_frequency[counter] + "\n")
-            # file_text.write(word+" "*(30-len(word)) + "," + vector_str[counter] +" "*(12-len(vector_str[counter]))+ "," + vector_frequency[counter]+" "*(20-len(vector_frequency[counter])) + "\n")
-			# counter += 1
-        # file_text.close()
-    # except IOError:
-        # print("Algo pasó creando el .tok para el documento: [%s].", file_name)
 
 
 #Hace un sort para 3 lista, tomando como ordenamiento la lista base, este algorito es utilizado para ordenar el vocabulario

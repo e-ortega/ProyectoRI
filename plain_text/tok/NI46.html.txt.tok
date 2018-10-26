@@ -1,432 +1,429 @@
-acepto,0.05,1
-cookies,0.15,3
-web,0.1,2
-utiliza,0.05,1
-técnicas,0.05,1
-personalización,0.05,1
-análisis,0.05,1
-propias,0.05,1
-terceros,0.05,1
-anónimamente,0.05,1
-facilitarle,0.05,1
-navegación,0.05,1
-analizar,0.1,2
-estadísticas,0.05,1
-obtener,0.15,3
-información,0.15,3
-it,1.0,20
-user,0.15,3
-última,0.15,3
-edición,0.15,3
-descárgatela,0.15,3
-reseller,0.05,1
-digital,0.45,9
-security,0.05,1
-iniciar,0.05,1
-sesión,0.05,1
-televisión,0.1,2
-webinars,0.2,4
-whitepapers,0.1,2
-blogs,0.1,2
-content,0.1,2
-marketing,0.1,2
-seguridad,0.1,2
-movilidad,0.35,7
-big,0.1,2
-data,0.1,2
-empresa,0.1,2
-almacenamiento,0.1,2
-transformation,0.1,2
-discover,0.1,2
-the,0.1,2
-new,0.1,2
-impresión,0.1,2
-trends,0.1,2
-resolviendo,0.1,2
-retos,0.1,2
-iot,0.1,2
-suscríbete,0.15,3
-newsletter,0.15,3
-buscar,0.15,3
-futuro,0.3,6
-transporte,0.75,15
-inteligente,0.1,2
-ciudades,0.4,8
-pasa,0.05,1
-servicio,0.3,6
-opinión,0.1,2
-20,0.05,1
-sep,0.05,1
-2016,0.05,1
-cómo,0.1,2
-será,0.1,2
-veremos,0.05,1
-coches,0.1,2
-eléctricos,0.05,1
-vehículos,0.1,2
-autónomos,0.05,1
-serán,0.05,1
-realidad,0.15,3
-pasará,0.05,1
-propuesta,0.05,1
-autobús,0.15,3
-elevado,0.15,3
-acaba,0.05,1
-lanzar,0.05,1
-china,0.05,1
-hecho,0.05,1
-introduciendo,0.05,1
-tecnologías,0.05,1
-innovadoras,0.05,1
-sector,0.15,3
-transportes,0.15,3
-preguntamos,0.05,1
-usuarios,0.3,6
-público,0.25,5
-quieren,0.05,1
-ver,0.15,3
-responderán,0.05,1
-total,0.05,1
-certeza,0.05,1
-mejorar,0.1,2
-hay,0.05,1
-basta,0.05,1
-disposición,0.05,1
-especialmente,0.05,1
-europeas,0.1,2
-diferente,0.05,1
-llegar,0.05,1
-calles,0.05,1
-estrechas,0.05,1
-londres,0.05,1
-coche,0.1,2
-autónomo,0.05,1
-cruzar,0.05,1
-problemas,0.05,1
-rotonda,0.05,1
-arco,0.05,1
-triunfo,0.05,1
-parís,0.05,1
-verdad,0.05,1
-queremos,0.1,2
-proporcionar,0.05,1
-mejor,0.15,3
-debemos,0.05,1
-conocer,0.05,1
-posibilidades,0.05,1
-auténtico,0.05,1
-reto,0.1,2
-enfrentan,0.05,1
-urbanistas,0.05,1
-hoy,0.05,1
-necesitamos,0.05,1
-diferentes,0.1,2
-operadores,0.05,1
-proveedores,0.05,1
-tecnológicos,0.05,1
-desarrolladores,0.05,1
-pongan,0.05,1
-acuerdo,0.1,2
-crear,0.05,1
-entorno,0.1,2
-red,0.1,2
-funcione,0.05,1
-satisfactoriamente,0.05,1
-entender,0.1,2
-preferencias,0.1,2
-encuesta,0.05,1
-realizada,0.05,1
-habitantes,0.1,2
-19,0.05,1
-43,0.05,1
-viajeros,0.15,3
-estaban,0.05,1
-siguiente,0.05,1
-afirmación,0.05,1
-oferta,0.05,1
-afectará,0.05,1
-gran,0.1,2
-medida,0.1,2
-hora,0.05,1
-decidir,0.05,1
-lugar,0.05,1
-dónde,0.05,1
-vivir,0.05,1
-utilizarán,0.1,2
-medio,0.05,1
-les,0.05,1
-sea,0.05,1
-cómodo,0.05,1
-variar,0.05,1
-dependiendo,0.05,1
-ciudad,0.05,1
-horarios,0.05,1
-deberían,0.05,1
-preocuparse,0.05,1
-facilitar,0.05,1
-opciones,0.1,2
-actualmente,0.05,1
-urbes,0.05,1
-utilizan,0.05,1
-sistemas,0.15,3
-administrativos,0.05,1
-operación,0.05,1
-llevar,0.1,2
-cabo,0.1,2
-establecer,0.05,1
-tasa,0.05,1
-congestión,0.05,1
-alquiler,0.05,1
-bicicletas,0.1,2
-tarifas,0.05,1
-almacenan,0.05,1
-datos,0.1,2
-similares,0.05,1
-gestionan,0.05,1
-transacciones,0.05,1
-parecidas,0.05,1
-integrarse,0.05,1
-único,0.1,2
-sistema,0.15,3
-compatible,0.05,1
-servicios,0.2,4
-facilitaría,0.05,1
-extracción,0.05,1
-útil,0.05,1
-partir,0.05,1
-recogidos,0.05,1
-supuesto,0.05,1
-reduciría,0.05,1
-número,0.05,1
-procesos,0.05,1
-registro,0.05,1
-modelo,0.05,1
-uberuber,0.05,1
-eats,0.05,1
-encontrar,0.05,1
-sitio,0.05,1
-éstas,0.05,1
-llegan,0.05,1
-puntos,0.05,1
-podrán,0.05,1
-beneficiarse,0.05,1
-redes,0.1,2
-encontrarán,0.05,1
-base,0.05,1
-cuáles,0.05,1
-son,0.1,2
-rutas,0.05,1
-inteligentes,0.15,3
-han,0.05,1
-sido,0.05,1
-simplificadas,0.05,1
-diseñadas,0.05,1
-futuros,0.05,1
-concepto,0.05,1
-conocemos,0.05,1
-entendemos,0.05,1
-maas,0.1,2
-combina,0.05,1
-formas,0.1,2
-compartidos,0.05,1
-trenes,0.05,1
-autobuses,0.05,1
-metro,0.05,1
-trayectos,0.05,1
-continuos,0.05,1
-permite,0.05,1
-reservas,0.05,1
-pagar,0.05,1
-forma,0.05,1
-conjunta,0.05,1
-normalmente,0.05,1
-mediante,0.05,1
-aplicaciones,0.05,1
-móvil,0.05,1
-significa,0.05,1
-fiable,0.05,1
-completa,0.05,1
-acceso,0.05,1
-medios,0.1,2
-disponibles,0.05,1
-compromiso,0.05,1
-plazo,0.05,1
-necesidad,0.05,1
-poseer,0.05,1
-vehículo,0.05,1
-llamar,0.05,1
-economía,0.05,1
-colaborativa,0.05,1
-llevada,0.05,1
-sectores,0.05,1
-privado,0.05,1
-oportunidad,0.05,1
-desarrollar,0.05,1
-modelos,0.1,2
-conjuntos,0.05,1
-pioneros,0.05,1
-nuevas,0.05,1
-desplazarse,0.05,1
-sentarán,0.05,1
-bases,0.05,1
-resultado,0.05,1
-discusión,0.05,1
-torno,0.1,2
-sonar,0.05,1
-menudo,0.05,1
-película,0.05,1
-ciencia,0.05,1
-ficción,0.05,1
-consiste,0.05,1
-simplemente,0.05,1
-haciendo,0.05,1
-mayor,0.05,1
-tecnología,0.05,1
-disponible,0.1,2
-calidad,0.05,1
-vida,0.05,1
-momento,0.05,1
-construcción,0.05,1
-componentes,0.05,1
-móviles,0.05,1
-trabajen,0.05,1
-población,0.05,1
-urbana,0.05,1
-continúa,0.05,1
-creciendo,0.05,1
-evolucionar,0.05,1
-elementos,0.05,1
-infraestructuras,0.05,1
-centros,0.05,1
-tránsito,0.05,1
-comunican,0.05,1
-real,0.05,1
-irrelevante,0.05,1
-robot,0.05,1
-quien,0.05,1
-lleva,0.05,1
-trabajo,0.05,1
-darán,0.05,1
-cuenta,0.05,1
-anterior,0.05,1
-richard,0.05,1
-harris,0.05,1
-director,0.05,1
-soluciones,0.05,1
-división,0.05,1
-internacional,0.05,1
-xerox,0.05,1
-compartir,0.1,2
-twittear,0.05,1
-tags,0.05,1
-contenido,0.05,1
-recomendado,0.05,1
-gana,0.05,1
-insta,0.05,1
-sánchez,0.05,1
-imponer,0.05,1
-nuevo,0.05,1
-impuesto,0.05,1
-grandes,0.05,1
-empresas,0.15,3
-digitales,0.15,3
-nueva,0.05,1
-iniciativa,0.05,1
-bbva,0.05,1
-conectar,0.05,1
-ecosistema,0.05,1
-fintech,0.05,1
-industria,0.05,1
-español,0.1,2
-reúne,0.05,1
-mañana,0.05,1
-cic,0.05,1
-40,0.05,1
-baja,0.05,1
-confianza,0.05,1
-protección,0.05,1
-aslan,0.05,1
-cita,0.05,1
-vascas,0.05,1
-transformación,0.05,1
-bilbao,0.05,1
-reyes,0.05,1
-maroto,0.05,1
-presentará,0.05,1
-octubre,0.05,1
-destinos,0.05,1
-turísticos,0.05,1
-aceleradora,0.05,1
-telefónica,0.05,1
-reinventa,0.05,1
-orienta,0.05,1
-startups,0.05,1
-maduras,0.05,1
-ceprede,0.05,1
-mantiene,0.05,1
-previsiones,0.05,1
-crecimiento,0.05,1
-españa,0.05,1
-2018,0.1,2
-varón,0.05,1
-universitario,0.05,1
-35,0.05,1
-años,0.05,1
-emprendedor,0.1,2
-acuerdos,0.05,1
-corporaciones,0.05,1
-financiación,0.05,1
-dilema,0.05,1
-startup,0.05,1
-andaluza,0.05,1
-estás,0.05,1
-convocada,0.05,1
-aof,0.05,1
-arranca,0.05,1
-proyecto,0.05,1
-europeo,0.05,1
-young,0.05,1
-ict,0.05,1
-women,0.05,1
-amazon,0.05,1
-investiga,0.05,1
-empleados,0.05,1
-aceptaron,0.05,1
-sobornos,0.05,1
-borrar,0.05,1
-comentarios,0.05,1
-negativos,0.05,1
-banca,0.05,1
-retail,0.05,1
-forman,0.05,1
-tándem,0.05,1
-innovar,0.05,1
-nuevos,0.05,1
-consumidor,0.05,1
-especial,0.05,1
-blockchain,0.05,1
-septiembre,0.1,2
-descarga,0.05,1
-revista,0.05,1
-pdf,0.05,1
-epub,0.05,1
-revistas,0.05,1
-mesaredondait,0.05,1
-media,0.05,1
-group,0.05,1
-sl,0.05,1
-aviso,0.05,1
-legal,0.05,1
-política,0.1,2
-privacidad,0.05,1
-contacto,0.05,1
-publicidad,0.05,1
-síguenos,0.05,1
-campos,0.05,1
-requeridos,0.05,1
-nombre,0.05,1
-email,0.05,1
-condiciones,0.05,1
-has,0.05,1
-leído,0.05,1
-léela,0.05,1
+19                            , 0.05          , 1                   
+20                            , 0.05          , 1                   
+2016                          , 0.05          , 1                   
+2018                          , 0.05          , 1                   
+40                            , 0.05          , 1                   
+43                            , 0.05          , 1                   
+acaba                         , 0.05          , 1                   
+acceso                        , 0.05          , 1                   
+acepto                        , 0.05          , 1                   
+actualmente                   , 0.05          , 1                   
+acuerdo                       , 0.1           , 2                   
+acusa                         , 0.05          , 1                   
+administrativos               , 0.05          , 1                   
+afectará                      , 0.05          , 1                   
+afirmación                    , 0.05          , 1                   
+almacenamiento                , 0.1           , 2                   
+almacenan                     , 0.05          , 1                   
+alquiler                      , 0.05          , 1                   
+alternativa                   , 0.05          , 1                   
+analizar                      , 0.05          , 1                   
+analizará                     , 0.05          , 1                   
+anterior                      , 0.05          , 1                   
+análisis                      , 0.05          , 1                   
+anónimamente                  , 0.05          , 1                   
+aplicaciones                  , 0.05          , 1                   
+apple                         , 0.05          , 1                   
+aprobará                      , 0.05          , 1                   
+arco                          , 0.05          , 1                   
+autobuses                     , 0.05          , 1                   
+autobús                       , 0.15          , 3                   
+auténtico                     , 0.05          , 1                   
+autónomo                      , 0.05          , 1                   
+autónomos                     , 0.05          , 1                   
+avanza                        , 0.05          , 1                   
+aviso                         , 0.05          , 1                   
+base                          , 0.05          , 1                   
+bases                         , 0.05          , 1                   
+basta                         , 0.05          , 1                   
+bbva                          , 0.05          , 1                   
+beneficiarse                  , 0.05          , 1                   
+bicicletas                    , 0.1           , 2                   
+big                           , 0.1           , 2                   
+blockchain                    , 0.05          , 1                   
+blogs                         , 0.1           , 2                   
+buscar                        , 0.1           , 2                   
+cabo                          , 0.1           , 2                   
+calidad                       , 0.05          , 1                   
+calles                        , 0.05          , 1                   
+cambian                       , 0.05          , 1                   
+campos                        , 0.05          , 1                   
+canales                       , 0.05          , 1                   
+centros                       , 0.05          , 1                   
+certeza                       , 0.05          , 1                   
+china                         , 0.05          , 1                   
+cic                           , 0.05          , 1                   
+ciencia                       , 0.05          , 1                   
+ciudad                        , 0.05          , 1                   
+ciudades                      , 0.4           , 8                   
+cliente                       , 0.05          , 1                   
+cloud                         , 0.05          , 1                   
+coche                         , 0.1           , 2                   
+coches                        , 0.1           , 2                   
+colaborativa                  , 0.05          , 1                   
+combina                       , 0.05          , 1                   
+compartidos                   , 0.05          , 1                   
+compartir                     , 0.1           , 2                   
+compatible                    , 0.05          , 1                   
+competir                      , 0.05          , 1                   
+completa                      , 0.05          , 1                   
+componentes                   , 0.05          , 1                   
+compra                        , 0.1           , 2                   
+compromiso                    , 0.05          , 1                   
+computación                   , 0.05          , 1                   
+comunican                     , 0.05          , 1                   
+concepto                      , 0.05          , 1                   
+condiciones                   , 0.05          , 1                   
+congestión                    , 0.05          , 1                   
+conjunta                      , 0.05          , 1                   
+conjuntos                     , 0.05          , 1                   
+conocemos                     , 0.05          , 1                   
+conocer                       , 0.05          , 1                   
+consiste                      , 0.05          , 1                   
+construcción                  , 0.05          , 1                   
+contacto                      , 0.05          , 1                   
+contenido                     , 0.05          , 1                   
+content                       , 0.1           , 2                   
+continuos                     , 0.05          , 1                   
+continúa                      , 0.05          , 1                   
+contratación                  , 0.05          , 1                   
+cookies                       , 0.15          , 3                   
+crear                         , 0.1           , 2                   
+creciendo                     , 0.05          , 1                   
+cruzar                        , 0.05          , 1                   
+cuenta                        , 0.05          , 1                   
+cuáles                        , 0.05          , 1                   
+cuántica                      , 0.05          , 1                   
+cómo                          , 0.2           , 4                   
+cómodo                        , 0.05          , 1                   
+darán                         , 0.05          , 1                   
+data                          , 0.1           , 2                   
+datos                         , 0.1           , 2                   
+debemos                       , 0.05          , 1                   
+deberían                      , 0.05          , 1                   
+decidir                       , 0.05          , 1                   
+dependiendo                   , 0.05          , 1                   
+desarrolladores               , 0.05          , 1                   
+desarrollar                   , 0.05          , 1                   
+descarga                      , 0.05          , 1                   
+descárgatela                  , 0.15          , 3                   
+desea                         , 0.05          , 1                   
+desplazarse                   , 0.05          , 1                   
+deuda                         , 0.05          , 1                   
+diferente                     , 0.05          , 1                   
+diferentes                    , 0.1           , 2                   
+digital                       , 0.4           , 8                   
+digitales                     , 0.05          , 1                   
+director                      , 0.05          , 1                   
+discover                      , 0.1           , 2                   
+discusión                     , 0.05          , 1                   
+diseñadas                     , 0.05          , 1                   
+disponible                    , 0.15          , 3                   
+disponibles                   , 0.05          , 1                   
+disposición                   , 0.05          , 1                   
+diversidad                    , 0.05          , 1                   
+división                      , 0.1           , 2                   
+donald                        , 0.1           , 2                   
+duplicar                      , 0.05          , 1                   
+dónde                         , 0.05          , 1                   
+eats                          , 0.05          , 1                   
+economía                      , 0.05          , 1                   
+edición                       , 0.15          , 3                   
+elementos                     , 0.05          , 1                   
+elevado                       , 0.15          , 3                   
+eléctrica                     , 0.05          , 1                   
+eléctricos                    , 0.05          , 1                   
+email                         , 0.05          , 1                   
+empresa                       , 0.1           , 2                   
+empresarial                   , 0.1           , 2                   
+encontrar                     , 0.05          , 1                   
+encontrarán                   , 0.05          , 1                   
+encuesta                      , 0.05          , 1                   
+enfrentan                     , 0.05          , 1                   
+entendemos                    , 0.05          , 1                   
+entender                      , 0.1           , 2                   
+entorno                       , 0.05          , 1                   
+epub                          , 0.05          , 1                   
+escoger                       , 0.1           , 2                   
+español                       , 0.05          , 1                   
+especial                      , 0.05          , 1                   
+especialmente                 , 0.05          , 1                   
+estaban                       , 0.05          , 1                   
+establecer                    , 0.05          , 1                   
+estadísticas                  , 0.05          , 1                   
+estrechas                     , 0.05          , 1                   
+europea                       , 0.05          , 1                   
+europeas                      , 0.1           , 2                   
+evolucionar                   , 0.05          , 1                   
+experiencia                   , 0.05          , 1                   
+extracción                    , 0.05          , 1                   
+facebook                      , 0.05          , 1                   
+facilitar                     , 0.05          , 1                   
+facilitarle                   , 0.05          , 1                   
+facilitaría                   , 0.05          , 1                   
+fases                         , 0.05          , 1                   
+fiable                        , 0.05          , 1                   
+ficción                       , 0.05          , 1                   
+forma                         , 0.1           , 2                   
+formas                        , 0.1           , 2                   
+francia                       , 0.05          , 1                   
+francés                       , 0.05          , 1                   
+funcione                      , 0.05          , 1                   
+futuro                        , 0.3           , 6                   
+futuros                       , 0.05          , 1                   
+galaxy                        , 0.05          , 1                   
+galileo                       , 0.05          , 1                   
+gartner                       , 0.05          , 1                   
+genci                         , 0.05          , 1                   
+gestionan                     , 0.05          , 1                   
+gestión                       , 0.1           , 2                   
+google                        , 0.1           , 2                   
+gran                          , 0.1           , 2                   
+group                         , 0.05          , 1                   
+habitantes                    , 0.1           , 2                   
+haciendo                      , 0.05          , 1                   
+han                           , 0.05          , 1                   
+harris                        , 0.05          , 1                   
+has                           , 0.05          , 1                   
+hay                           , 0.05          , 1                   
+hecho                         , 0.05          , 1                   
+hispasat                      , 0.05          , 1                   
+hora                          , 0.05          , 1                   
+horarios                      , 0.05          , 1                   
+hoy                           , 0.1           , 2                   
+impresión                     , 0.1           , 2                   
+in                            , 0.05          , 1                   
+indispensables                , 0.05          , 1                   
+industria                     , 0.05          , 1                   
+información                   , 0.15          , 3                   
+infraestructuras              , 0.05          , 1                   
+iniciar                       , 0.05          , 1                   
+innovadoras                   , 0.05          , 1                   
+integrarse                    , 0.05          , 1                   
+inteligente                   , 0.1           , 2                   
+inteligentes                  , 0.1           , 2                   
+intensifica                   , 0.05          , 1                   
+interactuamos                 , 0.05          , 1                   
+internacional                 , 0.05          , 1                   
+introduciendo                 , 0.05          , 1                   
+investigación                 , 0.05          , 1                   
+irrelevante                   , 0.05          , 1                   
+irán                          , 0.05          , 1                   
+it                            , 1.0           , 20                  
+julio                         , 0.1           , 2                   
+lanzar                        , 0.05          , 1                   
+legal                         , 0.05          , 1                   
+les                           , 0.05          , 1                   
+leído                         , 0.05          , 1                   
+limitar                       , 0.05          , 1                   
+llamar                        , 0.05          , 1                   
+llegan                        , 0.05          , 1                   
+llegar                        , 0.05          , 1                   
+lleva                         , 0.05          , 1                   
+llevada                       , 0.05          , 1                   
+llevar                        , 0.1           , 2                   
+logra                         , 0.05          , 1                   
+londres                       , 0.05          , 1                   
+lucha                         , 0.05          , 1                   
+lugar                         , 0.05          , 1                   
+léela                         , 0.05          , 1                   
+maas                          , 0.1           , 2                   
+marketing                     , 0.1           , 2                   
+mayor                         , 0.05          , 1                   
+media                         , 0.05          , 1                   
+mediante                      , 0.05          , 1                   
+medida                        , 0.1           , 2                   
+medio                         , 0.05          , 1                   
+medios                        , 0.1           , 2                   
+mejor                         , 0.25          , 5                   
+mejorar                       , 0.1           , 2                   
+menudo                        , 0.05          , 1                   
+mercado                       , 0.05          , 1                   
+mesaredondait                 , 0.05          , 1                   
+metro                         , 0.05          , 1                   
+millones                      , 0.05          , 1                   
+modelo                        , 0.1           , 2                   
+modelos                       , 0.05          , 1                   
+momento                       , 0.05          , 1                   
+movilidad                     , 0.35          , 7                   
+móvil                         , 0.05          , 1                   
+móviles                       , 0.05          , 1                   
+navegación                    , 0.05          , 1                   
+necesidad                     , 0.05          , 1                   
+necesitamos                   , 0.05          , 1                   
+negocio                       , 0.05          , 1                   
+new                           , 0.1           , 2                   
+newsletter                    , 0.15          , 3                   
+nombre                        , 0.05          , 1                   
+normalmente                   , 0.05          , 1                   
+note                          , 0.05          , 1                   
+nuevas                        , 0.05          , 1                   
+número                        , 0.05          , 1                   
+obtener                       , 0.15          , 3                   
+oferta                        , 0.05          , 1                   
+ofrecer                       , 0.05          , 1                   
+opciones                      , 0.1           , 2                   
+operación                     , 0.05          , 1                   
+operadores                    , 0.05          , 1                   
+opiniones                     , 0.05          , 1                   
+opinión                       , 0.1           , 2                   
+oportunidad                   , 0.05          , 1                   
+pagar                         , 0.05          , 1                   
+parecidas                     , 0.05          , 1                   
+parte                         , 0.05          , 1                   
+partir                        , 0.1           , 2                   
+parís                         , 0.05          , 1                   
+pasa                          , 0.05          , 1                   
+pasará                        , 0.05          , 1                   
+pdf                           , 0.05          , 1                   
+peligroso                     , 0.05          , 1                   
+película                      , 0.05          , 1                   
+permite                       , 0.05          , 1                   
+personalización               , 0.05          , 1                   
+personas                      , 0.05          , 1                   
+pioneros                      , 0.05          , 1                   
+plazo                         , 0.05          , 1                   
+población                     , 0.05          , 1                   
+podrán                        , 0.05          , 1                   
+política                      , 0.1           , 2                   
+pongan                        , 0.05          , 1                   
+poseer                        , 0.05          , 1                   
+posibilidades                 , 0.05          , 1                   
+potente                       , 0.05          , 1                   
+preferencias                  , 0.1           , 2                   
+preguntamos                   , 0.05          , 1                   
+preocuparse                   , 0.05          , 1                   
+privacidad                    , 0.05          , 1                   
+privado                       , 0.05          , 1                   
+problemas                     , 0.05          , 1                   
+procesos                      , 0.05          , 1                   
+productos                     , 0.05          , 1                   
+propaganda                    , 0.05          , 1                   
+propias                       , 0.05          , 1                   
+proporcionar                  , 0.05          , 1                   
+propuesta                     , 0.05          , 1                   
+proveedores                   , 0.1           , 2                   
+proyecto                      , 0.05          , 1                   
+prueba                        , 0.05          , 1                   
+publicidad                    , 0.05          , 1                   
+puntos                        , 0.05          , 1                   
+pública                       , 0.05          , 1                   
+público                       , 0.25          , 5                   
+queremos                      , 0.1           , 2                   
+quien                         , 0.05          , 1                   
+quiere                        , 0.05          , 1                   
+quieren                       , 0.05          , 1                   
+reactivar                     , 0.05          , 1                   
+real                          , 0.05          , 1                   
+realidad                      , 0.15          , 3                   
+realizada                     , 0.05          , 1                   
+recogidos                     , 0.05          , 1                   
+recomendado                   , 0.05          , 1                   
+red                           , 0.1           , 2                   
+redes                         , 0.15          , 3                   
+reducir                       , 0.05          , 1                   
+reduciría                     , 0.05          , 1                   
+registro                      , 0.05          , 1                   
+reino                         , 0.05          , 1                   
+remedio                       , 0.05          , 1                   
+requeridos                    , 0.05          , 1                   
+reseller                      , 0.05          , 1                   
+reservas                      , 0.05          , 1                   
+responderán                   , 0.05          , 1                   
+resultado                     , 0.05          , 1                   
+reto                          , 0.05          , 1                   
+revista                       , 0.1           , 2                   
+richard                       , 0.05          , 1                   
+robot                         , 0.05          , 1                   
+rotonda                       , 0.05          , 1                   
+rutas                         , 0.05          , 1                   
+samsung                       , 0.05          , 1                   
+satisfactoriamente            , 0.05          , 1                   
+sea                           , 0.05          , 1                   
+sector                        , 0.15          , 3                   
+sectores                      , 0.05          , 1                   
+security                      , 0.05          , 1                   
+seguridad                     , 0.1           , 2                   
+sentarán                      , 0.05          , 1                   
+sep                           , 0.05          , 1                   
+servicio                      , 0.3           , 6                   
+servicios                     , 0.2           , 4                   
+será                          , 0.1           , 2                   
+serán                         , 0.05          , 1                   
+sesión                        , 0.05          , 1                   
+shazam                        , 0.05          , 1                   
+sido                          , 0.05          , 1                   
+significa                     , 0.05          , 1                   
+siguiente                     , 0.05          , 1                   
+silenciar                     , 0.05          , 1                   
+similares                     , 0.05          , 1                   
+simplemente                   , 0.05          , 1                   
+simplificadas                 , 0.05          , 1                   
+sistema                       , 0.15          , 3                   
+sistemas                      , 0.1           , 2                   
+sitio                         , 0.05          , 1                   
+sl                            , 0.05          , 1                   
+sociales                      , 0.05          , 1                   
+soluciones                    , 0.05          , 1                   
+solución                      , 0.1           , 2                   
+son                           , 0.1           , 2                   
+sonar                         , 0.05          , 1                   
+superordenador                , 0.05          , 1                   
+supuesto                      , 0.05          , 1                   
+suscríbete                    , 0.15          , 3                   
+síguenos                      , 0.05          , 1                   
+tags                          , 0.05          , 1                   
+tarifas                       , 0.05          , 1                   
+tasa                          , 0.1           , 2                   
+tecnología                    , 0.05          , 1                   
+tecnologías                   , 0.1           , 2                   
+tecnológicos                  , 0.05          , 1                   
+telecomunicaciones            , 0.05          , 1                   
+televisión                    , 0.1           , 2                   
+terceros                      , 0.05          , 1                   
+the                           , 0.1           , 2                   
+torno                         , 0.05          , 1                   
+total                         , 0.05          , 1                   
+trabajen                      , 0.05          , 1                   
+trabajo                       , 0.05          , 1                   
+transacciones                 , 0.05          , 1                   
+transformarán                 , 0.05          , 1                   
+transformation                , 0.1           , 2                   
+transporte                    , 0.75          , 15                  
+transportes                   , 0.15          , 3                   
+trayectos                     , 0.05          , 1                   
+trends                        , 0.1           , 2                   
+trenes                        , 0.05          , 1                   
+triunfo                       , 0.05          , 1                   
+trump                         , 0.1           , 2                   
+tránsito                      , 0.05          , 1                   
+twitter                       , 0.05          , 1                   
+técnicas                      , 0.05          , 1                   
+uberuber                      , 0.05          , 1                   
+ue                            , 0.1           , 2                   
+unido                         , 0.05          , 1                   
+urbana                        , 0.05          , 1                   
+urbanistas                    , 0.05          , 1                   
+urbes                         , 0.05          , 1                   
+user                          , 0.15          , 3                   
+usuarios                      , 0.3           , 6                   
+utiliza                       , 0.05          , 1                   
+utilizan                      , 0.05          , 1                   
+utilizarán                    , 0.1           , 2                   
+variar                        , 0.05          , 1                   
+vehículo                      , 0.05          , 1                   
+vehículos                     , 0.1           , 2                   
+ver                           , 0.15          , 3                   
+verdad                        , 0.05          , 1                   
+veremos                       , 0.05          , 1                   
+viajeros                      , 0.15          , 3                   
+vida                          , 0.05          , 1                   
+vivir                         , 0.05          , 1                   
+web                           , 0.1           , 2                   
+webinars                      , 0.2           , 4                   
+whitepapers                   , 0.1           , 2                   
+xerox                         , 0.05          , 1                   
+éstas                         , 0.05          , 1                   
+última                        , 0.15          , 3                   
+único                         , 0.1           , 2                   
+útil                          , 0.05          , 1                   

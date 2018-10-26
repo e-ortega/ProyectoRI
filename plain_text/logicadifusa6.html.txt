@@ -1,0 +1,69 @@
+   Quick Links Portada Blog Temas Sobre mi  Una Introduccion a la Logica Difusa (Generation5.org) Inteligencia Artificial   ArtÃ­culo original: An Introduction to Fuzzy Logic  Autor: James Matthews  Traductor: Year of the Dragon    Esta es una introducciÃ³n muy bÃ¡sica a la lÃ³gica difusa. Es posible que si ya has leÃ­do algo algo de documentaciÃ³n sobre lÃ³gica difusa, probablemente no
+encuentres nada nuevo en este ensayo. Aunque es posible que resulte de
+interÃ©s una pequeÃ±a clase en C++ canÃ³nico que
+escribÃ­ para manipular operadores de lÃ³gica difusa. Mira
+al final del ensayo para verlo.      Â¿Cuantas veces en la vida real las preguntas permiten
+respuestas tan simples como 'verdadero' o 'falso'? Â¡De hecho en muy
+pocas ocasiones! La idea de lÃ³gica difusa tiene sus inicios en PlatÃ³n
+que propuso una tercera regiÃ³n entre verdadero y falso - lo incierto.
+Pasaron varios siglos antes de que este sistema siquiera llegara a
+formalizarse. A principios del siglo XX, Lukasiewicz propuso un sistema lÃ³gico con tres valores. MÃ¡s tarde, Lukasiewicz
+experimentÃ³ con sistemas lÃ³gicos con cuatro y cinco valores, y
+finalmente propuso que una lÃ³gica basada en infinitos valores no era
+menos plausible que una finita. Finalmente, en 1965, Lofti Zadeh
+publicÃ³ su trabajo sobre lo que llamÃ³ lÃ³gica difusa - una parte de la
+teorÃ­a de grupos que operaba sobre el rango [0.0 - 1.0].     [ editar ] TeorÃ­a de Grupos Difusos  La mayor diferencia entre la lÃ³gica difusa y la lÃ³gica
+booleana (estÃ¡ndar) son los valores posibles en el rango 0.0 a
+1.0 (inclusive), no solo 0 y 1. Por ejemplo, puedes decir que el valor
+de verdad difusa ( FTV ) de la declaraciÃ³n "Graham es alto" es 0.75 si Graham mide 2 metros. Para escribir esto formalmente:     m(ALTO(Graham)) = 0.75  m es una funciÃ³n de pertenencia y es la funciÃ³n que asignarÃ¡ a 2 metros un FTV de 0.75.
+La funciÃ³n de pertenencia puede ser increÃ­blemente simple, o
+increÃ­blemente compleja. Por ejemplo, una funciÃ³n de pertenencia
+relativamente simple puede ser:        Una definiciÃ³n formal de una funciÃ³n de pertenencia puede definirse como una funciÃ³n que crea una correspondencia
+para cada punto del grupo difuso A con el intervalo real [0.0,
+1.0] de tal manera que m(A(x)) es una aproximaciÃ³n del grado de
+pertenencia de x en A.    Operadores LÃ³gicos  En la lÃ³gica booleana existen los operadores uniÃ³n
+(OR), intersecciÃ³n (AND) y no (NOT). Estos operadores
+tambiÃ©n existen en la lÃ³gica difusa, pero se definen de
+forma diferente:    A OR B = MAX(m(A(x)), m(B(x))) A AND B = MIN(m(A(x)), m(B(x))) A' (NOT A) = 1 - mA(x)  Los operadores de intersecciÃ³n y uniÃ³n son el inicio obvio tanto
+para la lÃ³gica booleana y las funciones probabilÃ­sticas estÃ¡ndar. Para
+ver porquÃ© estÃ¡n definidas de esta manera, vamos a mirar un ejemplo.
+Vamos a tomar las declaraciones "Graham es muy alto" y "Graham es muy
+listo" - si las combinas usando la probabilidad, obtienes:  m(ALTO(Graham)) * m(LISTO(Graham)) = 0.90 * 0.90 = 0.81  Nota: Esto es, obviamente, tomando como para "muy" un
+valor de 0.9 tanto en la funciÃ³n de pertenencia ALTO como LISTO.
+Supongamos tambiÃ©n que el rango [0.8 y 0.9) es igual a "bastante". La
+declaraciÃ³n resultante puede leerse como "Graham es bastante alto y
+listo" - esto es desde luego incorrecto. Usando lÃ³gica difusa:  MIN(m(ALTO(Graham)) * m(LISTO(Graham))) = MIN(0.90, 0.90) = 0.90 Esto nos lleva a la declaraciÃ³n correcta "Graham es muy alto y listo".
+El resultado es mÃ¡s claro a mÃ¡s variables son tomadas en consideraciÃ³n,
+por ejemplo 6 variables con valores de 0.8 nos llevarÃ­a a 0.262 usando
+probabilidad - Â¡muy alejado del valor difuso 0.8!    Operadores Difusos (Hedges)  Los operadores difusos son operadores que se crean de forma
+independiente para modificar los valores difusos. Al igual que la
+lÃ³gica difusa, para estos operadores existen correspondencias
+con el lenguaje natural. Por ejemplo, el operador difuso "MUY" puede
+igualarse a la ecuaciÃ³n m(A(x)) 2 , o "ALGO" a m(A(x)) 0.5 . Ten en cuenta que crear palabras de ecuaciones de valores difusos y
+realizar operaciones entre ellas (p.e. MENOR QUE) requiere
+manipulaciones algorÃ­tmicas complejas. AÃºn asÃ­
+esto se hace, notablemente por F. Wenstop que creo palabras de
+ecuaciones a vectores difusos de 7 valores.    Aplicaciones prÃ¡cticas  La lÃ³gica difusa puede aplicarse con facilidad a sistemas expertos
+cuya informaciÃ³n es inherentemente difusa. Doctores, abogados e
+ingenieros pueden diagnosticar problemas mucho mÃ¡s rÃ¡pido si el sistema
+experto que usan para diagnosticar el problema lista unas pocas
+soluciones difusas que pueden usar para aumentar sus propias
+conclusiones.  Otra Ã¡rea donde se usa la lÃ³gica difusa es en el reconocimiento de textos escritos - especialmente en JapÃ³n, trazos complicados Kanji pueden ser detectados mientras se escriben usando mÃ©todos difusos.
+TambiÃ©n pueden verse aplicaciones de la lÃ³gica difusa en Ã¡reas como en
+el control de hornos para cemento o predicciÃ³n/control financiero.     CÃ³digo C++  Aunque este no es un caso de estudio porque no he buscado un ejemplo especÃ­fico de lÃ³gica difusa, he escrito una
+pequeÃ±a clase para acompaÃ±ar lo discutido anteriormente.
+La clase estÃ¡ construida para actuar como un valor difuso, todos
+los operadores de C++ han sido sobrecargados para poder utilizarse con
+cualquier tipo bÃ¡sico. Ten en cuenta que la clase
+permitirÃ¡ que los valores sobrepasen por encima o por debajo el
+lÃ­mite (0,1). AquÃ­ hay un pequeÃ±o programa de
+ejemplo:  #include <iostream.h> #include <math.h> #include "fuzzy.h" void main() { fuzzy fz1 = 0.5, // 0.5 fz2 = (fz1 | 0.4f) & 0.45f, // 0.45 fz3 = !fz2 | fz2, // 0.55 fz4 = !(fz1 - fz2); // 0.95 bool bl5 = fz3.contained(fz2), // false bl6 = fz2.contained(fz3); // true cout << "Class 'fuzzy' logical operators:" << endl; cout << "fz1 = " << fz1 << endl << "fz2 = " << fz2 << endl << "fz3 = " << fz3 << endl << "fz4 = " << fz4 << endl; cout << endl; cout << "bl5 = " << ((bl5) ? "true" : "false") << endl << "bl6 = " << ((bl6) ? "true" : "false") << endl; } A partir de los comentarios que he puesto, Â¡creo que puedes adivinar la
+salida del programa! De todas maneras, puede ver lo fÃ¡cil que es usar
+la clase. Solo para estar seguros, miremos fz2 y fz3. fz2 es el
+resultado de ((0.5 OR 0.4) AND 0.45). Recuerda que OR toma el mÃ¡ximo,
+asÃ­ que retorna 0.5, y AND toma el mÃ­nimo - de esta manera fz2 es igual
+a 0.45. fz3 es (NOT(fz2) OR fz2) - el NOT de fz2 es 1-0.45=0.55, que es
+mayor que 0.45.  La funciÃ³n "contenida" retorna verdadero si A <= B. La clase tambiÃ©n
+tiene una rutina de conversiÃ³n del tipo flotante, de esta manera puedes
+usar fuzzy y float por igual al pasar parÃ¡metros a las funciones (como
+cout::operator<<). Puedes bajarte el cÃ³digo de la clase difusa , alternativamente puedes mirar la documentaciÃ³n de la clase difusa y bajarla ahÃ­.     Article content copyright Â© James Matthews, 1999.     Todo el contenido Â© 1998-2004, Generation5.      Obtenido de " http://vidaartificial.com/index.php?title=Una_Introduccion_a_la_Logica_Difusa_%28Generation5.org%29 "  Esta pÃ¡gina ha sido visitada 6.500 veces. Esta pÃ¡gina fue modificada por Ãºltima vez el 04:07 9 ene, 2006.    CategorÃ­as : Inteligencia Artificial | Logica Difusa | Generation5.org  VersiÃ³n para imprimir | Disclaimers    Esta pÃ¡gina ha sido visitada 6.500 veces. Esta pÃ¡gina fue modificada por Ãºltima vez el 04:07 9 ene, 2006.    

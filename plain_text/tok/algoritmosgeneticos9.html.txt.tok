@@ -1,206 +1,77 @@
-discusiónalgoritmo,0.25,1
-genético,0.75,3
-wikipedia,0.75,3
-enciclopedia,0.25,1
-libre,0.25,1
-navegación,0.75,3
-búsqueda,0.25,1
-john,0.25,1
-holland,0.25,1
-david,0.25,1
-goldberg,0.25,1
-son,0.5,2
-padres,0.25,1
-algoritmos,0.25,1
-genéticos,0.25,1
-entiendo,0.25,1
-pidieron,0.25,1
-trabajo,0.25,1
-tema,0.25,1
-bueno,0.25,1
-utiliza,0.25,1
-vida,0.25,1
-real,0.25,1
-algoritmo,0.75,3
-genetico,0.25,1
-vaina,0.25,1
-optimizar,0.25,1
-procesos,0.25,1
-manufactura,0.25,1
-encontrar,0.25,1
-datos,0.25,1
-cosas,0.25,1
-incluida,0.5,2
-seccion,0.25,1
-aplicaciones,0.25,1
-ags,0.25,1
-hay,0.25,1
-embargo,0.25,1
-injusto,0.25,1
-hecho,0.25,1
-autor,0.25,1
-salió,0.25,1
-forma,0.25,1
-antena,0.25,1
-haya,0.25,1
-atribuido,0.25,1
-autoría,0.25,1
-patente,0.25,1
-escribió,0.25,1
-programa,0.25,1
-ideó,0.25,1
-criterio,0.25,1
-selección,0.25,1
-condujo,0.25,1
-diseño,0.25,1
-patentado,0.25,1
-creeis,0.25,1
-opinión,0.25,1
-personal,0.25,1
-debe,0.25,1
-artículo,0.5,2
-afirmar,0.25,1
-patentes,0.25,1
-legales,0.25,1
-ilegales,0.25,1
-concepto,0.25,1
-justicia,0.25,1
-mezclado,0.25,1
-propiedad,0.25,1
-intelectual,0.25,1
-ambiguo,0.25,1
-discutible,0.25,1
-enlaces,1.0,4
-rotos,0.25,1
-editar,0.75,3
-elvisor,0.25,1
-discusión,0.75,3
-1921,0.25,1
-30,0.5,2
-nov,0.25,1
-2015,0.25,1
-utc,0.5,2
-externos,0.5,2
-modificados,0.25,1
-hola,0.25,1
-acabo,0.25,1
-modificar,0.25,1
-favor,0.75,3
-tomaos,0.25,1
-momento,0.25,1
-revisar,0.25,1
-edición,0.25,1
-alguna,0.25,1
-pregunta,0.25,1
-necesitáis,0.25,1
-bot,0.5,2
-ignore,0.25,1
-página,1.0,4
-conjunto,0.25,1
-visitad,0.25,1
-simple,0.25,1
-guía,0.5,2
-ver,0.5,2
-información,0.75,3
-adicional,0.25,1
-he,0.25,1
-realizado,0.25,1
-siguientes,0.25,1
-cambios,0.75,3
-añadió,0.25,1
-archivo,0.5,2
-acudid,0.25,1
-anteriormente,0.25,1
-enlazada,0.25,1
-cómo,0.25,1
-corregir,0.25,1
-errores,0.25,1
-pueda,0.25,1
-cometer,0.25,1
-saludos,0.25,1
-internetarchivebot,0.25,1
-reportar,0.25,1
-error,0.5,2
-1135,0.5,2
-31,0.5,2
-dic,0.5,2
-2017,0.5,2
-obtenido,0.25,1
-menú,0.25,1
-herramientas,0.5,2
-personales,0.25,1
-has,0.25,1
-accedido,0.25,1
-contribuciones,0.25,1
-crear,0.5,2
-cuenta,0.25,1
-acceder,0.25,1
-espacios,0.25,1
-nombres,0.25,1
-variantes,0.25,1
-vistas,0.25,1
-leer,0.25,1
-sección,0.25,1
-nueva,0.25,1
-historial,0.25,1
-buscar,0.25,1
-portada,0.25,1
-portal,0.25,1
-comunidad,0.25,1
-actualidad,0.25,1
-recientes,0.25,1
-páginas,0.5,2
-nuevas,0.25,1
-aleatoria,0.25,1
-ayuda,0.25,1
-donaciones,0.25,1
-notificar,0.25,1
-imprimirexportar,0.25,1
-libro,0.25,1
-descargar,0.25,1
-pdf,0.25,1
-versión,0.5,2
-imprimir,0.25,1
-enlaza,0.25,1
-enlazadas,0.25,1
-subir,0.25,1
-especiales,0.25,1
-enlace,0.25,1
-permanente,0.25,1
-idiomas,0.25,1
-editó,0.25,1
-última,0.25,1
-vez,0.25,1
-texto,0.25,1
-está,0.25,1
-disponible,0.25,1
-licencia,0.25,1
-creative,0.25,1
-commons,0.25,1
-atribución,0.25,1
-compartir,0.25,1
-igual,0.25,1
-aplicarse,0.25,1
-cláusulas,0.25,1
-adicionales,0.25,1
-sitio,0.25,1
-usted,0.25,1
-acepta,0.25,1
-términos,0.25,1
-política,0.5,2
-privacidad,0.5,2
-marca,0.25,1
-registrada,0.25,1
-fundación,0.25,1
-wikimedia,0.25,1
-inc,0.25,1
-organización,0.25,1
-ánimo,0.25,1
-lucro,0.25,1
-acerca,0.25,1
-limitación,0.25,1
-responsabilidad,0.25,1
-desarrolladores,0.25,1
-declaración,0.25,1
-cookies,0.25,1
-móviles,0.25,1
+1026                          , 0.5           , 1                   
+2007                          , 0.5           , 1                   
+23                            , 0.5           , 1                   
+acerca                        , 0.5           , 1                   
+actualidad                    , 0.5           , 1                   
+aleatoria                     , 0.5           , 1                   
+algoritmos                    , 0.5           , 1                   
+aquã                          , 0.5           , 1                   
+archivo                       , 0.5           , 1                   
+artãculo                      , 0.5           , 1                   
+autor                         , 0.5           , 1                   
+ayuda                         , 0.5           , 1                   
+buscar                        , 0.5           , 1                   
+bãºsqueda                     , 0.5           , 1                   
+cambios                       , 1.0           , 2                   
+comunidad                     , 0.5           , 1                   
+contenido                     , 0.5           , 1                   
+david                         , 0.5           , 1                   
+derechos                      , 0.5           , 1                   
+discusiã³n                    , 0.5           , 1                   
+discusiã³nalgoritmo           , 0.5           , 1                   
+disponible                    , 0.5           , 1                   
+documentaciã³n                , 0.5           , 1                   
+donativos                     , 0.5           , 1                   
+editar                        , 0.5           , 1                   
+enciclopedia                  , 0.5           , 1                   
+ene                           , 0.5           , 1                   
+enlace                        , 0.5           , 1                   
+enlaza                        , 0.5           , 1                   
+enlazadas                     , 0.5           , 1                   
+especiales                    , 0.5           , 1                   
+foundation                    , 0.5           , 1                   
+genãtico                      , 0.5           , 1                   
+genãticos                     , 0.5           , 1                   
+gnu                           , 0.5           , 1                   
+goldberg                      , 0.5           , 1                   
+herramientas                  , 1.0           , 2                   
+historial                     , 0.5           , 1                   
+holland                       , 0.5           , 1                   
+imprimir                      , 0.5           , 1                   
+inc                           , 0.5           , 1                   
+john                          , 0.5           , 1                   
+libre                         , 1.0           , 2                   
+licencia                      , 0.5           , 1                   
+limitaciã³n                   , 0.5           , 1                   
+lucro                         , 0.5           , 1                   
+marca                         , 0.5           , 1                   
+modificada                    , 0.5           , 1                   
+navegaciã³n                   , 1.0           , 2                   
+obtenido                      , 0.5           , 1                   
+organizaciã³n                 , 0.5           , 1                   
+padres                        , 0.5           , 1                   
+permanente                    , 0.5           , 1                   
+personales                    , 0.5           , 1                   
+polãtica                      , 0.5           , 1                   
+portada                       , 0.5           , 1                   
+portal                        , 0.5           , 1                   
+privacidad                    , 0.5           , 1                   
+pãgina                        , 1.0           , 2                   
+pãginas                       , 0.5           , 1                   
+recientes                     , 0.5           , 1                   
+registrada                    , 0.5           , 1                   
+registrarseentrar             , 0.5           , 1                   
+responsabilidad               , 0.5           , 1                   
+saltar                        , 0.5           , 1                   
+son                           , 0.5           , 1                   
+subir                         , 0.5           , 1                   
+tãrminos                      , 0.5           , 1                   
+versiã³n                      , 0.5           , 1                   
+vez                           , 0.5           , 1                   
+vistas                        , 0.5           , 1                   
+vãase                         , 0.5           , 1                   
+wikimedia                     , 0.5           , 1                   
+wikipedia                     , 1.0           , 2                   
+wikipediaâ                    , 0.5           , 1                   
+ãnimo                         , 0.5           , 1                   
+ãºltima                       , 0.5           , 1                   

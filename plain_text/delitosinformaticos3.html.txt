@@ -1,0 +1,406 @@
+                       Crimen Y Fraude Computacional E Informatico     Gadgets powered by Google              1. Introducción  Dado que es profusa la literatura sobre los
+denominados delitos informáticos, ha menester encarar desde el punto de
+vista criminológico, el estudio sobre la perpetración de conductas que,
+sucedidas o nó a través de la red, pueden llegar a constituir ilícitos
+penales, de existir una legislación que así los contemple.La exposición
+se centrará, no sólo en el “delito” sino en los aspectos criminológicos
+sociológicos y hasta psicológicos del tema –puesto que no desmerecemos
+el valor del auxilio de estas ciencias penales,- en un enfoque
+destinado a responder los siguientes interrogantes:  Nace una nueva forma de criminalidad?  Sus causas,  Esbozo de las tipologías de conducta – aspectos y objetivos,  Otras características,  Enumeración de posibles “delitos informáticos”  Consideraciones finales.  Así se va perfilando este tópico sobre el que, hasta
+el momento todo lo escrito enfatiza el concepto de delito, -sea
+informático o computacional-, procurando la elaboración de distintas
+definiciones y apreciaciones del fenómeno de la informática, - y de
+internet como ámbito para el desarrollo y/o configuración de maniobras,
+sus repercusiones, modalidades etc.-, tratando todos estos puntos
+conjuntamente. Veremos en este caso, su aspecto criminológico.
+Así las cosas como la velocidad del fenómeno inhibe las posibilidades
+de solución a estos problemas -puesto que la tecnología y por ende la
+red crece vertiginosamente y con ella todas las formas innumerables de
+comunicación, transacciones e intercambios económicos-, se cae en
+desesperados intentos de enumerar lo innumerable y no llegar a ofrecer
+paliativos ni claridad sobre hechos cuya velocidad de sucesión supera
+las intenciones de todos los que, de alguna manera tratamos de
+ocuparnos de abarcarlo jurídicamente y en especial desde la óptica
+penal.
+Si bien los autores y estudiosos elaboran inteligentes pautas y cursos
+de acción posibles para el estudio de lo que se considera el delito
+informático, por lo expuesto y, -además en nuestro país-, el proceso de
+tipificación se hace muy lento lo que nos torna reacias al uso de este
+concepto.
+Por ello puede ser de utilidad responder a los interrogantes
+precedentes y sólo una ciencia lo hace: la criminología como aquélla
+que…”se pregunta por las causas del crimen, por sus génesis y
+condiciones, inquiriendo por los factores del hecho delictivo para
+alumbrar con este estudio el germen que le da vida inicial” según
+textuales palabras del “maestro” Miguel Herrera Figueroa.  Algunas palabras sobre la criminología…
+Obra el referido a su existencia en una “enciclopedia de las ciencias
+penales” entendida ésta como “conjunto de saberes que de una u otra
+forma se ocupa del delito y de la pena” e incluyéndola con carácter de
+ciencia “principalmente causal explicativa” citando al Dr. Jiménez de
+Asúa pág.19 y ss de “Elementos…”.
+Se han elaborado conceptos amplios como aquél que dice que es un
+conjunto indiscriminado de asuntos acerca del crimen y la engloba con
+la política criminal, antropología y otras ciencias como la
+Criminalística, y se restringen criterios como el de la escuela
+austríaca que la circunscribe a “a la teoría de las formas reales de
+comisión de delito y de la lucha contra el delito”.
+Ciñendo aún más el concepto se dijo que es la ..”ciencia sintética que
+estudia las causas de la criminalidad, tanto en su expresión individual
+como social” llegando a considerar que su objeto estaba constituido por
+el delito mismo y no por sus causas o sea éste explicado por sus
+causas.
+Ocurre que esta concepción de ciencia causal-explicativa, dificultaba
+el estudio del objeto de la criminología el cual venía dado por las
+leyes penales (criminalización primaria…”acto y efecto de sancionar una
+ley penal material”), - obedecía a una concepción positivista (que
+venía de Cesare Lombroso)- y, se la consideraba una ciencia con un
+objeto que se lo definía el poder político: “el delito”.
+Esa concepción buscaba “causas frente a un derecho penal que presuponía
+una capacidad humana de elección” y tenía una historia propia. Ante
+ella, aparece la criminología como reacción social y definido su ámbito
+como la “comprensión critica de la sociedad global y de la teoría
+social más general, no simplemente el estudio de algún grupo marginal,
+exótico o esotérico….”y que sirve como campo propicio para exponer
+“ideas sociológicas y filosóficas” así se va superando el aislamiento
+de la criminología de la política criminal y del derecho penal
+vinculándose definitivamente éste con otras ciencias penales.
+Dado un pantallazo sobre la criminología ensayaremos su importancia con
+relación al mundo de la informática.  2. Nace una nueva forma de criminalidad?  Con relación a este tópico a juzgar por los
+estereotipos que van apareciendo que colocan a los sujetos autores de
+los ilícitos cometidos a través de la informática y en especial de
+Internet como una especie de “delincuentes” y por las connotaciones que
+toman algunas maniobras que causan daños varios en ese medio, es
+evidente que se está ante una nueva forma de criminalidad.
+El continuo avance de la tecnología en el mundo globalizado está
+provocando un fenómeno de poder que desborda a los poderes políticos
+locales y no resulta fácil hallar paliativo a conflictos como éste en
+el que las acciones criminales trascienden tales límites. No debe
+descartarse, que los intereses políticos que, desde siempre han estado
+en juego, los factores de poder que inciden en esta temática (porqué no
+como condicionantes, coadyuvan frustrando o impidiendo una punibilidad
+que no todos los sectores de la sociedad se avienen a aceptar, (algo
+parecido a lo que sucede con el “delito económico”).
+Estas consideraciones y las que seguiremos desarrollando en cada ítem
+nos llevan a pensar que efectivamente nace una nueva forma de
+criminalidad donde la ciencia que la estudia –criminología- sufre la
+dinámica de los sucesivos cambios sociales, en este caso producidos por
+la tecnología.
+Podemos ensayar los factores condicionantes que operan al respecto
+formulando una clasificación que considera:  Sus Causas
+Si tomamos las acciones que se producen en Internet como todas aquellas
+que vulneran la privacidad de determinados datos, y las conductas
+perjudiciales que se efectivizan utilizando el medio informático en
+general, vemos que su causa puede obedecer a factores:  Familiares: El nivel social al que pertenecen los
+sujetos que pueblan el mundo de la informática, por lo general es de
+medio a alto por cuanto provienen de una extracción que les pudo
+proporcionar estas herramientas para alcanzar las metas que la cultura
+social les estaba proponiendo.
+Así el acceso a esta tecnología no es propio de zonas marginales en las
+que, pese a los denodados esfuerzos gubernamentales de lograr llevar la
+computación (y el uso de Internet) hacia todos los rincones del país y
+del mundo, no es fácil aún encontrar a niños del Altiplano accediendo a
+ellos.  Sociales:
+Se destaca la raigambre condicionante que va adquiriendo la ambición de
+Poder y riqueza como metas primordiales de la sociedad de consumo en
+particular en las clases nombradas.
+La tendencia al agrupamiento o formación de “grupos económicos” en
+continua expansión y la globalización de la economía son factores que
+dieron plafon al crecimiento de la informática y paralelamente la
+aparición de Internet con las ventajas que ello les ofrecía, en una
+palabra el progreso tecnológico de las comunicaciones permitieron
+transacciones que, en segundos conllevaron a un mayor poder económico y
+político extranacional.
+Con relación a este tipo de criminalidad, no estamos armando a su
+respecto un derecho penal del autor, sino dando un esbozo desde un
+punto de vista sobre el que puede agregarse otras reflexiones que ya
+han sido evaluadas por los estudiosos en la materia, y sería ocioso
+repetir.Se puede aceptar una referencia al crimen ocupacional, o sea
+cometido a través de ciertas ocupaciones o profesiones, -al que se
+viene haciendo alusión ya desde 1930-, y que bien puede aplicársele.
+Lo dicho sin soslayar la importancia que tienen las organizaciones que
+son las que dictan los valores a los que adhiere la sociedad.
+Es decir desde que surge el auge de la informática es notorio que todo
+aquél que desconoce el manejo de una computadora cae en la obsolencia y
+ya desde muy pequeños se les inculca a los niños sobre este tema que a
+su vez por las características técnicas que presenta requiere de
+ciertas condiciones de aptitud para encararlas y que facilitan la
+agilidad mental, de modo que va haciendo nacer en el sujeto el deseo de
+ser ese prototipo del ideal actual de la comunidad (obsérvese a
+jovencitos en el estímulo que ya sienten “ganando a la computadora” en
+cualquier juego”).
+El acrecentamiento de esos dictados unidos a la avidez que trae la
+sociedad consumista y la endeblez de ciertas pautas de valoración
+pueden considerarse distintas fuerzas que conducen a producir
+desviaciones de conductas como las que se intenta analizar.
+Podría aplicarse aquello que en estos casos los “apetitos irrestrictos
+de la conciencia individual ya no están controlados, empíeza a
+funcionar el egoismo”…y “los sujetos están decididos a asumir su propio
+rol en esta división de trabajo no espontánea, donde la riqueza es una
+de las metas”, siendo así que el agoísmo actúa como precursor directo
+de tal desviación Por ello podría considerarse una esquematización de
+las causas de estos procederes y distinguirlas en inmediatas y
+mediatas.
+Entre las primeras se elabora, a sus vez, una :  3. Tipología de conductas  En un enfoque más sociológico del tema distingueremos :  Maniobra y Delitos (con la salvedad que, careciendo
+nuestro país de una legislación penal al respecto el término delito no
+resulta aplicable). A su vez esas maniobras pueden producirse afectando
+el ámbito público como privado, y las conductas adoptan casi siempre
+una modalidad individual aunque pueden ser también grupales.
+Continuando con esta tipología definimos maniobra como acción que se
+lleva a cabo con habilidad para conseguir un determinado fin Táctica
+(en ejercicios militares) como una de las acepciones del vocablo.
+Se llevan a cabo con el fin de perjudicar a otro y beneficiarse sea a
+sí mismo o usurpando derechos y/o eludiendo obligaciones, en una
+palabra son conductas destinadas al engaño.
+En todos los casos dicha conducta posee un patrón: la inescrupulosidad
+no importando el efecto del proceder ni la manipulación que se hace de
+las ocasionales víctimas.(por ej: intromisión en un sistema o de su
+destrucción por un “virus”) .
+Son conductas que, practicadas a través del uso personal de una
+computadora repercuten en el ámbito socio jurídico, algunas no sólo
+afectan al patrimonio privado (compras electrónicas utilizando datos de
+una tarjeta ajena por ejemplo), sino también patrimonios nacionales y/o
+causan daños de otra especie no suceptibles de valoración económica.
+Otra división en lo que hasta ahora llamamos “maniobras” se refiere
+entonces al modo de comisión (sería una consecuencia de lo anterior) o
+sea pueden practicarse en pequeña escala y en gran escala.  En pequeña escala: fraudes individuales al comercio
+minorista, ofrecimiento de servicios induciendo con una falsa imagen, y
+en Gran escala: se trata de aquéllas maniobras que suceden a nivel
+estatal o en grandes corporaciones y/o industrias, capaces de afectar
+tanto el orden político interno como externo, o producir un ataque
+masivo a datos confidenciales empresariales redundando en un perjuicio
+económico o político. Es el caso de empleados infieles que logran
+penetrar en secretos del sistema provocando, desde el daño al mismo,
+hasta violaciones a esa información confidencial logrando ingresar a
+circuitos presuntamente invulnerables y/o causar ataques masivos sobre
+datos con posibilidad de producir daños económicos de importancia .
+También podemos señalar, - se aplicaría para ambos casos y como causas
+mediatas-, acciones destinadas a obtener ventajas a través de la
+ocupación sea en el :  Ámbito privado: caso de altos jefes de empresas que
+venden información, previa sustracción del sistema para lucrar con
+ella, (espionaje informático) y mediante este mecanismo pueden instalar
+su propio negocio, hasta venta de influencias a través de la red. y en
+el Ambito público: cuando hacen una utilización desaprensiva de la
+persona juridica creada al efecto de burlar intereses pecuniarios, como
+operaciones bajo el nombre de sociedades ficticias para producir
+rápidas transacciones, o perpetran maniobras en los sistemas de bancos
+u otras entidades financieras, públicas o privadas, (alteración a un
+sistema bancario para lograr ocultamiento de evidencias al efectuar
+transferencias de fondos a cuentas personales). Es característica común
+de esta tipología de conductas el sentido de la oportunidad que
+evidencian sus autores en todos los casos y su claridad de juicio: hay
+especificidad técnica y alto grado de conocimientos así como
+capacitación por la práctica que otorga el uso permanente de una
+computadora.Es público y notorio que a veces se ha llegado a hablar de
+“adicción a la misma” por el grado de contracción que provoca en sus
+usuarios y en especial los más jóvenes ante el descubrimiento de sus
+posibilidades.  Objetivos :
+Objetivos Inmediatos:  La posibilidad de obtener beneficios, que pueden no
+ser económicos, en los que está presente el factor “poder” que
+involucra este manipuleo de personas y/o entes. La asunción deshinibida
+de riesgos que ello implica, y las débiles o escasas consecuencias
+jurídicas, o bien dicho la falta de impunidad de que gozan la mayoría
+casi siempre y que circunscriben el terreno a las simples maniobras o a
+“hechos” de consecuencias a veces civiles.
+Sobre la base de lo expuesto los delitos que puedan cometerse a través
+de la computadora encontramos que pueden ser ilícitos pluriofensivos
+(fraudes a la industria y comercio por ej.) y violaciones en entes
+públicos, como se vió, (bancos, entidades financieras no bancarias)
+organismos recaudadores, donde al introducirse violan normativas
+específicas en una conducta merecedora de reproche penal.
+Pueden efectuarse fraudes con tarjetas de crédito, evasiones
+impositivas, y vaciamientos a través de transferencias electrónicas de
+fondos, como desvíos a cuentas personales, apropiación de información
+con consecuencias económicas o no, vioalción de secretos de estado, en
+una gama de conductas que, como las vistas en apretada síntesis
+muestran como común denominador la especificidad, el dominio de
+conocimientos informáticos lo que autorizarían a configurar estos
+hechos, de tipificarse de alguna forma, como delitos especiales
+impropios.
+No soslayamos la ejecución de delitos de carácter financiero cuando
+estas conductas tienen lugar en entes que intermedian entre la oferta y
+la demanda y estos sujetos pueden interferir entre ellos provocando
+desde bajas de acciones hasta caos financieros a niveles superiores o
+perpetrar falseamientos de datos contables, y/o lavado de dinero.
+Estos tipos conllevan especialmente el manejo del factor “poder” que
+desean adquirir sus autores, sin desmerecer la ambición de riqueza que
+los mantiene en estas actividades.  Objetivos Mediatos:
+El dictado de normas legales específicas o leyes penalels a fin de
+tipificar esa amplia gama de conductas que a falta de estigmatización
+sólo son censuradas con la crítica e indignación que provocan y la más
+de las veces quedan desincriminadas.  Otra característica de esta criminalidad.
+Puede hallarse en las formas de perpetración:
+Individuales: Se trata de sujetos que actúan solitariamente, a veces en
+forma temporariamente aislada, pero sin asociarse siendo otra
+característica que a veces su formación es autodidacta y sólo les basta
+su habilidad y rapidez con los ordenadores, a diferencia del estafador
+común que por lo general puede acusar rasgos determinados como su
+encanto personal y despliegue de seducción, gustos refinados, que debe
+hacer a efectos de captar a sus posibles víctimas.
+Acá se trata de seres que no pueden seducir a nadie visualmente y se
+mueven en el anonimato que otorga la invisibilidad, no pudiendo
+descartarse (ya en un enfoque psicológico del tema, válido si
+consideramos la necesidad de la interdisciplina a fin de aunar
+esfuerzos en pro del derecho penal), una naturaleza violenta dominada
+por la frialdad de su actitud y repito claridad de criterio que los
+hace ser los mejores en lo suyo. Conductas colectivas: o agrupadas se
+dan en los casos en que interactúan con “socios” que los secundan o
+dirigen en sus quehaceres con la facilidad en este ámbito, y para
+ellos, que pueden hallarse simultáneamente en lugares físicos
+diferentes para llevar a cabo la conducta, lo que sofistica el
+proceder.  4. Enumeración de posibles “delitos informáticos”  Esbozaremos una reseña de aquéllos que podrían
+configurarse en este medio y mediante el uso de las computadoras
+obviamente produciendo o nó beneficios económicos como ya se mencionó
+pues hay casos en que los beneficios son políticos:  Restricciones al comercio Violacion de convenios
+(sobre todo de privacidad) Conductas que se han llamado
+“manipulaciones” que pueden afectar “tanto a la base de suministro de
+información (input) de datos, como a su salida (output)” y su
+procesamiento. Sea manipulando el hardware o software . A través de las
+manipulaciones en programas se logra, por ejemplo la desviación de
+fondos hacia cuentas personales. Dentro de esta categoría pueden
+considerarse las Defraudaciones y estafas Abuso de confianza
+Falsificaciones de datos
+En este punto vuelvo a hacer hincapié en mi coincidencia con el elevado
+criterio expuesto por los Dres. Guillermo Beltramone,Rodolfo Herrera
+Bravo y Ezequiel Zabale, siguiendo al profesor Julio Téllez Valdés en
+el artículo citado en la nota al referirse a las conductas según
+utilicen el computador como medio o como fin, y al concepto que
+utilizan de delito computacional diferente al delito informático
+considerando a éstos cometidos “a través de
+Equipos computacionales pero donde el elemento central no es el medio
+de comisión, sino que es el hecho de atentar contra un bien
+informático”…o sea los delitos computacionales utilizan como medio la
+computación (software o hardware) para realizar conductas que
+constituirían delitos convencionales como los nombrados en último
+término pero no delitos informáticos que atacarían elementos puramente
+informáticos y aún no se hallan encuadrados penalmente.
+Lo expuesto, vale como aclaración sobre los recaudos que hay que tener
+al hablar de “delito informático”, por eso en esta exposición,tomamos
+el tema de la “criminalidad” o los aspectos criminológicos que trae la
+aplicación de la moderna tecnología informática, incluyendo el campo
+propicio que ofrece la red de Internet sobre la materia, mencionando
+todo tipo de conductas, aún las convencionales, pero que encontraron
+este nuevo medio para desarrollarse y que agrega otras características
+a las tradicionales .
+El abanico se expande, continuamente en la efectivización de dichas
+conductas que, como dijera, van o nó contra el patrimonio, utilizando
+la computadora como medio de comisión, (estafa a través de ella), o
+atancando el bien informático en sí (la seguridad de un sistema)
+nutriéndose de la más sofisticada tecnología:  Espionaje informático (previsto en la Ley chilena
+19.223), casos en que la información se encuentra archivada en un
+espacio mínimo y puede pasar sin dificultad a otro soporte. Estas
+conductas pueden concluir en el hurto del software puesto que quien lo
+practica puede apoderarse del programa de la empresa en la que efectúa
+el espionaje y utilizarlo luego en su beneficio. Puede llevarse a cabo
+para obtener información de carácter político y no sólo con objetivos
+de beneficio económico. Sabotaje informático (actualmente también
+previsto en la ley chilena mencionada), siendo este otro caso que se ve
+favorecido por la concentración de información en mínimos espacios. Y
+puede producirse destruyendo programas (introducción de virus), siendo
+ésta otra conducta que puede llevarse a cabo por diferentes mecanismos
+técnicos que con la sofisticación de la tecnología para comprenderlos
+hay que inevitablemente concurrir al auxilio de los conocimientos que
+proveen los especialistas en informática, por lo que se destaca el
+valor de la colaboración interdisciplinaria.
+Las conductas de sabotaje por lo general se llevan a cabo contra
+centros de cómputos industriales, como las que puede realizar una
+célula revolucionaria como protesta contra la industria armamentista  Uso indebido de instalaciones de cómputos como el
+caso de empleados desleales que utilizan dichas instalaciones para su
+propio beneficio, o para perpetrar alguna de las conductas descriptas
+anteriormente. El autor citado en la nota precedente (Klaus Tiedemann)
+habla en su obra de “hurto de tiempo” como posible tipo penal situación
+que requiere el apropiamiento indebido de los bienes en juego para su
+punibilidad que constituiría la actividad reprochable más allá del
+gasto de energía eléctrica o el enriquecimiento del autor.  Abusos mediante tarjetas de crédito: elementos que
+agudizan el ingenio de los que operan a través de ellas. Vemos que el
+moderno sistema de comercio electrónico permite introducir su número
+para compras on-line (por Internet) lo que ha permitido un uso ilegal
+del sistema propiciando el fraude. Por ejemplo cuando se recibe un
+resúmen de cuenta de gastos de tarjeta y en él vienen incluidos compras
+“on-line” que no fueron efectuadas por el usuario ocasionando al banco
+emisor de la tarjeta pérdidas bastante importantes.
+Todo lo hasta aquí expuesto, constituye un simple muestreo de aquellos
+casos que pueden conformar la moderna criminalidad informática
+agregando que este campo, -y en especial el que ofrece Internet y el
+desarrollo del uso de redes- abrió un camino apto y rápido a todo tipo
+de conductas.
+Además, proporcionó por su forma de operatividad, la herramienta ideal
+para su consecución con fines ilícitos (que son los que nos interesan
+para el presente).
+Obsérvese que hasta operaciones relativas a tráfico de mujeres (
+prostitución), de niños, pornografía, lavado de dinero, por
+ejemplificar nuevamente, pueden efectuarse ahorrando tiempo y
+garantizando rapidez e impunidad.
+A este crecimiento vertiginoso debe seguirle el mismo en igual forma de
+los medios de combatir estos mecanismos que, no en todos los países se
+hallan igualmente adelantados. Esta situación, crea un problema que
+abarca también aspectos de política y sociología criminal, vale decir
+compromete a otras ciencias penales además de la criminología.  5. Consideraciones Finales  Algunas reflexiones sobre crimen informático y white
+collar crimen.
+Reseñando ya antiguos conceptos de los delitos de cuello blanco, vemos
+que Shuterland cuando se refiere a ellos señalaba ..véase que con
+respecto a estos “delitos” la discreta naturaleza de las transacciones
+y la honorable posición de sus autores dificulta la acusación e
+imposibilitan la formulación de cargos. Agregaba que …”las prácticas
+mercantiles inmorales a pesar de ser ilegales se clasifican como
+infracciones civiles porque los legisladores estaban subordinados a
+poderosos grupos de intereses que querían evitar el estigma social y
+las sanciones penales impuestas por la ley penal”.
+Cuando reexaminaba su concepto de crimen de cuello blanco, estimaba que
+debería definirse sobre la noción abstracta de daño social, y bajo esta
+denominación debían catalogarse infracciones tanto civiles como
+criminales porque eran socialmente perniciosas, más que agravios
+privados .
+Algunos aspectos de estos conceptos, pueden aplicarse a este tema en lo
+que hace a sus autores, cuando las acciones tienen de algún modo que
+ver con el sistema financiero por ejemplo.
+Ocurre que como los criminólogos se hallan cricunscriptos a lo
+prescripto por la ley penal hallaban una limitación en el estudio de
+estas conductas pues la más de las veces no hay certeza de encontrar
+precedentes legales directos.
+Sin adentrarnos en el análisis de las sucesivas reformulaciones del
+concepto de crimen, podemos reflexionar que con relación a las
+conductas bajo análisis pueden aplicarse similares parámetros, a los
+vistos, en efecto:  producen dañosidad social, su carácter criminal para
+encarar su estudio, choca con la falta de precedentes legales directos
+más aún en nuestro país, puesto que la legislación penal aplicable en
+especial a la Internet no está instrumentada. No son estigmatizantes,
+por ejemplo con relación a las compras electrónicas que se endilgan a
+un usuario de tarjeta de crédito y éste desconoce no se formula
+denuncia alguna y el tema se resuelve rápidamente y con absoluta
+privacidad a fin de evitar publicidad negativa para los bancos,
+Si bien pueden verse estos paralelos, debe considerarse el largo camino
+recorrido desde entonces en la reformulación de conceptos de “crimen” y
+“delito”, tema que también puede aplicarse al presente donde –como ya
+dijera en otra ponencia presentada a Ecomder 2000, no se puede abordar
+y menos en nuestro país el concepto de “delito informático” tan sueltos
+de cuerpo.
+Para hablar de criminalidad, no debe olvidarse que la única que
+contiene la definición de delito es la ley penal y si no se observa
+esta premisa se caerá en imaginar que cualquier conducta cometida a
+través de una computadora sea como picardía o como demostración de
+habilidad, o la calidad de ser simplemente un experto en informática
+podrían llegar a constituir factores que los encuadre en una “clase
+criminal” debido a que no se parte en el análisis de un adecuado
+concepto de delito. Tal situación no conlleva a un serio estudio ni
+criminológico ni social , sin caer en los extremos en que lo hace el
+autor citado en esta nota y sus posteriores planteamientos, sobre
+quienes están dentro de la población criminal, en esto centramos
+nuestra coincidencia, pues para comenzar a encarar el estudio de este
+moderno campo delictual: el informático, hay que clarificar conceptos.
+Por ello el punto que no puede ser descuidado en cualquier análisis que
+se pretenda, es que los que legitiman las definiciones de crimen y su
+interpretación funcional son los agentes que tomados en sentido amplio
+son los legisladores, magistrados y también policía ( ver nota número
+12).
+Así en los tópicos vistos al comienzo de este ítem podemos hallar
+ciertos toques tangenciales entre estas conductas y el delito económico
+(salvando sus distancias) lo que debería ser objeto de un exhaustivo
+estudio, y un elemento que debemos destacar al encarar cualquier
+estudio sobre “delito informático” sea o no perpetrado a través de
+Internet, es que “la conducta no se mira como criminal a menos que
+concurran tres condiciones…  la conducta ha sido oficialmente rotulada como
+delictiva por personas o instituciones autorizadas y de una sociedad
+políticamente organizada…..
+El crimen es por lo tanto una categoría legal que se asigna a la
+conducta por agentes habilitados de una sociedad políticamente
+organizada.  yesenia alejandre, luis mejia lopez, manuel de los angeles velez y luis albarran loza.                         EDIT www.MiTecnologico.com Politica de Privacidad _                                 FixFlowSkin powered by PmWiki          GFDL   

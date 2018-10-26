@@ -1,0 +1,127 @@
+              El Portal de la Ciencia y la Tecnologia en Español          Menú principal  Portada    Noticias científicas  Científicos  Efemérides científicas  Ciencia recreativa  Foros  Vídeos    Astronomía  Biología  Ecología  Física  Geología  Matemáticas  Medicina  Química   Agricultura  Electrónica  Informática  Ingeniería   Antropologia  Arquitectura  Paleo y Arqueología     Buscar en Solociencia                 Info  Boletines  Añadir a favoritos  Página de inicio  Cómo contactar  Mapa de la web  Lexur  Política de datos  Aviso legal              Índice            1. Historia de la bioinformática  2. Relación entre la biología y la Informática  3. ¿Qué es bioinformática?    4. Biochips  5. Genómica funcional  6. Bibliografia  7. Sobre el autor           ¿Qué es bioinformática?     Bioinformática es una disciplina científica emergente que utiliza
+tecnología de la información para organizar, analizar y distribuir
+información biológica con la finalidad de responder preguntas complejas
+en biología. Bioinformática es un área de investigación
+multidisciplinaria, la cual puede ser ampliamente definida como la
+interfase entre dos ciencias: Biología y Computación y esta impulsada
+por la incógnita del genoma humano y la promesa de una nueva era en la
+cual la investigación genómica puede ayudar dramáticamente a mejorar la
+condición y calidad de vida humana. Avances en la detección y tratamiento de enfermedades y la producción
+de alimentos genéticamente modificados son entre otros ejemplos de los
+beneficios mencionados más frecuentemente. Involucra la solución de
+problemas complejos usando herramientas de sistemas y computación.
+También incluye la colección, organización, almacenamiento y
+recuperación de la información biológica que se encuentra en base de
+datos. Según la definición del Centro Nacional para la Información
+Biotecnológica "National Center for Biotechnology Information" (NCBI
+por sus siglas en Inglés, 2001): "Bioinformática es un campo de la ciencia en el cual confluyen varias
+disciplinas tales como: biología, computación y tecnología de la
+información. El fin último de este campo es facilitar el descubrimiento
+de nuevas ideas biológicas así como crear perspectivas globales a
+partir de las cuales se puedan discernir principios unificadores en
+biología. Al comienzo de la "revolución genómica", el concepto de
+bioinformática se refería sólo a la creación y mantenimiento de base de
+datos donde se almacena información biológica, tales como secuencias de
+nucleótidos y aminoácidos. El desarrollo de este tipo de base de datos
+no solamente significaba el diseño de la misma sino también el
+desarrollo de interfaces complejas donde los investigadores pudieran
+acceder los datos existentes y suministrar o revisar datos Luego toda esa información debía ser combinada para formar una idea
+lógica de las actividades celulares normales, de tal manera que los
+investigadores pudieran estudiar cómo estas actividades se veían
+alteradas en estados de una enfermedad. De allí viene el surgimiento
+del campo de la bioinformática y ahora el campo más popular es el
+análisis e interpretación de varios tipos de datos, incluyendo
+secuencias de nucleótidos y aminoácidos, dominios de proteínas y
+estructura de proteínas. El proceso de analizar e interpretar los datos es conocido como
+biocomputación. Dentro de la bioinformática y la biocomputación existen
+otras sub-disciplinas importantes: El desarrollo e implementación de herramientas que permitan el acceso, uso y manejo de varios tipos de información El desarrollo de nuevos algoritmos (fórmulas matemáticas) y
+estadísticos con los cuales se pueda relacionar partes de un conjunto
+enorme de datos, como por ejemplo métodos para localizar un gen dentro
+de una secuencia, predecir estructura o función de proteínas y poder
+agrupar secuencias de proteínas en familias relacionadas." La Medicina molecular y la Biotecnología constituyen dos áreas
+prioritarias científico tecnológicas como desarrollo e Innovación
+Tecnológica. El desarrollo en ambas áreas están estrechamente
+relacionadas. En ambas áreas se pretende potenciar la investigación
+genómica y postgenómica así como de la bioinformática, herramienta
+imprescindible para el desarrollo de estasDebido al extraordinario
+avance de la genética molecular y la genómica, la Medicina Molecular se
+constituye como arma estratégica del bienestar social del futuro
+inmediato. Se pretende potenciar la aplicación de las nuevas
+tecnologías y de los avances genéticos para el beneficio de la salud.
+Dentro de las actividades financiables, existen acciones estratégicas,
+de infraestructura, centros de competencia y grandes instalaciones
+científicas. En esta área, la dotación de infraestructura se plasmará
+en la creación y dotación de unidades de referencia tecnológica y
+centros de suministro común, como Centros de Bioinformática, que cubran
+las necesidades de la investigación en Medicina Molecular. En cuanto a
+centros de competencia, se crearán centros de investigación de
+excelencia en hospitales en los que se acercará la investigación básica
+a la clínica, así como centros distribuidos en red para el apoyo a la
+secuenciación, DNA microarrays y DNA chips, bioinformática, en
+coordinación con la red de centros de investigación genómica y
+proteómica que se proponen en el área de Biotecnología. En esta área la
+genómica y proteómica se fundamenta como acción estratégica o
+instrumento básico de focalización de las actuaciones futuras. Las tecnologías de la información jugarán un papel fundamental en la
+aplicación de los desarrollos tecnológicos en el campo de la genética a
+la práctica médica como refleja la presencia de la Bioinformática
+médica y la Telemedicina dentro de las principales líneas en patología
+molecular. La aplicación de los conocimientos en genética molecular y
+las nuevas tecnologías son necesarios para el mantenimiento de la
+competitividad del sistema sanitario no sólo paliativo sino preventivo.
+La identificación de las causas moleculares de las enfermedades junto
+con el desarrollo de la industria biotecnológica en general y de la
+farmacéutica en particular permitirán el desarrollo de mejores métodos
+de diagnóstico, la identificación de dianas terapéuticas y desarrollo
+de fármacos personalizados y una mejor medicina preventiva          Deje un comentario    Es necesario tener activado Javascript en el navegador.  Hay 15 comentarios        Aldo  – México D.F.   06/27/09 - 18:56    Tema: nooo   No sirve de nada esto. UN ejemplo??                          miosotis  – sto ,dom   06/09/09 - 20:46    Tema: ok esta bien algunas cosa me gustaron   megusto mucho las ultimas informacion,....xD                          miosos  – sto ,dom   06/09/09 - 20:42    Tema:    no megusto mucho las ultimas informacion,....xD                          ppp2  – acapulkito   06/09/09 - 01:47    Tema: No sirve   Esa informaaciòn no me ayudo en nada.... de donde la copiaron??' xD                          DarkCode  – Hvca   05/06/09 - 03:55    Tema: Rctm's   VAyanse todos a la rctms eso no sirve de nada jajaja Saludos de DarkCode                          DarkCode  – Peru   05/06/09 - 03:52    Tema: Son Unos Invesiles   VAyanse todos a la rctms jajaja Saludos de DarkCode                          TERESA ISABELPEREZOCHOA  – Lima   04/03/09 - 17:22    Tema: Bioinformática en enfermedades eruptivas.   El
+tema de las efermedades eruptivas en mi país es de competencia de la
+bioinformática puesto que es necesario tener acceso a un sistema
+informático para luego suministrar datos de resultados de pruebas de
+rubéola que luego servirán para luego procesar con otros parámetros
+inherentes del paciente para ser procesados y posteriormente ser
+interpretados lo que nos conllevara a tomar un a decisión sobre el tem
+en estudio.                          wid  – venezuela-carabobo-valencia   03/22/09 - 14:36    Tema: investigar   Hay
+que hacer investigaciones primero saber informcion biologica y
+necesidad del programa a formar, para luego aplicarlo a la tecnologia
+presente, dirigirse a institutos, leer trabajos no culminados o
+encaminados; en fin pienso que es algo mas de ciencia que programacion.
+pero me llama la atencion.                          roxanne  – tapachula chipas   02/24/09 - 00:54    Tema: sida   sindrome
+de inmunodeficinca adquirida una recomendacion x fa cidence si es que
+ya ejercen su vida sexual un tips USEN PROTECCION HOY RN LA ACTIALIDAD
+YA EXISTE EL CONDON AGAMOS UN MEXICO MAS SANO BYE                          roxanne  – chiapas   02/24/09 - 00:49    Tema: Biología  [editar]Artículo principal: Ser vivo   Biología  [editar]Artículo principal: Ser vivo Niveles estructurales de los sistemas vivos Ciencia Partículas elementales Física cuántica, Química cuántica Átomos Química, Física Moléculas Física, Química, Bioquímica, Biología Molecular Organelos Biología Molecular, Biología Celular Células Biología Celular, Citología Tejidos Histología Órganos Histología, Fisiología Sistema Fisiología, Anatomía Organismo Anatomía, Psicología Población Sociología Comunidad Ecología Ecosistemas Ecología Biosfera Ecología Se define en biología como viva, la estructura molecular capaz de
+establecer un soporte material de transferencia energética
+homeostática, cuando es estimulada por el medio en condiciones
+favorables.  La manifestación evidente de lo anterior se muestra en forma de
+vida. Esta manifestación se singulariza del resto del ecosistema por un
+conjunto de propiedades características, comunes y relativas a ciertos
+sistemas materiales, a los que se denominan seres vivos. Un ser vivo
+consiste en la conjunción de diferentes sistemas capaces de integrarse
+por la conveniencia relativa al ahorro en recursos que supone la
+asociación. Los sistemas por separado necesitan un aporte externo y
+generan un desecho. El desecho de un sistema sirve para la alimentación
+del otro (reciclaje). Dicha integración permite que el organismo (el
+conjunto de todos los sistemas integrados) pueda soportar el desorden
+inherente a la tendencia natural de cada sistema por separado a
+desorganizar la información. El desorden genera una necesidad,
+manifestándolo mediante moléculas cargadas, aminoácidos o cadenas de
+proteínas. Dichas cargas ponen de manifiesto las propiedades inherentes
+del sistema, y que el sistema 'vecino' interactuará aportando como
+desecho, lo que el otro necesita como materia prima. De esta forma se
+obtiene y procesa de forma sostenida en el tiempo los materiales y
+energía, que se transfieren adecuadamente por cualquiera de los
+sistemas capaces de transmitir dicha información. El resultado final
+minimiza la entropía interna del sistema vivo, necesitando de aporte
+externo para que el proceso no decaiga.  La tendencia al desorden es el resultado del desgaste natural
+asociado a las interacciones. Como 'remedio' el organismo reacciona a
+través del desarrollo y la evolución, procesos dependientes de la
+existencia de un canal de transferencia y/o transacción de cargas (que
+para el caso de la vida en la tierra, se compila en la información
+genética), que nutren de información a todo el sistema.                          TATA  – MEXICO   02/11/09 - 23:24    Tema: PONGANBUENAIFORMACION   LA NETA DEJN¿EN VIENLA INFORMACIO QUE I¿U NO BUSA                          Harim  – mexico-hidalgo   01/27/09 - 00:39    Tema:    Quisiera
+recopila mas informacion sobre la Bioinformatica alguien me podria
+decir mas sobre esta disciplina,su uso, donde nacio, quien lo creo,
+informacion en general, se me hace muy interesante.  salos agradeceres...                          JHANSELM  – Mèxico D.F   01/19/09 - 18:10    Tema: Herramientas   Hola
+que tal, me dejan saber las herramientas con las que podemos trabajar
+la BioInformatica, me imagino que deben ser gràficas o en realidad solo
+es una Interfaz de datos(texto)??  saludos.                      Respuesta a JHANSELM    LUIS  – Madrid   01/23/09 - 12:14    Tema: Re: Herramientas   Mira
+si queres saber que herramientas se utilizan en la bioinformÃ¡tica,
+esta web te hace un recorrido sobre algunas de ellas con algÃºn ejemplo
+prÃ¡ctico: htt://www.biorecursos.es         Respuesta a JHANSELM    LUIS  – Madrid   01/23/09 - 12:15    Tema: Re: Herramientas   sorry:  http://www.biorecursos.es        Deje un comentario                    *  Su nombre    *  Su dirección de email (no aparece publicada)    Su ciudad    Recuerdame  ?    Subscribirse:   No   A todos  ?   Respuestas a mi comentario  ?     Tema:                   Escriba las dos palabras que hay aquí arriba  Escriba los números que oye     Incorrect please try again                           1        Más artículos sobre Biología         Bioinformática  Microbiología           Boletín gratuito              © 2003 - 2009 Lexur       

@@ -1,376 +1,369 @@
-minuto,0.36363636363636365,4
-política,0.7272727272727273,8
-opinión,0.45454545454545453,5
-lima,1.0,11
-perú,0.7272727272727273,8
-mundo,0.45454545454545453,5
-portada,0.7272727272727273,8
-américas,0.09090909090909091,1
-europa,0.18181818181818182,2
-africa,0.09090909090909091,1
-asia,0.18181818181818182,2
-medio,0.2727272727272727,3
-oriente,0.18181818181818182,2
-espectáculos,0.45454545454545453,5
-local,0.36363636363636365,4
-internacional,0.36363636363636365,4
-deportes,0.45454545454545453,5
-estadísticas,0.18181818181818182,2
-fútbol,0.36363636363636365,4
-peruano,0.18181818181818182,2
-selección,0.36363636363636365,4
-peruana,0.36363636363636365,4
-polideportivo,0.18181818181818182,2
-champions,0.18181818181818182,2
-league,0.18181818181818182,2
-cultura,0.45454545454545453,5
-comics21,0.18181818181818182,2
-música,0.18181818181818182,2
-cine,0.18181818181818182,2
-series,0.18181818181818182,2
-libros,0.18181818181818182,2
-animales,0.2727272727272727,3
-economía,0.2727272727272727,3
-redes,0.18181818181818182,2
-sociales,0.18181818181818182,2
-tecnología,0.18181818181818182,2
-móviles,0.18181818181818182,2
-laptops,0.18181818181818182,2
-videojuegos,0.18181818181818182,2
-cheka,0.2727272727272727,3
-vida,0.36363636363636365,4
-salud,0.18181818181818182,2
-estilo,0.18181818181818182,2
-sexualidad,0.18181818181818182,2
-mascotas,0.45454545454545453,5
-gastronomía,0.18181818181818182,2
-viajes,0.18181818181818182,2
-mujer21,0.2727272727272727,3
-historias,0.18181818181818182,2
-reales,0.18181818181818182,2
-videos,0.18181818181818182,2
-fotogalerías,0.18181818181818182,2
-blogs,0.18181818181818182,2
-mechain,0.2727272727272727,3
-otorongo,0.2727272727272727,3
-impresa,0.18181818181818182,2
-urbania,0.09090909090909091,1
-neoauto,0.09090909090909091,1
-aptitus,0.09090909090909091,1
-viernes,0.09090909090909091,1
-28,0.09090909090909091,1
-septiembre,0.09090909090909091,1
-2018,0.45454545454545453,5
-hoy,0.18181818181818182,2
-martín,0.18181818181818182,2
-vizcarra,0.18181818181818182,2
-debate,0.18181818181818182,2
-electoral,0.18181818181818182,2
-renzo,0.18181818181818182,2
-reggiardo,0.36363636363636365,4
-ricardo,0.36363636363636365,4
-belmont,0.36363636363636365,4
-daniel,0.18181818181818182,2
-urresti,0.2727272727272727,3
-pedro,0.18181818181818182,2
-chávarry,0.18181818181818182,2
-jne,0.18181818181818182,2
-congreso,0.36363636363636365,4
-república,0.18181818181818182,2
-alianza,0.18181818181818182,2
-sporting,0.18181818181818182,2
-cristal,0.18181818181818182,2
-universitario,0.18181818181818182,2
-gareca,0.18181818181818182,2
-comisión,0.18181818181818182,2
-lava,0.18181818181818182,2
-jato,0.18181818181818182,2
-keiko,0.18181818181818182,2
-fujimori,0.18181818181818182,2
-onpe,0.45454545454545453,5
-elecciones,0.36363636363636365,4
-dónde,0.36363636363636365,4
-votar,0.36363636363636365,4
-miembro,0.2727272727272727,3
-mesa,0.2727272727272727,3
-alan,0.18181818181818182,2
-garcía,0.18181818181818182,2
-cristiano,0.18181818181818182,2
-ronaldo,0.18181818181818182,2
-lionel,0.18181818181818182,2
-messi,0.18181818181818182,2
-secciones,0.18181818181818182,2
-seis,0.2727272727272727,3
-consejos,0.2727272727272727,3
-cuidado,0.36363636363636365,4
-gato,0.8181818181818182,9
-inicio,0.18181818181818182,2
-américa,0.09090909090909091,1
-áfrica,0.09090909090909091,1
-mundial,0.09090909090909091,1
-facebook,0.18181818181818182,2
-youtube,0.45454545454545453,5
-whatsapp,0.09090909090909091,1
-instagram,0.09090909090909091,1
-twitter,0.18181818181818182,2
-memes,0.09090909090909091,1
-animes,0.09090909090909091,1
-archivo,0.09090909090909091,1
-médico,0.18181818181818182,2
-veterinario,0.2727272727272727,3
-pancho,0.36363636363636365,4
-cavero,0.36363636363636365,4
-da,0.18181818181818182,2
-algunas,0.09090909090909091,1
-recomendaciones,0.09090909090909091,1
-engreír,0.09090909090909091,1
-mantener,0.09090909090909091,1
-saludable,0.09090909090909091,1
-lindos,0.09090909090909091,1
-gatitos,0.09090909090909091,1
-compartir,0.36363636363636365,4
-comentar,0.09090909090909091,1
-imprimir,0.09090909090909091,1
-redacción,0.09090909090909091,1
-perú21,0.2727272727272727,3
-11052017,0.09090909090909091,1
-animal,0.09090909090909091,1
-práctico,0.09090909090909091,1
-sencillo,0.09090909090909091,1
-cuidar,0.2727272727272727,3
-independiente,0.09090909090909091,1
-época,0.09090909090909091,1
-preocupación,0.09090909090909091,1
-mininos,0.09090909090909091,1
-han,0.09090909090909091,1
-convertido,0.09090909090909091,1
-gran,0.09090909090909091,1
-amigo,0.09090909090909091,1
-señala,0.2727272727272727,3
-especialista,0.2727272727272727,3
-forma,0.09090909090909091,1
-correcta,0.09090909090909091,1
-felinos,0.09090909090909091,1
-engreídos,0.09090909090909091,1
-llevarlo,0.09090909090909091,1
-vacunar,0.09090909090909091,1
-recuerde,0.09090909090909091,1
-gatos,0.8181818181818182,9
-vacunados,0.09090909090909091,1
-mascota,0.36363636363636365,4
-le,0.18181818181818182,2
-deben,0.2727272727272727,3
-aplicar,0.09090909090909091,1
-triple,0.09090909090909091,1
-felina,0.09090909090909091,1
-vacuna,0.09090909090909091,1
-rabia,0.09090909090909091,1
-igual,0.09090909090909091,1
-perrito,0.09090909090909091,1
-doméstico,0.09090909090909091,1
-puntualiza,0.18181818181818182,2
-precisa,0.09090909090909091,1
-tres,0.09090909090909091,1
-meses,0.09090909090909091,1
-debes,0.09090909090909091,1
-llevar,0.09090909090909091,1
-desparasitarlo,0.09090909090909091,1
-bañarlo,0.09090909090909091,1
-regularidad,0.09090909090909091,1
-bañados,0.09090909090909091,1
-pequeños,0.09090909090909091,1
-ideal,0.18181818181818182,2
-15,0.09090909090909091,1
-días,0.09090909090909091,1
-acicalan,0.09090909090909091,1
-limpiarse,0.09090909090909091,1
-moderno,0.09090909090909091,1
-baña,0.09090909090909091,1
-acota,0.09090909090909091,1
-alejarlo,0.09090909090909091,1
-ventanas,0.36363636363636365,4
-aconseja,0.09090909090909091,1
-viven,0.18181818181818182,2
-edificios,0.18181818181818182,2
-debe,0.09090909090909091,1
-suelen,0.09090909090909091,1
-saltar,0.09090909090909091,1
-matan,0.18181818181818182,2
-hay,0.18181818181818182,2
-tiran,0.09090909090909091,1
-abren,0.09090909090909091,1
-ardillas,0.09090909090909091,1
-caer,0.09090909090909091,1
-colocar,0.09090909090909091,1
-mallas,0.09090909090909091,1
-alimentarlo,0.09090909090909091,1
-comida,0.18181818181818182,2
-balanceada,0.09090909090909091,1
-son,0.18181818181818182,2
-especiales,0.09090909090909091,1
-mejor,0.09090909090909091,1
-darle,0.09090909090909091,1
-marca,0.09090909090909091,1
-les,0.09090909090909091,1
-guste,0.09090909090909091,1
-veces,0.09090909090909091,1
-comen,0.18181818181818182,2
-alimento,0.18181818181818182,2
-escoge,0.09090909090909091,1
-practico,0.09090909090909091,1
-balanceado,0.09090909090909091,1
-mercado,0.09090909090909091,1
-diversas,0.09090909090909091,1
-marcas,0.09090909090909091,1
-vas,0.09090909090909091,1
-paseo,0.18181818181818182,2
-práctica,0.09090909090909091,1
-casa,0.2727272727272727,3
-dueño,0.18181818181818182,2
-decide,0.09090909090909091,1
-salir,0.09090909090909091,1
-felino,0.09090909090909091,1
-agua,0.18181818181818182,2
-arena,0.09090909090909091,1
-dejará,0.09090909090909091,1
-limpio,0.18181818181818182,2
-ordenado,0.09090909090909091,1
-desmiente,0.09090909090909091,1
-mitos,0.09090909090909091,1
-causante,0.09090909090909091,1
-infertilidad,0.09090909090909091,1
-mujeres,0.09090909090909091,1
-sale,0.09090909090909091,1
-come,0.09090909090909091,1
-imposible,0.09090909090909091,1
-contagie,0.09090909090909091,1
-enfermedad,0.09090909090909091,1
-agrega,0.09090909090909091,1
-suceder,0.09090909090909091,1
-callejeros,0.09090909090909091,1
-cazadores,0.09090909090909091,1
-carne,0.09090909090909091,1
-cruda,0.09090909090909091,1
-interesar,0.18181818181818182,2
-cómo,0.18181818181818182,2
-verano,0.09090909090909091,1
-httpstcofcv7yksxrz,0.09090909090909091,1
-pictwittercomrberwezlnx,0.09090909090909091,1
-diario,0.18181818181818182,2
-peru21noticias,0.09090909090909091,1
-20,0.09090909090909091,1
-febrero,0.09090909090909091,1
-2017,0.09090909090909091,1
-tags,0.09090909090909091,1
-relacionados,0.09090909090909091,1
-leer,0.09090909090909091,1
-comentarios,0.09090909090909091,1
-anuncios,0.18181818181818182,2
-interés,0.18181818181818182,2
-recomendado,0.18181818181818182,2
-bienvenidos,0.09090909090909091,1
-santuario,0.09090909090909091,1
-felicidad,0.09090909090909091,1
-segunda,0.09090909090909091,1
-oportunidad,0.09090909090909091,1
-perros,0.18181818181818182,2
-calle,0.09090909090909091,1
-video,0.2727272727272727,3
-alerta,0.09090909090909091,1
-albergue,0.09090909090909091,1
-lurín,0.09090909090909091,1
-está,0.09090909090909091,1
-cerrar,0.09090909090909091,1
-falta,0.09090909090909091,1
-ayuda,0.09090909090909091,1
-económica,0.09090909090909091,1
-fotos,0.09090909090909091,1
-viral,0.18181818181818182,2
-perro,0.18181818181818182,2
-grabado,0.09090909090909091,1
-in,0.09090909090909091,1
-fraganti,0.09090909090909091,1
-llenando,0.09090909090909091,1
-sala,0.09090909090909091,1
-tierno,0.09090909090909091,1
-reencuentro,0.09090909090909091,1
-reto,0.09090909090909091,1
-visto,0.09090909090909091,1
-revisa,0.18181818181818182,2
-votación,0.18181818181818182,2
-conoce,0.09090909090909091,1
-caen,0.09090909090909091,1
-muñoz,0.09090909090909091,1
-beingolea,0.09090909090909091,1
-suben,0.09090909090909091,1
-sismo,0.09090909090909091,1
-49,0.09090909090909091,1
-escala,0.09090909090909091,1
-richter,0.09090909090909091,1
-sacudió,0.09090909090909091,1
-dni,0.09090909090909091,1
-descendieron,0.09090909090909091,1
-encuestas,0.09090909090909091,1
-urpi,0.09090909090909091,1
-torrado,0.09090909090909091,1
-explica,0.09090909090909091,1
-directora,0.09090909090909091,1
-periodística,0.09090909090909091,1
-cecilia,0.09090909090909091,1
-valenzuela,0.09090909090909091,1
-jr,0.09090909090909091,1
-miró,0.09090909090909091,1
-quesada,0.09090909090909091,1
-247,0.09090909090909091,1
-piso,0.09090909090909091,1
-copyright,0.09090909090909091,1
-peru21pe,0.09090909090909091,1
-grupo,0.09090909090909091,1
-comercio,0.18181818181818182,2
-derechos,0.09090909090909091,1
-reservados,0.09090909090909091,1
-nuestras,0.09090909090909091,1
-contacto,0.09090909090909091,1
-quienes,0.09090909090909091,1
-terminos,0.09090909090909091,1
-condiciones,0.09090909090909091,1
-privacidad,0.09090909090909091,1
-cookies,0.09090909090909091,1
-preguntas,0.09090909090909091,1
-frecuentes,0.09090909090909091,1
-siguenos,0.09090909090909091,1
-google,0.09090909090909091,1
-suscribete,0.09090909090909091,1
-newsletter,0.09090909090909091,1
-ok,0.09090909090909091,1
-editora,0.09090909090909091,1
-web,0.18181818181818182,2
-esther,0.09090909090909091,1
-vargas,0.09090909090909091,1
-esthervargasperu21com,0.09090909090909091,1
-editor,0.09090909090909091,1
-multiplataforma,0.09090909090909091,1
-mijail,0.09090909090909091,1
-garrido,0.09090909090909091,1
-lecca,0.09090909090909091,1
-mijaelgarridoperu21com,0.09090909090909091,1
-publicidad,0.09090909090909091,1
-fonoavisoscomerciope,0.09090909090909091,1
-visite,0.09090909090909091,1
-elcomerciope,0.09090909090909091,1
-perucom,0.09090909090909091,1
-gestionpe,0.09090909090909091,1
-deporcom,0.09090909090909091,1
-tromepe,0.09090909090909091,1
-publimetrope,0.09090909090909091,1
-laprensape,0.09090909090909091,1
-ecomediape,0.09090909090909091,1
-aptituscom,0.09090909090909091,1
-neoautocom,0.09090909090909091,1
-urbaniape,0.09090909090909091,1
-peruredpe,0.09090909090909091,1
-club,0.09090909090909091,1
-clasificadospe,0.09090909090909091,1
-pagoefectivope,0.09090909090909091,1
-avansysedupe,0.09090909090909091,1
-maseducacioncom,0.09090909090909091,1
+11052017                      , 0.1           , 1                   
+15                            , 0.1           , 1                   
+20                            , 0.1           , 1                   
+2017                          , 0.1           , 1                   
+2018                          , 0.1           , 1                   
+247                           , 0.1           , 1                   
+30                            , 0.1           , 1                   
+800                           , 0.1           , 1                   
+abren                         , 0.1           , 1                   
+acicalan                      , 0.1           , 1                   
+aconseja                      , 0.1           , 1                   
+acota                         , 0.1           , 1                   
+africa                        , 0.1           , 1                   
+agosto                        , 0.1           , 1                   
+agrega                        , 0.1           , 1                   
+agua                          , 0.2           , 2                   
+ahorca                        , 0.1           , 1                   
+alejarlo                      , 0.1           , 1                   
+algunas                       , 0.1           , 1                   
+alimentarlo                   , 0.1           , 1                   
+alimento                      , 0.2           , 2                   
+amigo                         , 0.1           , 1                   
+amãrica                       , 0.1           , 1                   
+amãricas                      , 0.1           , 1                   
+animal                        , 0.1           , 1                   
+animales                      , 0.3           , 3                   
+animes                        , 0.1           , 1                   
+anuncios                      , 0.2           , 2                   
+aplicar                       , 0.1           , 1                   
+aptitus                       , 0.1           , 1                   
+aptituscom                    , 0.1           , 1                   
+aquã                          , 0.2           , 2                   
+archivo                       , 0.1           , 1                   
+ardillas                      , 0.1           , 1                   
+arena                         , 0.1           , 1                   
+asia                          , 0.2           , 2                   
+avansysedupe                  , 0.1           , 1                   
+balanceada                    , 0.1           , 1                   
+balanceado                    , 0.1           , 1                   
+baãa                          , 0.1           , 1                   
+baãados                       , 0.1           , 1                   
+baãarlo                       , 0.1           , 1                   
+belmont                       , 0.1           , 1                   
+blogs                         , 0.2           , 2                   
+caer                          , 0.1           , 1                   
+calle                         , 0.1           , 1                   
+callejeros                    , 0.1           , 1                   
+cambio                        , 0.1           , 1                   
+carne                         , 0.1           , 1                   
+casa                          , 0.3           , 3                   
+causante                      , 0.1           , 1                   
+cavero                        , 0.4           , 4                   
+cazadores                     , 0.1           , 1                   
+cecilia                       , 0.1           , 1                   
+champions                     , 0.2           , 2                   
+cheka                         , 0.3           , 3                   
+cine                          , 0.2           , 2                   
+citas                         , 0.1           , 1                   
+clasificadospe                , 0.1           , 1                   
+club                          , 0.1           , 1                   
+colocar                       , 0.1           , 1                   
+come                          , 0.1           , 1                   
+comen                         , 0.2           , 2                   
+comentar                      , 0.1           , 1                   
+comentarios                   , 0.1           , 1                   
+comercio                      , 0.2           , 2                   
+comics21                      , 0.2           , 2                   
+comida                        , 0.2           , 2                   
+compartir                     , 0.4           , 4                   
+compatriota                   , 0.1           , 1                   
+condiciones                   , 0.1           , 1                   
+conozca                       , 0.1           , 1                   
+consejos                      , 0.3           , 3                   
+contacto                      , 0.1           , 1                   
+contagie                      , 0.1           , 1                   
+convertido                    , 0.1           , 1                   
+copyrightâ                    , 0.1           , 1                   
+correcta                      , 0.1           , 1                   
+cruda                         , 0.1           , 1                   
+cruzar                        , 0.1           , 1                   
+cuidado                       , 0.4           , 4                   
+cuidar                        , 0.3           , 3                   
+cultura                       , 0.5           , 5                   
+da                            , 0.2           , 2                   
+darle                         , 0.1           , 1                   
+debe                          , 0.1           , 1                   
+deben                         , 0.3           , 3                   
+debes                         , 0.1           , 1                   
+decide                        , 0.1           , 1                   
+dejarã                        , 0.1           , 1                   
+delincuente                   , 0.1           , 1                   
+deporcom                      , 0.1           , 1                   
+deportes                      , 0.5           , 5                   
+derechos                      , 0.1           , 1                   
+desmiente                     , 0.1           , 1                   
+desparasitarlo                , 0.1           , 1                   
+diario                        , 0.2           , 2                   
+directora                     , 0.1           , 1                   
+diversas                      , 0.1           , 1                   
+dni                           , 0.1           , 1                   
+domãstico                     , 0.1           , 1                   
+dueão                         , 0.2           , 2                   
+dãa                           , 0.1           , 1                   
+dãas                          , 0.1           , 1                   
+ecomediape                    , 0.1           , 1                   
+economãa                      , 0.3           , 3                   
+edificios                     , 0.2           , 2                   
+editor                        , 0.1           , 1                   
+editora                       , 0.1           , 1                   
+ejercer                       , 0.1           , 1                   
+elcomerciope                  , 0.1           , 1                   
+enfermedad                    , 0.1           , 1                   
+engreãdos                     , 0.1           , 1                   
+engreãr                       , 0.1           , 1                   
+entra                         , 0.1           , 1                   
+escoge                        , 0.1           , 1                   
+especiales                    , 0.1           , 1                   
+especialista                  , 0.3           , 3                   
+espectãculos                  , 0.5           , 5                   
+espera                        , 0.1           , 1                   
+estadãsticas                  , 0.2           , 2                   
+esther                        , 0.1           , 1                   
+esthervargasperu21com         , 0.1           , 1                   
+estilo                        , 0.2           , 2                   
+estudiaron                    , 0.1           , 1                   
+europa                        , 0.2           , 2                   
+facebook                      , 0.2           , 2                   
+febrero                       , 0.1           , 1                   
+felina                        , 0.1           , 1                   
+felino                        , 0.1           , 1                   
+felinos                       , 0.1           , 1                   
+fonoavisoscomerciope          , 0.1           , 1                   
+forma                         , 0.1           , 1                   
+fotogalerãas                  , 0.2           , 2                   
+fotos                         , 0.2           , 2                   
+fraganti                      , 0.1           , 1                   
+frecuentes                    , 0.1           , 1                   
+fãºtbol                       , 0.4           , 4                   
+garrido                       , 0.1           , 1                   
+gastronomãa                   , 0.2           , 2                   
+gatitosâ                      , 0.1           , 1                   
+gato                          , 0.9           , 9                   
+gatos                         , 0.8           , 8                   
+gestionpe                     , 0.1           , 1                   
+google                        , 0.1           , 1                   
+grabado                       , 0.1           , 1                   
+gran                          , 0.1           , 1                   
+grupo                         , 0.1           , 1                   
+guste                         , 0.1           , 1                   
+han                           , 0.1           , 1                   
+hay                           , 0.2           , 2                   
+hija                          , 0.1           , 1                   
+historias                     , 0.2           , 2                   
+hombre                        , 0.1           , 1                   
+hostal                        , 0.1           , 1                   
+hoy                           , 0.2           , 2                   
+httpstcofcv7yksxrz            , 0.1           , 1                   
+ideal                         , 0.2           , 2                   
+igual                         , 0.1           , 1                   
+imposible                     , 0.1           , 1                   
+impresa                       , 0.2           , 2                   
+imprimir                      , 0.1           , 1                   
+in                            , 0.1           , 1                   
+independiente                 , 0.1           , 1                   
+infertilidad                  , 0.1           , 1                   
+ingrese                       , 0.1           , 1                   
+inicio                        , 0.2           , 2                   
+instagram                     , 0.1           , 1                   
+interesar                     , 0.2           , 2                   
+internacional                 , 0.4           , 4                   
+interãs                       , 0.2           , 2                   
+jr                            , 0.1           , 1                   
+jueves                        , 0.1           , 1                   
+laprensape                    , 0.1           , 1                   
+laptops                       , 0.2           , 2                   
+le                            , 0.2           , 2                   
+league                        , 0.2           , 2                   
+lecca                         , 0.1           , 1                   
+leer                          , 0.1           , 1                   
+les                           , 0.1           , 1                   
+libros                        , 0.2           , 2                   
+lima                          , 1.0           , 10                  
+limpiarse                     , 0.1           , 1                   
+limpio                        , 0.2           , 2                   
+llamadas                      , 0.1           , 1                   
+llenando                      , 0.1           , 1                   
+llevar                        , 0.1           , 1                   
+llevarlo                      , 0.1           , 1                   
+local                         , 0.3           , 3                   
+luz                           , 0.1           , 1                   
+lãnea                         , 0.1           , 1                   
+mallas                        , 0.1           , 1                   
+mantener                      , 0.1           , 1                   
+marca                         , 0.1           , 1                   
+marcas                        , 0.1           , 1                   
+marcos                        , 0.1           , 1                   
+mascota                       , 0.4           , 4                   
+mascotas                      , 0.3           , 3                   
+maseducacioncom               , 0.1           , 1                   
+matan                         , 0.2           , 2                   
+mechain                       , 0.3           , 3                   
+medio                         , 0.3           , 3                   
+mejor                         , 0.1           , 1                   
+memes                         , 0.1           , 1                   
+mercado                       , 0.1           , 1                   
+meses                         , 0.1           , 1                   
+mijaelgarridoperu21com        , 0.1           , 1                   
+mijail                        , 0.1           , 1                   
+mil                           , 0.1           , 1                   
+mininos                       , 0.1           , 1                   
+minsa                         , 0.1           , 1                   
+minuto                        , 0.4           , 4                   
+mirã³                         , 0.1           , 1                   
+mitos                         , 0.1           , 1                   
+moderno                       , 0.1           , 1                   
+mujer21                       , 0.3           , 3                   
+mujeres                       , 0.1           , 1                   
+multiplataforma               , 0.1           , 1                   
+mundial                       , 0.1           , 1                   
+mundo                         , 0.5           , 5                   
+mãdico                        , 0.2           , 2                   
+mãdicos                       , 0.1           , 1                   
+mãs                           , 0.5           , 5                   
+mã³dulos                      , 0.1           , 1                   
+mã³viles                      , 0.2           , 2                   
+mãºsica                       , 0.2           , 2                   
+neoauto                       , 0.1           , 1                   
+neoautocom                    , 0.1           , 1                   
+newsletter                    , 0.1           , 1                   
+nuestras                      , 0.1           , 1                   
+ok                            , 0.1           , 1                   
+onpe                          , 0.1           , 1                   
+operadoras                    , 0.1           , 1                   
+opiniã³n                      , 0.5           , 5                   
+ordenado                      , 0.1           , 1                   
+oriente                       , 0.2           , 2                   
+otorongo                      , 0.3           , 3                   
+pagoefectivope                , 0.1           , 1                   
+pancho                        , 0.4           , 4                   
+pareja                        , 0.1           , 1                   
+paseo                         , 0.2           , 2                   
+pequeãos                      , 0.1           , 1                   
+periodãstica                  , 0.1           , 1                   
+perrito                       , 0.1           , 1                   
+perro                         , 0.3           , 3                   
+perros                        , 0.1           , 1                   
+peru21noticias                , 0.1           , 1                   
+peru21pe                      , 0.1           , 1                   
+peruana                       , 0.2           , 2                   
+peruano                       , 0.2           , 2                   
+peruanos                      , 0.1           , 1                   
+perucom                       , 0.1           , 1                   
+peruredpe                     , 0.1           , 1                   
+perãº                         , 0.8           , 8                   
+perãº21                       , 0.2           , 2                   
+perãš21                       , 0.1           , 1                   
+pictwittercomrberwezlnx       , 0.1           , 1                   
+piso                          , 0.1           , 1                   
+podrãa                        , 0.1           , 1                   
+polideportivo                 , 0.2           , 2                   
+polãtica                      , 0.6           , 6                   
+portada                       , 0.8           , 8                   
+practico                      , 0.1           , 1                   
+precisa                       , 0.1           , 1                   
+preguntas                     , 0.1           , 1                   
+preocupaciã³n                 , 0.1           , 1                   
+privacidad                    , 0.1           , 1                   
+profesiã³n                    , 0.1           , 1                   
+profesor                      , 0.1           , 1                   
+prãctica                      , 0.1           , 1                   
+prãctico                      , 0.1           , 1                   
+publicidad                    , 0.1           , 1                   
+publimetrope                  , 0.1           , 1                   
+puntualiza                    , 0.2           , 2                   
+quesada                       , 0.1           , 1                   
+quien                         , 0.1           , 1                   
+quienes                       , 0.1           , 1                   
+quã                           , 0.1           , 1                   
+rabia                         , 0.2           , 2                   
+reales                        , 0.2           , 2                   
+recibir                       , 0.1           , 1                   
+recomendaciones               , 0.1           , 1                   
+recomendado                   , 0.2           , 2                   
+recuerde                      , 0.1           , 1                   
+redacciã³n                    , 0.1           , 1                   
+redes                         , 0.2           , 2                   
+reencuentro                   , 0.1           , 1                   
+regularidad                   , 0.1           , 1                   
+relacionados                  , 0.1           , 1                   
+reservados                    , 0.1           , 1                   
+respeta                       , 0.1           , 1                   
+reto                          , 0.1           , 1                   
+ricardo                       , 0.1           , 1                   
+sala                          , 0.1           , 1                   
+sale                          , 0.1           , 1                   
+salir                         , 0.1           , 1                   
+saltar                        , 0.1           , 1                   
+salud                         , 0.2           , 2                   
+saludable                     , 0.1           , 1                   
+san                           , 0.1           , 1                   
+secciones                     , 0.2           , 2                   
+seis                          , 0.3           , 3                   
+selecciã³n                    , 0.2           , 2                   
+semana                        , 0.1           , 1                   
+semãforo                      , 0.1           , 1                   
+sencillo                      , 0.1           , 1                   
+series                        , 0.2           , 2                   
+sexualidad                    , 0.2           , 2                   
+seãala                        , 0.3           , 3                   
+siguenos                      , 0.1           , 1                   
+sistema                       , 0.1           , 1                   
+sociales                      , 0.2           , 2                   
+soluciã³n                     , 0.1           , 1                   
+son                           , 0.2           , 2                   
+suceder                       , 0.1           , 1                   
+suelen                        , 0.1           , 1                   
+suscribete                    , 0.1           , 1                   
+sã                            , 0.1           , 1                   
+tags                          , 0.1           , 1                   
+tambiãn                       , 0.1           , 1                   
+tecnologãa                    , 0.2           , 2                   
+temas                         , 0.1           , 1                   
+terminos                      , 0.1           , 1                   
+tierno                        , 0.1           , 1                   
+tildã³                        , 0.1           , 1                   
+tiran                         , 0.1           , 1                   
+toca                          , 0.1           , 1                   
+tres                          , 0.1           , 1                   
+triple                        , 0.1           , 1                   
+tromepe                       , 0.1           , 1                   
+twitter                       , 0.2           , 2                   
+urbania                       , 0.1           , 1                   
+urbaniape                     , 0.1           , 1                   
+vacuna                        , 0.1           , 1                   
+vacunados                     , 0.1           , 1                   
+vacunar                       , 0.2           , 2                   
+valenzuela                    , 0.1           , 1                   
+vargas                        , 0.1           , 1                   
+vas                           , 0.1           , 1                   
+veces                         , 0.1           , 1                   
+venezolana                    , 0.1           , 1                   
+venezolanos                   , 0.1           , 1                   
+venezuela                     , 0.1           , 1                   
+ventanas                      , 0.4           , 4                   
+verano                        , 0.1           , 1                   
+veterinario                   , 0.3           , 3                   
+viajes                        , 0.2           , 2                   
+vida                          , 0.4           , 4                   
+video                         , 0.3           , 3                   
+videojuegos                   , 0.2           , 2                   
+videos                        , 0.2           , 2                   
+viral                         , 0.3           , 3                   
+visite                        , 0.1           , 1                   
+visto                         , 0.1           , 1                   
+viven                         , 0.2           , 2                   
+vivãa                         , 0.1           , 1                   
+votaciã³n                     , 0.1           , 1                   
+votar                         , 0.1           , 1                   
+vuelve                        , 0.1           , 1                   
+web                           , 0.2           , 2                   
+whatsapp                      , 0.1           , 1                   
+youtube                       , 0.6           , 6                   
+âcã³mo                        , 0.2           , 2                   
+âdã³nde                       , 0.1           , 1                   
+âpor                          , 0.1           , 1                   
+âœlindos                      , 0.1           , 1                   
+ãfrica                        , 0.1           , 1                   
+ãpoca                         , 0.1           , 1                   
+ãšltimo                       , 0.4           , 4                   

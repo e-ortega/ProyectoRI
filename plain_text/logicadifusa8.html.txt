@@ -1,0 +1,148 @@
+     MatemÃ¡ticas, FÃ­sica y QuÃ­mica  MatemÃ¡ticas      LÃ³gica difusa, la brillante ciencia de los grises     Identificar cÃ©lulas cancerosas en una imagen mÃ©dica o modificar la
+trayectoria de un aviÃ³n cerca de un aeropuerto para reducir la molestia
+acÃºstica a los vecinos son algunos de los objetivos de los proyectos de
+investigaciÃ³n de la Universidad PolitÃ©cnica de CataluÃ±a (UPC) basados
+en la lÃ³gica difusa ( fuzzy logic ). Esta tÃ©cnica matemÃ¡tica,
+surgida en los aÃ±os sesenta e incorporada a sistemas de control
+industriales y de electrodomÃ©sticos, facilita el avance de la
+inteligencia artificial al mismo tiempo que permite cuantificar la
+vaguedad de los conceptos cualitativos.   UPC //
+UPC CataluÃ±a 17.03.2009 13:22               GrÃ¡fico de la tesis de Xavier Prats que muestra la molestia acÃºstica
+causada por el despegue de un aviÃ³n, calculada con lÃ³gica difusa, en
+una zona residencial, segÃºn el nivel de ruido mÃ¡ximo (Lmax) y la hora
+del dÃ­a del vuelo.      O blanco o negro. O verdadero o falso. Si algo es verdadero, no
+puede ser falso. Y a la inversa. La eficiencia de este principio de la
+lÃ³gica clÃ¡sica que fundamenta el mÃ©todo cientÃ­fico se ve limitada
+cuando se penetra en el mundo de los grises. La lÃ³gica clÃ¡sica tiene
+dificultades para definir cuantitativamente elementos que son blancos
+pero que tambiÃ©n son negros, y que se diferencian unos de otros por un
+leve matiz que permite a los humanos calificarlos de gris claro, de
+oscuro, de muy oscuro o, por fin, de negro. Â¿CuÃ¡ntos granos de arena
+debe perder un desierto para dejar de ser considerado como tal?
+Â¿CuÃ¡ntos grados debe bajar la temperatura de una sala para que
+consideremos que hace frÃ­o? La lÃ³gica difusa ( fuzzy logic ) abre
+una vÃ­a para tratar cientÃ­ficamente estos conceptos cualitativos. â€œEs
+una extensiÃ³n de la lÃ³gica clÃ¡sica que sirve para cuantificar la
+vaguedadâ€, explica Eduard AlarcÃ³n, profesor del Departamento de
+IngenierÃ­a ElectrÃ³nica. La idea de la lÃ³gica difusa nace a
+partir de un artÃ­culo del ingeniero Lofti A. Zadeh titulado â€œFuzzy
+setsâ€ (â€œConjuntos difusosâ€), que se publicÃ³ en 1965. Eduard AlarcÃ³n
+explica que â€œen la lÃ³gica clÃ¡sica, segÃºn Bertrand Russell, de un
+conjunto de antecedentes lÃ³gicos se infieren unos consecuentesâ€. Se
+trata de reglas de la forma â€œsiâ€ (antecedente), â€œentoncesâ€
+(consecuente). â€œEn la lÃ³gica difusa, tanto los antecedentes como los
+consecuentes son conjuntos difusos, que intentan cuantificar la
+vaguedad de los calificadoresâ€, afirma AlarcÃ³n. El profesor del
+Departamento de IngenierÃ­a de Sistemas, AutomÃ¡tica e InformÃ¡tica
+Industrial (ESAII) Joan Domingo explica cÃ³mo se aplican los conjuntos
+difusos, por ejemplo, en un sistema de control que regula la luz de una
+sala. SegÃºn Domingo, los parÃ¡metros del sistema son adjetivos,
+habitualmente entre tres y seis, que definen la luz, como â€œpoquÃ­sima,
+poca, suficiente, mucha y muchÃ­simaâ€. Entonces, se realizan varias
+medidas de la luz y se asigna el grado en que cada una pertenece a un
+adjetivo. AsÃ­, una luz muy tenue puede pertenecer en un 0,6 a
+â€œpoquÃ­simaâ€, un 0,3 a â€œpocaâ€ y un 0,1 a â€œsuficienteâ€. Cada magnitud
+medida queda repartida entre diferentes conjuntos y su grado de
+pertenencia a un conjunto se representa con una funciÃ³n. A
+continuaciÃ³n se aplican una serie de reglas del estilo â€œsiâ€,
+â€œentoncesâ€, que han sido descritas por una persona experta o bien
+aprendidas por el mismo sistema. Una regla podrÃ­a ser â€œsi la luz es
+poquÃ­sima, entonces debemos iluminar muchÃ­simo la salaâ€. Los valores de
+entrada recogidos se someten a estas reglas en un motor de inferencia
+basado en chips o algoritmos. Cada regla de inferencia da como
+resultado un Ã¡rea y la confluencia de estas Ã¡reas es el resultado
+final, que se traduce en una acciÃ³n que afecta al entorno fÃ­sico en que
+se aplica el sistema. Estos sistemas expertos, basados en
+reglas que utilizan la lÃ³gica difusa, se han aplicado en las Ãºltimas
+dÃ©cadas a electrodomÃ©sticos, cÃ¡maras, aires acondicionados, sistemas de
+control industrial y tecnologÃ­a informÃ¡tica, entre otras aplicaciones. ElectrodomÃ©sticos mÃ¡s eficientes En
+el Ã¡mbito domÃ©stico, gracias a estos sistemas, una lavadora con lÃ³gica
+difusa gasta menos jabÃ³n y agua cuando la ropa pesa poco. AdemÃ¡s, un
+sistema de climatizaciÃ³n es capaz de mantener una temperatura agradable
+sin apagarlo y encenderlo de nuevo bruscamente cuando el termÃ³metro
+marca un valor determinado, en una transiciÃ³n suave, sin saltos. Esta
+suavidad en la acciÃ³n se debe a la gradualidad y la zonalidad de los
+conjuntos difusos. Eduard AlarcÃ³n explica que los conjuntos difusos son
+un conjunto matemÃ¡tico analÃ­tico que efectÃºa una descripciÃ³n gradual
+alrededor de una zona. La zonalidad permite que cada zona estÃ©
+desacoplada del resto y, por tanto, que cada zona sea responsable de
+una Ãºnica acciÃ³n de control. La gradualidad permite que se interpolen
+los resultados de diferentes zonas, de manera que la acciÃ³n resultante
+sea suave. Joan Domingo destaca la velocidad en la toma de
+decisiones de los motores de inferencias, que, a diferencia de los
+procesadores convencionales, se mide en millones de inferencias por
+segundo (MFLIPS). â€œLos sistemas de control clÃ¡sicos son analÃ³gicos y
+mÃ¡s lentos, mientras que los fuzzy son digitales y tienen una velocidad altÃ­sima. Los sistemas fuzzy son muy agradecidos, son relativamente rÃ¡pidos de implementar y dan resultados excelentesâ€, afirma. En
+el marco teÃ³rico, se siguen produciendo avances. El Grupo de
+InvestigaciÃ³n ModelizaciÃ³n MatemÃ¡tica Funcional y Aplicaciones lleva a
+cabo un proyecto para estudiar mÃ©todos mejorados de clasificaciÃ³n
+difusa que resuelvan problemas derivados de la ambigÃ¼edad lingÃ¼Ã­stica
+en la definiciÃ³n de los adjetivos o de la imprecisiÃ³n de los
+instrumentos de medida. Los sistemas de control, en el Ã¡mbito de la automÃ¡tica y la electrÃ³nica, han sido la aplicaciÃ³n estrella de la lÃ³gica fuzzy ,
+pero actualmente varios investigadores e investigadoras de la UPC estÃ¡n
+incorporando la lÃ³gica difusa a sistemas capaces de mejorar la calidad
+de vida de los usuarios en otros campos, como la aeronÃ¡utica o el
+anÃ¡lisis de imÃ¡genes mÃ©dicas. Detectar cÃ©lulas cancerosas Â¿Se
+observan cÃ©lulas cancerosas en una muestra de tejido del Ãºtero? Hasta
+ahora, para responder a esta pregunta, un patÃ³logo debÃ­a pasarse muchas
+horas ante el microscopio y observar detenidamente el tejido que los
+ginecÃ³logos extraen del Ãºtero en las citologÃ­as. La pequeÃ±a muestra del
+tejido contiene millones de cÃ©lulas y una observaciÃ³n continuada puede
+hacer que la vista se habitÃºe, el tÃ©cnico se canse y se produzca un
+error. A fin de minimizar este riesgo, un equipo de
+investigadores e investigadoras de la UPC y de la Universidad Rovira i
+Virgili, dirigidos por Pilar Sobrevilla, del Departamento de MatemÃ¡tica
+Aplicada II, y Eduard Montseny, del Departamento de ESAII, trabajan
+conjuntamente con el Hospital de Sant Pau de Barcelona en un proyecto
+de anÃ¡lisis de la imagen proveniente de las citologÃ­as. Pilar
+Sobrevilla explica que â€œel sistema, basado en la lÃ³gica difusa,
+localiza todas las cÃ©lulas que aparecen en la imagen y evalÃºa el grado
+de normalidadâ€. Para conseguirlo, el sistema examina una
+imagen y localiza las regiones en que se encuentran las cÃ©lulas
+anormales, es decir, cancerosas, a partir del anÃ¡lisis de las
+caracterÃ­sticas de color y textura. El resultado se muestra en una
+imagen en la que estÃ¡n localizadas las cÃ©lulas cancerosas. Este proceso
+se ejecuta en tiempo real, ya que el patÃ³logo dispone de un aparato en
+el que introduce la imagen original y puede observar de inmediato el
+Ã¡rea que debe analizarse con mÃ¡s detenimiento. El sistema se
+utiliza actualmente en el Hospital de Sant Pau y los investigadores e
+investigadoras estÃ¡n trabajando en una segunda fase del proyecto que
+reducirÃ¡ el Ã¡rea indicada y ofrecerÃ¡ mÃ¡s datos adaptados a la
+informaciÃ³n que el mÃ©dico solicita, segÃºn afirma Sobrevilla El
+grupo de investigaciÃ³n tambiÃ©n ha diseÃ±ado un sistema basado en la
+lÃ³gica difusa que evalÃºa la calidad del tejido corneal en un
+trasplante. La primera versiÃ³n del algoritmo de este sistema ya se
+utiliza en el Banco de Tejidos del Hospital de Sant Pau. En este caso,
+se analizan imÃ¡genes del tejido corneal de la persona donante para
+comprobar si se puede trasplantar y, ademÃ¡s, se examinan los datos de
+la salud de todos los donantes potenciales para conocer el grado de
+cumplimiento de los requisitos. La molestia acÃºstica que causa el
+despegue y el aterrizaje de un aviÃ³n a las personas que viven cerca de
+un aeropuerto tambiÃ©n se puede modelizar mediante la lÃ³gica difusa. La
+tesis doctoral del profesor Xavier Prats, del Departamento de
+IngenierÃ­a MecÃ¡nica, va mÃ¡s allÃ¡, ya que propone definir la trayectoria
+Ã³ptima de la aeronave en estas maniobras para minimizar la molestia
+acÃºstica a los vecinos. El profesor Joseba Quevedo, que dirige la tesis
+conjuntamente con el profesor VincenÃ§ Puig, explica que, gracias a los
+nuevos sistemas de navegaciÃ³n por satÃ©lite, no es necesario que los
+aviones sigan trayectorias de despegue y aterrizaje en tramos rectos,
+sino que pueden efectuar curvas. Esto permite que se pueda modificar la
+trayectoria y asÃ­ minimizar la molestia acÃºstica a los vecinos, que no
+es objetiva como el nivel de ruido, sino que depende de la persona que
+la padece. â€œNo es el mismo lo que percibe un enfermo en un hospital
+durante la noche que un comprador joven en medio de un mercado, y un
+mismo ruido, de dÃ­a o de noche, no tiene nada que ver, debido al
+distinto nivel acÃºstico del entornoâ€, afirma Quevedo. Mediante la
+lÃ³gica difusa, el sistema analiza el grado de molestia, que se califica
+de â€œirritanteâ€, â€œmuchaâ€ â€œpocaâ€ o â€œnadaâ€ para los diferentes
+equipamientos (como hospitales, escuelas o mercados) y zonas de
+vivienda prÃ³ximas al aeropuerto, y tambiÃ©n tiene en cuenta la hora del
+dÃ­a y la distancia a la que pasa el aviÃ³n. La lÃ³gica difusa y el softcomputing En 1991 Lofti A. Zadeh, profesor de la Universidad de Berkeley y padre de la lÃ³gica difusa, acuÃ±Ã³ el tÃ©rmino softcomputing (en castellano, informÃ¡tica blanda). Esta rama de la inteligencia
+artificial se ocupa del diseÃ±o de sistemas expertos capaces de
+gestionar de una manera adecuada informaciÃ³n imprecisa, incierta y/o
+incompleta. La lÃ³gica difusa es una de las principales tÃ©cnicas de esta
+rama, junto con los algoritmos evolutivos y las redes neuronales. MÃ¡s
+de 2.000 expertos y expertas en informÃ¡tica blanda de todo el mundo se
+reunirÃ¡n en Barcelona en el lEEE World Congress on Computational
+Intelligence, organizado por la investigadora de la UPC Pilar
+Sobrevilla, en julio de 2010.   Creative Commons   Comentarios    Conectar o crear una cuenta de usuario para comentar.         eZ Publishâ„¢ copyright Â© 1999-2009 eZ Systems AS  

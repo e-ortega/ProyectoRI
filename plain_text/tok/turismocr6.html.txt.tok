@@ -1,263 +1,257 @@
-inicio,0.0625,1
-país,0.125,2
-regiones,0.125,2
-mapa,0.1875,3
-caribe,0.3125,5
-limón,0.0625,1
-corcovado,0.3125,5
-osa,0.1875,3
-pacífico,0.625,10
-sur,0.25,4
-guanacaste,0.375,6
-norte,0.3125,5
-jaco,0.125,2
-central,0.625,10
-monteverde,0.4375,7
-quepos,0.375,6
-manuel,0.4375,7
-antonio,0.4375,7
-cordillera,0.1875,3
-talamanca,0.3125,5
-tortuguero,0.375,6
-valle,0.3125,5
-san,0.125,2
-josé,0.125,2
-zona,0.25,4
-arenal,0.4375,7
-hoteles,1.0,16
-alojamiento,0.0625,1
-incluido,0.0625,1
-ecolodges,0.0625,1
-region,0.0625,1
-limon,0.0625,1
-highlands,0.0625,1
-información,0.25,4
-costa,1.0,16
-rica,0.875,14
-preguntas,0.0625,1
-frecuentes,0.0625,1
-libro,0.0625,1
-visitas,0.0625,1
-parques,0.25,4
-nacionales,0.1875,3
-reservas,0.125,2
-consejos,0.125,2
-viaje,0.125,2
-cuéntele,0.125,2
-amigo,0.1875,3
-sitio,0.1875,3
-transporte,0.125,2
-líneas,0.0625,1
-aereas,0.0625,1
-vuelos,0.125,2
-locales,0.0625,1
-alquiler,0.0625,1
-coches,0.0625,1
-rent,0.0625,1
-car,0.0625,1
-rutas,0.0625,1
-tours,0.8125,13
-actividades,0.0625,1
-paquetes,0.125,2
-especiales,0.125,2
-buceo,0.125,2
-golf,0.125,2
-observando,0.0625,1
-aves,0.0625,1
-pesca,0.0625,1
-deportiva,0.0625,1
-rafting,0.0625,1
-día,0.0625,1
-contactenos,0.0625,1
-formulario,0.0625,1
-contacto,0.125,2
-adventure,0.0625,1
-and,0.125,2
-hotel,0.1875,3
-booking,0.0625,1
-rain,0.125,2
-forest,0.125,2
-adventures,0.0625,1
-vacation,0.125,2
-rentals,0.125,2
-around,0.125,2
-the,0.125,2
-world,0.125,2
-general,0.1875,3
-historia,0.0625,1
-clima,0.0625,1
-geografía,0.0625,1
-arte,0.0625,1
-museos,0.0625,1
-recomiende,0.0625,1
-áreas,0.0625,1
-protegidas,0.0625,1
-volcán,0.125,2
-suscríbase,0.0625,1
-boletín,0.0625,1
-noticias,0.0625,1
-suscribirse,0.0625,1
-separarse,0.0625,1
-destino,0.25,4
-único,0.0625,1
-vacaciones,0.4375,7
-belleza,0.125,2
-natural,0.125,2
-aventura,0.125,2
-excursiones,0.0625,1
-reservaciones,0.1875,3
-conozca,0.1875,3
-le,0.1875,3
-provee,0.0625,1
-completa,0.0625,1
-compilación,0.0625,1
-disponible,0.0625,1
-internet,0.0625,1
-pacifico,0.0625,1
-osacorcovado,0.0625,1
-importante,0.125,2
-planear,0.0625,1
-nuevo,0.0625,1
-razón,0.0625,1
-empresa,0.0625,1
-parte,0.0625,1
-sa,0.0625,1
-formalmente,0.0625,1
-establecida,0.0625,1
-pone,0.0625,1
-disposición,0.0625,1
-clientes,0.0625,1
-20,0.125,2
-años,0.0625,1
-experiencia,0.0625,1
-conocimiento,0.0625,1
-facilita,0.0625,1
-planificar,0.0625,1
-asegurando,0.0625,1
-garantizando,0.0625,1
-placenteras,0.0625,1
-pensado,0.0625,1
-recorrido,0.0625,1
-cuente,0.0625,1
-buena,0.0625,1
-asesoría,0.0625,1
-seguro,0.0625,1
-agentes,0.0625,1
-asesoraran,0.0625,1
-buscaran,0.0625,1
-mejores,0.125,2
-opciones,0.0625,1
-recorridos,0.125,2
-acorde,0.0625,1
-desea,0.0625,1
-disfrutar,0.0625,1
-asesora,0.0625,1
-asistira,0.0625,1
-planificación,0.0625,1
-debidas,0.0625,1
-confirmaciones,0.0625,1
-aliados,0.0625,1
-negocio,0.0625,1
-contamos,0.0625,1
-tarifas,0.0625,1
-usted,0.0625,1
-operadores,0.0625,1
-siguenos,0.0625,1
-territorio,0.0625,1
-constituye,0.0625,1
-conocidos,0.0625,1
-son,0.0625,1
-chirripó,0.0625,1
-santa,0.0625,1
-rosa,0.0625,1
-poás,0.0625,1
-irazú,0.0625,1
-cahuita,0.0625,1
-cabo,0.0625,1
-blanco,0.0625,1
-braulio,0.0625,1
-carrillo,0.0625,1
-hay,0.0625,1
-humedales,0.0625,1
-protegidos,0.0625,1
-internacionalmente,0.0625,1
-famosa,0.0625,1
-reserva,0.0625,1
-privada,0.0625,1
-visite,0.0625,1
-inexplorado,0.0625,1
-sitios,0.1875,3
-exóticos,0.0625,1
-mundo,0.0625,1
-colmado,0.0625,1
-gran,0.0625,1
-cantidad,0.0625,1
-maravillas,0.0625,1
-naturales,0.0625,1
-volcanes,0.0625,1
-ardientes,0.0625,1
-playas,0.0625,1
-prístinas,0.0625,1
-ríos,0.0625,1
-caudalosos,0.0625,1
-selvas,0.0625,1
-tropicales,0.0625,1
-vírgenes,0.0625,1
-fauna,0.0625,1
-abundante,0.0625,1
-impresionante,0.0625,1
-gente,0.0625,1
-calurosa,0.0625,1
-hospitalaria,0.0625,1
-contáctenos,0.0625,1
-crtel50640017885,0.0625,1
-telus,0.0625,1
-phone,0.0625,1
-786,0.0625,1
-2890249,0.0625,1
-member,0.0625,1
-of,0.125,2
-cape,0.0625,1
-coral,0.0625,1
-chamber,0.0625,1
-commerce,0.0625,1
-southwest,0.0625,1
-floridas,0.0625,1
-relacionados,0.125,2
-investigue,0.0625,1
-búsqueda,0.0625,1
-aventuras,0.0625,1
-ver,0.0625,1
-ballenas,0.0625,1
-encuentra,0.0625,1
-tiquetes,0.0625,1
-avión,0.0625,1
-mejor,0.0625,1
-precio,0.0625,1
-easyviajar,0.0625,1
-compara,0.0625,1
-miles,0.0625,1
-ofertas,0.0625,1
-exclusivas,0.0625,1
-compra,0.0625,1
-súper,0.0625,1
-baratos,0.0625,1
-10,0.125,2
-destinos,0.0625,1
-favoritos,0.0625,1
-isla,0.125,2
-caño,0.0625,1
-coco,0.0625,1
-río,0.0625,1
-pacuare,0.0625,1
-tabacon,0.0625,1
-estación,0.0625,1
-biológica,0.0625,1
-selva,0.0625,1
-paradisus,0.0625,1
-playa,0.0625,1
-conchal,0.0625,1
-mapas,0.0625,1
-lista,0.0625,1
-región,0.0625,1
-nortevolcán,0.0625,1
+011506                        , 0.2222222222222222  , 2                   
+10                            , 0.2222222222222222  , 2                   
+18887350703                   , 0.1111111111111111  , 1                   
+2967054                       , 0.1111111111111111  , 1                   
+2967074                       , 0.1111111111111111  , 1                   
+abundante                     , 0.1111111111111111  , 1                   
+actualizada                   , 0.1111111111111111  , 1                   
+adventures                    , 0.1111111111111111  , 1                   
+agencias                      , 0.1111111111111111  , 1                   
+agua                          , 0.1111111111111111  , 1                   
+alajuela                      , 0.1111111111111111  , 1                   
+alguna                        , 0.1111111111111111  , 1                   
+amigo                         , 0.1111111111111111  , 1                   
+antonio                       , 0.4444444444444444  , 4                   
+anúnciese                     , 0.1111111111111111  , 1                   
+ardientes                     , 0.1111111111111111  , 1                   
+areas                         , 0.1111111111111111  , 1                   
+arena                         , 0.1111111111111111  , 1                   
+arenal                        , 0.5555555555555556  , 5                   
+arte                          , 0.2222222222222222  , 2                   
+asegurándole                  , 0.1111111111111111  , 1                   
+atardecer                     , 0.1111111111111111  , 1                   
+auratus                       , 0.1111111111111111  , 1                   
+aventura                      , 0.1111111111111111  , 1                   
+aventuras                     , 0.1111111111111111  , 1                   
+aves                          , 0.1111111111111111  , 1                   
+belleza                       , 0.1111111111111111  , 1                   
+biológica                     , 0.1111111111111111  , 1                   
+blanca                        , 0.1111111111111111  , 1                   
+blanco                        , 0.1111111111111111  , 1                   
+bolaños                       , 0.1111111111111111  , 1                   
+boletín                       , 0.2222222222222222  , 2                   
+bosque                        , 0.2222222222222222  , 2                   
+bosques                       , 0.1111111111111111  , 1                   
+buceo                         , 0.2222222222222222  , 2                   
+buscando                      , 0.1111111111111111  , 1                   
+búsqueda                      , 0.1111111111111111  , 1                   
+caballo                       , 0.2222222222222222  , 2                   
+calurosa                      , 0.1111111111111111  , 1                   
+caminatas                     , 0.1111111111111111  , 1                   
+canopy                        , 0.2222222222222222  , 2                   
+cantidad                      , 0.1111111111111111  , 1                   
+capuchino                     , 0.1111111111111111  , 1                   
+caribe                        , 0.2222222222222222  , 2                   
+cariblanco                    , 0.1111111111111111  , 1                   
+cartago                       , 0.1111111111111111  , 1                   
+cascada                       , 0.1111111111111111  , 1                   
+caudalosos                    , 0.1111111111111111  , 1                   
+caño                          , 0.1111111111111111  , 1                   
+celeste                       , 0.2222222222222222  , 2                   
+central                       , 0.4444444444444444  , 4                   
+chacarita                     , 0.1111111111111111  , 1                   
+chirripo                      , 0.1111111111111111  , 1                   
+ciudad                        , 0.1111111111111111  , 1                   
+click                         , 0.1111111111111111  , 1                   
+clics                         , 0.1111111111111111  , 1                   
+clima                         , 0.2222222222222222  , 2                   
+coati                         , 0.1111111111111111  , 1                   
+colmado                       , 0.1111111111111111  , 1                   
+comentarios                   , 0.2222222222222222  , 2                   
+compilación                   , 0.1111111111111111  , 1                   
+completa                      , 0.1111111111111111  , 1                   
+completo                      , 0.1111111111111111  , 1                   
+conchal                       , 0.1111111111111111  , 1                   
+condiciones                   , 0.1111111111111111  , 1                   
+conozca                       , 0.1111111111111111  , 1                   
+consejos                      , 0.1111111111111111  , 1                   
+conveniencia                  , 0.1111111111111111  , 1                   
+corcovado                     , 0.2222222222222222  , 2                   
+cordillera                    , 0.1111111111111111  , 1                   
+costa                         , 1.0           , 9                   
+cualquiera                    , 0.1111111111111111  , 1                   
+cómo                          , 0.1111111111111111  , 1                   
+delfines                      , 0.1111111111111111  , 1                   
+dendrobates                   , 0.2222222222222222  , 2                   
+deportiva                     , 0.1111111111111111  , 1                   
+destino                       , 0.1111111111111111  , 1                   
+destinos                      , 0.1111111111111111  , 1                   
+disponible                    , 0.1111111111111111  , 1                   
+distinciones                  , 0.1111111111111111  , 1                   
+docenas                       , 0.1111111111111111  , 1                   
+dolphin                       , 0.1111111111111111  , 1                   
+ecoturismo                    , 0.1111111111111111  , 1                   
+enga                          , 0.1111111111111111  , 1                   
+english                       , 0.1111111111111111  , 1                   
+especiales                    , 0.1111111111111111  , 1                   
+estación                      , 0.1111111111111111  , 1                   
+estará                        , 0.1111111111111111  , 1                   
+excursiones                   , 0.1111111111111111  , 1                   
+exóticos                      , 0.1111111111111111  , 1                   
+facilitarle                   , 0.1111111111111111  , 1                   
+fauna                         , 0.1111111111111111  , 1                   
+favor                         , 0.1111111111111111  , 1                   
+favoritos                     , 0.1111111111111111  , 1                   
+fax                           , 0.1111111111111111  , 1                   
+forest                        , 0.1111111111111111  , 1                   
+forma                         , 0.1111111111111111  , 1                   
+gavilán                       , 0.1111111111111111  , 1                   
+general                       , 0.3333333333333333  , 3                   
+gente                         , 0.1111111111111111  , 1                   
+geografía                     , 0.2222222222222222  , 2                   
+gobiado                       , 0.1111111111111111  , 1                   
+golf                          , 0.2222222222222222  , 2                   
+golfito                       , 0.1111111111111111  , 1                   
+gran                          , 0.2222222222222222  , 2                   
+gratuita                      , 0.1111111111111111  , 1                   
+guanacaste                    , 0.3333333333333333  , 3                   
+haga                          , 0.1111111111111111  , 1                   
+halcón                        , 0.1111111111111111  , 1                   
+heredia                       , 0.1111111111111111  , 1                   
+hermosa                       , 0.1111111111111111  , 1                   
+historia                      , 0.2222222222222222  , 2                   
+hospitalaria                  , 0.1111111111111111  , 1                   
+hotel                         , 0.1111111111111111  , 1                   
+hoteles                       , 0.5555555555555556  , 5                   
+impresionante                 , 0.1111111111111111  , 1                   
+impresionantes                , 0.1111111111111111  , 1                   
+incluido                      , 0.1111111111111111  , 1                   
+indice                        , 0.2222222222222222  , 2                   
+inexplorado                   , 0.1111111111111111  , 1                   
+información                   , 0.8888888888888888  , 8                   
+internet                      , 0.1111111111111111  , 1                   
+interés                       , 0.1111111111111111  , 1                   
+investigue                    , 0.1111111111111111  , 1                   
+irazú                         , 0.1111111111111111  , 1                   
+isidro                        , 0.1111111111111111  , 1                   
+isla                          , 0.1111111111111111  , 1                   
+itinerario                    , 0.2222222222222222  , 2                   
+josé                          , 0.1111111111111111  , 1                   
+jungla                        , 0.1111111111111111  , 1                   
+le                            , 0.1111111111111111  , 1                   
+liberia                       , 0.1111111111111111  , 1                   
+limón                         , 0.1111111111111111  , 1                   
+linea                         , 0.1111111111111111  , 1                   
+lista                         , 0.1111111111111111  , 1                   
+lluvioso                      , 0.1111111111111111  , 1                   
+lugar                         , 0.1111111111111111  , 1                   
+línea                         , 0.1111111111111111  , 1                   
+manantiales                   , 0.1111111111111111  , 1                   
+manuel                        , 0.4444444444444444  , 4                   
+mapa                          , 0.1111111111111111  , 1                   
+mapas                         , 0.1111111111111111  , 1                   
+marina                        , 0.1111111111111111  , 1                   
+meteorológico                 , 0.1111111111111111  , 1                   
+mineral                       , 0.1111111111111111  , 1                   
+mono                          , 0.1111111111111111  , 1                   
+montañas                      , 0.1111111111111111  , 1                   
+monteverde                    , 0.3333333333333333  , 3                   
+mundi                         , 0.1111111111111111  , 1                   
+mundo                         , 0.1111111111111111  , 1                   
+museos                        , 0.2222222222222222  , 2                   
+nacional                      , 0.3333333333333333  , 3                   
+nacionales                    , 0.3333333333333333  , 3                   
+nado                          , 0.1111111111111111  , 1                   
+natural                       , 0.1111111111111111  , 1                   
+nicoya                        , 0.1111111111111111  , 1                   
+noche                         , 0.1111111111111111  , 1                   
+norte                         , 0.2222222222222222  , 2                   
+nosotros                      , 0.2222222222222222  , 2                   
+noticias                      , 0.1111111111111111  , 1                   
+nuboso                        , 0.1111111111111111  , 1                   
+observación                   , 0.2222222222222222  , 2                   
+orquídea                      , 0.1111111111111111  , 1                   
+osta                          , 0.1111111111111111  , 1                   
+pacuare                       , 0.1111111111111111  , 1                   
+pacífico                      , 0.4444444444444444  , 4                   
+palmar                        , 0.1111111111111111  , 1                   
+paquetes                      , 0.1111111111111111  , 1                   
+paradisus                     , 0.1111111111111111  , 1                   
+parismina                     , 0.1111111111111111  , 1                   
+parque                        , 0.3333333333333333  , 3                   
+parques                       , 0.5555555555555556  , 5                   
+paseos                        , 0.2222222222222222  , 2                   
+pesca                         , 0.1111111111111111  , 1                   
+pisote                        , 0.1111111111111111  , 1                   
+planear                       , 0.4444444444444444  , 4                   
+playa                         , 0.2222222222222222  , 2                   
+playas                        , 0.1111111111111111  , 1                   
+políticas                     , 0.1111111111111111  , 1                   
+posible                       , 0.1111111111111111  , 1                   
+preguntando                   , 0.1111111111111111  , 1                   
+privacidad                    , 0.1111111111111111  , 1                   
+pronto                        , 0.1111111111111111  , 1                   
+protegidas                    , 0.1111111111111111  , 1                   
+provee                        , 0.1111111111111111  , 1                   
+prístinas                     , 0.1111111111111111  , 1                   
+pumilio                       , 0.1111111111111111  , 1                   
+puntarenas                    , 0.1111111111111111  , 1                   
+quepos                        , 0.3333333333333333  , 3                   
+quesada                       , 0.1111111111111111  , 1                   
+quetzales                     , 0.1111111111111111  , 1                   
+rafting                       , 0.2222222222222222  , 2                   
+rain                          , 0.1111111111111111  , 1                   
+ratón                         , 0.1111111111111111  , 1                   
+recomiende                    , 0.1111111111111111  , 1                   
+regiones                      , 0.1111111111111111  , 1                   
+región                        , 0.1111111111111111  , 1                   
+relacionados                  , 0.2222222222222222  , 2                   
+relajarse                     , 0.1111111111111111  , 1                   
+reservaciones                 , 0.2222222222222222  , 2                   
+reservación                   , 0.1111111111111111  , 1                   
+reservar                      , 0.1111111111111111  , 1                   
+retirada                      , 0.1111111111111111  , 1                   
+rica                          , 0.8888888888888888  , 8                   
+rosa                          , 0.1111111111111111  , 1                   
+río                           , 0.4444444444444444  , 4                   
+ríos                          , 0.1111111111111111  , 1                   
+san                           , 0.2222222222222222  , 2                   
+santa                         , 0.1111111111111111  , 1                   
+sapito                        , 0.1111111111111111  , 1                   
+sapo                          , 0.1111111111111111  , 1                   
+scuba                         , 0.1111111111111111  , 1                   
+sea                           , 0.1111111111111111  , 1                   
+selva                         , 0.1111111111111111  , 1                   
+separarse                     , 0.1111111111111111  , 1                   
+simplemente                   , 0.1111111111111111  , 1                   
+sitio                         , 0.4444444444444444  , 4                   
+sitios                        , 0.3333333333333333  , 3                   
+sixaola                       , 0.1111111111111111  , 1                   
+sobresaliendo                 , 0.1111111111111111  , 1                   
+sur                           , 0.3333333333333333  , 3                   
+surfing                       , 0.1111111111111111  , 1                   
+suscribase                    , 0.1111111111111111  , 1                   
+suscribirse                   , 0.1111111111111111  , 1                   
+swiming                       , 0.1111111111111111  , 1                   
+tabacon                       , 0.1111111111111111  , 1                   
+talamanca                     , 0.2222222222222222  , 2                   
+tamarindo                     , 0.1111111111111111  , 1                   
+tambor                        , 0.1111111111111111  , 1                   
+teléfono                      , 0.1111111111111111  , 1                   
+tobías                        , 0.1111111111111111  , 1                   
+tortuga                       , 0.1111111111111111  , 1                   
+tortuguero                    , 0.3333333333333333  , 3                   
+tour                          , 0.1111111111111111  , 1                   
+tours                         , 0.5555555555555556  , 5                   
+tropical                      , 0.2222222222222222  , 2                   
+tropicales                    , 0.1111111111111111  , 1                   
+tucan                         , 0.1111111111111111  , 1                   
+turismo                       , 0.1111111111111111  , 1                   
+turrialba                     , 0.1111111111111111  , 1                   
+usted                         , 0.2222222222222222  , 2                   
+vacaciones                    , 0.5555555555555556  , 5                   
+valle                         , 0.2222222222222222  , 2                   
+venenoso                      , 0.2222222222222222  , 2                   
+version                       , 0.1111111111111111  , 1                   
+vez                           , 0.1111111111111111  , 1                   
+viaje                         , 0.2222222222222222  , 2                   
+viajes                        , 0.2222222222222222  , 2                   
+visitantes                    , 0.1111111111111111  , 1                   
+volcan                        , 0.1111111111111111  , 1                   
+volcanes                      , 0.2222222222222222  , 2                   
+volcán                        , 0.5555555555555556  , 5                   
+vírgenes                      , 0.1111111111111111  , 1                   
+water                         , 0.1111111111111111  , 1                   
+webmaster                     , 0.1111111111111111  , 1                   
+white                         , 0.1111111111111111  , 1                   
+zona                          , 0.2222222222222222  , 2                   

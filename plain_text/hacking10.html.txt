@@ -1,0 +1,342 @@
+                    Portada Foro Blog WarZone Wiki Labs Staff Mapa                    elhacker.NET          Faq's  Trucos PC  Trucos XP  Trucos Windows 7                     Servicios          Localizador IP's  Convertidor  Noticias  Webmasters                     Descargas          Linux  Textos - Manuales  E-Zines  Fotos Divertidas  Hacking                     Participa          Foro  Boletín de correo  Warzone                     Tema destacado         Recuperar cuenta de Google, GMail, Youtube                    Síguenos en:             Seguir a @elhackernet         elhacker.NET on Twitter Counter                  Hacking , Herramientas y Programas Hack                |  Hacking General | Hacking Wireless | Hacking NT/2k | Keyloggers y Sniffers  | Crackeadores  | Crackeadores 
+  BIOS |  | Scanners | Troyanos | Nukers | Mail-Bombers | Utilidades | Código 
+  Fuente | Crackmes/Cracking |                       H
+      a c k i n g          Password 
+            crackers, Hacking en web-sites, hacking win 9x, etc            Download       Info     Tamaño       john   John 
+              the Ripper (Win32 v1.7.0.1)   1,3 
+              MB     john   John 
+              the Ripper (Dos v1.7.0.1)   0,8 
+              MB     john   John 
+              the Ripper (Unix tar.gz v1.7.0.2)   0,8 
+              MB     Sqlbftools   Sqlbftools 
+              (MySQL Info Blind SQL)   0,1 
+              MB     Sqlbftools   Sqlbftools 
+              (en PerL)   0,1 
+              MB     webcracker   WebCracker 
+              v4.0   1,2 
+              MB     brutus   Brutus 
+              AE v.20   0,3 
+              MB     grinder  Scanner 
+              Automatizado vulnerabiliades v1.1   1,13 
+              MB     legion  Legion 
+              v.2.1 Scanner Recursos Compartidos   1,91 
+              MB     netcat  NetCat 
+              para Linux (tar.gz)   0,4 
+              MB     netcat  Netcat RPM 
+              GNU/Linux i386   0,1 
+              MB     netcat  NetCat para 
+              NT v1.11   0,09 
+              MB     cain  Cain 
+                & Abel v4.9.36 (Win 2000,NT,XP)   5,8 
+              MB     Winpcap  Librerías 
+              para el Cain (WinPcap 3.0)   0,4 
+              MB     Winpcap  Librería 
+              WinPcap-2.3   0,3 
+              MB     cain  Cain 
+              2.0 Crackea pwl, sniffer, etc. (Win 9X)   0,6 
+              MB     Rainbow  Rainbow Table 
+              Generator v1.2   0,1 
+              MB     Rainbow  RainbowCrack 
+              v1.2 Win32   0,5 
+              MB     Rainbow  RainbowCrack 
+              v1.2 src Win/Linux   0,04 
+              MB     arp-works  Arp-Work 
+              Network Utility ARP   N.D     irs  Services 
+              Scanner   N.D     udpflood  UDP 
+              Flooder (D.o.S)   0,06 
+              MB     udpflood  UDPFlood 
+              v2.0   N.D     panther  D.o.S 
+              Icmp_Echo   0,1 
+              MB     WebSleuth  WebSleuth 
+              (seguridad web-servers)    2,6 
+              MB     WebScan  WebScan 
+              v0.92b Scanner cgi's,asp, etc    0,05 
+              MB     xnsscan  Xnsscan 
+              v0.22 Crackeador ftp,pop3,etc    0,037 
+              MB     showpass  Showpass 
+              v1.0    N.D     iptools  IP-Tools 
+              v2.08   1,1 
+              MB     iptools  IP-Tools 
+              v2.08 (Mirror)   1,1 
+              MB     uzpc  Crackeador 
+              de archivos .zip   0,80 
+              MB     essential  Essential 
+              NetTools 3.1    1,4 
+              MB     essential  Manual 
+              (Help File) del Essential NetTools 3.1   N.D     smbdie  Overflow 
+              de netbios   0,2 
+              MB     smbAUD  SMB Auditing 
+              Tool 1.0.4   1 
+              MB     smbPROXY  SMB Proxy 
+              Tool   0,2 
+              MB     mswin  Libreria 
+              Visual Basic (MS Winsock)   0,55 
+              MB     lanzadera  Bug 
+              del ISAPI   0,01 
+              MB     PQWAK  scanner 
+              netbios (win98/me) (obsoleto)   0,01 
+              MB     arp  ArpInject   0,1 
+              MB     webdav  IIS 
+              WebDav vulnerability testing tool   0,1 
+              MB     http  Munga 
+              Bunga's HTTP Brute Forcer   N.D     rpc  RpcScan   0,4 
+              MB     mdcrack  MDcrack 
+              1.2 linux (Crackea MD5/MD4/NTLM hashes)   0,04 
+              MB     mdcrack  MDcrack 
+              1.2 win32   0,2 
+              MB     mdcrack  MDcrack 1.2 
+              FrontEnd   0,2 
+              MB     md5  MD5 
+              Brute Force Cracker   0,2 
+              MB     genXE  GenXE: Generador 
+              de Cross Site Scripting   0,1 
+              MB     TFTPD32  Servidor TFTP   0,1 
+              MB     PASSKIT  Passware Kit 
+              Enterprise v6.1   3,5 
+              MB     THC-HYDRA  THC-Hydra 
+              Version: 5.4   0,1 
+              MB     THC-HYDRA  THC-Hydra 
+              Version: 5.4 Win32   1 
+              MB     ATK  ATK - Attack 
+              Tool Kit 2.1    1,1 
+              MB     IECOOKI  IECookiesView 
+              v1.70    94 
+              KB     Achilles  Achilles 
+              0.27    0,4 
+              MB     NEMESIS  Nemesis 1.4 
+              Beta 3 Win32    0,3 
+              MB     NEMESIS  Nemesis 1.4 
+              Beta 3 Build 22 SC    0,2 
+              MB     OFFLINE  Offline NT 
+              Password & Registry Editor    1,1 
+              MB     SITEDIGG  SiteDigger 
+              2.0    1,1 
+              MB     CIA  Cia commander 
+              crackeado para nfts    0,3 
+              MB     CIA  CIA Commander    0,3 
+              MB     TURBINAS  TurbinaS 
+              By VolkS 1.0    0,3 
+              MB     FWLLCMD  Activar/Desactivar 
+              Firewall XP SP2    0,03 
+              MB     PSEXEC  Ejecución 
+              de archivos remotos (RPC)    50 
+              KB     SHOST  Shadow Host 
+              (Lee cabeceras HTTP)    50 
+              KB              Hack 
+            WEP, Wi-Fi, 802.11, wlan,          Download      Info    Tamaño        Hacking 
+                Wireless     WINAIRO  Winairomdup, 
+              airodump en entorno gráfico windows    0,1 
+              MB     COMM  CommView 
+              for WiFi 5.2 Win32    3,7 
+              MB     NETSTUM  NetStumbler 
+              0.4.0 Installer Win32    1,3 
+              MB     WlAN  WlanDecrypter GUI Win32    1,4 
+              MB     AIRSNORT  AirSnort 
+              0.2.7e    0,2 
+              MB     KISMET  Kismet-2005-08-R1    1,3 
+              MB     MOGNET  Mognet, Wireless 
+              Ethernet Java Based    1,3 
+              MB     AIROPEEK  AiroPeek 
+              Version 2.0.5    Link     AIRSNORT  Airsnort 
+              0.2.7    0,1 
+              MB     AIRCRACK  Aircrack-ng 
+              GUI Windows    0,1 
+              MB     AIRCRACK  Aircrack-ng 
+              Version 0.6.1 Linux    0,1 
+              MB     AIRCRACK  Aircrack-ng 
+              Version 0.6.1 Win    1,1 
+              MB     AIRCRACK  Aircrack 
+              2.41 Spanish Linux    0,1 
+              MB     WEPLAP  weplab-0.1.3 
+              Linux    0,1 
+              MB     WEPLAP  weplab-0.1.2-beta_win32    0,6 
+              MB     COWPATTY  CoWPAtty 
+              2.0    0,1 
+              MB     HOTSPOT  hotspotter-0.4.tar.gz    0,1 
+              MB     WEp  wep_tools 
+              v0.4 Linux    0,1 
+              MB     dwep  dwepcrack 
+              v0.4    0,1 
+              MB     KISMAC  KisMAC010a.zip 
+              (more or less stable)    3,7 
+              MB     WEBATTACK  WepAttack-0.1.3.tar.gz    0,1 
+              MB     WEBCRACK  WEPCrack    0,1 
+              MB     WIFISCAN  WifiScanner 
+              (0.9.6)    1 
+              MB     AIROSNIFF  Airosniff 
+              FreeBSD    550 
+              MB     ASC  Auditor Security 
+              Collection    550 
+              MB               H 
+          a c k i n g   NT / 2000          Crackeadores de passwords y herramientas para el NT / 2000            Download       Info     Tamaño       CLEAR   Borra logs 
+              Win NT 4.0, 2k y XP   28 
+              KB     WINZAP   Borra logs 
+              Win NT 4.0 y 2k   29 
+              KB     DSScan   DSScan (Scanner 
+              para vulnerabilidad LSASS)   20 
+              KB     ACKCMD   AckCmd is 
+              a backdoor client/server   0,01 
+              MB     CLEARL   ClearLogs 
+              clears the event log   0,01 
+              MB     DUMP   DumpUsers 
+              is able to dump account names   0,01 
+              MB     nt   NT-rootkit 
+              0.40   0,1 
+              MB     hd   Hacker 
+              Defender v1.0.0 (rootkit)   0,2 
+              MB     rk   RKDetector 
+              0.62 (Detector rootkits)   65 
+              KB     nat   NetBIOS 
+              Auditing Tool   0,9 
+              MB     dumpevt  Vuelca 
+              Registro NT   0,07 
+              MB     dumpacl  Exploracion 
+              Remota NT   1,91 
+              MB     pwdump  pwdump2 
+              by Todd Sabin   N.D     get-admin  Bug 
+              Windows NT (Crea usuario admin..)   0,04 
+              MB     sechole  Bug 
+              Windows NT (Parecido al getadmin)   0,05 
+              MB     pwd-dump2  Extrae 
+              Info del SAM   0,05 
+              MB     pwd-dump3  Extrae 
+              Info del SAM   0,05 
+              MB     l0pth  Crackeador 
+              passwords NT (Archivo SAM)   1,0 
+              MB     l0pth  L0phtCrack 
+              5.03   5.4 
+              MB     netbios   Netbios 
+              scanner para el NT   0,3 
+              MB     ntfs-dos  Convierte 
+              ntfs (NT) a dos (FAT)   0,3 
+              MB     unicode   Scanner 
+              del Unicode del ISS (SSH)   0,2 
+              MB     uniconsole   Consola 
+              del Unicode (SSH)   0,01 
+              MB     scan   Code 
+              Red Scanner del eEye Digital Security   0,1 
+              MB     iis-crash   Cuelga 
+              versiones viejas del IIS del NT   0,1 
+              MB     sqlpoke   MSSQL 
+              Servers   N.D    sqlbf   Fuerza 
+              bruta en MSSQL Servers   N.D             K
+      e y l o g g e r  s       
+      -         S n i f f e r s          Keyloggers y Sniffers            Download       Info     Tamaño       IKlogger   IKlogger 0.1   0,05 
+              MB     ARDAMAX   Ardamax Keylogger 
+              v1.9   0,2 
+              MB     WKLog   WKLogger is 
+              a keystroke logger for Win NT/2k.   0,1 
+              MB     Winkey   Windows 
+              Keylogger 5.04   0,5 
+              MB     perfectkey   Perfect 
+              keylogger v1.472   0,4 
+              MB     perfectkey   Perfect 
+              Keylogger v1.3.0.0   N.D     nuclear   Nuclear 
+              Keys v1.0.   N.D     snort   Snort 
+              2.1.3 (sniffer/logger)   2,3 
+              MB     snorTSNARF   SnortSnarf 
+              Plugin de Snort   0,1 
+              MB     rp-keylog   RPKeylogger 
+              v0.1.   0,04 
+              MB     xlog   keylogger 
+              Xlog v2.21   0,3 
+              MB     teclas   Key-Logger   0,9 
+              MB     ias   Invisible 
+              Activity Spy Version 2.3   0,3 
+              MB     logger   Ill 
+              Logger   0,02 
+              MB     tiny   Tiny 
+              Keylogger   0,09 
+              MB     sckeylog   sc 
+              Keylog v2.0   N.D     iks   Invisible 
+              Key Logger para Windows 9X  0,7 
+              MB     iks   Invisible 
+              Key Logger para Windows 2000  0,06 
+              MB     iks   Invisible 
+              Key Logger para Windows NT  0,6 
+              MB     SpyNet   SpyNet 
+              v3.12 Sniffer (Win 95/98/NT/2000/XP)   2,2 
+              MB     Sniffa   Sniffa   0,5 
+              MB     Sniffer   WinSniffer 
+              v1.22   0,9 
+              MB     Sniffit   Sniffit    N.D     Ettercap   Ettercap 
+              NG 0.7.1    1,1 
+              MB     Ettercap   Ettercap 0.6.b 
+              network sniffer/interceptor/logger    0,6 
+              MB     ettercap   Sniffer 
+              MultiPlataforma v0.6.b Win32  2,6 
+              MB     Ethereal   Ethereal 
+              0.10.14 based network protocol analyzer    10 
+              MB     Ethereal   Ethereal 
+              0.10.14 Win32    11 
+              MB     hunt  Hunt 
+              1.5   0,1 
+              MB     ngrep   Ngrep Sniffer 
+              1.4.1    0,5 
+              MB     dsniff   dsniff v2.3    0,1 
+              MB     SniffDet   SniffDet -Remote 
+              sniffer Detection Tool (Linux)    0,1 
+              MB     sentinel   sentinel - 
+              remote promiscuous detection (Linux)    0,1 
+              MB     PROMISC   PromiscDetect 
+              - Windows    0,1 
+              MB     PRODETECT   proDETECT 
+              - Windows    2 
+              MB     winarp   WinARP Watch 
+              v1.0    2 
+              MB             C
+      r a c k e a d o r e s           Crackeadores para aplicaciones            Download       Info     Tamaño       actpr   Advanced 
+              ACT Password Recovery 1.20   0,4 
+              MB     aoepr   Advanced 
+              Outlook Express Password Recovery 1.13   0,8 
+              MB     apdfpr   Advanced 
+              PDF Password Recovery   0,9 
+              MB     apdfpr   Advanced PDF 
+              Password Recovery Pro   1,6 
+              MB     aWpr   Advanced WordPerfect 
+              Office Password Recovery   0,4 
+              MB     AOFPR   Advanced 
+              Office XP Password Recovery std   1,8 
+              MB     AOFPR   Advanced Office 
+              XP Password Recovery Pro   1,9 
+              MB     aZpr   Advanced ZIP 
+              Password Recovery   0,7 
+              MB     arpr   Advanced 
+              RAR Password Recovery   1,3 
+              MB     aCPR   Advanced Ace 
+              Password Recovery   0,9 
+              MB     aimpr   Advanced 
+              IM Password Recovery   0,5 
+              MB     pwd-cache   Password 
+              Cache   0,09 
+              MB     excel   Excel-Cracking   0,03 
+              MB     word   Word-Cracking   0,20 
+              MB     adv-zip   Crackeador 
+              de archivos comprimidos con ZIP.   0,3 
+              MB     adv-arj   Crackeador 
+              de archivos comprimidos con ARJ.   0,2 
+              MB     winzip   Crack 
+              para el Winzip (Key-Generator)   0,22 
+              MB     pass-rv   Decodificador 
+              Bases de Datos .MDB   0,2 
+              MB     MS-office   MS-Office 
+              Cracking   0,06 
+              MB     excel   Excel 
+              Password Recovery v1.0b   0,6 
+              MB     azpr   Advanced 
+              Zip Password Recovery v3.54   0,7 
+              MB     offpass   Office 
+              Password Recovery Key Light v6.1   1 
+              MB            C 
+          r a c k e a d o r e s    B i o s          Cracks para BIOS            Download       Info     Tamaño       bios   Software para 
+                descifrar BIOS   0,036 
+              MB     bios-crack   Passwords 
+              de diferentes tipos de máquinas.   0,001 
+              MB     award   Award 
+              Modular BiOS 4.50 crack tool para bios Award   0,005 
+              MB     win-bios   American 
+              Megatrends WinBIOS password decrypter.   0,002 
+              MB     kill-cmos   KiLLCMOS32 
+              v.1.0 tool   0,20 
+              MB                          Copyright © (2001-2012) elhacker.NET. Todos los derechos reservados. Consulta el Disclaimer para mas información. 
+ Prohibida su reproducción total o parcial sin el permiso explícito del autor             

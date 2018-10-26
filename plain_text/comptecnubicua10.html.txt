@@ -1,0 +1,69 @@
+  El Consorcio World Wide Web organiza un taller sobre la Web ubicua  Los participantes examinarÃ¡n el establecimieto de una sÃ­ntesis de la Web y de la computaciÃ³n ubicua   Contacto para AmÃ©rica y Australia --  Janet Daly, < janet@w3.org >, +1.617.253.5884 o +1.617.253.2613  Contacto para Europa, Ãfrica y Oriente Medio --  Marie-Claire Forgue, < mcf@w3.org >, +33.492.38.75.94  Contacto para Asia --  Yasuyuki Hirakawa < chibao@w3.org >, +81.466.49.1170   (tambiÃ©n disponible en inglÃ©s , francÃ©s y japonÃ©s . Traducciones en otros idiomas )   http://www.w3.org -- 24 de enero de 2006 - El W3C reunirÃ¡ a representantes de la
+industria y organizaciones de investigaciÃ³n del 9 al 10 de marzo en
+Tokio, JapÃ³n, en un taller que pretende explorar la visiÃ³n de la Web
+como una plataforma de aplicaciones distribuidas para ser utilizadas en
+oficinas, redes domÃ©sticas, y en mÃ³viles, asÃ­ como en la industria de
+la automociÃ³n y otras. Los asistentes al taller tratarÃ¡n temas en
+relaciÃ³n al potencial necesario para incrementar el conjunto y reducir
+el coste de desarrollar y distribuir estas aplicaciones, conocerÃ¡n
+tambiÃ©n la forma en la que actualmente, las Actividades del W3C se
+encaminan a alcanzar una Web ubicua, y ayudarÃ¡n a identificar
+oportunidades para la estandarizaciÃ³n.  "La Web es mucho mÃ¡s que navegar", comenta Dave
+Raggett, Miembro del W3C de Canon. "Recientemente, se le ha prestado
+bastante atenciÃ³n a las aplicaciones Web, pero podemos hacer mucho mÃ¡s
+para sacar provecho de la diversidad de los dispositivos en red y de
+los servicios que pueden proporcionar cuando se utilizan conjuntamente".  Â¿QuÃ© es la "Web ubicua"?  Ubicuidad significa que algo estÃ¡ presente en cualquier lugar. La
+computaciÃ³n ubicua, como fue descrita hace 15 aÃ±os por Mark Weiser,
+presenta un mundo donde las personas estarÃ­an rodeadas de dispositivos
+informÃ¡ticos que estarÃ­an conectados a travÃ©s de redes, y que nos
+proporcionarÃ­an ayuda en cada cosa que llevÃ¡semos a cabo. A pesar del
+Ã©xito de la World Wide Web en el escritorio, podemos decir que hemos
+sÃ³lo comenzado de forma reciente a hacer uso del potencial que
+proporciona el crecimiento de los dispositivos que utilizamos.  La Web ubicua busca ampliar la capacidades de los navegadores Web
+para dar paso a nuevos tipos de aplicaciones Web, particularmente
+aplicaciones que se coordinan con otros dispositivos y se adaptan
+dinÃ¡micamente al usuario, a las caracterÃ­sticas del dispositivo y a las
+condiciones del entorno. Las aplicaciones podrÃ¡n utilizar los servicios
+en red para extender las capacidades de los dispositivos. Los usuarios
+se podrÃ¡n concentrar en lo que hacen en lugar de en los dispositivos.
+La movilidad en las aplicaciones permitirÃ¡ que los usuarios continÃºen
+trabajando o jugando mientras que, sin notarlo, pasarÃ¡n de un
+dispositivo a otro.  Â¿QuÃ© tecnologÃ­as son necesarias para proporcionar una Web ubicua?  Lo que hace que la Web sea efectiva para los desarrolladores de
+aplicaciones es la facilidad con la que se pueden crear aplicaciones
+utilizando una combinaciÃ³n de etiquetado, grÃ¡ficos, hojas de estilo y
+scripts. La Web ubicua harÃ¡ mÃ¡s sencillo construir aplicaciones
+distribuidas al presentar a los desarrolladores Web abstracciones
+claras para acceder a las caracterÃ­sticas de los dispositivos y de los
+servicios de comunicaciÃ³n. La descripciÃ³n de recursos serÃ¡ la clave
+para crear aplicaciones Web ubicuas. La utilizaciÃ³n de los URI
+(direcciones Web) para los dispositivos, servicios y sesiones permitirÃ¡
+el uso de metadatos enriquecidos (la Web SemÃ¡ntica) para la bÃºsqueda de
+recursos, y para trabajar a travÃ©s de diferentes redes, ejerciendo
+influencia sobre la naturaleza distribuida de la World Wide Web.  Las aplicaciones de Web ubicua podrÃ¡n identificar recursos y
+gestionarlos dentro del contexto de sesiones temporales o duraderas. Es
+necesaria una infraestructura mÃ¡s flexible para sesiones que las
+actuales soluciones temporales basadas en las cookies y en la
+integraciÃ³n de informaciÃ³n de sesiÃ³n en el URI. Los recursos pueden ser
+remotos, como una impresora de red y un proyector, o locales, como la
+duraciÃ³n estimada de una baterÃ­a de un dispositivo, la intensidad de la
+seÃ±al de red y el nivel del audio. Los recursos no se limitan al
+hardware, pudiendo ser tambiÃ©n servicios, tales como reconocimiento de
+voz, traducciÃ³n de lenguaje natural y la identificaciÃ³n de la ubicaciÃ³n
+geogrÃ¡fica de un dispositivo.  El W3C avanza con el taller de la Web ubicua  El taller estÃ¡ organizado por el W3C y tendrÃ¡ lugar los dÃ­as 9 y 10
+de marzo en Tokio, JapÃ³n. EstarÃ¡ presidido por el Profesor Larry
+Rudolph, Laboratorio de Ciencias de la ComputaciÃ³n e Inteligencia
+Artificial del MIT, y el Profesor Hideyuki Tokuda, de la Facultad de
+InformaciÃ³n Medioambiental de la Universidad de Keio. Ambos tienen una
+amplia experiencia en computaciÃ³n ubicua.  Los resultados esperados del taller son:   Casos de uso y requisitos potenciales  TecnologÃ­as candidatas  Comunicados del taller  Presentaciones del taller  Minutas del taller  Recomendaciones en relaciÃ³n a trabajo futuro   Los interesados en participar tendrÃ¡n hasta el 10 de febrero de 2006
+para enviar su comunicado. Se puede encontrar mÃ¡s informaciÃ³n y
+detalles sobre el taller en la Llamada a la participaciÃ³n .
+El material del taller serÃ¡ publicado en la Web. Algunas de las
+posibles acciones para el futuro podrÃ¡ ser la creaciÃ³n de un Grupo de
+Trabajo del W3C para trabajar en Ã¡reas que los asistentes del taller
+identifiquen como Ã¡reas adecuadas para la estandarizaciÃ³n.  Sobre el Consorcio World Wide Web [W3C]  El Consorcio World Wide Web (W3C) es un consorcio internacional
+donde las organizaciones miembro, personal a tiempo completo y el
+pÃºblico en general, trabajan conjuntamente para desarrollar estÃ¡ndares
+Web. El W3C lleva a cabo su misiÃ³n a travÃ©s de la creaciÃ³n de
+estÃ¡ndares Web y pautas diseÃ±adas para garantizar el crecimiento de la
+Web. Hasta la fecha, mÃ¡s de 400 organizaciones son Miembros del
+Consorcio. El W3C estÃ¡ gestionado conjuntamente por el Laboratorio de Ciencias de la ComputaciÃ³n e Inteligencia Artificial del MIT (MIT CSAIL) en los Estados Unidos, el Consorcio Europeo para la InvestigaciÃ³n en InformÃ¡tica y MatemÃ¡ticas (ERCIM) en Francia y la Universidad de Keio , en JapÃ³n. Para obtener mÃ¡s informaciÃ³n visite http://www.w3.org 

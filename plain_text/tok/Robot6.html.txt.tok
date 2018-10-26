@@ -1,360 +1,370 @@
-skip,0.375,3
-navigation,0.375,3
-menu,0.5,4
-contacto,0.25,2
-registro,0.125,1
-noticias,0.375,3
-diarias,0.125,1
-saludiario,0.25,2
-directorio,0.25,2
-redes,0.125,1
-sociales,0.125,1
-facebook,0.125,1
-twitter,0.25,2
-linkedin,0.125,1
-open,0.125,1
-close,0.125,1
-consultorio,0.5,4
-marketing,0.25,2
-legal,0.25,2
-profesional,0.75,6
-educación,0.25,2
-whitepaper,0.25,2
-tecnología,0.875,7
-consejos,0.125,1
-libre,0.125,1
-columnistas,0.25,2
-josephine,0.125,1
-ruizhealy,0.125,1
-alan,0.125,1
-campos,0.375,3
-juan,0.125,1
-carlos,0.125,1
-guerrerosantos,0.125,1
-dr,0.125,1
-alejandro,0.5,4
-villatoro,0.125,1
-alberto,0.125,1
-medina,0.125,1
-álvaro,0.125,1
-rattinger,0.125,1
-buscar,0.125,1
-search,0.125,1
-for,0.125,1
-you,0.125,1
-are,0.5,4
-here,0.125,1
-home,0.125,1
-archives,0.125,1
-armar6,0.625,5
-robot,1.0,8
-asistente,0.75,6
-avanzado,0.375,3
-existe,0.375,3
-mundo,0.625,5
-cerrar,0.125,1
-artículo,0.375,3
-716,0.125,1
-vistas,0.125,1
-imprimir,0.125,1
-publicado,0.5,4
-compleja,0.125,1
-precisa,0.125,1
-vista,0.125,1
-diversos,0.25,2
-ámbitos,0.125,1
-sector,0.375,3
-productivo,0.25,2
-huitrón,0.375,3
-hernández,0.375,3
-01152018,0.125,1
-100,0.125,1
-am,0.125,1
-comments,0.375,3
-off,0.375,3
-año,0.25,2
-diferentes,0.125,1
-corporaciones,0.125,1
-alrededor,0.125,1
-destinan,0.125,1
-buena,0.125,1
-parte,0.25,2
-ingresos,0.125,1
-desarrollo,0.5,4
-nuevos,0.25,2
-insumos,0.125,1
-tecnológicos,0.125,1
-funcionan,0.125,1
-beneficio,0.125,1
-importante,0.125,1
-ejercicio,0.125,1
-práctica,0.125,1
-médica,0.625,5
-aparatos,0.125,1
-instrumentos,0.125,1
-diagnóstico,0.125,1
-detección,0.125,1
-patologías,0.125,1
-inteligencia,0.125,1
-artificial,0.125,1
-ia,0.25,2
-médico,0.5,4
-forman,0.125,1
-trabajos,0.125,1
-impulsados,0.125,1
-regiones,0.125,1
-globo,0.125,1
-terráqueo,0.125,1
-272,0.25,2
-millones,0.25,2
-dólares,0.25,2
-2018,0.125,1
-proyecciones,0.125,1
-elaboradas,0.125,1
-expertos,0.125,1
-agencia,0.125,1
-digital,0.125,1
-statista,0.125,1
-inversión,0.125,1
-diversas,0.125,1
-empresas,0.125,1
-startups,0.125,1
-laboratorios,0.125,1
-destinarán,0.125,1
-investigaciones,0.125,1
-innovadores,0.125,1
-rubro,0.25,2
-oscila,0.125,1
-283,0.125,1
-mente,0.125,1
-tomando,0.125,1
-base,0.125,1
-información,0.125,1
-plasmada,0.125,1
-documento,0.125,1
-revista,0.125,1
-especializada,0.125,1
-instituto,0.25,2
-tecnológico,0.125,1
-massachusetts,0.125,1
-mit,0.125,1
-siglas,0.125,1
-inglés,0.125,1
-technology,0.125,1
-review,0.125,1
-sistema,0.125,1
-robótico,0.25,2
-capacidad,0.25,2
-fungir,0.125,1
-excelente,0.125,1
-rubros,0.125,1
-nombre,0.125,1
-ayudantes,0.125,1
-robóticos,0.125,1
-avanzados,0.125,1
-probados,0.125,1
-fecha,0.125,1
-sentido,0.125,1
-responsables,0.125,1
-diseño,0.125,1
-dicen,0.125,1
-prototipo,0.125,1
-pensar,0.125,1
-interactuar,0.125,1
-entorno,0.125,1
-ejemplo,0.25,2
-salud,0.375,3
-le,0.5,4
-solicitara,0.125,1
-instrumento,0.125,1
-operación,0.125,1
-androide,0.125,1
-preguntaría,0.125,1
-aparato,0.125,1
-específico,0.125,1
-procedimiento,0.125,1
-duda,0.125,1
-verificar,0.125,1
-buen,0.125,1
-camino,0.125,1
-está,0.375,3
-cayendo,0.125,1
-alguna,0.125,1
-distracción,0.125,1
-responder,0.25,2
-comandos,0.125,1
-voz,0.125,1
-simples,0.25,2
-maneras,0.125,1
-útiles,0.125,1
-pídale,0.125,1
-dé,0.125,1
-llave,0.25,2
-preguntará,0.125,1
-cuál,0.125,1
-darle,0.25,2
-herramienta,0.125,1
-correcta,0.125,1
-investigadores,0.125,1
-probando,0.125,1
-formas,0.125,1
-analizar,0.125,1
-escena,0.125,1
-planear,0.125,1
-acciones,0.125,1
-complejas,0.125,1
-real,0.125,1
-experimentos,0.125,1
-dice,0.125,1
-portavoz,0.125,1
-proyecto,0.125,1
-predecir,0.125,1
-haciendo,0.125,1
-persona,0.125,1
-manera,0.125,1
-proactiva,0.125,1
-palabras,0.125,1
-aprendiendo,0.125,1
-siquiera,0.125,1
-preguntar,0.125,1
-anticipar,0.125,1
-reaccionar,0.125,1
-comportamiento,0.125,1
-trabajador,0.125,1
-humano,0.125,1
-particularmente,0.125,1
-difícil,0.125,1
-embargo,0.125,1
-será,0.375,3
-interesante,0.125,1
-ver,0.375,3
-innovación,0.25,2
-nacional,0.125,1
-estadística,0.125,1
-geografía,0.125,1
-inegi,0.125,1
-dio,0.125,1
-conocer,0.125,1
-crecimiento,0.25,2
-neto,0.125,1
-país,0.125,1
-2020,0.125,1
-superior,0.25,2
-naciones,0.25,2
-consideradas,0.125,1
-primer,0.125,1
-cómo,0.125,1
-deja,0.125,1
-siguiente,0.375,3
-dispersión,0.125,1
-porcentual,0.125,1
-dispositivos,0.125,1
-médicos,0.5,4
-estados,0.125,1
-unidos,0.125,1
-alemania,0.125,1
-japón,0.125,1
-imagen,0.125,1
-bigstock,0.125,1
-tagged,0.125,1
-with,0.125,1
-robótica,0.125,1
-tech,0.125,1
-escrito,0.125,1
-lic,0.125,1
-ciencias,0.125,1
-políticas,0.25,2
-administración,0.125,1
-pública,0.125,1
-fcpysunam,0.125,1
-especialista,0.125,1
-defensoría,0.125,1
-derechos,0.125,1
-humanos,0.125,1
-fesa,0.125,1
-unam,0.25,2
-estudiante,0.125,1
-licenciatura,0.125,1
-derecho,0.125,1
-unadm,0.125,1
-3065,0.125,1
-posts,0.125,1
-previo,0.125,1
-claves,0.125,1
-crear,0.125,1
-ambiente,0.125,1
-ameno,0.125,1
-back,0.125,1
-all,0.125,1
-entries,0.125,1
-posterior,0.125,1
-desarrolla,0.125,1
-dispositivo,0.125,1
-diagnostica,0.125,1
-enfermedades,0.125,1
-minuto,0.125,1
-interesar,0.125,1
-ada,0.125,1
-health,0.25,2
-siri,0.125,1
-pacientes,0.125,1
-06012018,0.125,1
-merging,0.125,1
-05312018,0.125,1
-únete,0.25,2
-comunidad,0.25,2
-regístrate,0.5,4
-newsletter,0.25,2
-forma,0.25,2
-recibe,0.25,2
-primera,0.25,2
-hora,0.25,2
-importantes,0.25,2
-medio,0.25,2
-requeridos,0.25,2
-haz,0.125,1
-sala,0.125,1
-espera,0.125,1
-espacio,0.125,1
-premium,0.125,1
-perla,0.125,1
-garza,0.125,1
-atención,0.125,1
-online,0.125,1
-necesidad,0.125,1
-mejorar,0.125,1
-mujer,0.125,1
-mitzi,0.125,1
-torres,0.125,1
-schick,0.125,1
-secciones,0.125,1
-personal,0.125,1
-grupo,0.25,2
-comunicación,0.25,2
-katedra,0.25,2
-blvd,0.125,1
-adolfo,0.125,1
-lópez,0.125,1
-mateos,0.125,1
-202,0.125,1
-p6,0.125,1
-col,0.125,1
-san,0.125,1
-pedro,0.125,1
-pinos,0.125,1
-01180,0.125,1
-méxico,0.125,1
-df,0.125,1
-5555162346,0.125,1
-5555162337,0.125,1
-síguenos,0.5,4
-servicios,0.125,1
-quieres,0.125,1
-anunciarte,0.125,1
-términos,0.125,1
-condiciones,0.125,1
-2015,0.125,1
-sa,0.125,1
-cv,0.125,1
-privacidad,0.125,1
-inicio,0.125,1
+01152018                      , 0.125         , 1                   
+01180                         , 0.125         , 1                   
+05312018                      , 0.125         , 1                   
+06012018                      , 0.125         , 1                   
+100                           , 0.125         , 1                   
+2015                          , 0.125         , 1                   
+2018                          , 0.125         , 1                   
+202                           , 0.125         , 1                   
+2020                          , 0.125         , 1                   
+272                           , 0.25          , 2                   
+283                           , 0.125         , 1                   
+3065                          , 0.125         , 1                   
+458                           , 0.125         , 1                   
+5555162337                    , 0.125         , 1                   
+5555162346                    , 0.125         , 1                   
+acciones                      , 0.125         , 1                   
+ada                           , 0.125         , 1                   
+administraciã³n               , 0.125         , 1                   
+adolfo                        , 0.125         , 1                   
+adulto                        , 0.125         , 1                   
+agencia                       , 0.125         , 1                   
+alan                          , 0.125         , 1                   
+alberto                       , 0.125         , 1                   
+alejandro                     , 0.5           , 4                   
+alemania                      , 0.125         , 1                   
+alguna                        , 0.125         , 1                   
+all                           , 0.125         , 1                   
+alrededor                     , 0.125         , 1                   
+am                            , 0.125         , 1                   
+ambiente                      , 0.125         , 1                   
+ameno                         , 0.125         , 1                   
+analizar                      , 0.125         , 1                   
+androide                      , 0.125         , 1                   
+anticipar                     , 0.125         , 1                   
+anunciarte                    , 0.125         , 1                   
+aparato                       , 0.125         , 1                   
+aparatos                      , 0.125         , 1                   
+aprendiendo                   , 0.125         , 1                   
+archives                      , 0.125         , 1                   
+are                           , 0.5           , 4                   
+armar6                        , 0.625         , 5                   
+artificial                    , 0.125         , 1                   
+artãculo                      , 0.375         , 3                   
+asistente                     , 0.75          , 6                   
+avanzado                      , 0.375         , 3                   
+avanzados                     , 0.125         , 1                   
+ayudantes                     , 0.125         , 1                   
+aão                           , 0.25          , 2                   
+back                          , 0.125         , 1                   
+base                          , 0.125         , 1                   
+beneficio                     , 0.125         , 1                   
+bigstock                      , 0.125         , 1                   
+blvd                          , 0.125         , 1                   
+buen                          , 0.125         , 1                   
+buena                         , 0.125         , 1                   
+buscar                        , 0.125         , 1                   
+calcular                      , 0.125         , 1                   
+camino                        , 0.125         , 1                   
+campos                        , 0.375         , 3                   
+capacidad                     , 0.25          , 2                   
+carlos                        , 0.125         , 1                   
+cayendo                       , 0.125         , 1                   
+cerrar                        , 0.125         , 1                   
+ciencias                      , 0.125         , 1                   
+claves                        , 0.125         , 1                   
+close                         , 0.125         , 1                   
+col                           , 0.125         , 1                   
+columnistas                   , 0.25          , 2                   
+comandos                      , 0.125         , 1                   
+comments                      , 0.375         , 3                   
+compleja                      , 0.125         , 1                   
+complejas                     , 0.125         , 1                   
+comportamiento                , 0.125         , 1                   
+comunicaciãn                  , 0.125         , 1                   
+comunicaciã³n                 , 0.125         , 1                   
+comunidad                     , 0.25          , 2                   
+condiciones                   , 0.125         , 1                   
+conocer                       , 0.125         , 1                   
+consideradas                  , 0.125         , 1                   
+consultorio                   , 0.5           , 4                   
+contacto                      , 0.25          , 2                   
+corporaciones                 , 0.125         , 1                   
+correctaâ                     , 0.125         , 1                   
+crear                         , 0.125         , 1                   
+crecimiento                   , 0.25          , 2                   
+cuãl                          , 0.125         , 1                   
+cv                            , 0.125         , 1                   
+cã³mo                         , 0.25          , 2                   
+darle                         , 0.25          , 2                   
+defensorãa                    , 0.125         , 1                   
+deja                          , 0.125         , 1                   
+delâ                          , 0.125         , 1                   
+derecho                       , 0.125         , 1                   
+derechos                      , 0.125         , 1                   
+desarrolla                    , 0.125         , 1                   
+desarrollo                    , 0.5           , 4                   
+destinan                      , 0.125         , 1                   
+destinarãn                    , 0.125         , 1                   
+detecciã³n                    , 0.125         , 1                   
+df                            , 0.125         , 1                   
+diagnostica                   , 0.125         , 1                   
+diagnã³stico                  , 0.125         , 1                   
+diarias                       , 0.125         , 1                   
+dice                          , 0.125         , 1                   
+dicen                         , 0.125         , 1                   
+diferentes                    , 0.125         , 1                   
+difãcil                       , 0.125         , 1                   
+digital                       , 0.125         , 1                   
+dio                           , 0.125         , 1                   
+directorio                    , 0.25          , 2                   
+diseão                        , 0.125         , 1                   
+dispersiã³n                   , 0.125         , 1                   
+dispositivo                   , 0.125         , 1                   
+dispositivos                  , 0.125         , 1                   
+distracciã³n                  , 0.125         , 1                   
+diversas                      , 0.125         , 1                   
+diversos                      , 0.25          , 2                   
+documento                     , 0.125         , 1                   
+dr                            , 0.25          , 2                   
+duda                          , 0.125         , 1                   
+dã                            , 0.125         , 1                   
+dãa                           , 0.125         , 1                   
+dã³lares                      , 0.25          , 2                   
+educaciã³n                    , 0.25          , 2                   
+ejemplo                       , 0.25          , 2                   
+ejercicio                     , 0.125         , 1                   
+elaboradas                    , 0.125         , 1                   
+embargo                       , 0.125         , 1                   
+empresas                      , 0.125         , 1                   
+enfermedades                  , 0.125         , 1                   
+entorno                       , 0.125         , 1                   
+entries                       , 0.125         , 1                   
+enâ                           , 0.125         , 1                   
+escena                        , 0.125         , 1                   
+escrito                       , 0.125         , 1                   
+especialista                  , 0.125         , 1                   
+especializada                 , 0.125         , 1                   
+especãfico                    , 0.125         , 1                   
+estados                       , 0.125         , 1                   
+estadãstica                   , 0.125         , 1                   
+estudiante                    , 0.125         , 1                   
+estã                          , 0.375         , 3                   
+estãn                         , 0.125         , 1                   
+esâ                           , 0.125         , 1                   
+excelente                     , 0.125         , 1                   
+existe                        , 0.375         , 3                   
+experimentos                  , 0.125         , 1                   
+expertos                      , 0.125         , 1                   
+facebook                      , 0.125         , 1                   
+fcpysunam                     , 0.125         , 1                   
+fecha                         , 0.125         , 1                   
+fesa                          , 0.125         , 1                   
+for                           , 0.125         , 1                   
+forma                         , 0.25          , 2                   
+forman                        , 0.125         , 1                   
+formas                        , 0.125         , 1                   
+funcionan                     , 0.125         , 1                   
+fungir                        , 0.125         , 1                   
+geografãa                     , 0.125         , 1                   
+globo                         , 0.125         , 1                   
+grupo                         , 0.25          , 2                   
+guerrerosantos                , 0.125         , 1                   
+haciendo                      , 0.125         , 1                   
+health                        , 0.25          , 2                   
+here                          , 0.125         , 1                   
+hernãndez                     , 0.375         , 3                   
+herramienta                   , 0.125         , 1                   
+home                          , 0.125         , 1                   
+hora                          , 0.25          , 2                   
+huitrã³n                      , 0.375         , 3                   
+humano                        , 0.125         , 1                   
+humanos                       , 0.125         , 1                   
+ia                            , 0.125         , 1                   
+imagen                        , 0.125         , 1                   
+importante                    , 0.125         , 1                   
+importantes                   , 0.25          , 2                   
+imprimir                      , 0.125         , 1                   
+impulsados                    , 0.125         , 1                   
+inegi                         , 0.125         , 1                   
+informaciã³n                  , 0.125         , 1                   
+inglãs                        , 0.125         , 1                   
+ingresos                      , 0.125         , 1                   
+inicio                        , 0.125         , 1                   
+innovaciã³n                   , 0.25          , 2                   
+innovadores                   , 0.125         , 1                   
+instituto                     , 0.25          , 2                   
+instrumento                   , 0.125         , 1                   
+instrumentos                  , 0.125         , 1                   
+insumos                       , 0.125         , 1                   
+inteligencia                  , 0.125         , 1                   
+interactuar                   , 0.125         , 1                   
+interesante                   , 0.125         , 1                   
+interesar                     , 0.125         , 1                   
+inversiã³n                    , 0.25          , 2                   
+investigaciones               , 0.125         , 1                   
+investigadores                , 0.125         , 1                   
+jamãs                         , 0.125         , 1                   
+japã³n                        , 0.125         , 1                   
+josephine                     , 0.125         , 1                   
+josã                          , 0.125         , 1                   
+juan                          , 0.125         , 1                   
+katedra                       , 0.25          , 2                   
+laboratorios                  , 0.125         , 1                   
+le                            , 0.5           , 4                   
+legal                         , 0.25          , 2                   
+libre                         , 0.125         , 1                   
+lic                           , 0.125         , 1                   
+licenciatura                  , 0.125         , 1                   
+linkedin                      , 0.125         , 1                   
+llave                         , 0.25          , 2                   
+lópez                         , 0.125         , 1                   
+manera                        , 0.125         , 1                   
+maneras                       , 0.125         , 1                   
+marketing                     , 0.25          , 2                   
+massachusetts                 , 0.125         , 1                   
+mateos                        , 0.125         , 1                   
+mayor                         , 0.125         , 1                   
+medina                        , 0.125         , 1                   
+medio                         , 0.25          , 2                   
+mente                         , 0.125         , 1                   
+menu                          , 0.5           , 4                   
+merging                       , 0.125         , 1                   
+miguel                        , 0.125         , 1                   
+millones                      , 0.25          , 2                   
+minuto                        , 0.125         , 1                   
+mit                           , 0.125         , 1                   
+mundo                         , 0.625         , 5                   
+mãdica                        , 0.5           , 4                   
+mãdico                        , 0.5           , 4                   
+mãdicos                       , 0.5           , 4                   
+mãs                           , 1.0           , 8                   
+mãxico                        , 0.125         , 1                   
+méxico                        , 0.125         , 1                   
+nacional                      , 0.125         , 1                   
+naciones                      , 0.25          , 2                   
+navigation                    , 0.375         , 3                   
+neto                          , 0.125         , 1                   
+newsletter                    , 0.25          , 2                   
+nombre                        , 0.125         , 1                   
+noticias                      , 0.375         , 3                   
+nuevos                        , 0.25          , 2                   
+off                           , 0.375         , 3                   
+open                          , 0.125         , 1                   
+operaciã³n                    , 0.125         , 1                   
+oscila                        , 0.125         , 1                   
+p6                            , 0.125         , 1                   
+pacientes                     , 0.125         , 1                   
+palabras                      , 0.125         , 1                   
+parte                         , 0.25          , 2                   
+particularmente               , 0.125         , 1                   
+patologãas                    , 0.125         , 1                   
+paãs                          , 0.125         , 1                   
+pedro                         , 0.125         , 1                   
+pensar                        , 0.125         , 1                   
+persona                       , 0.125         , 1                   
+personal                      , 0.125         , 1                   
+pinos                         , 0.125         , 1                   
+planear                       , 0.125         , 1                   
+plasmada                      , 0.125         , 1                   
+podrãa                        , 0.25          , 2                   
+polãticas                     , 0.25          , 2                   
+porcentual                    , 0.125         , 1                   
+portavoz                      , 0.125         , 1                   
+posterior                     , 0.125         , 1                   
+posts                         , 0.125         , 1                   
+precisa                       , 0.125         , 1                   
+predecir                      , 0.125         , 1                   
+preguntarâ                    , 0.125         , 1                   
+preguntarã                    , 0.125         , 1                   
+preguntarãa                   , 0.125         , 1                   
+previo                        , 0.125         , 1                   
+primer                        , 0.125         , 1                   
+primera                       , 0.25          , 2                   
+privacidad                    , 0.125         , 1                   
+proactivaâ                    , 0.125         , 1                   
+probados                      , 0.125         , 1                   
+probando                      , 0.125         , 1                   
+procedimiento                 , 0.125         , 1                   
+productivo                    , 0.25          , 2                   
+profesional                   , 0.75          , 6                   
+prototipo                     , 0.125         , 1                   
+proyecciones                  , 0.125         , 1                   
+proyecto                      , 0.125         , 1                   
+prãctica                      , 0.125         , 1                   
+publicado                     , 0.5           , 4                   
+pãdale                        , 0.125         , 1                   
+pãºblica                      , 0.125         , 1                   
+quã                           , 0.125         , 1                   
+rattinger                     , 0.125         , 1                   
+reaccionar                    , 0.125         , 1                   
+real                          , 0.125         , 1                   
+recibe                        , 0.25          , 2                   
+redes                         , 0.125         , 1                   
+regiones                      , 0.125         , 1                   
+registro                      , 0.125         , 1                   
+regãstrate                    , 0.5           , 4                   
+requeridos                    , 0.25          , 2                   
+responder                     , 0.25          , 2                   
+responsables                  , 0.125         , 1                   
+retorno                       , 0.125         , 1                   
+review                        , 0.125         , 1                   
+revista                       , 0.125         , 1                   
+reyes                         , 0.125         , 1                   
+ricardo                       , 0.125         , 1                   
+robot                         , 1.0           , 8                   
+robã³tica                     , 0.125         , 1                   
+robã³tico                     , 0.25          , 2                   
+robã³ticos                    , 0.125         , 1                   
+rubro                         , 0.25          , 2                   
+rubros                        , 0.125         , 1                   
+ruizhealy                     , 0.125         , 1                   
+sa                            , 0.125         , 1                   
+sainz                         , 0.125         , 1                   
+salud                         , 0.375         , 3                   
+saludiario                    , 0.375         , 3                   
+san                           , 0.125         , 1                   
+search                        , 0.125         , 1                   
+secciones                     , 0.125         , 1                   
+sector                        , 0.375         , 3                   
+sentido                       , 0.125         , 1                   
+servicios                     , 0.125         , 1                   
+serã                          , 0.375         , 3                   
+siglas                        , 0.125         , 1                   
+siguiente                     , 0.375         , 3                   
+simples                       , 0.25          , 2                   
+siquiera                      , 0.125         , 1                   
+siri                          , 0.125         , 1                   
+sistema                       , 0.125         , 1                   
+skip                          , 0.375         , 3                   
+sociales                      , 0.125         , 1                   
+software                      , 0.125         , 1                   
+solicitara                    , 0.125         , 1                   
+startups                      , 0.125         , 1                   
+statista                      , 0.125         , 1                   
+superior                      , 0.25          , 2                   
+sãguenos                      , 0.5           , 4                   
+sã³lo                         , 0.125         , 1                   
+tagged                        , 0.125         , 1                   
+tambiãn                       , 0.25          , 2                   
+tech                          , 0.125         , 1                   
+technology                    , 0.125         , 1                   
+tecnologãa                    , 0.875         , 7                   
+tecnolã³gico                  , 0.125         , 1                   
+tecnolã³gicos                 , 0.125         , 1                   
+terrãqueo                     , 0.125         , 1                   
+tomando                       , 0.125         , 1                   
+trabajador                    , 0.125         , 1                   
+trabajos                      , 0.125         , 1                   
+twitter                       , 0.25          , 2                   
+tãrminos                      , 0.125         , 1                   
+unadm                         , 0.125         , 1                   
+unam                          , 0.25          , 2                   
+unidos                        , 0.125         , 1                   
+unâ                           , 0.125         , 1                   
+ver                           , 0.375         , 3                   
+verificar                     , 0.125         , 1                   
+villatoro                     , 0.125         , 1                   
+vista                         , 0.125         , 1                   
+vistas                        , 0.125         , 1                   
+voz                           , 0.125         , 1                   
+whitepaper                    , 0.25          , 2                   
+with                          , 0.125         , 1                   
+you                           , 0.125         , 1                   
+âia                           , 0.125         , 1                   
+âquieres                      , 0.125         , 1                   
+â¹                            , 0.25          , 2                   
+ãlvaro                        , 0.125         , 1                   
+ãmbitos                       , 0.125         , 1                   
+ãºtilesâ                      , 0.125         , 1                   
+ãšnete                        , 0.25          , 2                   

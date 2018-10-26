@@ -1,0 +1,98 @@
+         Â¿DÃ³nde te gustarÃ­a ver a Wikimedia en cinco aÃ±os? Â¡EnvÃ­a una propuesta! ( MÃ¡s informaciÃ³n )     [ Contraer ]  [ AyÃºdanos traduciendo. ]      WikimanÃ­a 2009 se desarrollarÃ¡ en Buenos Aires del 26 al 28 de agosto. Â¡ InscrÃ­bete ! .   LÃ³gica difusa   De Wikipedia, la enciclopedia libre   Saltar a navegaciÃ³n , bÃºsqueda   Para otros usos de este tÃ©rmino, vÃ©ase LÃ³gica (desambiguaciÃ³n) .  La lÃ³gica borrosa o difusa se basa en lo relativo de lo observado. Este tipo de lÃ³gica toma dos valores aleatorios ,
+pero contextualizados y referidos entre sÃ­. AsÃ­, por ejemplo, una
+persona que mida 2 metros es claramente una persona alta, si
+previamente se ha tomado el valor de persona baja y se ha establecido
+en 1 metro. Ambos valores estÃ¡n contextualizados a personas y referidos
+a una medida mÃ©trica lineal.      Contenido  [ ocultar ]   1  Tipos de lÃ³gica  2  Historia  3  Funcionamiento  4  Aplicaciones   4.1  LÃ³gica difusa en inteligencia artificial    5  Ventajas e Inconvenientes  6  VÃ©ase tambiÃ©n  7  Enlaces externos         Tipos de lÃ³gica  [ editar ]   En la lÃ³gica clÃ¡sica una proposiciÃ³n sÃ³lo admite dos valores: verdadero o falso. Por ello se dice que la lÃ³gica usual es bivalente o binaria. Existen otras lÃ³gicas que admiten ademÃ¡s un tercer valor posible ( lÃ³gica trivaluada ) e incluso mÃºltiples valores de verdad ( lÃ³gica multivaluada ).    La lÃ³gica aristotÃ©lica sirve para explicar ciertos fenÃ³menos y
+problemas, aunque la gran mayorÃ­a de ellos enmarcados en el mundo
+teÃ³rico de la matemÃ¡tica .
+Por el contrario, la lÃ³gica difusa puede usarse para explicar el mundo
+en el que vivimos, puesto que sigue el comportamiento humano de
+razonar, sacando conclusiones a partir de hechos observados.    La lÃ³gica multivaluada incluye sistemas lÃ³gicos que admiten varios valores de verdad posibles.    La lÃ³gica difusa (o borrosa ) es una de ellas, que se caracteriza por querer cuantificar esta incertidumbre: Si P es una proposiciÃ³n, se le puede asociar un nÃºmero v(P) en el intervalo [0,1] tal que:    Si v(P) = 0, P es falso.  Si v(P) = 1, P es verdadero.  La veracidad de P aumenta con v(P) .   Tomando el ejemplo de la definiciÃ³n, la persona mÃ¡s alta serÃ¡ M=2, y
+la mÃ¡s baja serÃ¡ M=1. La persona mÃ¡s alta serÃ¡, por lo tanto,
+h(2)=Alto, y la mÃ¡s baja h(1)=Bajo. Es evidente que los valores
+manejados, se pueden catalogar segÃºn la lÃ³gica clÃ¡sica a valores de
+Verdadero o Falso. Si h(M) = Alto (o Verdadero) entonces se producen
+una serie de consecuencias, si h(M) = Bajo (o Falso) entonces se
+producen una serie distinta de consecuencias. La dificultad viene
+cuando los grados pueden ser intermedios. Por ejemplo, de forma
+intermedia podemos decir que una persona que mida 1,82 m es alta con
+grado 0,75 indicando que es "bastante alta", teniendo en cuenta que la
+persona en cuestiÃ³n sea masculina.  Salta a la vista la semejanza con la teorÃ­a de la probabilidad , aunque la lÃ³gica difusa y esta Ãºltima teorÃ­a persiguen fines distintos.    Historia  [ editar ]  Esta simple idea naciÃ³ en un artÃ­culo de Lotfi A. Zadeh publicado en 1965 y titulado "Fuzzy Sets" ( Conjuntos Difusos ).
+La lÃ³gica difusa permite representar de forma matemÃ¡tica conceptos o
+conjuntos imprecisos, tales como dÃ­as frÃ­os, meses calurosos, personas
+altas, salarios bajos, guisos con mucho condimento, profesores poco
+valorados, etc.  Pero hay que tener en cuenta que la idea en sÃ­ de que las cosas no
+son blancas o negras, sino que existen infinitos matices de grises
+viene ya desde la Ã©poca de los primeros grandes filÃ³sofos como PlatÃ³n .  Posteriormente a ellos, otros grandes pensadores como David Hume o Kant apoyaban esta idea manteniendo que el razonamiento venÃ­a dado por las
+observaciones de las que somos testigos a lo largo de nuestra vida y la
+detecciÃ³n de algunos principios contradictorios en la lÃ³gica clÃ¡sica.  Tras la publicaciÃ³n de Lotfi A. Zadeh, se comenzÃ³ rÃ¡pidamente a usar
+la lÃ³gica difusa en distintas aplicaciones prÃ¡cticas, llegando a su
+mÃ¡ximo auge a principios de los aÃ±os 90 , y continuando Ã©ste hasta la Ã©poca actual.    Funcionamiento  [ editar ]  La lÃ³gica difusa se adapta mejor al mundo real en el que vivimos, e
+incluso puede comprender y funcionar con nuestras expresiones, del tipo
+"hace mucho calor", "no es muy alto", "el ritmo del corazÃ³n estÃ¡ un
+poco acelerado", etc.  La clave de esta adaptaciÃ³n al lenguaje, se basa en comprender los cuantificadores de nuestro lenguaje (en los ejemplos de arriba "mucho", "muy" y "un poco").  En la teorÃ­a de conjuntos difusos se definen tambiÃ©n las operaciones de uniÃ³n , intersecciÃ³n , diferencia , negaciÃ³n o complemento , y otras operaciones sobre conjuntos (ver tambiÃ©n subconjunto difuso ), en los que se basa esta lÃ³gica.  Para cada conjunto difuso, existe asociada una funciÃ³n de
+pertenencia para sus elementos, que indican en quÃ© medida el elemento
+forma parte de ese conjunto difuso. Las formas de las funciones de
+pertenencia mÃ¡s tÃ­picas son trapezoidal, lineal y curva.  Se basa en reglas heurÃ­sticas de la forma SI (antecedente) ENTONCES (consecuente) ,
+donde el antecedente y el consecuente son tambiÃ©n conjuntos difusos, ya
+sea puros o resultado de operar con ellos. Sirvan como ejemplos de
+regla heurÃ­stica para esta lÃ³gica (nÃ³tese la importancia de las
+palabras "muchÃ­simo", "drÃ¡sticamente", "un poco" y "levemente" para la
+lÃ³gica difusa):   SI hace muchÃ­simo calor ENTONCES disminuyo drÃ¡sticamente la temperatura.  SI voy a llegar un poco tarde ENTONCES aumento levemente la velocidad.   Los mÃ©todos de inferencia para esta base de reglas deben ser
+simples, veloces y eficaces. Los resultados de dichos mÃ©todos son un
+Ã¡rea final, fruto de un conjunto de Ã¡reas solapadas entre sÃ­ (cada Ã¡rea
+es resultado de una regla de inferencia). Para escoger una salida
+concreta a partir de tanta premisa difusa, el mÃ©todo mÃ¡s usado es el
+del centroide , en el que la salida final serÃ¡ el centro de gravedad del Ã¡rea total resultante.  Las reglas de las que dispone el motor de inferencia de un sistema
+difuso pueden ser formuladas por expertos, o bien aprendidas por el
+propio sistema, haciendo uso en este caso de redes neuronales para fortalecer las futuras tomas de decisiones.  Los datos de entrada suelen ser recogidos por sensores, que miden
+las variables de entrada de un sistema. El motor de inferencias se basa
+en chips difusos , que estÃ¡n aumentando exponencialmente su capacidad de procesamiento de reglas aÃ±o a aÃ±o.  Un esquema de funcionamiento tÃ­pico para un sistema difuso podrÃ­a ser de la siguiente manera:      Funcionamiento de un sistema de control difuso     En la figura, el sistema de control hace los cÃ¡lculos con base en
+sus reglas heurÃ­sticas, comentadas anteriormente. La salida final
+actuarÃ­a sobre el entorno fÃ­sico, y los valores sobre el entorno fÃ­sico
+de las nuevas entradas (modificado por la salida del sistema de
+control) serÃ­an tomadas por sensores del sistema.  Por ejemplo, imaginando que nuestro sistema difuso fuese el
+climatizador de un coche que se autorregula segÃºn las necesidades: Los
+chips difusos del climatizador recogen los datos de entrada, que en
+este caso bien podrÃ­an ser la temperatura y humedad simplemente. Estos
+datos se someten a las reglas del motor de inferencia (como se ha
+comentado antes, de la forma SI... ENTONCES... ), resultando un Ã¡rea de
+resultados. De esa Ã¡rea se escogerÃ¡ el centro de gravedad,
+proporcionÃ¡ndola como salida. Dependiendo del resultado, el
+climatizador podrÃ­a aumentar la temperatura o disminuirla dependiendo
+del grado de la salida.    Aplicaciones  [ editar ]  La lÃ³gica difusa se utiliza cuando la complejidad del proceso en
+cuestiÃ³n es muy alta y no existen modelos matemÃ¡ticos precisos, para
+procesos altamente no lineales y cuando se envuelven definiciones y
+conocimiento no estrictamente definido (impreciso o subjetivo).  En cambio, no es una buena idea usarla cuando algÃºn modelo
+matemÃ¡tico ya soluciona eficientemente el problema, cuando los
+problemas son lineales o cuando no tienen soluciÃ³n.  Esta tÃ©cnica se ha empleado con bastante Ã©xito en la industria , principalmente en JapÃ³n ,
+y cada vez se estÃ¡ usando en gran multitud de campos. La primera vez
+que se usÃ³ de forma importante fue en el metro japonÃ©s, con excelentes
+resultados. A continuaciÃ³n se citan algunos ejemplos de su aplicaciÃ³n:   Sistemas de control de acondicionadores de aire  Sistemas de foco automÃ¡tico en cÃ¡maras fotogrÃ¡ficas  ElectrodomÃ©sticos familiares (frigorÃ­ficos, lavadoras...)  OptimizaciÃ³n de sistemas de control industriales  Sistemas de reconocimiento de escritura  Mejora en la eficiencia del uso de combustible en motores  Sistemas expertos del conocimiento (simular el comportamiento de un experto humano)  TecnologÃ­a informÃ¡tica  Bases de datos difusas: Almacenar y consultar informaciÃ³n imprecisa. Para este punto, por ejemplo, existe el lenguaje FSQL .  ...y, en general, en la gran mayorÃ­a de los sistemas de control que no dependen de un SÃ­/No.     LÃ³gica difusa en inteligencia artificial  [ editar ]       Este artÃ­culo o secciÃ³n sobre ciencia y matemÃ¡ticas necesita ser wikificado con un formato acorde a las convenciones de estilo .  Por favor, edÃ­talo para que las cumpla. Mientras tanto, no elimines este aviso puesto el 1 de noviembre de 2008. TambiÃ©n puedes ayudar wikificando otros artÃ­culos .    En Inteligencia artificial , la lÃ³gica difusa , o lÃ³gica borrosa se utiliza para la resoluciÃ³n de una variedad de problemas,
+principalmente los relacionados con control de procesos industriales
+complejos y sistemas de decisiÃ³n en general, la resoluciÃ³n la
+compresiÃ³n de datos. Los sistemas de lÃ³gica difusa estÃ¡n tambiÃ©n muy
+extendidos en la tecnologÃ­a cotidiana, por ejemplo en cÃ¡maras
+digitales, sistemas de aire acondicionado, lavarropas, etc. Los
+sistemas basados en lÃ³gica difusa imitan la forma en que toman
+decisiones los humanos, con la ventaja de ser mucho mÃ¡s rÃ¡pidos. Estos
+sistemas son generalmente robustos y tolerantes a imprecisiones y
+ruidos en los datos de entrada.  Consiste en la aplicaciÃ³n de la lÃ³gica difusa con la intenciÃ³n de imitar el razonamiento humano en la programaciÃ³n de computadoras. Con la lÃ³gica convencional, las computadoras pueden manipular valores estrictamente
+duales, como verdadero/falso, sÃ­/no o ligado/desligado. En la lÃ³gica
+difusa, se usan modelos matemÃ¡ticos para representar nociones
+subjetivas, como caliente / tibio / frÃ­o , para valores concretos que puedan ser manipuladas por los ordenadores.  En este paradigma, tambiÃ©n tiene un especial valor la variable del tiempo , ya que los sistemas de control pueden necesitar retroalimentarse en un espacio concreto de tiempo, pueden necesitarse datos anteriores
+para hacer una evaluaciÃ³n media de la situaciÃ³n en un periodo de tiempo
+anterior...    Ventajas e Inconvenientes  [ editar ]  Como principal ventaja, cabe destacar los excelentes resultados que
+brinda un sistema de control basado en lÃ³gica difusa: ofrece salidas de
+una forma veloz y precisa, disminuyendo asÃ­ las transiciones de estados
+fundamentales en el entorno fÃ­sico que controle. Por ejemplo, si el
+aire acondicionado se encendiese al llegar a la temperatura de 30Âº, y
+la temperatura actual oscilase entre los 29Âº-30Âº, nuestro sistema de
+aire acondicionado estarÃ­a encendiÃ©ndose y apagÃ¡ndose continuamente,
+con el gasto energÃ©tico que ello conllevarÃ­a. Si estuviese regulado por
+lÃ³gica difusa, esos 30Âº no serÃ­an ningÃºn umbral, y el sistema de
+control aprenderÃ­a a mantener una temperatura estable sin continuos
+apagados y encendidos.  TambiÃ©n estÃ¡ la indecisiÃ³n de descartarse por los expertos o por la tecnologÃ­a (principalmente mediante redes neuronales ) para reforzar las reglas heurÃ­sticas iniciales de cualquier sistema de control basado en este tipo de lÃ³gica.    VÃ©ase tambiÃ©n  [ editar ]   InformaciÃ³n parcial lineal     Enlaces externos  [ editar ]   http://www.softcomputing.es/es/portada.php Centro de investigaciÃ³n espaÃ±ol, organiza cursos y seminarios sobre Fuzzy Logic.  Fuzzy Logic - LÃ³gica Difusa. IntroducciÃ³n a la lÃ³gica difusa y su relaciÃ³n con el control de procesos.  Xfuzzy :
+Una herramienta de CAD gratuita para el diseÃ±o de sistemas de control
+basados en lÃ³gica difusa. Ãšltima versiÃ³n, 3.0 en espaÃ±ol: [1]  LÃ³gica Difusa: Â¿una concepciÃ³n infinitesimal de la verdad?  Morillas Raya, A. (2006): IntroducciÃ³n al anÃ¡lisis de datos difusos. Texto completo en PDF.  Curso Introductorio de Conjuntos y Sistemas Difusos (LÃ³gica Difusa y Aplicaciones), por el Dr. JosÃ© Galindo G., Universidad de MÃ¡laga ( EspaÃ±a ).     Obtenido de " http://es.wikipedia.org/wiki/L%C3%B3gica_difusa "  CategorÃ­as : LÃ³gica difusa | LÃ³gica CategorÃ­as ocultas: Wikipedia:Wikificar | Wikipedia:Wikificar ciencia | Wikipedia:Wikificar matemÃ¡ticas         Vistas    ArtÃ­culo  DiscusiÃ³n  Editar  Historial      Herramientas personales    Probar Beta  Registrarse/Entrar          Buscar            NavegaciÃ³n    Portada  Portal de la comunidad  Actualidad  Cambios recientes  PÃ¡gina aleatoria  Ayuda  Donaciones      Crear un libro   AÃ±adir esta pÃ¡gina Ayuda de libros      Herramientas    Lo que enlaza aquÃ­  Cambios en enlazadas  Subir archivo  PÃ¡ginas especiales  VersiÃ³n para imprimir  Enlace permanente Citar este artÃ­culo VersiÃ³n en PDF      En otros idiomas    Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©  AzÉ™rbaycan  Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸  ÄŒesky  Deutsch  English  Esperanto  Eesti  ÙØ§Ø±Ø³ÛŒ  Suomi  FranÃ§ais  ×¢×‘×¨×™×ª  Magyar  Bahasa Indonesia  Italiano  æ—¥æœ¬èªž  í•œêµ­ì–´  Bahasa Melayu  Nederlands  Polski  PortuguÃªs  RomÃ¢nÄƒ  Ð ÑƒÑÑÐºÐ¸Ð¹  Simple English  SlovenÄina  SlovenÅ¡Äina  Ð¡Ñ€Ð¿ÑÐºÐ¸ / Srpski  Basa Sunda  Svenska  à®¤à®®à®¿à®´à¯  à¹„à¸—à¸¢  TÃ¼rkÃ§e  Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°  Tiáº¿ng Viá»‡t  ä¸­æ–‡           Esta pÃ¡gina fue modificada por Ãºltima vez el 18:51, 20 ago 2009.  El texto estÃ¡ disponible bajo la Licencia Creative Commons Compartir Igual 3.0 ; clÃ¡usulas adicionales pueden ser de aplicaciÃ³n. Vea los tÃ©rminos de uso para los detalles.  PolÃ­tica de privacidad  Acerca de Wikipedia  LimitaciÃ³n de responsabilidad     

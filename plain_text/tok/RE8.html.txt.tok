@@ -1,393 +1,401 @@
-escuela,0.3,3
-bolsa,0.1,1
-trabajo,0.2,2
-alumnos,0.5,5
-internacionales,0.1,1
-visado,0.1,1
-programas,0.1,1
-máster,0.5,5
-comunicación,0.2,2
-publicidad,0.7,7
-social,0.1,1
-media,0.1,1
-diseño,1.0,10
-gráfico,0.6,6
-especialización,0.2,2
-calzado,0.1,1
-fotografía,0.1,1
-moda,0.1,1
-profesional,0.1,1
-carrera,0.1,1
-artes,0.4,4
-visuales,0.4,4
-masters,0.2,2
-semana,0.1,1
-cursos,0.2,2
-intensivos,0.1,1
-verano,0.1,1
-becas,0.2,2
-promociones,0.2,2
-workshops,0.3,3
-gratuitos,0.1,1
-study,0.1,1
-abroad,0.1,1
-blog,0.2,2
-contacto,0.1,1
-renderizado,0.6,6
-cuáles,0.1,1
-son,0.3,3
-aplicaciones,0.3,3
-27,0.1,1
-febrero,0.1,1
-2018,0.1,1
-by,0.1,1
-comunicacion,0.1,1
-echarle,0.1,1
-vistazo,0.1,1
-debemos,0.1,1
-comprender,0.1,1
-render,1.0,10
-diferentes,0.6,6
-áreas,0.1,1
-vídeo,0.2,2
-técnica,0.1,1
-últimos,0.1,1
-tiempos,0.1,1
-tenido,0.1,1
-avance,0.1,1
-espectacular,0.1,1
-utiliza,0.2,2
-hoy,0.3,3
-día,0.3,3
-ámbitos,0.1,1
-posibilidades,0.2,2
-veremos,0.1,1
-continuación,0.2,2
-proceso,0.1,1
-través,0.2,2
-sistemas,0.1,1
-informáticos,0.1,1
-generamos,0.1,1
-imagen,0.3,3
-digital,0.2,2
-partir,0.2,2
-modelo,0.2,2
-escenario,0.1,1
-tres,0.2,2
-dimensiones,0.2,2
-decir,0.1,1
-objetivo,0.1,1
-generar,0.6,6
-realista,0.2,2
-perspectiva,0.1,1
-trata,0.1,1
-imágenes,0.1,1
-diversos,0.1,1
-procesos,0.1,1
-permiten,0.3,3
-sensación,0.1,1
-profundidad,0.1,1
-dar,0.1,1
-textura,0.1,1
-elementos,0.2,2
-resulte,0.1,1
-efectos,0.2,2
-iluminación,0.1,1
-técnicas,0.1,1
-fotográficas,0.1,1
-generan,0.1,1
-ópticos,0.1,1
-similares,0.1,1
-iguales,0.1,1
-producen,0.1,1
-mundo,0.5,5
-real,0.1,1
-observamos,0.1,1
-objeto,0.2,2
-habitación,0.1,1
-paisaje,0.1,1
-tipo,0.1,1
-vista,0.1,1
-perciban,0.1,1
-ojos,0.1,1
-genera,0.1,1
-cálculo,0.1,1
-producido,0.1,1
-algoritmos,0.1,1
-fórmulas,0.1,1
-generando,0.1,1
-simulaciones,0.3,3
-calculan,0.1,1
-posibles,0.2,2
-reflejos,0.1,1
-luz,0.3,3
-objetos,0.5,5
-hayamos,0.1,1
-dispuestos,0.1,1
-escena,0.3,3
-rastreo,0.1,1
-produce,0.1,1
-cámara,0.1,1
-virtual,0.1,1
-situemos,0.1,1
-fuentes,0.1,1
-arrojan,0.1,1
-iluminarla,0.1,1
-forma,0.2,2
-amplia,0.1,1
-creación,0.2,2
-audiovisual,0.1,1
-apreciado,0.2,2
-realización,0.1,1
-vídeos,0.1,1
-permite,0.2,2
-realizar,0.3,3
-disponer,0.1,1
-escenas,0.1,1
-tipos,0.2,2
-situaciones,0.1,1
-llegar,0.1,1
-grabar,0.1,1
-entornos,0.1,1
-reales,0.1,1
-ejemplo,0.1,1
-queremos,0.1,1
-mostrar,0.1,1
-mundos,0.1,1
-fantásticos,0.2,2
-seres,0.1,1
-lógicamente,0.1,1
-ordenador,0.3,3
-todavía,0.1,1
-han,0.2,2
-construido,0.1,1
-ámbito,0.1,1
-construcción,0.1,1
-recrear,0.2,2
-viviendas,0.1,1
-edificios,0.1,1
-nuevas,0.1,1
-construcciones,0.1,1
-hacernos,0.1,1
-idea,0.1,1
-serían,0.1,1
-realidad,0.1,1
-visto,0.1,1
-ampliamente,0.1,1
-impactado,0.1,1
-renderización,0.1,1
-profesionales,0.1,1
-especializado,0.1,1
-área,0.2,2
-hay,0.1,1
-vez,0.1,1
-empresas,0.1,1
-especializadas,0.1,1
-diseños,0.1,1
-proyectos,0.1,1
-arquitectónicos,0.1,1
-aprecian,0.1,1
-mejor,0.2,2
-acogido,0.1,1
-brazos,0.1,1
-abiertos,0.1,1
-necesidad,0.1,1
-sean,0.1,1
-fotografiados,0.1,1
-ver,0.2,2
-quedaría,0.1,1
-situación,0.1,1
-concreta,0.1,1
-combinaciones,0.1,1
-imposibles,0.1,1
-nivel,0.1,1
-publicitario,0.2,2
-efecto,0.1,1
-gracias,0.1,1
-cogiendo,0.1,1
-mayor,0.1,1
-protagonismo,0.1,1
-medios,0.2,2
-digitales,0.1,1
-ordenadores,0.1,1
-móviles,0.1,1
-cartelería,0.1,1
-bondades,0.1,1
-ejemplos,0.2,2
-renderizados,0.1,1
-hechos,0.1,1
-profesores,0.2,2
-coco,0.5,5
-school,0.5,5
-dejo,0.1,1
-video,0.1,1
-corto,0.1,1
-trabajos,0.2,2
-realizados,0.1,1
-veas,0.1,1
-clara,0.1,1
-renders,0.1,1
-concluyendo,0.1,1
-puedes,0.2,2
-formarte,0.1,1
-está,0.1,1
-daría,0.1,1
-habilidad,0.1,1
-credenciales,0.1,1
-demandadas,0.1,1
-mercados,0.1,1
-quieres,0.1,1
-aprender,0.1,1
-estudiar,0.1,1
-master,0.1,1
-animación,0.2,2
-comentario,0.1,1
-cancelar,0.1,1
-respuesta,0.1,1
-dirección,0.2,2
-correo,0.2,2
-electrónico,0.2,2
-será,0.1,1
-publicada,0.1,1
-campos,0.1,1
-obligatorios,0.1,1
-marcados,0.1,1
-current,0.1,1
-yer,0.1,1
-leave,0.1,1
-this,0.1,1
-field,0.1,1
-empty,0.1,1
-entradas,0.1,1
-recientes,0.1,1
-claves,0.1,1
-éxito,0.1,1
-videojuego,0.1,1
-fortnite,0.1,1
-calzados,0.1,1
-buscan,0.1,1
-google,0.1,1
-cómo,0.1,1
-elegir,0.1,1
-influencers,0.2,2
-promocionar,0.1,1
-marca,0.1,1
-pautas,0.1,1
-diseñar,0.1,1
-banner,0.1,1
-internet,0.2,2
-peliculas,0.1,1
-pioneras,0.1,1
-categorías,0.1,1
-clases,0.1,1
-prácticas,0.2,2
-entrevistas,0.2,2
-estilo,0.1,1
-vida,0.1,1
-alicante,0.1,1
-eventos,0.2,2
-left,0.1,1
-sidebar,0.1,1
-noticias,0.1,1
-portfolio,0.1,1
-categoría,0.1,1
-tendencias,0.1,1
-buenas,0.1,1
-etiquetas,0.1,1
-conceptualización,0.1,1
-web,0.2,2
-cómico,0.1,1
-gen,0.1,1
-egoísta,0.1,1
-estudio,0.1,1
-memes,0.3,3
-humor,0.1,1
-lettering,0.1,1
-marketing,0.1,1
-online,0.1,1
-millennials,0.1,1
-origen,0.1,1
-meme,0.1,1
-red,0.1,1
-redes,0.1,1
-sociales,0.1,1
-richard,0.1,1
-dawkins,0.1,1
-síntesis,0.1,1
-gráfica,0.1,1
-viral,0.1,1
-descárgate,0.1,1
-app,0.1,1
-tutoriales,0.2,2
-exclusivos,0.2,2
-suscríbete,0.1,1
-newsletter,0.1,1
-mantente,0.1,1
-informado,0.1,1
-nuevos,0.1,1
-útiles,0.1,1
-sector,0.1,1
-nombre,0.1,1
-requerido,0.2,2
-he,0.1,1
-leído,0.1,1
-acepto,0.1,1
-política,0.4,4
-privacidad,0.3,3
-europea,0.1,1
-sl,0.1,1
-responsable,0.1,1
-tratamiento,0.1,1
-legitimado,0.1,1
-consentimiento,0.1,1
-tratará,0.1,1
-datos,0.3,3
-finalidad,0.1,1
-gestionar,0.1,1
-resolución,0.1,1
-consultas,0.1,1
-informarle,0.1,1
-nuestras,0.1,1
-publicaciones,0.1,1
-productos,0.1,1
-servicios,0.1,1
-recursos,0.1,1
-cedemos,0.1,1
-información,0.3,3
-terceros,0.2,2
-salvo,0.1,1
-imperativo,0.1,1
-legal,0.2,2
-derecho,0.1,1
-acceder,0.1,1
-rectificar,0.1,1
-oponerse,0.1,1
-suprimir,0.1,1
-derechos,0.1,1
-detalla,0.1,1
-segunda,0.1,1
-capa,0.1,1
-consultar,0.1,1
-adicional,0.1,1
-detallada,0.1,1
-acerca,0.1,1
-protección,0.1,1
-personales,0.1,1
-deja,0.1,1
-vacío,0.1,1
-campo,0.1,1
-humano,0.1,1
-comparte,0.1,1
-nosotros,0.1,1
-mapa,0.1,1
-aviso,0.1,1
-utilizamos,0.1,1
-cookies,0.2,2
-propias,0.1,1
-mejorar,0.1,1
-experiencia,0.1,1
-navegación,0.2,2
-continuar,0.1,1
-entendemos,0.1,1
-acepta,0.1,1
-aceptar,0.1,1
+2018                          , 0.09090909090909091  , 1                   
+27                            , 0.09090909090909091  , 1                   
+abiertos                      , 0.09090909090909091  , 1                   
+abroad                        , 0.09090909090909091  , 1                   
+acceder                       , 0.09090909090909091  , 1                   
+acepta                        , 0.09090909090909091  , 1                   
+aceptar                       , 0.09090909090909091  , 1                   
+acepto                        , 0.09090909090909091  , 1                   
+acerca                        , 0.09090909090909091  , 1                   
+acogido                       , 0.09090909090909091  , 1                   
+adicional                     , 0.09090909090909091  , 1                   
+algoritmos                    , 0.09090909090909091  , 1                   
+alicante                      , 0.09090909090909091  , 1                   
+alumnos                       , 0.5454545454545454  , 6                   
+amplia                        , 0.09090909090909091  , 1                   
+ampliamente                   , 0.09090909090909091  , 1                   
+animaciã³n                    , 0.18181818181818182  , 2                   
+aplicaciones                  , 0.2727272727272727  , 3                   
+aplicado                      , 0.09090909090909091  , 1                   
+app                           , 0.09090909090909091  , 1                   
+apreciado                     , 0.18181818181818182  , 2                   
+aprecian                      , 0.09090909090909091  , 1                   
+aprender                      , 0.09090909090909091  , 1                   
+arquitectã³nicos              , 0.09090909090909091  , 1                   
+arrojan                       , 0.09090909090909091  , 1                   
+artes                         , 0.36363636363636365  , 4                   
+asã                           , 0.09090909090909091  , 1                   
+audiovisual                   , 0.09090909090909091  , 1                   
+avance                        , 0.09090909090909091  , 1                   
+aviso                         , 0.09090909090909091  , 1                   
+ayudarte                      , 0.09090909090909091  , 1                   
+banner                        , 0.09090909090909091  , 1                   
+becas                         , 0.18181818181818182  , 2                   
+blog                          , 0.18181818181818182  , 2                   
+bolsa                         , 0.09090909090909091  , 1                   
+bondades                      , 0.09090909090909091  , 1                   
+brazos                        , 0.09090909090909091  , 1                   
+buenas                        , 0.09090909090909091  , 1                   
+by                            , 0.09090909090909091  , 1                   
+calculan                      , 0.09090909090909091  , 1                   
+calzado                       , 0.09090909090909091  , 1                   
+campo                         , 0.09090909090909091  , 1                   
+campos                        , 0.09090909090909091  , 1                   
+cancelar                      , 0.09090909090909091  , 1                   
+capa                          , 0.09090909090909091  , 1                   
+carrera                       , 0.09090909090909091  , 1                   
+cartelerãa                    , 0.09090909090909091  , 1                   
+categorãa                     , 0.09090909090909091  , 1                   
+categorãas                    , 0.09090909090909091  , 1                   
+cedemos                       , 0.09090909090909091  , 1                   
+clara                         , 0.09090909090909091  , 1                   
+clases                        , 0.09090909090909091  , 1                   
+coco                          , 0.5454545454545454  , 6                   
+cogiendo                      , 0.09090909090909091  , 1                   
+combinaciones                 , 0.09090909090909091  , 1                   
+comentario                    , 0.09090909090909091  , 1                   
+comercial                     , 0.09090909090909091  , 1                   
+comparte                      , 0.09090909090909091  , 1                   
+comprender                    , 0.09090909090909091  , 1                   
+comunicacion                  , 0.09090909090909091  , 1                   
+comunicaciã³n                 , 0.18181818181818182  , 2                   
+conceptualizaciã³n            , 0.09090909090909091  , 1                   
+concluyendo                   , 0.09090909090909091  , 1                   
+concreta                      , 0.09090909090909091  , 1                   
+consentimiento                , 0.09090909090909091  , 1                   
+construcciones                , 0.09090909090909091  , 1                   
+construcciã³n                 , 0.09090909090909091  , 1                   
+construido                    , 0.09090909090909091  , 1                   
+consultar                     , 0.09090909090909091  , 1                   
+consultas                     , 0.09090909090909091  , 1                   
+contacto                      , 0.09090909090909091  , 1                   
+continuaciã³n                 , 0.18181818181818182  , 2                   
+continuar                     , 0.09090909090909091  , 1                   
+cookies                       , 0.18181818181818182  , 2                   
+correo                        , 0.18181818181818182  , 2                   
+corto                         , 0.09090909090909091  , 1                   
+creaciã³n                     , 0.18181818181818182  , 2                   
+credenciales                  , 0.09090909090909091  , 1                   
+current                       , 0.09090909090909091  , 1                   
+cursos                        , 0.18181818181818182  , 2                   
+cuãles                        , 0.09090909090909091  , 1                   
+cãlculo                       , 0.09090909090909091  , 1                   
+cãmara                        , 0.09090909090909091  , 1                   
+cã³mico                       , 0.09090909090909091  , 1                   
+cã³mo                         , 0.09090909090909091  , 1                   
+dar                           , 0.09090909090909091  , 1                   
+darãa                         , 0.09090909090909091  , 1                   
+datos                         , 0.2727272727272727  , 3                   
+dawkins                       , 0.09090909090909091  , 1                   
+debemos                       , 0.09090909090909091  , 1                   
+decir                         , 0.09090909090909091  , 1                   
+deja                          , 0.09090909090909091  , 1                   
+dejo                          , 0.09090909090909091  , 1                   
+demandadas                    , 0.09090909090909091  , 1                   
+derecho                       , 0.09090909090909091  , 1                   
+derechos                      , 0.09090909090909091  , 1                   
+descãrgate                    , 0.09090909090909091  , 1                   
+detalla                       , 0.09090909090909091  , 1                   
+detallada                     , 0.09090909090909091  , 1                   
+diferencia                    , 0.09090909090909091  , 1                   
+diferentes                    , 0.5454545454545454  , 6                   
+digital                       , 0.18181818181818182  , 2                   
+digitales                     , 0.09090909090909091  , 1                   
+dimensiones                   , 0.18181818181818182  , 2                   
+direcciã³n                    , 0.18181818181818182  , 2                   
+diseãar                       , 0.09090909090909091  , 1                   
+diseão                        , 1.0           , 11                  
+diseãos                       , 0.09090909090909091  , 1                   
+disponer                      , 0.09090909090909091  , 1                   
+dispuestos                    , 0.09090909090909091  , 1                   
+diversos                      , 0.09090909090909091  , 1                   
+dãa                           , 0.2727272727272727  , 3                   
+echarle                       , 0.09090909090909091  , 1                   
+edificios                     , 0.09090909090909091  , 1                   
+editorial                     , 0.09090909090909091  , 1                   
+efecto                        , 0.09090909090909091  , 1                   
+efectos                       , 0.18181818181818182  , 2                   
+egoãsta                       , 0.09090909090909091  , 1                   
+ejemplo                       , 0.09090909090909091  , 1                   
+ejemplos                      , 0.18181818181818182  , 2                   
+electrã³nico                  , 0.18181818181818182  , 2                   
+elementos                     , 0.18181818181818182  , 2                   
+empresas                      , 0.09090909090909091  , 1                   
+empty                         , 0.09090909090909091  , 1                   
+entendemos                    , 0.09090909090909091  , 1                   
+entornos                      , 0.09090909090909091  , 1                   
+entradas                      , 0.09090909090909091  , 1                   
+entrevistas                   , 0.18181818181818182  , 2                   
+escena                        , 0.2727272727272727  , 3                   
+escenario                     , 0.09090909090909091  , 1                   
+escenas                       , 0.09090909090909091  , 1                   
+escuela                       , 0.2727272727272727  , 3                   
+especializaciã³n              , 0.18181818181818182  , 2                   
+especializadas                , 0.09090909090909091  , 1                   
+especializado                 , 0.09090909090909091  , 1                   
+espectacular                  , 0.09090909090909091  , 1                   
+estilo                        , 0.09090909090909091  , 1                   
+estrategia                    , 0.09090909090909091  , 1                   
+estudiar                      , 0.09090909090909091  , 1                   
+estudio                       , 0.09090909090909091  , 1                   
+estã                          , 0.09090909090909091  , 1                   
+estãn                         , 0.09090909090909091  , 1                   
+etiquetas                     , 0.09090909090909091  , 1                   
+europea                       , 0.09090909090909091  , 1                   
+eventos                       , 0.18181818181818182  , 2                   
+exclusivos                    , 0.18181818181818182  , 2                   
+experiencia                   , 0.09090909090909091  , 1                   
+fantãsticos                   , 0.18181818181818182  , 2                   
+febrero                       , 0.09090909090909091  , 1                   
+field                         , 0.09090909090909091  , 1                   
+finalidad                     , 0.09090909090909091  , 1                   
+forma                         , 0.18181818181818182  , 2                   
+formarte                      , 0.09090909090909091  , 1                   
+fotografiados                 , 0.09090909090909091  , 1                   
+fotografãa                    , 0.09090909090909091  , 1                   
+fotogrãficas                  , 0.09090909090909091  , 1                   
+fuentes                       , 0.09090909090909091  , 1                   
+fã³rmulas                     , 0.09090909090909091  , 1                   
+gen                           , 0.09090909090909091  , 1                   
+genera                        , 0.09090909090909091  , 1                   
+generamos                     , 0.09090909090909091  , 1                   
+generan                       , 0.09090909090909091  , 1                   
+generando                     , 0.09090909090909091  , 1                   
+generar                       , 0.5454545454545454  , 6                   
+gestionar                     , 0.09090909090909091  , 1                   
+grabar                        , 0.09090909090909091  , 1                   
+gracias                       , 0.09090909090909091  , 1                   
+gratuitos                     , 0.09090909090909091  , 1                   
+grãfica                       , 0.09090909090909091  , 1                   
+grãfico                       , 0.6363636363636364  , 7                   
+habilidad                     , 0.09090909090909091  , 1                   
+habitaciã³n                   , 0.09090909090909091  , 1                   
+hacernos                      , 0.09090909090909091  , 1                   
+han                           , 0.18181818181818182  , 2                   
+hay                           , 0.09090909090909091  , 1                   
+hayamos                       , 0.09090909090909091  , 1                   
+he                            , 0.09090909090909091  , 1                   
+hechos                        , 0.09090909090909091  , 1                   
+hoy                           , 0.2727272727272727  , 3                   
+humano                        , 0.09090909090909091  , 1                   
+humor                         , 0.09090909090909091  , 1                   
+idea                          , 0.09090909090909091  , 1                   
+iguales                       , 0.09090909090909091  , 1                   
+iluminaciã³n                  , 0.09090909090909091  , 1                   
+iluminarla                    , 0.09090909090909091  , 1                   
+imagen                        , 0.2727272727272727  , 3                   
+impactado                     , 0.09090909090909091  , 1                   
+imperativo                    , 0.09090909090909091  , 1                   
+imposibles                    , 0.09090909090909091  , 1                   
+imãgenes                      , 0.09090909090909091  , 1                   
+influencers                   , 0.09090909090909091  , 1                   
+informaciã³n                  , 0.2727272727272727  , 3                   
+informado                     , 0.09090909090909091  , 1                   
+informarle                    , 0.09090909090909091  , 1                   
+informãticos                  , 0.09090909090909091  , 1                   
+instagram                     , 0.09090909090909091  , 1                   
+intensivos                    , 0.09090909090909091  , 1                   
+interiorismo                  , 0.09090909090909091  , 1                   
+internacionales               , 0.09090909090909091  , 1                   
+internet                      , 0.18181818181818182  , 2                   
+leave                         , 0.09090909090909091  , 1                   
+left                          , 0.09090909090909091  , 1                   
+legal                         , 0.18181818181818182  , 2                   
+legitimado                    , 0.09090909090909091  , 1                   
+lettering                     , 0.09090909090909091  , 1                   
+leãdo                         , 0.09090909090909091  , 1                   
+llegar                        , 0.09090909090909091  , 1                   
+luz                           , 0.2727272727272727  , 3                   
+lã³gicamente                  , 0.09090909090909091  , 1                   
+mantente                      , 0.09090909090909091  , 1                   
+mapa                          , 0.09090909090909091  , 1                   
+marcados                      , 0.09090909090909091  , 1                   
+marcando                      , 0.09090909090909091  , 1                   
+marketing                     , 0.09090909090909091  , 1                   
+master                        , 0.09090909090909091  , 1                   
+masters                       , 0.18181818181818182  , 2                   
+mayor                         , 0.09090909090909091  , 1                   
+media                         , 0.18181818181818182  , 2                   
+medios                        , 0.18181818181818182  , 2                   
+mejor                         , 0.18181818181818182  , 2                   
+mejorar                       , 0.09090909090909091  , 1                   
+meme                          , 0.09090909090909091  , 1                   
+memes                         , 0.2727272727272727  , 3                   
+mercados                      , 0.09090909090909091  , 1                   
+millennials                   , 0.09090909090909091  , 1                   
+moda                          , 0.09090909090909091  , 1                   
+modelo                        , 0.18181818181818182  , 2                   
+mostrar                       , 0.09090909090909091  , 1                   
+muchãsimas                    , 0.09090909090909091  , 1                   
+mundo                         , 0.5454545454545454  , 6                   
+mundos                        , 0.09090909090909091  , 1                   
+mãs                           , 0.45454545454545453  , 5                   
+mãster                        , 0.45454545454545453  , 5                   
+mã³viles                      , 0.09090909090909091  , 1                   
+navegaciã³n                   , 0.18181818181818182  , 2                   
+necesidad                     , 0.09090909090909091  , 1                   
+newsletter                    , 0.09090909090909091  , 1                   
+nivel                         , 0.09090909090909091  , 1                   
+nombre                        , 0.09090909090909091  , 1                   
+nosotros                      , 0.09090909090909091  , 1                   
+noticias                      , 0.09090909090909091  , 1                   
+nuestras                      , 0.09090909090909091  , 1                   
+nuevas                        , 0.09090909090909091  , 1                   
+nuevos                        , 0.09090909090909091  , 1                   
+objetivo                      , 0.09090909090909091  , 1                   
+objeto                        , 0.18181818181818182  , 2                   
+objetos                       , 0.45454545454545453  , 5                   
+obligatorios                  , 0.09090909090909091  , 1                   
+observamos                    , 0.09090909090909091  , 1                   
+ojos                          , 0.09090909090909091  , 1                   
+online                        , 0.18181818181818182  , 2                   
+oponerse                      , 0.09090909090909091  , 1                   
+ordenador                     , 0.2727272727272727  , 3                   
+ordenadores                   , 0.09090909090909091  , 1                   
+origen                        , 0.09090909090909091  , 1                   
+paisaje                       , 0.09090909090909091  , 1                   
+partir                        , 0.18181818181818182  , 2                   
+pautas                        , 0.09090909090909091  , 1                   
+peliculas                     , 0.09090909090909091  , 1                   
+perciban                      , 0.09090909090909091  , 1                   
+permite                       , 0.18181818181818182  , 2                   
+permiten                      , 0.2727272727272727  , 3                   
+personales                    , 0.09090909090909091  , 1                   
+perspectiva                   , 0.09090909090909091  , 1                   
+pioneras                      , 0.09090909090909091  , 1                   
+polãtica                      , 0.36363636363636365  , 4                   
+portfolio                     , 0.09090909090909091  , 1                   
+posibilidades                 , 0.18181818181818182  , 2                   
+posibles                      , 0.18181818181818182  , 2                   
+privacidad                    , 0.2727272727272727  , 3                   
+proceso                       , 0.09090909090909091  , 1                   
+procesos                      , 0.09090909090909091  , 1                   
+produce                       , 0.09090909090909091  , 1                   
+producen                      , 0.09090909090909091  , 1                   
+producido                     , 0.09090909090909091  , 1                   
+productos                     , 0.09090909090909091  , 1                   
+profesional                   , 0.09090909090909091  , 1                   
+profesionales                 , 0.09090909090909091  , 1                   
+profesores                    , 0.18181818181818182  , 2                   
+profundidad                   , 0.09090909090909091  , 1                   
+programas                     , 0.09090909090909091  , 1                   
+promociones                   , 0.18181818181818182  , 2                   
+propias                       , 0.09090909090909091  , 1                   
+protagonismo                  , 0.09090909090909091  , 1                   
+protecciã³n                   , 0.09090909090909091  , 1                   
+proyecto                      , 0.09090909090909091  , 1                   
+proyectos                     , 0.09090909090909091  , 1                   
+prãcticas                     , 0.18181818181818182  , 2                   
+publicaciones                 , 0.09090909090909091  , 1                   
+publicada                     , 0.09090909090909091  , 1                   
+publicidad                    , 0.6363636363636364  , 7                   
+publicitario                  , 0.18181818181818182  , 2                   
+puedes                        , 0.18181818181818182  , 2                   
+quedarãa                      , 0.09090909090909091  , 1                   
+queremos                      , 0.09090909090909091  , 1                   
+quieres                       , 0.09090909090909091  , 1                   
+quã                           , 0.18181818181818182  , 2                   
+rastreo                       , 0.09090909090909091  , 1                   
+real                          , 0.09090909090909091  , 1                   
+reales                        , 0.09090909090909091  , 1                   
+realidad                      , 0.09090909090909091  , 1                   
+realista                      , 0.18181818181818182  , 2                   
+realizaciã³n                  , 0.09090909090909091  , 1                   
+realizados                    , 0.09090909090909091  , 1                   
+realizar                      , 0.2727272727272727  , 3                   
+recientes                     , 0.09090909090909091  , 1                   
+recrear                       , 0.18181818181818182  , 2                   
+rectificar                    , 0.09090909090909091  , 1                   
+recursos                      , 0.09090909090909091  , 1                   
+red                           , 0.09090909090909091  , 1                   
+redes                         , 0.09090909090909091  , 1                   
+reflejos                      , 0.09090909090909091  , 1                   
+render                        , 0.9090909090909091  , 10                  
+renderizaciã³n                , 0.09090909090909091  , 1                   
+renderizado                   , 0.5454545454545454  , 6                   
+renderizados                  , 0.09090909090909091  , 1                   
+renders                       , 0.09090909090909091  , 1                   
+requerido                     , 0.18181818181818182  , 2                   
+resoluciã³n                   , 0.09090909090909091  , 1                   
+responsable                   , 0.09090909090909091  , 1                   
+respuesta                     , 0.09090909090909091  , 1                   
+resulte                       , 0.09090909090909091  , 1                   
+richard                       , 0.09090909090909091  , 1                   
+salvo                         , 0.09090909090909091  , 1                   
+school                        , 0.5454545454545454  , 6                   
+sean                          , 0.09090909090909091  , 1                   
+sector                        , 0.09090909090909091  , 1                   
+segunda                       , 0.09090909090909091  , 1                   
+semana                        , 0.09090909090909091  , 1                   
+sensaciã³n                    , 0.09090909090909091  , 1                   
+seres                         , 0.09090909090909091  , 1                   
+servicios                     , 0.09090909090909091  , 1                   
+serã                          , 0.09090909090909091  , 1                   
+serãan                        , 0.09090909090909091  , 1                   
+sidebar                       , 0.09090909090909091  , 1                   
+similares                     , 0.09090909090909091  , 1                   
+simulaciones                  , 0.2727272727272727  , 3                   
+sistemas                      , 0.09090909090909091  , 1                   
+situaciones                   , 0.09090909090909091  , 1                   
+situaciã³n                    , 0.09090909090909091  , 1                   
+situemos                      , 0.09090909090909091  , 1                   
+sl                            , 0.09090909090909091  , 1                   
+social                        , 0.18181818181818182  , 2                   
+sociales                      , 0.09090909090909091  , 1                   
+son                           , 0.2727272727272727  , 3                   
+study                         , 0.09090909090909091  , 1                   
+suprimir                      , 0.09090909090909091  , 1                   
+suscrãbete                    , 0.09090909090909091  , 1                   
+sãntesis                      , 0.09090909090909091  , 1                   
+tambiãn                       , 0.45454545454545453  , 5                   
+tendencias                    , 0.09090909090909091  , 1                   
+tenido                        , 0.09090909090909091  , 1                   
+terceros                      , 0.18181818181818182  , 2                   
+textura                       , 0.09090909090909091  , 1                   
+this                          , 0.09090909090909091  , 1                   
+tiempos                       , 0.09090909090909091  , 1                   
+tipo                          , 0.09090909090909091  , 1                   
+tipos                         , 0.09090909090909091  , 1                   
+todavãa                       , 0.09090909090909091  , 1                   
+trabajo                       , 0.18181818181818182  , 2                   
+trabajos                      , 0.18181818181818182  , 2                   
+trata                         , 0.09090909090909091  , 1                   
+tratamiento                   , 0.09090909090909091  , 1                   
+tratarã                       , 0.09090909090909091  , 1                   
+travãs                        , 0.18181818181818182  , 2                   
+tres                          , 0.18181818181818182  , 2                   
+tutoriales                    , 0.18181818181818182  , 2                   
+tãcnica                       , 0.09090909090909091  , 1                   
+tãcnicas                      , 0.09090909090909091  , 1                   
+utiliza                       , 0.18181818181818182  , 2                   
+utilizamos                    , 0.09090909090909091  , 1                   
+vacão                         , 0.09090909090909091  , 1                   
+veas                          , 0.09090909090909091  , 1                   
+ver                           , 0.18181818181818182  , 2                   
+verano                        , 0.09090909090909091  , 1                   
+veremos                       , 0.09090909090909091  , 1                   
+vez                           , 0.09090909090909091  , 1                   
+vida                          , 0.09090909090909091  , 1                   
+video                         , 0.09090909090909091  , 1                   
+viral                         , 0.09090909090909091  , 1                   
+virtual                       , 0.09090909090909091  , 1                   
+visado                        , 0.09090909090909091  , 1                   
+vista                         , 0.09090909090909091  , 1                   
+vistazo                       , 0.09090909090909091  , 1                   
+visto                         , 0.09090909090909091  , 1                   
+visuales                      , 0.36363636363636365  , 4                   
+viviendas                     , 0.09090909090909091  , 1                   
+vãdeo                         , 0.18181818181818182  , 2                   
+vãdeos                        , 0.09090909090909091  , 1                   
+web                           , 0.18181818181818182  , 2                   
+workshops                     , 0.2727272727272727  , 3                   
+yer                           , 0.09090909090909091  , 1                   
+âquiãnes                      , 0.09090909090909091  , 1                   
+âquã                          , 0.09090909090909091  , 1                   
+ãmbito                        , 0.09090909090909091  , 1                   
+ãmbitos                       , 0.09090909090909091  , 1                   
+ãrea                          , 0.18181818181818182  , 2                   
+ãreas                         , 0.09090909090909091  , 1                   
+ã³pticos                      , 0.09090909090909091  , 1                   
+ãºltimos                      , 0.09090909090909091  , 1                   
+ãštiles                       , 0.09090909090909091  , 1                   

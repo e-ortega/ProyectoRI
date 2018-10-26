@@ -1,0 +1,139 @@
+                  Buscar                  Portada  Noticias   Confidencial de InformÃ¡tica  Publicaciones  Suscripciones  Publicidad  Acerca de nosotros    Portada del sitio > Biotech Magazine > 6 enero - febrero 08        InformÃ¡tica aplicada a la BiologÃ­a   Viernes 14 de marzo de 2008     La
+bioinformÃ¡tica es un Ã¡rea cientÃ­fica relativamente nueva. Aunque como
+disciplina tiene ya cerca de 20 aÃ±os, la industria farmacÃ©utica y los
+institutos de investigaciÃ³n no han reconocido su importancia hasta hace
+poco tiempo. Las claves para la rÃ¡pida expansiÃ³n y aceptaciÃ³n de esta
+especialidad biomÃ©dica han sido, de una parte, los proyectos de
+secuenciaciÃ³n y, de otra, la automatizaciÃ³n y el desarrollo de
+experimentos masivos, generadores de una enorme cantidad de datos.        En el entorno
+empresarial, la bioinformÃ¡tica podrÃ­a definirse como una evoluciÃ³n
+natural de las tecnologÃ­as de la informaciÃ³n hacia el Ã¡mbito de la
+experimentaciÃ³n biolÃ³gica. Sin embargo, la complejidad conceptual, los
+complicados procesos y la heterogeneidad de los datos han hecho que
+algunas compaÃ±Ã­as lo consideren como un departamento independiente.  Bioalma es una empresa con siete aÃ±os de experiencia,
+dedicada a la investigaciÃ³n y el desarrollo de herramientas
+informÃ¡ticas destinadas a la organizaciÃ³n, la gestiÃ³n y el anÃ¡lisis de
+informaciÃ³n biolÃ³gica. Su principal misiÃ³n consiste en gestionar y
+analizar la informaciÃ³n de diferentes plataformas con el fin de extraer
+conocimiento y servir asÃ­ de apoyo en la toma de decisiones,
+estableciÃ©ndose como recurso imprescindible en la investigaciÃ³n
+biolÃ³gica.  Un ambicioso proyecto empresarial  Bioalma nace en el aÃ±o 2000 como spin-off del Centro
+Nacional de BiotecnologÃ­a. Aunque el concepto de la empresa se fraguÃ³
+en este centro de investigaciÃ³n, se trata de una empresa con un 100% de
+capital privado.  Junto a otras empresas biotecnolÃ³gicas, Bioalma forma
+parte del Grupo Bionostra, actualmente en plena expansiÃ³n. Los otros
+tres pilares de la compaÃ±Ã­a son:  Bionostra: centrada en aplicaciones
+biotecnolÃ³gicas y cuya actividad consiste en prestar servicio para el
+diagnÃ³stico de enfermedades hereditarias, anÃ¡lisis de paternidad,
+trazabilidad de alimentos y control de calidad en animalarios. Chimera: es la iniciativa mÃ¡s reciente del grupo y su actividad estÃ¡
+centrada en la investigaciÃ³n y el desarrollo de nuevas vacunas
+terapÃ©uticas, con el objetivo de llevar a productos farmacÃ©uticos a
+fase II. Microbionta: investiga nuevas estrategias para terapia y diagnÃ³stico, utilizando tecnologÃ­as de expresiÃ³n de anticuerpos.    Bionostra acaba de inaugurar nuevas instalaciones en
+Tres Cantos (Madrid), duplicando su superficie y dando empleo a mÃ¡s de
+60 profesionales, de los que alrededor del 90% son doctores.  Bioalma, la rama bioinformÃ¡tica del grupo, cuenta por sÃ­ sola con una plantilla de 25 empleados, en su mayorÃ­a son informÃ¡ticos.  El proyecto de Bioalma  La secuenciaciÃ³n del genoma humano, asÃ­ como los
+avances en tecnologÃ­as de screening y anÃ¡lisis de datos, han producido
+cambios sustanciales en la investigaciÃ³n y el desarrollo de nuevos
+fÃ¡rmacos, un proceso que se ha convertido en un trabajo integrado,
+sofisticado y complejo, basado en nuevas ideas y colaboraciones
+estratÃ©gicas.  La gestiÃ³n y el manejo eficientes de la informaciÃ³n se
+han convertido en elementos claves para conseguir el liderazgo en el
+desarrollo de ideas innovadoras y de nuevos abordajes terapÃ©uticos.  Bioalma dispone de una amplia experiencia en el
+desarrollo de herramientas de gestiÃ³n y anÃ¡lisis de datos biolÃ³gicos.
+La lÃ­nea de negocio de gestiÃ³n de experimentos masivos estÃ¡ enfocada a
+desarrollar soluciones dirigidas a otra Ã¡rea con mayores expectativas
+de crecimiento, la genÃ³mica.  GenÃ³mica  La genÃ³mica es el Ã¡rea de la biologÃ­a molecular que
+estudia la estructura y funciÃ³n de genes y genomas. Los proyectos de
+secuenciaciÃ³n de organismos enteros han generado una gran cantidad de
+datos, que precisan una investigaciÃ³n con herramientas informÃ¡ticas que
+faciliten la comprensiÃ³n del sistema biolÃ³gico y planteen nuevos retos
+al investigador experimental.    Dentro de la genÃ³mica, el estudio de la expresiÃ³n de
+genes a travÃ©s de tÃ©cnicas como los arrays de ADN es conocido como
+genÃ³mica funcional. Esta tecnologÃ­a se ha impuesto como la manera mÃ¡s
+eficiente de aprovechar la informaciÃ³n obtenida en los proyectos de
+secuenciaciÃ³n de genomas completos. Gracias a ella y con un solo
+experimento, es posible monitorizar el estado de todos los genes de un
+organismo en varias condiciones fisiolÃ³gicas. La aplicaciÃ³n de esta
+tecnologÃ­a en Ã¡reas como la farmacogenÃ³mica, el diagnÃ³stico molecular o
+la validaciÃ³n de dianas terapÃ©uticas hace de ella una de las
+principales herramientas para la nueva generaciÃ³n de terapia
+personalizada.  Uno de los principales productos de Bioalma, almazen,
+es una plataforma para la gestiÃ³n y el anÃ¡lisis de experimentos de
+arrays de ADN. Con tres mÃ³dulos diferenciados, esta herramienta es una
+plataforma modular, completa y versÃ¡til.  AnÃ¡lisis del conocimiento  Bioalma es lÃ­der en el desarrollo de herramientas para
+el anÃ¡lisis de toda informaciÃ³n biomÃ©dica derivada de la literatura
+cientÃ­fica. El carÃ¡cter multidisciplinar requerido para el desarrollo
+de nuevos medicamentos competitivos hace imposible abarcar todo el
+conocimiento generado en las diferentes Ã¡reas. La empresa ofrece la
+oportunidad de tener una clara visiÃ³n del conocimiento actual, desde
+las perspectivas quÃ­mica, genÃ³mica y mÃ©dica, mediante herramientas
+capaces de relacionar conceptos de estas tres Ã¡reas y dando la
+oportunidad a los cientÃ­ficos de investigar aquellas relaciones que
+sÃ³lo salen a la luz con un anÃ¡lisis global del conocimiento cientÃ­fico.
+A su vez, este tipo de herramientas son clave en la toma de decisiones
+estratÃ©gicas para el desarrollo de nuevas lÃ­neas terapÃ©uticas.    Bioalma ha desarrollado una plataforma especÃ­fica,
+denominada aks2, que permite poner al alcance del usuario una enorme
+cantidad de resultados derivados del procesamiento de los artÃ­culos
+cientÃ­ficos de los algoritmos de Bioalma. Los algoritmos se encargan de
+leer los textos y localizar los tÃ©rminos relevantes en biomedicina,
+clasificÃ¡ndolos en diferentes categorÃ­as (genes/proteÃ­nas,
+enfermedades, fÃ¡rmacos, compuestos quÃ­micos, etc.). Estos algoritmos
+son capaces de localizar la informaciÃ³n gracias a que cuentan con
+recursos de diferentes bases de datos y a su capacidad para analizar la
+informaciÃ³n del contexto.  El resultado del anÃ¡lisis de la informaciÃ³n se
+almacena, de forma organizada, en una base de datos relacional. El
+acceso a esta base de datos se puede realizar de dos maneras
+diferentes: mediante una plataforma de programaciÃ³n de Java y a travÃ©s
+de un interfaz Web. La plataforma de programaciÃ³n estÃ¡ pensada para su
+uso por parte de profesionales bioinformÃ¡ticos y proporciona acceso a
+la informaciÃ³n de forma organizada, permitiendo explotar la informaciÃ³n
+de forma masiva y versÃ¡til. Por su parte, el interfaz Web estÃ¡
+compuesto por un buscador y varias herramientas adicionales que
+facilitan al investigador â€“incluso a uno sin grandes conocimientos
+informÃ¡ticos- la tarea de cruzar y analizar toda la informaciÃ³n que
+ofrece el sistema.  A diferencia de otras alternativas tÃ©cnicas que
+explotan la informaciÃ³n biomÃ©dica en la literatura cientÃ­fica, Bioalma
+ha desarrollado un sistema basado en la relaciÃ³n entre conceptos
+relevantes. El sistema permite llevar a cabo bÃºsquedas conceptuales,
+asÃ­ como navegar entre los conceptos relacionados en la literatura y
+recuperar los documentos que sostienen dichas relaciones.  La colaboraciÃ³n como pilar de sostenibilidad  La constante colaboraciÃ³n con centros de investigaciÃ³n,
+con compaÃ±Ã­as y universidades, ha permitido a Bioalma llevar a cabo
+proyectos innovadores. Gran parte de estas iniciativas se han
+desarrollado en el contexto del VI Programa Marco Europeo, aunque otros
+han sido acuerdos puntuales de colaboraciÃ³n con prestigiosos centros de
+investigaciÃ³n como el EMBL, con empresas biotecnolÃ³gicas como Siena
+Biotech o con centros docentes superiores de excelencia como la
+Universidad de California - San Francisco (EEUU). En EspaÃ±a, Bioalma
+forma parte del nodo de compaÃ±Ã­as del Instituto Nacional de
+BioinformÃ¡tica, donde desarrolla una funciÃ³n de apoyo a la
+investigaciÃ³n genÃ³mica.  Este campo de la investigaciÃ³n no es el Ãºnico plano en
+el que Bioalma se ha valido de acuerdos estratÃ©gicos. El desarrollo de
+productos enfocados a aumentar la competitividad en el proceso de
+investigaciÃ³n hace que EspaÃ±a, con un tejido industrial investigador
+aÃºn en expansiÃ³n, deba dirigir principalmente su actividad al exterior.
+Estados Unidos es por tanto su mejor mercado, y de Ã©ste procede el 90%
+de la facturaciÃ³n; en Europa, Suiza y BÃ©lgica son los paÃ­ses con mayor
+capacidad y deseo de adquisiciÃ³n de los productos de Bioalma.  Para conseguir ser competitivos en estos mercados, es
+fundamental contar con una buena infraestructura en el paÃ­s local.
+Bioalma lidera un acuerdo estratÃ©gico con la empresa biotecnolÃ³gica
+Active Motif, con sede en San Diego (EEUU) que, bajo la marca Time
+Logic, comercializa componentes de hardware dirigidos a acelerar los
+algoritmos de comparaciÃ³n de secuencias genÃ³micas. Active Motif cuenta
+con una infraestructura estable de Marketing y Ventas, por lo que puede
+dar cobertura a los productos de Bioalma y se responsabiliza ademÃ¡s de
+la comercializaciÃ³n de productos en Europa y Asia.  El reto del futuro  Bioalma ha apostado por al gestiÃ³n del conocimiento
+como principal estandarte para la creaciÃ³n de valor. La gran
+competitividad del sector biomÃ©dico y el cambio radical de este
+escenario especializado, en el que la biotecnologÃ­a juega un papel
+clave para la generaciÃ³n de nuevas estrategias terapÃ©uticas, hacen que
+todo desarrollo enfocado a explotar y entender de forma eficaz los
+resultados experimentales -cada vez mÃ¡s complejos y ricos en datos-,
+sea imprescindible.  Esta empresa afronta el futuro con el importante reto
+de extraer la informaciÃ³n, organizarla y hacerla accesible a los
+investigadores de una forma eficaz y sencilla, con el objetivo de
+aumentar la competitividad de los profesionales del campo. Para ello,
+cuenta con su experiencia en el desarrollo de algoritmos de minerÃ­a de
+textos, que aplicarÃ¡ a nuevas fuentes de informaciÃ³n y cuyos resultados
+facilitarÃ¡ el acceso desde Internet, mediante un sistema sencillo de
+usar y con gran potencia de anÃ¡lisis. A su vez, Bioalma contarÃ¡ con
+inversiÃ³n adicional gracias a una reciente ronda de financiaciÃ³n que le
+permitirÃ¡ llevar a cabo sus proyectos.BM         Promociones     Publicidad       Lo mÃ¡s visto    RegulaciÃ³n de sustancias quÃ­micas: normativa (...)  TelÃ³meros y el envejecimiento celular  Fuentes de financiaciÃ³n para pymes de base (...)  Los colores de la BiotecnologÃ­a  Tendencias actuales en los sectores cÃ¡rnico, (...)  El fitato, un regulador de la formaciÃ³n y (...)  La BiotecnologÃ­a Roja  Tratamiento de Distrofia Muscular con cÃ©lulas (...)  La BiotecnologÃ­a Verde  La BiotecnologÃ­a Industrial: una realidad hoy, (...)         Secciones     MKM    BYTE    ISV Magazine    Dr DobbÂ´s    Biotech Magazine   09 Noviembre - Diciembre 2008   10 Enero-Febrero 2009   08 septiembre 08   7 junio- julio 08   6 enero - febrero 08   5 Septiembre-Octubre 07   NÃºmeros anteriores     Confidencial de InformÃ¡tica    MonogrÃ¡ficos Byte    Publicaciones    Noticias MKM    Suscripciones    Publicidad      En la misma secciÃ³n   2008: Â¿ El aÃ±o del definitivo despegue de la BiotecnologÃ­a en EspaÃ±a ?  Obtienen cÃ©lulas con caracterÃ­sticas embrionarias a partir de cÃ©lulas madre adultas  La biotecnologÃ­a espaÃ±ola y sus perspectivas de futuro  Ferias y congresos 6Âº FORO NEOTEC, foro de Capital Riesgo  PrÃ³ximas ferias y congresos  Entrevista con Philippa Rodriguez, presidenta de AstraZeneca EspaÃ±a  Entrevista ORPHAMED  Entrevista: Juan Carlos JimÃ©nez, presidente del Grupo NÃ¡tura  AGV212: en la lucha contra el cÃ¡ncer  TecnologÃ­a de sincrotones aplicada a la bÃºsqueda de nuevos fÃ¡rmacos           RSS 2.0 | Mapa del sitio | Espacio privado | Quinfo | 2007-2009 Â© Todos los derechos reservados | Aviso legal  MKM Publicaciones InformÃ¡ticas Avda. del GeneralÃ­simo 14. 2Âº B. 28660 Boadilla del Monte. Madrid. Tfno.: 916 323 827 Fax: 916 332 564     phpMyVisites : Software GPL de estadísticas web      

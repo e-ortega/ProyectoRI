@@ -1,0 +1,40 @@
+      MetodologÃ­a de InvestigaciÃ³n  Propuesta para temas de IngenierÃ­a Civil       Principal  InvestigaciÃ³n  MetodologÃ­a de IngenierÃ­a de Sistemas  GestiÃ³n de problemas  Marco conceptual  Problemas  HipÃ³tesis y preguntas  EducaciÃ³n  Proceso de 
+			prospectiva  InnovaciÃ³n  Elementos de redes neurales  Elementos de 
+			lÃ³gica difusa   Algoritmos genÃ©ticos  AnÃ¡lisis factorial  TeorÃ­a de 
+			juegos  DesempeÃ±o  Concreto   Variables dependientes del tiempo  Concepto de 
+			deterioro  Hacia 
+			la MecÃ¡nica de Suelos   Elementos finitos   Estructuras inteligentes  Bielas y 
+			tirantes   Micro y nano mecÃ¡nica   Sistemas de ProtecciÃ³n Estructural   Monitoreo de Salud Estructural   PolÃ­meros reforzados con fibra   Nanomateriales  Sobre la 
+			MecÃ¡nica de Fractura  Fuego  Salud y seguridad  MÃ¡quinas   GestiÃ³n de construcciÃ³n  GestiÃ³n 
+			de pavimentos  Sismos  AutoconstrucciÃ³n  Medio 
+			ambiente  Modelos de eventos aleatorios  Uso de probabilidades  Funciones aleatorias  EstadÃ­stica y muestreo  DiseÃ±o de experimentos  Sistema 
+			Internacional de unidades, SI   TecnologÃ­a Peruana de ConstrucciÃ³n  Mapa del sitio                Modelo de un sistema basado en tÃ©cnicas de lÃ³gica difusa  Elementos 
+		sobre conjuntos difusos y lÃ³gica difusa.    Componentes  El sistema se plantea en tres bloques asociados 
+		tambiÃ©n a los procesos para usar las tÃ©cnicas de lÃ³gica difusa. Son los 
+		bloques de difusiÃ³n, de inferencia y de desdifusiÃ³n.  Es importante saber de las entradas y salidas del 
+		sistema. Las primeras estÃ¡n conformadas por las variables que son 
+		tomadas en cuenta en la representaciÃ³n que pretende el sistema. La 
+		salida es un resultado en concreto.  Las variables de entrada provienen de un proceso de 
+		selecciÃ³n que implica conocer el contexto del problema que se aborda. 
+		Como ilustraciÃ³n, en el mÃ³dulo de MATLAB que trata sobre lÃ³gica difusa, 
+		hay un ejemplo de demostraciÃ³n que considera las siguientes entradas y 
+		la salida. Da una buena idea sobre los propÃ³sitos del sistema.   Â·  Como entrada, se 
+		establecen los factores que influyen en el transporte en un espacio 
+		urbano determinado: poblaciÃ³n, ingresos, nÃºmero de vehÃ­culos, viviendas, 
+		empleo.   Â·  Como salida, se busca 
+		el trÃ¡fico vehicular en tÃ©rminos del nÃºmero de viajes en el espacio 
+		urbano en cuestiÃ³n.    Bloque difusor    El ingreso al bloque difusor estÃ¡ constituido por 
+		los datos de las variables de interÃ©s para el estudio. La salida es un 
+		conjunto difuso conformado por los grados de pertenencia de las 
+		variables de entrada a cada uno de los conjuntos difusos considerados. 
+		El proceso implica conocer o asumir las respectivas funciones de 
+		pertenencia.  Bloque de inferencia .  Bloque de desdifusiÃ³n .        Principal | InvestigaciÃ³n | MetodologÃ­a de IngenierÃ­a de Sistemas | GestiÃ³n de problemas | Marco conceptual | Problemas | HipÃ³tesis y preguntas | EducaciÃ³n | Proceso de prospectiva | InnovaciÃ³n | Elementos de redes neurales | Elementos de lÃ³gica difusa | Algoritmos genÃ©ticos | AnÃ¡lisis 
+		factorial | TeorÃ­a de juegos | DesempeÃ±o | Concreto | Variables dependientes del tiempo | Concepto de deterioro | Hacia la 
+		MecÃ¡nica de Suelos | Elementos 
+		finitos | Estructuras inteligentes | Bielas 
+		y tirantes | Micro 
+		y nano mecÃ¡nica | Sistemas de ProtecciÃ³n Estructural | Monitoreo de Salud Estructural | PolÃ­meros reforzados con fibra | Nanomateriales | Sobre la MecÃ¡nica 
+		de Fractura | Fuego | Salud y 
+		seguridad | MÃ¡quinas | GestiÃ³n de construcciÃ³n | GestiÃ³n de 
+		pavimentos | Sismos | AutoconstrucciÃ³n | Medio ambiente | Modelos de eventos aleatorios | Uso de probabilidades | Funciones aleatorias | EstadÃ­stica y muestreo | DiseÃ±o de experimentos | Sistema 
+		Internacional de unidades, SI | TecnologÃ­a Peruana de ConstrucciÃ³n | Mapa del sitio  Contacto: teofilovs@peru-v.com      

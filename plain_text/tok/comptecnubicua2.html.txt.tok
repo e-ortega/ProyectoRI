@@ -1,260 +1,232 @@
-mark,0.25,2
-weiser,1.0,8
-wikipedia,0.375,3
-enciclopedia,0.125,1
-libre,0.125,1
-navegación,0.375,3
-búsqueda,0.125,1
-chicago,0.125,1
-illinois,0.125,1
-23,0.125,1
-julio,0.125,1
-1952,0.125,1
-27,0.125,1
-abril,0.125,1
-1999,0.125,1
-índice,0.125,1
-biografía,0.25,2
-tecnología,0.375,3
-ubicua,0.5,4
-incorporar,0.25,2
-informática,0.5,4
-objetos,0.375,3
-véase,0.25,2
-referencias,0.25,2
-editar,0.875,7
-estudió,0.125,1
-ciencia,0.125,1
-comunicación,0.125,1
-universidad,0.125,1
-michigan,0.125,1
-temprana,0.125,1
-muerte,0.125,1
-dejó,0.125,1
-mundo,0.375,3
-ideólogo,0.125,1
-computación,0.5,4
-concepto,0.25,2
-ubicuidad,0.25,2
-tic,0.25,2
-introducido,0.125,1
-1988,0.125,1
-trabajando,0.125,1
-computer,0.25,2
-science,0.125,1
-laboratory,0.125,1
-xerox,0.25,2
-parc,0.125,1
-adquirió,0.125,1
-reconocimiento,0.125,1
-mundial,0.125,1
-1991,0.25,2
-trabajo,0.125,1
-the,0.25,2
-for,0.125,1
-twentyfirst,0.125,1
-century,0.125,1
-teoría,0.375,3
-aplicativa,0.125,1
-escribió,0.125,1
-bases,0.125,1
-fundamentales,0.125,1
-sistema,0.125,1
-distribuido,0.125,1
-móvil,0.125,1
-sistemas,0.125,1
-funcionaban,0.125,1
-cuatro,0.125,1
-cimientos,0.125,1
-inteligente,0.125,1
-espacios,0.25,2
-eficaces,0.125,1
-invisibilidad,0.125,1
-escala,0.125,1
-local,0.125,1
-ocultación,0.125,1
-desniveles,0.125,1
-acondicionamiento,0.125,1
-propone,0.25,2
-basa,0.125,1
-interacción,0.125,1
-actual,0.125,1
-operadorcomputador,0.125,1
-ordenada,0.125,1
-libro,0.25,2
-expuso,0.125,1
-computadora,0.125,1
-punto,0.125,1
-conexión,0.125,1
-enredado,0.125,1
-manejo,0.125,1
-requiere,0.125,1
-atención,0.25,2
-exclusiva,0.125,1
-quitando,0.125,1
-usuario,0.125,1
-tarea,0.125,1
-debe,0.125,1
-utilizaba,0.125,1
-frecuencia,0.125,1
-realidad,0.125,1
-virtual,0.125,1
-tratar,0.125,1
-explicar,0.125,1
-ideas,0.125,1
-contraposición,0.125,1
-comparación,0.125,1
-decía,0.25,2
-tecnologías,0.25,2
-ubicuas,0.25,2
-son,0.125,1
-opuestas,0.125,1
-rv,0.125,1
-ésta,0.125,1
-trata,0.125,1
-poner,0.125,1
-vida,0.125,1
-personas,0.25,2
-generado,0.125,1
-ordenador,0.25,2
-fuerzan,0.125,1
-conviva,0.125,1
-real,0.125,1
-intentó,0.125,1
-plasmar,0.125,1
-debían,0.125,1
-idea,0.125,1
-anytime,0.125,1
-anywhere,0.125,1
-le,0.125,1
-pareció,0.125,1
-lógico,0.125,1
-defender,0.125,1
-ocaso,0.125,1
-computadoras,0.125,1
-entendiéramos,0.125,1
-término,0.125,1
-proponía,0.125,1
-ordenadores,0.25,2
-personales,0.25,2
-sean,0.125,1
-sustituidos,0.125,1
-invisibles,0.125,1
-encajados,0.125,1
-diario,0.125,1
-nivel,0.125,1
-costoso,0.125,1
-empresa,0.125,1
-trabajaba,0.125,1
-descarta,0.125,1
-plano,0.125,1
-realizarlo,0.125,1
-1998,0.125,1
-comenzaron,0.125,1
-aplicando,0.125,1
-pudo,0.125,1
-verla,0.125,1
-concluida,0.125,1
-urbana,0.125,1
-obtenido,0.125,1
-categoría,0.125,1
-informáticos,0.125,1
-estados,0.125,1
-unidos,0.125,1
-menú,0.125,1
-herramientas,0.25,2
-has,0.125,1
-accedido,0.125,1
-discusión,0.25,2
-contribuciones,0.125,1
-crear,0.25,2
-cuenta,0.125,1
-acceder,0.125,1
-nombres,0.125,1
-artículo,0.125,1
-variantes,0.125,1
-vistas,0.125,1
-leer,0.125,1
-ver,0.125,1
-historial,0.125,1
-buscar,0.125,1
-portada,0.125,1
-portal,0.125,1
-comunidad,0.125,1
-actualidad,0.125,1
-cambios,0.25,2
-recientes,0.125,1
-páginas,0.25,2
-nuevas,0.125,1
-página,0.5,4
-aleatoria,0.125,1
-ayuda,0.125,1
-donaciones,0.125,1
-notificar,0.125,1
-error,0.125,1
-imprimirexportar,0.125,1
-descargar,0.125,1
-pdf,0.125,1
-versión,0.25,2
-imprimir,0.125,1
-enlaza,0.125,1
-enlazadas,0.125,1
-subir,0.125,1
-archivo,0.125,1
-especiales,0.125,1
-enlace,0.125,1
-permanente,0.125,1
-información,0.125,1
-elemento,0.125,1
-wikidata,0.125,1
-citar,0.125,1
-idiomas,0.125,1
-العربية,0.125,1
-deutsch,0.125,1
-english,0.125,1
-français,0.125,1
-日本語,0.125,1
-português,0.125,1
-中文,0.125,1
-enlaces,0.125,1
-editó,0.125,1
-última,0.125,1
-vez,0.125,1
-17,0.125,1
-mar,0.125,1
-2017,0.125,1
-1750,0.125,1
-texto,0.125,1
-está,0.125,1
-disponible,0.125,1
-licencia,0.125,1
-creative,0.125,1
-commons,0.125,1
-atribución,0.125,1
-compartir,0.125,1
-igual,0.125,1
-30,0.125,1
-aplicarse,0.125,1
-cláusulas,0.125,1
-adicionales,0.125,1
-sitio,0.125,1
-usted,0.125,1
-acepta,0.125,1
-términos,0.125,1
-política,0.25,2
-privacidad,0.25,2
-marca,0.125,1
-registrada,0.125,1
-fundación,0.125,1
-wikimedia,0.125,1
-inc,0.125,1
-organización,0.125,1
-ánimo,0.125,1
-lucro,0.125,1
-acerca,0.125,1
-limitación,0.125,1
-responsabilidad,0.125,1
-desarrolladores,0.125,1
-declaración,0.125,1
-cookies,0.125,1
-móviles,0.125,1
+17                            , 0.125         , 1                   
+1952                          , 0.125         , 1                   
+1988                          , 0.125         , 1                   
+1991                          , 0.25          , 2                   
+1998                          , 0.125         , 1                   
+1999                          , 0.125         , 1                   
+2007                          , 0.125         , 1                   
+2256                          , 0.125         , 1                   
+23                            , 0.125         , 1                   
+27                            , 0.125         , 1                   
+abril                         , 0.125         , 1                   
+acerca                        , 0.125         , 1                   
+acondicionamiento             , 0.125         , 1                   
+actual                        , 0.125         , 1                   
+actualidad                    , 0.125         , 1                   
+adquiriã³                     , 0.125         , 1                   
+aleatoria                     , 0.125         , 1                   
+anytime                       , 0.125         , 1                   
+anywhere                      , 0.125         , 1                   
+aplicando                     , 0.125         , 1                   
+aplicativa                    , 0.125         , 1                   
+aquã                          , 0.125         , 1                   
+archivo                       , 0.125         , 1                   
+artãculo                      , 0.25          , 2                   
+at                            , 0.125         , 1                   
+atenciã³n                     , 0.25          , 2                   
+autor                         , 0.125         , 1                   
+ayuda                         , 0.125         , 1                   
+basa                          , 0.125         , 1                   
+bases                         , 0.125         , 1                   
+biografãa                     , 0.25          , 2                   
+buscar                        , 0.125         , 1                   
+bãºsqueda                     , 0.125         , 1                   
+cambios                       , 0.25          , 2                   
+categorãa                     , 0.125         , 1                   
+century                       , 0.125         , 1                   
+chicago                       , 0.125         , 1                   
+ciencia                       , 0.125         , 1                   
+cimientos                     , 0.125         , 1                   
+citar                         , 0.125         , 1                   
+comenzaron                    , 0.125         , 1                   
+comparaciã³n                  , 0.125         , 1                   
+computaciã³n                  , 0.375         , 3                   
+computadora                   , 0.125         , 1                   
+computadoras                  , 0.125         , 1                   
+computer                      , 0.25          , 2                   
+comunicaciã³n                 , 0.125         , 1                   
+comunidad                     , 0.125         , 1                   
+concepto                      , 0.25          , 2                   
+concluida                     , 0.125         , 1                   
+conexiã³n                     , 0.125         , 1                   
+contenido                     , 0.125         , 1                   
+contenidos                    , 0.125         , 1                   
+contraposiciã³n               , 0.125         , 1                   
+conviva                       , 0.125         , 1                   
+costoso                       , 0.125         , 1                   
+cuatro                        , 0.125         , 1                   
+debe                          , 0.125         , 1                   
+debãan                        , 0.125         , 1                   
+decãa                         , 0.25          , 2                   
+defender                      , 0.125         , 1                   
+dejã³                         , 0.125         , 1                   
+derechos                      , 0.125         , 1                   
+descarta                      , 0.125         , 1                   
+desniveles                    , 0.125         , 1                   
+deutsch                       , 0.125         , 1                   
+diario                        , 0.125         , 1                   
+discusiã³n                    , 0.125         , 1                   
+disponible                    , 0.125         , 1                   
+distribuido                   , 0.125         , 1                   
+documentaciã³n                , 0.125         , 1                   
+donativos                     , 0.125         , 1                   
+editar                        , 0.625         , 5                   
+eficaces                      , 0.125         , 1                   
+empresa                       , 0.125         , 1                   
+encajados                     , 0.125         , 1                   
+enciclopedia                  , 0.125         , 1                   
+english                       , 0.125         , 1                   
+enlace                        , 0.125         , 1                   
+enlaza                        , 0.125         , 1                   
+enlazadas                     , 0.125         , 1                   
+enredado                      , 0.125         , 1                   
+entendiãramos                 , 0.125         , 1                   
+escala                        , 0.125         , 1                   
+escribiã³                     , 0.125         , 1                   
+espacios                      , 0.125         , 1                   
+especiales                    , 0.125         , 1                   
+estados                       , 0.125         , 1                   
+estudiã³                      , 0.125         , 1                   
+exclusiva                     , 0.125         , 1                   
+explicar                      , 0.125         , 1                   
+expuso                        , 0.125         , 1                   
+for                           , 0.125         , 1                   
+foundation                    , 0.125         , 1                   
+frecuencia                    , 0.125         , 1                   
+fuerzan                       , 0.125         , 1                   
+funcionaban                   , 0.125         , 1                   
+fundamentales                 , 0.125         , 1                   
+generado                      , 0.125         , 1                   
+gnu                           , 0.125         , 1                   
+herramientas                  , 0.25          , 2                   
+historial                     , 0.125         , 1                   
+idea                          , 0.125         , 1                   
+ideas                         , 0.125         , 1                   
+ideã³logo                     , 0.125         , 1                   
+idiomas                       , 0.125         , 1                   
+illinois                      , 0.125         , 1                   
+imprimir                      , 0.125         , 1                   
+inc                           , 0.125         , 1                   
+incorporar                    , 0.25          , 2                   
+informatica                   , 0.25          , 2                   
+informãtica                   , 0.25          , 2                   
+informãticos                  , 0.125         , 1                   
+inteligente                   , 0.125         , 1                   
+intentã³                      , 0.125         , 1                   
+interacciã³n                  , 0.125         , 1                   
+introducido                   , 0.125         , 1                   
+invisibilidad                 , 0.125         , 1                   
+invisibles                    , 0.125         , 1                   
+julio                         , 0.125         , 1                   
+jun                           , 0.125         , 1                   
+laboratory                    , 0.125         , 1                   
+le                            , 0.125         , 1                   
+libre                         , 0.25          , 2                   
+libro                         , 0.125         , 1                   
+licencia                      , 0.125         , 1                   
+limitaciã³n                   , 0.125         , 1                   
+local                         , 0.125         , 1                   
+lucro                         , 0.125         , 1                   
+lã³gico                       , 0.125         , 1                   
+manejo                        , 0.125         , 1                   
+marca                         , 0.125         , 1                   
+mark                          , 0.25          , 2                   
+michigan                      , 0.125         , 1                   
+modificada                    , 0.125         , 1                   
+muerte                        , 0.125         , 1                   
+mundial                       , 0.125         , 1                   
+mundo                         , 0.375         , 3                   
+mã³vil                        , 0.125         , 1                   
+navegaciã³n                   , 0.25          , 2                   
+nivel                         , 0.125         , 1                   
+objetos                       , 0.375         , 3                   
+obtenido                      , 0.125         , 1                   
+ocaso                         , 0.125         , 1                   
+ocultaciã³n                   , 0.125         , 1                   
+ocultar                       , 0.125         , 1                   
+operadorcomputador            , 0.125         , 1                   
+opuesta                       , 0.125         , 1                   
+ordenada                      , 0.125         , 1                   
+ordenador                     , 0.25          , 2                   
+ordenadores                   , 0.25          , 2                   
+organizaciã³n                 , 0.125         , 1                   
+parc                          , 0.125         , 1                   
+pareciã³                      , 0.125         , 1                   
+permanente                    , 0.125         , 1                   
+personales                    , 0.25          , 2                   
+personas                      , 0.25          , 2                   
+plano                         , 0.125         , 1                   
+plasmar                       , 0.125         , 1                   
+polãtica                      , 0.125         , 1                   
+poner                         , 0.125         , 1                   
+portada                       , 0.125         , 1                   
+portal                        , 0.125         , 1                   
+privacidad                    , 0.125         , 1                   
+propone                       , 0.25          , 2                   
+proponãa                      , 0.125         , 1                   
+pudo                          , 0.125         , 1                   
+punto                         , 0.125         , 1                   
+pãgina                        , 0.25          , 2                   
+pãginas                       , 0.125         , 1                   
+quitando                      , 0.125         , 1                   
+real                          , 0.125         , 1                   
+realidad                      , 0.125         , 1                   
+realizarlo                    , 0.125         , 1                   
+recientes                     , 0.125         , 1                   
+reconocimiento                , 0.125         , 1                   
+registrada                    , 0.125         , 1                   
+registrarseentrar             , 0.125         , 1                   
+requiere                      , 0.125         , 1                   
+responsabilidad               , 0.125         , 1                   
+rv                            , 0.125         , 1                   
+saltar                        , 0.125         , 1                   
+science                       , 0.125         , 1                   
+sean                          , 0.125         , 1                   
+sistema                       , 0.125         , 1                   
+sistemas                      , 0.125         , 1                   
+son                           , 0.125         , 1                   
+subir                         , 0.125         , 1                   
+sustituidos                   , 0.125         , 1                   
+sã³lo                         , 0.125         , 1                   
+tabla                         , 0.125         , 1                   
+tambiãn                       , 0.25          , 2                   
+tarea                         , 0.125         , 1                   
+tecnologãa                    , 0.375         , 3                   
+tecnologãas                   , 0.25          , 2                   
+temprana                      , 0.125         , 1                   
+teorãa                        , 0.375         , 3                   
+the                           , 0.25          , 2                   
+tic                           , 0.25          , 2                   
+trabajaba                     , 0.125         , 1                   
+trabajando                    , 0.125         , 1                   
+trabajo                       , 0.125         , 1                   
+trata                         , 0.125         , 1                   
+tratar                        , 0.125         , 1                   
+twentyfirst                   , 0.125         , 1                   
+tãrmino                       , 0.125         , 1                   
+tãrminos                      , 0.125         , 1                   
+ubicua                        , 0.5           , 4                   
+ubicuas                       , 0.25          , 2                   
+ubicuidad                     , 0.25          , 2                   
+unidos                        , 0.125         , 1                   
+universisdad                  , 0.125         , 1                   
+usuario                       , 0.125         , 1                   
+utilizaba                     , 0.125         , 1                   
+verla                         , 0.125         , 1                   
+versiã³n                      , 0.125         , 1                   
+vez                           , 0.125         , 1                   
+vida                          , 0.125         , 1                   
+virtual                       , 0.125         , 1                   
+vistas                        , 0.125         , 1                   
+vãase                         , 0.375         , 3                   
+weiser                        , 1.0           , 8                   
+wikimedia                     , 0.125         , 1                   
+wikipedia                     , 0.25          , 2                   
+wikipediaâ                    , 0.125         , 1                   
+xerox                         , 0.25          , 2                   
+âœ                            , 0.25          , 2                   
+ãnimo                         , 0.125         , 1                   
+ãsta                          , 0.125         , 1                   
+ãºltima                       , 0.125         , 1                   
+äæ                            , 0.125         , 1                   
+ææœèªž                        , 0.125         , 1                   

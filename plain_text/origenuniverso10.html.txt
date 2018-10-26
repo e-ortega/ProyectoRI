@@ -1,0 +1,1593 @@
+                   Presentación    Objetivos    Miembros    Documentación    Búsquedas    Bibliografía    Enlaces    Fotografías
+y reportajes    Cursos    Contactar             Grupo de
+Investigación sobre Ciencia, Razón y Fe (CRYF)                 El
+origen del universo  Carlos Pérez (diapositivas) y
+Héctor L. Mancini (texto) Departamento de Física, Universidad de Navarra Diapositivas de enero de 2003, texto de enero de 2006     Texto    Índice
+de diapositivas  Presentación
+completa      Indice   Prólogo  A.
+El origen
+del universo
+físico    El
+Universo
+estático  La
+relatividad general y los universos
+dinámicos  La
+evolución de la materia  Una
+visión actual del universo y su
+formación  En
+resumen    B.
+los origenes
+según la fe
+cristiana    Las
+ideas
+del Génesis  Definiciones
+más recientes  El
+fin del
+Universo     Nota :
+Los números rojos entre
+paréntesis son enlaces que permiten ver la diapositiva
+correspondiente al texto en una ventana aparte.  Prólogo  El siguiente escrito está dedicado a
+comentar las
+diapositivas que presentó el Prof. Carlos Pérez
+García en sus dos conferencias del seminario "Ciencia,
+Razón y Fe", que tuvo lugar en la primavera del
+año
+2005.  Carlos Pérez dejó este
+trabajo inconcluso, sin
+texto, por causa del trágico accidente que sufrió
+el
+31 de Julio de 2005 durante una excursión a la
+montaña. Aunque no tuve la fortuna de asistir a ese curso,
+las características universales de la ciencia
+contemporánea permiten que otra persona cualquiera, como
+quien escribe estos textos, pueda imaginar y completar aquello que
+esa secuencia de imágenes intenta narrar.  No he introducido modificaciones en el orden de
+las
+fotografías, procurando respetar la línea
+argumental
+que de ellas se deduce. En un solo caso he citado una diapositiva
+en un orden diferente, para lograr continuidad y claridad en el
+texto; las diferencias que esto introduce son didácticas y
+no afectan al contenido concreto, que espero haber respetado.
+Cualquier diferencia, error u omisión respecto del contenido
+de las conferencias, por supuesto, se debe a mi única
+responsabilidad y pido anticipadamente disculpas por ello.  A mi entender hay tres diapositivas donde se fija
+la
+línea argumental. La primera, presenta el tema de la
+conferencia bajo el único titulo de "El origen del
+universo", aunque luego en su desarrollo tendrá dos enfoques
+netamente diferenciados, uno puramente científico y el otro
+bajo la perspectiva de la fe. Luego la diapositiva número 22
+está vacía y Carlos la denomina "de
+transición". Por fin la última, cierra la
+conferencia
+con la frase "El fin del universo". Nuevamente sin aclarar si es
+según la fe o según la ciencia, lo que
+también
+sugiere el planteamiento de un final común para ambas
+concepciones que, sin embargo, la diapositiva de transición
+intenta separar netamente.  No es extraño que un
+científico, un físico
+católico, tenga esta forma de pensar. Como
+científico, la búsqueda coherente de la verdad le
+impide tomar cualquier atajo que se aparte del camino que le
+proporcionan los fundamentos y la metodología de la ciencia.
+Pero como católico, sabe muy bien por la fe, que
+detrás de esa verdad empírica estará
+siempre
+Dios presente y que nunca lograremos en esta vida alcanzar la
+Verdad en plenitud. Esta dualidad, genera una tensión de
+superación y búsqueda permanente y nos hace ver
+el
+pensamiento científico como algo incompleto y en
+elaboración continua. Cada realidad escrutada, nos remite
+siempre a planos superiores del pensamiento con el convencimiento
+de que Dios está detrás de ella, y que es nuestra
+obligación analizar bajo qué forma se nos
+presenta.  Creo suponer que por esta razón Carlos
+no ha mezclado los
+discursos y los ha separado con una diapositiva sin contenido,
+neutra. Separa así dos discursos, manteniendo gran respeto y
+coherencia en cada uno de ellos, pero simultáneamente,
+preservando toda su identidad. Muchas veces la humanidad ha
+intentado mezclar las cosas o eliminar uno de los enfoques y
+normalmente, el resultado nunca ha sido demasiado bueno.  Hace ocho siglos Santo Tomás de Aquino
+nos decía
+por una parte, que no hay nada en nuestra mente que no haya pasado
+primero por los sentidos, lo que parece una adhesión
+completa al primer discurso, pero mantiene simultáneamente
+un discurso dual, una doble fuente en el plano del conocimiento al
+tratar la revelación. Esta postura fue confirmada en
+numerosas ocasiones y se mantiene viva en la Iglesia hasta la
+fecha. Como católico, también comparto esta
+perspectiva y por lo tanto, tampoco me gusta mezclar.  Antes de terminar, Carlos presenta una antigua y
+famosa
+fotografía tomada en 1933, en la que aparecen juntos tres
+científicos famosos: Robert Millikan, George
+Lemaître
+(creador del modelo del Big-Bang) y Albert Einstein. Como el
+segundo es un sacerdote, se ha considerado significativa su
+presencia junto a Einstein y en ocasiones, se la suele presentar
+como un ejemplo del diálogo entre ciencia y fe. Debemos
+señalar que esto es sólo parcialmente cierto.  Para comenzar, aunque uno era sacerdote y ambos
+creían en
+Dios, en la relación que tenían, ambos actuaban
+como
+científicos. Según algunos testigos, es sabido
+que se
+respetaron profundamente y se comprendieron muy bien. Sin embargo,
+sin abandonar ninguno la perspectiva científica, no lograron
+entenderse hasta el grado de compartir sus teorías sobre el
+universo físico, a pesar de cultivar la misma disciplina
+científica.  Por ello creemos que el llamado diálogo
+entre ciencia y
+fe no debe someterse a simplificaciones que lo menoscaben. Se trata
+de una tarea sumamente compleja en la que no se deben emplear
+argumentaciones sin pruebas fehacientes, expuestas al más
+alto nivel posible. Cuando faltan las evidencias experimentales, un
+diálogo de buena voluntad, aún
+manteniéndose
+dentro de una perspectiva puramente científica, solo permite
+la exposición respetuosa de cada punto de vista. Recordemos
+que detrás de muchos de los más grandes avances
+científicos hubo personas religiosas como
+Copérnico,
+Newton, Lemaître y el mismo Galileo, que no mezclaron su fe
+en sus realizaciones como científicos. También
+hubo y
+los hay, científicos de otras religiones y ateos, y cada uno
+expone la verdad científica desde su propia perspectiva.  No debe extrañar entonces que en el
+denominado
+"diálogo entre ciencia y fe", puedan existir opiniones
+distintas y discordantes. Muchas opiniones son sencillamente eso,
+opiniones, que para colmo de males en nuestra sociedad actual,
+suelen difundirse vulgarizadas en los medios de comunicación
+masivos. La mayor parte de los más sonados desencuentros, no
+pasa del nivel de discusiones estériles entre personas que
+no pueden confrontar evidencias y a las que les gusta opinar sobre
+cualquier ámbito de la ciencia, de la fe o de ambas. Cuando
+hay una demostración experimental, se acaban las
+disonancias.  Con esta idea como directriz, espero no haber
+tergiversado el
+pensamiento y el recuerdo de nuestro querido amigo Carlos
+Pérez García.  Héctor L. Mancini  A. El origen del
+universo físico   La consideración rigurosamente
+científica del
+origen del universo (1) es un problema relativamente nuevo. Sin
+embargo, su incorporación al pensamiento humano puede
+considerarse como muy antigua (2) .
+Aunque nuestros conocimientos
+sobre la historia humana oral y escrita tienen menos de 5.000
+años, se desprende de distintos datos
+arqueológicos
+que el hombre tiene preocupación por el mundo en el que vive
+y se forma ideas sobre el universo como un todo, desde mucho antes.
+Podemos afirmar que los rastros se pierden en el tiempo.  Cuando el hombre se hizo agricultor,
+necesitó escrutar
+los cielos para regular mejor los períodos de siembra y
+cosecha y así conseguir mayor eficiencia en su nuevo modo de
+supervivencia. Entonces la observación de la naturaleza, y
+fundamentalmente del comportamiento cíclico en los
+movimientos de los cielos, se convirtió en una tarea
+importante. Esa ocupación le permitió coleccionar
+durante un par de milenios un conjunto de observaciones, que se
+acumularon paralelamente a las diferentes teorías que
+desarrolló para explicarlos.  Estas descripciones teóricas en
+ningún caso pueden
+ser consideradas como científicas, ni siquiera aquellas que
+contienen aciertos descriptivos. No son científicas porque
+faltan varios de los elementos que hoy consideramos básicos
+para formar ese discurso. De cualquier manera, le proporcionaron al
+hombre una visión de conjunto sobre lo que observaba y en
+algunos fenómenos claramente recurrentes, le permitieron
+incluso predecir futuras consecuencias, un objetivo básico
+de la ciencia actual.No es el caso desarrollar aquí una
+historia detallada de esos pasos iniciales. Las primeras
+interpretaciones que analizaban las regularidades observadas
+considerando las “esferas celestes”
+(homocéntricas) pensadas para ubicar las estrellas
+“fijas”, y la inclusión de los epiciclos y
+deferentes para explicar los movimientos planetarios, fueron un
+avance importante en la construcción de una primitiva
+“ciencia de la totalidad” o
+“cosmología”. Estas cosmologías
+primitivas se desarrollaron y progresaron en verdaderas escuelas de
+pensamiento que hoy se recuerdan junto a los nombres de Hiparco,
+Apolonio, Aristóteles o Claudio Ptolomeo.  El Universo
+estático   El primer modelo relativamente completo utilizado
+para predecir
+los movimientos celestes es el modelo geocéntrico que se
+recuerda asociado al nombre de Claudio Ptolomeo I, quien
+recopiló muchos datos de siglos anteriores. Este modelo
+presenta la antigua concepción de un universo con la Tierra
+en su centro y los planetas describiendo complicadas órbitas
+sobre un fondo de estrellas supuestamente fijas. El problema
+más importante que resolvió, fue la
+descripción del movimiento planetario, incluida la Luna. La
+palabra Planeta, que significa “errabundo”, nos permite
+dar una idea del grado de abstracción necesario y la
+dificultad del problema cuando es observado desde la Tierra.  Pese a esa dificultad, el problema fue resuelto y
+con esas
+teorías ya era posible comprender y predecir algunos
+fenómenos como los eclipses, hasta entonces considerados
+como acontecimientos misteriosos por los no iniciados. Reducido su
+alcance a los planetas entonces conocidos, las teorías
+explicaron o al menos describieron de manera bastante correcta los
+movimientos de los astros. El del movimiento es el primer problema
+que se debe resolver, y puede considerarse como el fundamento para
+conseguir una descripción física del universo.
+Durante casi dos milenios, la humanidad mantuvo la idea de
+independencia de causas para movimiento de los astros y el
+movimiento aquí, en la Tierra, una idea que, por ejemplo,
+puede encontrarse en Aristóteles y en otros pensadores de la
+Grecia Antigua.  Con esta idea de fondo, todas las
+teorías sobre el
+movimiento celeste invariablemente respaldaron la concepción
+de un universo globalmente estático, estable y por lo tanto
+inmutable y eterno.  La razón teórica que impone
+ubicar en el centro de
+la Tierra el sistema de referencia “absoluto” para
+estudiar los movimientos, es la existencia de la fuerza de
+“gravedad”. La falta de explicación para el
+origen de esta fuerza utilizando sólo el “sentido
+común”, mantendrá durante 18 siglos el modelo
+geocéntrico como la solución más
+lógica. El modelo heliocéntrico, que
+también
+había sido propuesto en épocas antiguas,
+carecía de una base de datos experimentales que motivaran su
+utilización de forma preferente y en este sistema, se debe
+considerar a la Tierra en movimiento. Esta ubicación
+preferente para el “centro del universo”, debió
+esperar para su respaldo general a la aparición del libro de
+Nicolás Copérnico en 1543, a las extraordinarias
+observaciones astronómicas de Tycho Brahe (1546-1601) y a su
+utilización por Johannes Kepler. Hasta entonces, el modelo
+heliocéntrico no presentaba ventajas evidentes y en cambio
+presentaba serias desventajas.  A pesar del avance que significó en el
+cálculo de
+las órbitas y fundamentalmente en la comprensión
+global del movimiento planetario, el modelo heliocéntrico
+tardó muchos años en ser aceptado (probablemente,
+por
+los problemas asociados a la explicación de la existencia de
+la fuerza de gravedad). Pero pocos años después,
+con
+los primeros pasos de la nueva ciencia experimental, el modelo
+heliocéntrico se fue imponiendo por su propia coherencia
+entre los científicos. Como se sabe, este modelo tuvo en
+Galileo Galilei a uno de sus más activos defensores. Es
+famosa la frase de su retractación: “E pur si
+muove...”. Es decir: ...sin embargo se mueve... (la
+Tierra).  El modelo heliocéntrico
+tenía soporte racional y
+observaciones experimentales adecuadas, pero hasta los trabajos de
+Isaac Newton (1642-1727) estos modelos no pueden considerarse
+dentro de lo que actualmente se denomina una “teoría
+científica”. Es Isaac Newton quien unifica la
+mecánica celeste y la mecánica sobre la Tierra
+mediante una explicación común. Es decir, algo
+que ya
+es una teoría física. En su trabajo, por primera
+vez
+se abandona la antigua idea de la dualidad de causas y se
+relacionan las observaciones astronómicas con las del
+movimiento terrestre.  Newton en primer lugar, justifica por
+qué cerca de
+superficie de la Tierra, todos los cuerpos caen con la misma
+aceleración; conocimiento que marca un hito fundamental en
+el nacimiento de la ciencia moderna. Esa conclusión,
+derivada de su audacia en postular la igualdad entre masa inercial
+y masa gravitatoria, le permiten adelantarse con un
+pronóstico que comprobará H. Cavendish en 1798,
+casi
+100 años después, cuando mide la constante de
+gravitación universal.  Estos conocimientos ahora sistematizados
+significan un salto
+científico, que considerado cualitativamente, es el cambio
+más importante en el pensamiento teórico en
+más de 20 siglos. Y como suele ocurrir con estos cambios,
+esas ideas son seminales y darán lugar inmediatamente a
+reflexiones mucho más profundas sobre los conceptos de
+espacio y tiempo que las realizadas hasta entonces. A partir de esa
+declaración de principios que son las leyes de Newton del
+movimiento y de una explicación racional para la fuerza de
+gravedad, se cimentarán las bases de la ciencia moderna.
+Junto a Galileo, Newton mostrará un nuevo método
+para
+la reflexión científica que se
+impondrá en el
+futuro: en primer lugar, la expresión de toda
+teoría
+física o conocimiento aislado se hará en lenguaje
+matemático, un lenguaje que él mismo
+ayudó a
+crear. Y luego, esa teoría tendrá en el
+experimento o
+en la observación cuantitativa el criterio para verificar su
+validez. A su vez, cada nuevo experimento, para dar frutos,
+deberá insertarse en el marco general de la
+teoría y
+encontrar allí su justificación.  Para presentar su nueva dinámica,
+Newton ha introducido
+la antigua idea de espacio concebida por Euclides: un lugar
+vacío, isótropo y homogéneo, en el
+cual reside
+(o se agrega) la materia. Esta idea reemplaza la de un espacio con
+un lugar privilegiado para situar un sistema de referencia, sea
+éste el centro de la Tierra, el Sol o cualquier otro punto
+del universo. Para Newton, el espacio y el tiempo continúan
+desacoplados y el universo permanece infinito e inmutable, es
+decir, eterno. Este universo no tiene necesidad de un origen en el
+espacio o en el tiempo, aunque podría tenerlo. Un
+hipotético viajero que lo recorriera una
+dirección
+determinada, encontraría permanentemente nuevas regiones con
+nuevas estrellas y galaxias. Esta idea, aunque encierra alguna
+paradoja (p. ej. la “paradoja de Olbers”), parece muy
+adecuada como para unificar las teorías
+científicas
+en pocos axiomas.  Pero esta concepción del espacio no
+duraría tanto
+tiempo como la utilizada en la etapa anterior. Nuevos elementos de
+juicio modificarían esas ideas.  En 1905, Albert Einstein (1879-1955)
+presentó su
+teoría de la Relatividad Especial (o restringida), cuya
+simiente ya venía madurando dentro de la física,
+fundamentalmente con los trabajos de Georges FitzGerald (1851-1901)
+y Heindrik Lorentz (1853-1928) y los análisis sobre el
+resultado negativo del experimento de Michelson-Morley. Estos dos
+científicos llegaron independientemente y en el orden
+citado, a las conclusiones sobre la contracción del espacio,
+la constancia de la velocidad de luz en el vacío y la
+dilatación del tiempo. Lorentz, además, obtiene
+una
+ley sobre el aumento de la masa con la velocidad. Efectos que son
+muy notorios a velocidades cercanas a la de la luz, y que
+recibirán posteriormente su explicación
+integrados en
+el marco de la teoría de la relatividad especial. Sin
+embargo, ambos se quedaron ante las puertas de la teoría de
+la relatividad.  Es Albert Einstein (3) quien introduce en esa
+teoría las
+ideas sumamente novedosas sobre el espacio y el tiempo: un espacio
+que se contrae y un tiempo que se dilata cuando la velocidad
+aumenta. En esencia la teoría se refiere a la
+comparación entre las medidas realizadas en diferentes
+sistemas llamados inerciales, que se mueven con movimiento
+rectilíneo uniforme unos respecto de otros. Hasta entonces
+se consideraban válidas las conclusiones que se derivan de
+la relatividad de Galileo y de Newton. En ellas no se distingue
+entre un sistema en reposo y otro que se mueve con velocidad
+uniforme. Si no existe una fuerza externa, el sistema en ambos
+casos permanecerá indefinidamente en el estado en que se
+encuentra.  Einstein muestra, sin embargo, que observar desde
+un sistema de
+referencia en movimiento produce efectos novedosos. En particular,
+cuando se considera la propagación de ondas
+electromagnéticas como la luz, las ondas de radio o los
+rayos X en contra de la intuición, distintos observadores
+medirán la misma velocidad de propagación, aunque
+estén en movimiento.  Como ya se anticipó, fue la gran
+síntesis del
+electromagnetismo desarrollada por J. C. Maxwell (1831-1877)
+llevada de la mano de FitzGerald y Lorentz la teoría que
+introdujo las nuevas cuestiones relativas al espacio y al tiempo.
+Esa teoría había unificado la electricidad, el
+magnetismo y la óptica, creando el concepto de ondas
+electromagnéticas: campos electromagnéticos
+viajeros.
+Con todas las conclusiones anteriores, Einstein postuló que
+la constancia de la velocidad de luz se mantiene aún para
+emisores y observadores en movimiento relativo uniforme. Trabajando
+con esta hipótesis, Einstein comienza los estudios que lo
+llevan a plantear una transformación completa en la
+concepción del espacio y del tiempo. A bajas velocidades
+estos efectos no son importantes y se mantienen válidas las
+leyes de la física clásica, que ha quedado
+absorbida
+como un caso particular dentro de una teoría más
+general.  Einstein en su teoría plantea
+también la
+equivalencia entre masa y energía. En su ecuación
+más famosa: E = mc 2 , la masa m y la
+energía E , son dos caras de una misma
+realidad y se
+puede pasar de una forma a la otra simplemente multiplicando por
+una constante, la velocidad de la luz en el vacío c elevada al cuadrado.  Pocos años después, en 1916,
+el mismo Einstein
+completa su descripción incluyendo los sistemas de
+referencia acelerados (4) ,
+o sistemas “no inerciales”.
+Este nuevo avance teórico se conoce como
+“Teoría de la Relatividad General” y de hecho,
+es una teoría sobre la gravitación. Una
+teoría
+mucho más compleja y que a diferencia de la anterior,
+más limitada, tiene pocas situaciones en las que puede ser
+comprobada.  Basándonos en ella, ya no es posible
+concebir un universo
+como el de Newton, situado en un espacio infinito. La
+aceleración de la gravedad es una aceleración
+más y los problemas que produce su consideración
+en
+un espacio Euclídeo, isótropo y
+homogéneo, son
+transferidos ahora a las propiedades del espacio. La presencia de
+materia, cuya propiedad llamada masa es la causa de la
+atracción gravitatoria, en esta nueva concepción
+tiene un nuevo papel: “curva el espacio”. Es un espacio
+curvado quien causa la atracción de otras masas cercanas y
+lejanas (esta curvatura se puede imaginar como la que
+produciría una persona de gran peso parada sobre un
+colchón elástico que se deforma por esa presencia
+y
+atrae hacia sí a otras personas o cuerpos cercanos).  Casi 2000 años tardó la
+humanidad hasta que
+Newton, para describir el movimiento, pudo incorporar la idea de
+Euclides de un espacio isótropo y homogéneo. En
+menos
+de doscientos años, esa idea quedó reducida a un
+caso
+límite de un espacio más general
+(geometrías
+de Riemann y Lobachevsky). Nuevamente, la teoría anterior
+queda absorbida como caso límite. Por ejemplo, la suma de
+los ángulos interiores de un triángulo en la
+geometría de Euclides vale siempre 180º. En un
+espacio
+curvo ya no es así. Esa suma será mayor, pero
+siempre, cuando la curvatura es muy pequeña, el espacio
+podrá considerarse plano y recuperar su validez la
+geometría clásica. Esta absorción de
+las
+teorías precedentes en la nueva, es una constante dentro de
+la ciencia moderna. Las teorías anteriores son consideradas
+como lecturas válidas del mundo real, a su vez, las nuevas
+podrían ser absorbidas en el futuro, dentro de otra
+teoría más general. Pero en todos los casos, las
+precedentes conservan su validez dentro de su
+aproximación.  Nos da trabajo imaginar un espacio curvo. Aunque
+estamos dentro
+de él y contribuímos a su curvatura, a nuestra
+escala
+no nos resulta evidente y por ello, escapa a nuestro “sentido
+común”. Considerando el espacio como lo hace esta
+teoría, no es posible distinguir mediante un experimento una
+aceleración, de la curvatura del espacio o
+“gravedad”. Un campo gravitatorio homogéneo es
+completamente equivalente a un sistema de referencia acelerado.
+Esta es el llamado “Principio de Equivalencia” y en
+este espacio, las leyes de la física son las mismas bajo
+atracción gravitatoria que bajo aceleración.  Esta idea siempre le resultó
+difícil de comprender
+a los filósofos y más aún al
+común de
+las gentes. Por ello, la teoría de la relatividad es tan
+nombrada y comentada como escasamente comprendida. Pero con ella,
+Einstein explica en primer lugar (5) un fenómeno de muy
+pequeña amplitud y conocido desde tiempos antiguos: el
+exceso respecto de la teoría clásica en el
+movimiento
+de precesión del perihelio de Mercurio, el planeta
+más cercano al sol. El tema suena extraño, pero
+los
+astrónomos conocían su valor perfectamente
+(Leverrier
+en 1840 lo explicaba imaginando la existencia de un planeta
+más cercano al sol, que por supuesto, jamás fue
+observado). El valor de este efecto es aproximadamente de un grado
+cada 10.000 años, es decir 0,01º cada siglo. Un
+gran
+acierto para una teoría nueva, que debe remontar el enorme
+prestigio de Newton.  La teoría predecía otros
+fenómenos que no
+tardaron en ser comprobados. Por ejemplo, el valor de la
+desviación que se produce en un haz de luz al pasar cerca de
+una estrella de gran masa, una medición que
+realizó
+W. S. Adams por sugerencia de Arthur Eddington en 1919. Esta
+verificación tuvo una gran difusión y
+significó para Einstein una enorme fama y un
+éxito
+resonante. Otra predicción de la teoría es la
+dependencia de la frecuencia de los movimientos periódicos
+de un reloj atómico con la gravedad. En la actualidad, todos
+los sistemas GPS son corregidos por este efecto.  Luego de comprobadas estas predicciones, la
+confianza sobre la
+exactitud de la teoría general de la relatividad era tan
+grande, que obligaba a incluirla en cualquier modelo
+cosmológico, ya que la gravitación es una
+componente
+esencial. El mismo Einstein, en 1916 (6) ,
+planteó un modelo
+de universo en el cual incluía una distribución
+de
+masa isótropa y homogénea (considerada a gran
+escala), hipótesis que denominó “Principio
+Cosmológico”.  Al plantear su modelo, como la
+atracción gravitatoria
+tiene siempre el mismo signo (atractivo), Einstein se da cuenta que
+en algún momento se producirá el colapso del
+universo
+por causa de la gravedad. Ese efecto debía ser balanceado de
+alguna manera en las ecuaciones para evitarlo. Como los grandes
+científicos hasta ese momento, Einstein creía en
+la
+existencia de un universo estacionario y para lograrlo incluye en
+sus ecuaciones un término adecuado para que produjera el
+efecto contrario, es decir, un término repulsivo.
+Denominó a ese término “constante
+cosmológica” y ajustó su valor exactamente para
+obtener un universo estable. Cuando luego de algunos años se
+comprobó astronómicamente la expansión
+del
+universo, el propio Einstein consideró que introducir la
+constante cosmológica había sido “el mayor
+error de su vida”. Pero como se verá más
+adelante, en la actualidad ya no se considera un error.  Con la relatividad general quedaron firmemente
+sentadas las
+bases sobre las cuales deberían construirse los nuevos
+modelos cosmológicos. Einstein, como todos los grandes
+científicos anteriores, continuó creyendo en un
+universo estático e inmutable.  La relatividad
+general y los universos
+dinámicos   Pronto comenzaron a aparecer modelos
+dinámicos del
+universo, fundamentalmente por parte de matemáticos. Willem
+de Sitter, que aparentemente fue el primero en interesarse
+seriamente en la teoría de la relatividad y le dio gran
+difusión en Inglaterra, no estaba de acuerdo con la
+concepción de Einstein del universo. Para Einstein, el
+universo es estático y en la nueva geometría
+introducida, su curvatura debería ser constante. De Sitter
+en 1917 plantea por primera vez, que la curvatura debe crecer,
+aunque cada vez menos, y que por lo tanto, el universo
+debería expandirse como lo hace una pompa de
+jabón.
+Al menos en la teoría, parece ser ésta la primera
+sugerencia sobre un universo dinámico y en
+expansión.  Siempre dentro del plano teórico, en
+1922 y 1924,
+Alexander Friedmann publicaba dos artículos considerando
+soluciones dinámicas a las ecuaciones de Einstein. En
+efecto, si se abandona la hipótesis de un universo
+estático, el problema cosmológico relativista
+conduce
+a infinitas soluciones en las cuales el espacio varía en
+función del tiempo. Por lo tanto, surgen muchas
+posibilidades para considerar un universo en evolución y la
+literatura científica se enriqueció notablemente
+con
+estas consideraciones (7) .  Descrito con trazos muy gruesos y según
+estas ecuaciones,
+el universo puede tomar una entre tres alternativas posibles: un
+universo cerrado, un universo abierto o un universo
+“plano”. Un universo cerrado tendrá un radio de
+curvatura que se comportará de forma oscilatoria con
+sucesivas expansiones y contracciones en el espacio. La
+expansión del universo progresa hasta un punto en el cual la
+gravedad comienza a imponerse y causará su
+retracción, o bien crecerá hasta alcanzar una
+dimensión constante, como en el caso previsto por Einstein.
+Si el universo es abierto, estará en expansión
+permanente, expansión que además, puede ser
+acelerada
+o no (8) .  En los tres casos teóricos citados,
+cabe señalar
+una singularidad en el origen del tiempo. Considerando el flujo del
+tiempo hacia atrás, el universo actualmente en
+expansión, debió partir de una
+altísima
+densidad de masa y energía concentrada en un solo punto. Con
+esta idea, por primera vez, la ciencia comienza a considerar con su
+método el problema de la existencia de un
+“origen” para el universo; un problema que ya
+tenía una larga tradición en el pensamiento
+teológico y filosófico. Es de notar
+también,
+que ese origen coincide con el del tiempo y del espacio, que dejan
+de ser separables.  En las primeras dos décadas del siglo
+XX la calidad de
+los datos astronómicos aumentó notablemente
+gracias a
+la mejora en el diseño y construcción de los
+telescopios. Durante la década de 1920 a 1930 se realizaron
+importantes observaciones. Los telescopios, en particular el de
+Monte Wilson, permitían resolver las imágenes
+provenientes de las nebulosas más lejanas y analizar el
+desplazamiento al rojo de la radiación luminosa que llegaba
+desde ellas. Estos resultados fueron claves y contribuirían
+luego de manera muy importante a la consolidación de la
+teoría. En primer lugar porque se mejoró el
+cálculo de las distancias a las nebulosas lejanas: por
+primera vez se las situó correctamente, mucho más
+allá de la Vía Láctea. En
+consecuencia, el
+universo conocido aumentó sorprendentemente de
+tamaño
+y todas las teorías debían corregir ese dato.  Las primeras observaciones sobre el movimiento
+hacia el rojo de
+la luz proveniente de las nebulosas más lejanas se deben a
+Vesto Slipher y las realizó entre 1920 y 1930, pero no fue
+el único. En 1923, Edwin Hubble concluye que esas nebulosas
+lejanas en espiral, que por entonces se observaban en el
+límite de resolución, son en realidad conjuntos
+de
+estrellas, es decir, galaxias como nuestra Vía
+Láctea (12) .
+Un hecho que clarificó enormemente el panorama de
+evidencias experimentales astronómicas.  El mismo Hubble mediante observaciones obtenidas
+con el
+telescopio de Monte Wilson en 1929, calculará mediante el
+efecto Doppler, la velocidad de alejamiento mutuo entre las
+Galaxias (13) y comprobará que ese desplazamiento es
+proporcional a la distancia. Esto se conoció como “la
+fuga de las Galaxias”. Al obtener esta ley, en particular al
+observar los astros más distantes, Hubble obtiene nada menos
+que la velocidad a la que se expande el universo. Pero hasta ese
+momento, no se conocía ninguna interpretación
+teórica sobre este fenómeno. Esa velocidad
+parecía crecer con la distancia.  Prosiguiendo con el desarrollo
+histórico de las ideas
+científicas, debemos remarcar que los datos
+astronómicos de la “fuga de las galaxias”,
+fueron rápidamente considerados como uno de los apoyos
+más evidentes a la teoría de la
+expansión del
+universo. El científico y sacerdote belga George
+Lemaître llevó las cosas más
+allá y
+anticipó que si el universo actual se está
+expandiendo, retrocediendo en el tiempo, como quien vuelve una
+película hacia atrás, el universo
+debió haber
+comenzado en un punto singular donde se concentraba toda la materia
+y la energía. Lo denominó: el “Átomo
+primitivo” y supuso un origen común para el tiempo y
+además para el espacio.  Bajo el punto de vista de la ciencia, considerar
+un origen
+simultáneo para el tiempo y el espacio significa considerar
+un tiempo cero a partir del cual el espacio nace, se va expandiendo
+y el universo aumenta de tamaño a medida que transcurre el
+tiempo. Según los distintos modelos, cuando se consideran
+los detalles, esa expansión tendrá distintos
+efectos
+y duraciones. Pero por encima de todos ellos, el dato concreto de
+la expansión ya se considera una evidencia experimental, que
+se puede determinar a partir del desplazamiento hacia el rojo de la
+radiación luminosa proveniente de espacio. En particular, de
+la radiación que proviene de los lugares más
+remotos
+donde ese efecto es mayor.  ¿Pero en qué consiste ese
+desplazamiento?...
+Estudiando la luz blanca emitida aquí, en la Tierra, o la
+proveniente de estrellas muy lejanas, sabemos ya desde de Newton
+que está compuesta por diferentes colores, lo que en
+conjunto llamamos “espectro luminoso” (9) .
+Si hacemos
+incidir un haz de luz blanca sobre un elemento que la dispersa,
+como pueden ser un prisma o una rejilla de difracción ,
+observamos que la luz blanca se descompone en sus colores
+fundamentales (los colores del arco iris).  También sabemos
+científicamente desde Maxwell, que
+la luz es una onda electromagnética y que el ojo humano es
+nuestro detector. En la teoría de las ondas
+electromagnéticas, a cada color le corresponde una
+frecuencia y de todas las frecuencias que permanentemente cruzan el
+espacio, el ojo detecta sólo una pequeña
+región (10) .
+Una propiedad de todas las ondas
+electromagnéticas que viajan en el vacío, es que
+el
+producto de su frecuencia por su longitud de onda es una constante.
+Esa constante es la velocidad de propagación de esas ondas
+de la luz (aproximadamente: 300.000 km/s). Conocida la frecuencia
+es inmediato calcular la longitud de onda (o viceversa), y mediante
+experimentos de óptica, es relativamente sencillo determinar
+la longitud de onda.  Cuando la fuente de luz está en
+movimiento (11) ,
+ocurre
+un desplazamiento de la frecuencia recibida que depende de la
+velocidad de la fuente y se conoce como “efecto
+Doppler”. Un efecto que se comprende más
+fácilmente con el sonido. Es de experiencia común
+que
+una fuente de sonido acercándose parece aumentar la
+frecuencia mientras que alejándose se escucha un
+desplazamiento hacia frecuencias más bajas. Este
+desplazamiento hacia frecuencias más bajas, en
+óptica
+se conoce como: “desplazamiento (o corrimiento) hacia el
+rojo”. Un acercamiento produciría el efecto contrario,
+es decir, un desplazamiento hacia las frecuencias más altas
+que son las de color azul-violeta del espectro.  Volviendo a la historia de las ideas, como ya se
+dijo, fue
+George Lemaître (15) ,
+el primero en relacionar el
+desplazamiento de las galaxias con las soluciones a las ecuaciones
+de Einstein en el caso dinámico. Y lo hizo antes de la
+publicación de los resultados de Hubble. Notable
+matemático, tras realizar estudios de posgrado en Inglaterra
+y Estados Unidos, regresó a Bélgica y fue
+designado
+profesor de la Universidad de Lovaina en 1927. Descubrió
+después de Alexander Friedman y de manera independiente de
+éste, que las ecuaciones de la relatividad general admiten
+esas soluciones cosmológicas dinámicas. Como su
+condición de cosmólogo teórico estaba
+acompañada por un fuerte interés en los
+resultados de
+las observaciones astronómicas, tomó en cuenta
+los
+datos de las observaciones norteamericanas sobre la velocidad de
+desplazamiento de las galaxias, les asignó un significado
+físico en su teoría, las consideró
+como un
+indicio evidente de la expansión del universo y
+anticipó teóricamente la Ley de Hubble.  Cuando formuló la atrevida
+hipótesis evolutiva del
+“atomo primitivo” introdujo dentro de la ciencia la
+idea más importante que tenemos hoy sobre la
+evolución del universo. Según esta
+teoría, el
+universo debió comenzar a partir de una especie de
+átomo elemental, extremadamente denso, y pequeño,
+que
+evolucionó mediante una gigantesca explosión y
+cuyos
+fraccionamientos y agrupamientos sucesivos constituyen el universo
+que observamos hoy.  Lemaître presentó esta idea
+en un artículo
+que publicó en 1931 y tuvo en sus comienzos una mala acogida
+por los físicos de la época. Probablemente, en
+parte
+debido a su condición de matemático
+teórico,
+pero probablemente también debido a su condición
+de
+religioso. Quizás estas sean las causas por las cuales
+surgieron las resistencias que suelen acompañar a los
+cambios profundos en el pensamiento. Este modelo evolutivo
+resultaba poco atractivo para algunos físicos, pues
+permitía a los filósofos remontarse a una
+“Causa Primera” para todo el Universo, a una
+“Creación”, lo que parecía sacar fuera de
+la física el problema del origen. La teoría se
+presentaba entonces como una alternativa poco convincente frente al
+modelo estacionario de Einstein, que fue enriquecido con algunas
+aportaciones posteriores.  En 1950 Lemaître presentó un
+libro condensando su
+pensamiento titulado “ La hipótesis del átomo
+primitivo: un ensayo de cosmogonía”, pero ya se
+había impuesto entre los científicos y ante el
+público en general una reedición de la
+teoría
+del estado estacionario, debida principalmente a Gold, Bondi y Fred
+Hoyle (17) ,
+elaborada además mediante estudios
+básicos sobre la formación de los elementos.  Fue un mal momento para la teoría del
+“átomo
+primitivo”. En un congreso en Pasadena, Fred Hoyle se
+burló de Lemaître presentándolo con las
+palabras “this is the big bang man”... (“este es
+el hombre de la gran explosión”). Pero no todo
+resultó negativo, a partir de ese momento, la
+teoría
+de Lemaître quedó bautizada como teoría
+del
+“Big Bang”, nombre que actualmente ha perdido su
+carácter peyorativo, tiene gran aceptación
+popular y
+es el nombre con el que se conoce la teoría actualmente.
+Para recuperar la novedad y interés iniciales, la
+teoría de la expansión a partir de una
+singularidad
+inicial, debió esperar una nueva evidencia experimental.  La
+evolución de la materia   Unos años antes del suceso comentado,
+un antiguo
+estudiante de Friedmann, George Gamow, había puesto
+nuevamente la teoría de Lemaître en el escenario,
+precisando que aquel universo primitivo, además de ser
+más denso, debía haber sido mucho más
+caliente
+y predecía en sus cálculos la existencia de un
+resto
+de radiación enfriada, es decir, algo similar a un
+“fósil” proveniente de la etapa primitiva del
+universo, que debería estar presente en todos los rincones
+del universo. Esta radiación se conoce hoy como
+“radiación de fondo”.  Para aclarar un poco las cosas, recordemos que las
+leyes de la
+radiación del cuerpo negro permiten asociar una temperatura
+al color de la radiación emitida por un cuerpo caliente (16) .
+Por ejemplo, un hierro calentado a poco más de 1000
+ºC se ve de color rojo; si se calienta más se pone
+blanco. La distribución de intensidad para esos colores se
+conoce como Ley de Planck y se representa mediante una curva cuyo
+máximo se desplaza con la temperatura del cuerpo (Ley de
+Wien).  Dado el tiempo transcurrido en el universo desde
+la gran
+explosión original y a su gran expansión, esta
+radiación predicha por Gamow, debería
+corresponder a
+una temperatura muy baja. En resumen: al modelo de Lemaître
+le faltaba la Termodinámica y Gamow se la proporcionaba.  Cuando en 1965 dos científicos de la
+compañía Bell: Arno Penzias y Robert Wilson
+estaban
+midiendo una antena de recepción de un telescopio de
+microondas, encuentran un persistente ruido de fondo
+isotrópico, correspondiente a una temperatura muy baja (3
+K), no sospecharon que ese ruido estaba relacionado con el origen
+del universo predicho por Gamow (17) .
+Pero alguien recordó
+haber escuchado en 1964 en una conferencia de J. Peebles, un
+cosmólogo de Princeton, que esa radiación estaba
+predicha por Gamow y era compatible con los modelos
+dinámicos del universo. Así, casi por casualidad,
+se
+asocian ambos conceptos y aparece una de las pruebas más
+fehacientes a favor de la teoría de la gran
+explosión (18) .  Muchas investigaciones más fueron
+preparadas para
+confirmar estos datos. En 1992, el satélite COBE realiza
+mediciones sobre la distribución de la radiación
+de
+fondo del universo y más recientemente, en el año
+200l se logra la reconstrucción de su mapa completo, que
+viene a confirmar aún más, si cabe, la validez de
+este modelo.  En tanto el modelo se fue completando con los
+estudios de
+formación de la materia partiendo de la radiación
+del
+universo primitivo (19) .
+Los procesos de fusión nuclear y
+formación a partir del Hidrógeno, el Helio y
+metales
+como el Litio, ya habían sido estudiados en 1948 por Alpher,
+H. Bethe y Gamow.  Cuando se comienzan a comprender los procesos de
+formación de núcleos más pesados,
+núcleos que se producen en las condiciones especiales de
+temperatura y presión que existen en el interior de las
+estrellas, se va reconstruyendo el resto de la historia. Estos
+procesos fueron estudiados por Burbidge, Burbidge, Fowler y
+también por Fred Hoyle, que a pesar de su ironía
+en
+Pasadena, contribuyó con estos trabajos a completar esa idea
+del Big-Bang a la cual se había opuesto anteriormente. El
+mundo de lo más pequeño: las
+partículas
+elementales y el de lo más grande, los objetos
+astronómicos, se unen para formar la teoría
+actual
+sobre la evolución del universo. Evolución de la
+que
+tenemos una descripción científica bastante
+completa,
+casi desde su origen.  Una
+visión actual del universo y su
+formación   A grandes rasgos, hoy podemos decir que la materia
+visible del
+universo está formada en un 99 % por Hidrógeno y
+Helio. El 1% restante corresponde a los elementos más
+pesados a los cuales, en conjunto, los astrónomos designan
+como “metales”. Su abundancia relativa, temperatura de
+formación y el tiempo en el cuál se formaron se
+puede
+ver en la figura (20) .
+Con los datos actuales y aceptando la
+hipótesis de la “inflación“, podemos
+resumir la historia del universo (21) de la manera siguiente:  En los instantes iniciales, durante el llamado
+“tiempo de
+Planck” (10 -43 s), el universo estaba lleno de
+una energía muy densa, a una temperatura y
+presión
+correspondientes a ese estado. A continuación,
+rápidamente se expandió y enfrió,
+experimentando cambios de fase del tipo de los que ocurren durante
+la condensación de un vapor, pero referidos a
+partículas elementales. Aproximadamente a los
+10 -35 del primer segundo, el universo sufre un
+cambio de
+fase que provoca una etapa de expansión exponencial,
+conocida como “inflación cósmica”. Esta
+etapa de inflación produjo como resultado un plasma de
+partículas elementales llamadas “quarks” y
+“gluones”, con movimiento relativista.  El aumento de tamaño del espacio
+provoca más
+enfriamiento que continúa hasta que se produce otra
+transición de fase y ocurre la
+“bariogénesis”, la génesis de los
+componentes del núcleo atómico, de la cual
+todavía se sabe muy poco. Se estima que en esa
+época
+se formó la masa “bariónica del universo”
+y se produjo la asimetría entre materia y antimateria que se
+observa hoy. Es decir, en esa época los quarks y los gluones
+que hasta entonces eran libres, se combinaron para dar bariones
+como el protón o el neutrón, los componentes
+básicos del núcleo atómico.  Al continuar la expansión
+continúa el enfriamiento
+y nuevos cambios de fase siguen rompiendo la simetría
+inicial, dando la forma actual a las fuerzas de la física y
+a las partículas elementales. A partir de aquí,
+es
+más sencillo inferir que la unión de protones y
+neutrones dará lugar a la formación de los
+núcleos de Deuterio y de Helio, un proceso denominado
+“nucleosíntesis primordial”.  Después el enfriamiento hace que la
+materia deje de
+moverse de manera relativista y la densidad de energía
+comienza a dominar gravitacionalmente sobre la radiación.
+Pasados ya unos 300.000 años, los electrones y los
+núcleos se combinaron para formar los átomos
+(principalmente Hidrógeno). Por esta unión, la
+radiación se desacopló de los átomos y
+continuó viajando libremente por el espacio, es decir, el
+universo se volvió transparente. Esa radiación
+enfriada por la expansión, es el fondo de microondas que
+observamos hoy, en definitiva, un “fósil” del
+universo en aquel momento.  La descripción prosigue considerando
+que, en aquellas
+regiones donde la materia es ligeramente más densa, tiende a
+juntarse gravitacionalmente agrupándose en nubes, estrellas,
+galaxias y el resto de las estructuras que se observan actualmente.
+Para describir detalladamente los procesos de formación de
+esas estructuras es necesario conocer el tipo y la cantidad de
+materia del universo. Actualmente se estima que hay tres tipos de
+materia que son: la materia fría oscura, la materia oscura
+caliente y la materia “bariónica” observable,
+que es la que interactúa con los campos
+electromagnéticos.  La isotropía del fondo de microondas
+fue estudiada
+minuciosamente, tratando de encontrar rastros de aquellas
+anisotropías iniciales que dieron lugar a la
+formación de los primeros núcleos de
+condensación de materia. En 2003 se dieron a conocer los
+mejores datos disponibles obtenidos con el satélite WMAP
+(Wilkinson Microwave Anisotropy Probe, en castellano: Sonda
+Wilkinson de Anisotropías de Microondas). Esos datos
+confirman que la forma más común de materia es la
+materia fría oscura. Los tipos restantes
+llegarían al
+20% de la materia del universo.  Los cosmólogos han podido calcular
+muchos
+parámetros del universo con estos datos, con los del
+telescopio espacial Hubble y los del satélite COBE de 1989.
+Esos datos han permitido establecer que el fondo de microondas es
+isotrópico hasta una parte en 100.000 (1/10 5 )
+con una temperatura residual de 2,726 K).  Respecto de la teoría, la
+energía oscura toma la
+forma de una constante cosmológica como la que fue planteada
+en las ecuaciones de campo de Einstein y hay otros modelos, pero
+los detalles de esta ecuación de estado y su
+relación
+con el modelo estándar todavía están
+siendo
+investigados.  En las etapas iniciales del universo, las
+energías que
+tenían las partículas eran mayores que las que
+hoy se
+pueden alcanzar en un laboratorio (para alcanzarlas, suponiendo que
+fuera realizable, sería necesario construir un acelerador de
+una longitud comparable con la distancia al sol). Por lo tanto, no
+hay experimentación posible y no hay modelo
+físico
+convincente para los primeros (10 -33 s) del
+universo, el
+tiempo anterior al cambio de fase que forma parte de la
+teoría de la “Gran Unificación” de las
+fuerzas (GUT).  Para el primer instante, la teoría
+gravitacional de
+Einstein predice una singularidad donde las densidades son
+infinitas. Para intentar resolver esta paradoja, hace falta una
+teoría cuántica de la gravedad. Uno de los
+problemas
+no resueltos, más grandes de la física.  Por supuesto, no sabemos nada sobre lo que
+había antes
+del Big-Bang aunque nunca faltan especulaciones teóricas. La
+posibilidad de existencia de universos paralelos ya había
+anticipada por el filósofo y matemático
+alemán
+I. Kant, actualmente diríamos “multiversos”,
+cada uno con su big-bang, con sus constantes cosmológicas y
+sus leyes de la física, pero por ahora, y parece que por
+mucho tiempo más, todas estas teorías son
+sólo
+eso: especulaciones.  En resumen   Los datos experimentales han confirmado que la
+expansión
+existe, es acelerada y pocos científicos piensan hoy en la
+posibilidad de un modelo estacionario para el universo. Por lo
+cual, la teoría de una regresión final (o “Big
+- Crunch”) tiene actualmente muy poca aceptación.  La evolución del universo como ha sido
+descripta (con la
+relatividad general junto con el “modelo standard” de
+partículas elementales), también es aceptada hoy
+por
+la mayoría de los científicos y especialistas.  Pero esto no debe hacer pensar que se sabe todo
+sobre el origen
+del universo y su futuro. Para estimar su evolución futura,
+se trabaja sobre prolongaciones analíticas de las
+teorías actuales. En estos casos de proyección a
+tan
+largo plazo, se sabe que la ciencia suele describir muy bien los
+procesos anteriores y la probable continuación de los
+mismos. Pero poco puede decir la ciencia frente a la posibilidad de
+nuevos fenómenos emergentes, nuevos descubrimientos o
+resultados inesperados en la observación, una
+situación que ha sido normal en su historia. Por ejemplo,
+hoy se piensa que la mayor parte de la materia que forma el
+universo es “materia oscura”, de la cual no se sabe
+nada. Tampoco se sabe nada de la energía oscura, aunque no
+faltan teorías para todos estos casos.  Sí sabemos, “a ciencia cierta”, que el
+universo visible se expande y se enfría, y que algunas
+etapas de la gran explosión inicial tienen una
+verificación experimental muy firme. El resto, como ya se
+dijo, por ahora son especulaciones (22) .  B. Los origenes
+según la fe
+cristiana   El panorama que hemos presentado hasta
+aquí se deriva del
+método científico. Según este
+método,
+las teorías son confirmadas o abandonadas si los resultados
+de los experimentos y observaciones sobre la realidad no verifican
+las conclusiones que se han anticipado. En ocasiones, esos mismos
+experimentos proporcionan datos novedosos que no encajan en las
+teorías existentes y que requieren nuevas formulaciones. En
+su conjunto, el desarrollo de este método implica un proceso
+interactivo donde teoría y experiencia se modifican
+mutuamente hasta lograr avances en nuestra cosmovisión, que
+recién cuando se logra la síntesis consideramos
+como
+segura. Una seguridad relativa, que se mantiene dentro del marco de
+validez en el cual las ideas han sido comprobadas.  El concepto de Universo que analizaremos en esta
+segunda parte
+proviene de fuentes muy distintas a la ciencia. En este caso, los
+conceptos sobre los cuales se debe razonar (y que como veremos,
+llaman a obrar en consecuencia), provienen de una experiencia
+espiritual en cuyo inicio se sitúa Dios mismo. Y Dios no es
+una idea filosófica. Para todos los monoteístas
+es
+una Persona. Es el Ser por excelencia, el único Ser
+Necesario, según el mismo se nos ha revelado: Dios es el que
+Es, es decir, el único ser que Es por sí mismo.
+Los
+demás somos seres contingentes, creados por Él.  Cuando afirmamos que somos seres contingentes, no
+introducimos
+ninguna novedad respecto de la visión anterior: para la
+ciencia, esto también es una evidencia. El hombre no ha
+creado el universo ni se ha creado a sí mismo, y por lo
+tanto, respecto de la naturaleza también somos contingentes.
+Pero en nuestra concepción religiosa hay una diferencia
+fundamental, Dios se sitúa por encima de la naturaleza, es
+tanto Creador de la naturaleza como Creador nuestro. En este
+sentido Dios es superior al destino, a diferencia de otras
+religiones de la antigüedad que, como la griega,
+suponían a sus dioses sometidos a éste.  El punto de partida, nuestra primera
+afirmación en este
+camino es, entonces, nuestro reconocimiento personal y la
+aceptación (al menos), de la posibilidad de existencia de
+ese Ser. Sin este paso no podemos avanzar ni entender la nueva
+concepción del universo que nos plantea la fe.  Ese paso de afirmación nunca es
+completo, no carece de
+dudas, ni es el único en la vida de un hombre. Podemos
+identificar y observar en otros seres humanos los avances y los
+retrocesos en el crecimiento de su relación con Dios. Una
+relación que se construye mediante la reflexión
+pero
+fundamentalmente, mediante experiencias espirituales en las cuales
+cada ser humano comienza a considerar por distintos caminos, que
+ese universo físico del cual él mismo forma
+parte, en
+el que se desarrolla y evoluciona, al cual se asoma con su
+pensamiento, tiene un sentido. Un sentido que como hombre puede
+llegar a comprender.  Entonces, la imagen que el hombre se forma a
+partir de la fe, no
+es la de un universo producto del azar ni de fuerzas ciegas y
+extrañas. Tiene un propósito establecido, una
+dirección de evolución hacia un fin determinado
+que
+lo justifica y lo trasciende. El hombre entiende que si bien
+él mismo es una criatura, una parte casi insignificante de
+la creación, su Creador se preocupa, gratuitamente, por su
+crecimiento y desarrollo dentro de ese sentido global que dio al
+universo.  La experiencia de la fe no es una experiencia
+fácil ni
+masiva. Se inicia personalmente, se desenvuelve persona a persona,
+a media luz y en voz baja. Dios se manifiesta mediante “un
+susurro” (Salmo 18, versículos 2-3), como una
+“leve brisa” (Elías) o se oculta “tras una
+nube” (Moisés). A nosotros nos llega por medio de un
+libro, la palabra de un amigo, una enfermedad,... por mil caminos
+que debemos aprender a transitar para reconocerle. Dios no fuerza
+la libertad humana, el hombre tiene en cada etapa de crecimiento
+personal la posibilidad de aceptarlo o de negarlo, de comprenderlo
+o rechazarlo.  Pero el crecimiento y la maduración del
+contenido de la
+fe, el dogma, no es tarea individual, fruto de un pensador
+solitario, sino que se deriva de una experiencia comunitaria
+desplegada a lo largo de una historia de milenios. Por ello, en el
+comienzo de esta segunda explicación del origen del
+universo, el ser humano no involucra sólo su raciocinio;
+necesita aceptar personalmente que Dios le confiere un sentido
+maravilloso a esa realidad que él, como hombre, observa,
+sufre y modifica. Asume también que ese sentido escapa a su
+voluntad y que sobrepasa a la razón y al conocimiento
+humanos. El hombre no es autor del proyecto de la creación,
+pero puede escrutar sus huellas y formular teorías, que
+siempre dependerán de la revelación. Al cambiar
+su
+cultura con los tiempos, ese sentido sobre su destino no se le
+manifiesta de manera inmutable, de una vez y para siempre. Su
+interpretación se desarrolla en la historia y evoluciona
+según progresan los conocimientos humanos. Su experiencia
+personal tiene sentido como una prolongación de la
+experiencia que tienen de Dios muchos otros hombres: un pueblo
+entero, el “pueblo de Dios”. Comunidad de fe a quien
+Dios elige no por mérito, sino gratuitamente, por amor. La
+fe no es nuestra fe, es la Fe de toda la Iglesia.  Detrás de cada
+interpretación científica
+sobre el universo que los hombres construimos, cada vez de manera
+más compleja y perfecta, resplandecerá ese
+sentido
+que Dios le ha dado y vendrá a iluminar el conocimiento que
+nos forjamos con la razón. Recién comprendemos
+completamente la naturaleza cuando además de observarla con
+los ojos de la ciencia, vemos su sentido con relación al
+plan de Dios. Entonces se vuelve transparente e inteligible,
+inteligibilidad que no es obra humana, nos viene de Dios, del hecho
+de compartir con el resto de la creación el
+carácter
+de criaturas.  Al conjunto de esa explicación en la
+historia la llamamos
+Revelación, (23) y es la base del contenido de nuestra fe.
+Esa fe nos permitirá interpretar lo que el universo
+significa para el hombre cuando se le dota de sentido
+histórico, trascendente y escatológico. La
+revelación es a la fe, lo que el conocimiento es a la
+razón.  Ese conocimiento reconoce dos fuentes concretas:
+la
+Tradición y las Sagradas Escrituras. La Tradición
+oral, es anterior a las Sagradas Escrituras. Las sagradas
+escrituras recogen la revelación, en primer lugar, la que
+Dios otorga al pueblo de Abraham y de Jacob por medio de sus
+profetas, y luego, ya definitivamente, por medio de su Palabra
+encarnada: el Logos, Jesucristro nuestro Señor. A
+través de los discípulos que Él
+eligió,
+llega al pueblo de Dios, y por su intermedio debe llegar a todo el
+resto de la especie humana.  Para los católicos, la
+Tradición se expresa por el
+Magisterio de la Iglesia, depositaria del contenido de ese Logos y
+responsable de su adecuación a cada momento
+histórico, de la adecuación a “los signos de
+los tiempos”. Esas son las dos fuentes inseparables que tiene
+la fe cristiana para interpretar el origen del universo: la Sagrada
+Escritura y el Magisterio de la Iglesia.  Las ideas del
+Génesis   Si queremos comenzar el análisis de las
+fuentes que
+provienen de la Sagrada Escritura, debemos recurrir a la
+tradición escrita en el Antiguo Testamento que recibimos del
+pueblo de Israel (24) .
+Las referencias al origen del universo en
+la Sagrada Escritura están al comienzo de su primer libro,
+“El Génesis”. En su capítulo I, primer
+versículo, la Biblia dice: “ Bereshit bara
+Elhoim…” , es decir: “Al principio
+creó Dios el Cielo y la Tierra…”.  Dios: el Ser necesario, el que es por
+Sí Mismo, como le
+dirá luego a Moisés desde la zarza ardiendo,
+creó cuanto conocemos. Nadie en la Tierra podrá
+asignar a Dios un nombre humano, lo mejor que podemos decir de
+Él, nos lo ha revelado Él mismo: Soy el que soy.
+Nos
+ha creado y nosotros no podemos salvar ese abismo, y es Él
+quien toma la iniciativa.  É9l ha creado el “átomo
+primigenio”.
+Ha creado la Tierra que estaba antes que nosotros, el Universo que
+estaba antes que la Tierra, y Él es antes que el Universo,
+el tiempo y el espacio. Esta idea de Dios, trascendente a toda
+idea, materia o energía que podamos pensar, está
+diseminada en toda la concepción bíblica
+vetero-testamentaria. Dios trasciende todo lo natural. Los textos
+de la revelación se multiplican: El Génesis II,
+5-25,
+Los Salmos, 2 Macabeos VII, 28…  Esa concepción pasa completa al Nuevo
+Testamento .
+“De muchas maneras habló Dios a los hombres, hasta que
+envió a su propio Hijo” ..., a su Palabra [S.
+Pablo]. Dios envía su Palabra a la Tierra (25) .
+Pero su
+Palabra, ya existía desde antes de la creación.  Nos dice San Juan Evangelista en el siglo II (DC):
+En el
+Principio era el Verbo…[Jn. 1,1]. La palabra de Dios, el
+Cristo, era anterior al universo y Cristo es el prototipo del ser
+humano, el nuevo Adán. Esta revelación alcanza
+una
+dimensión que trasciende todo pensamiento: por una parte,
+Dios toma forma humana y asume esta naturaleza, pero por otra el
+hombre, encuentra su origen como naturaleza, antes de la
+creación.  La posibilidad que tenemos de entender ese sentido
+que para
+nosotros tiene el mundo natural, nos viene de la Palabra de Dios,
+que ya existía antes de la creación. Si hubo
+evolución, Dios conocía su resultado antes de su
+comienzo. Por lo tanto los hombres, nosotros mismos, fuimos
+pensados por Dios antes de la existencia del tiempo y estamos
+destinados aquí, en esta Tierra, al encuentro con
+Él.  Naturalmente, la Revelación no dice por
+que procedimiento
+fuimos creados, ni nos comunica datos científicos, tenemos
+la libertad para averiguarlo. La Revelación da sentido a
+nuestra vida y nos indica cómo debemos vivirla, porque
+simultáneamente, la libertad que Dios nos dio, nos fuerza a
+elegir en cada momento: podemos asumir nuestro destino y llenar
+nuestra vida de sentido o rechazarlo y vaciarnos de Él.  Después la Tradición de la
+Iglesia, ya sin la
+presencia viva de la Palabra Encarnada, pero asistida por el
+Espíritu de Dios, recordará, reforzará
+y
+purificará el concepto que se ha forjado de la
+creación, a partir de la propia enseñanza de
+Cristo.
+Por ejemplo, leemos en S. Justino (100-160 dc) (26) :
+... “Es la doctrina que nos enseña a dar culto al
+Dios de los cristianos, al que tenemos por Dios único, el
+que desde el principio es hacedor y artífice de toda la
+creación visible e invisible”.  Fórmula que al final, ya destilada, se
+incorporará
+en el Credo o Símbolo Apostólico (s. III): “Creo
+en Dios Padre…creador del cielo y de la
+tierra” …, y sería perfeccionada en los
+concilios posteriores (27) de Nicea (a.325) y de Constantinopla (a.
+381), donde aparece en el llamado Símbolo
+“Niceno-Constantinopolitano” con la fórmula: “Creador
+del cielo y de la tierra, de todo lo
+visible y lo
+invisible…”.  En 1215, en el IV Concilio de Letrán (28) ,
+se establece
+el decreto “Firmiter” que contiene importantes
+principios como: la unidad del principio creador (Dios es Uno e
+indivisible, no tiene partes) la distinción entre Dios y el
+mundo, la creación del universo de la nada (ex nihilo), la
+naturaleza temporal de la creación (Dios crea
+también
+el tiempo) y la extensión de la creación a todos
+los
+seres vivos, a la naturaleza entera.  Santo Tomás de Aquino (1212-1274). (29) ,
+en la Summa
+Theol. q. 46, a. 2 comenta que el comienzo temporal del mundo es un
+dato de fe. Y que la creación de la nada, ex-nihilo, se
+puede probar con la razón.  Durante siglos, el tema es aceptado así
+entre los
+cristianos y deja de ocupar un lugar central en las discusiones
+doctrinarias. No es central, a pesar de la discusión
+referente al sistema heliocéntrico en el siglo XVII, ya que
+considerado bajo la perspectiva de la fe, no afecta demasiado a lo
+que nos ocupa. En realidad, no se discutió allí
+sobre
+el origen del universo y la creación.  Más recientemente, durante el Concilio
+Vaticano I se
+vuelve a tratar el tema en profundidad (30) ,
+y se establece entre
+otras cosas que: … “el universo es la obra
+excelente de un Dios bueno y sabio, que hizo todas las cosas con
+voluntad absolutamente libre” . Es decir, Dios no ha
+tenido necesidad de crearlo, la creación es una
+expresión libre del Amor Divino.  Había surgido una nueva
+visión científica
+que ponía en discusión la perspectiva religiosa
+sobre
+la creación del hombre, esta vez desde el naturalismo,
+contraponiéndola con la posibilidad de una continuidad
+evolutiva a partir de especies más simples, sometidas a
+procesos de selección natural (Darwinismo).  Rápidamente esta nueva propuesta
+científica fue
+considerada una demostración de que la
+consideración
+de la existencia de un creador, era totalmente superflua. Frente a
+la pretensión de anular la visión religiosa de la
+creación del hombre y del universo, la Iglesia se reafirma
+sobre los contenidos de la Revelación.  Es prudente destacar, que si bien desde sectores
+del
+evolucionismo se consideran ideas sobre el origen del hombre, en
+realidad no se habla del origen del universo. Y aún
+más, mucho más que del origen de la vida en el
+planeta, se trata de una teoría sobre la
+transformación de formas elementales de vida en formas
+más complejas. Pero este tema merece una
+consideración particular, mucho más extensa y
+detallada, por lo cual se remite a la bibliografía
+pertinente (que puede encontrarse en la página web
+citada).  Definiciones
+más recientes   El Concilio Vaticano I define que: “Dios
+sostiene y
+gobierna todo lo creado mediante su Providencia” . La
+aclaración resultó necesaria frente a la
+reducción mecanicista que se desplegó desde las
+ciencias físicas durante el siglo XIX, a partir del
+desarrollo de la “Mecánica Racional” (de Laplace
+a Mach) y de la Termodinámica. Según estas
+concepciones reduccionistas, se podría llegar a admitir,
+válidamente para la razón científica,
+la
+existencia de un dios creador, que pone en marcha su
+creación del universo y luego la abandona a su suerte. O
+bien la de un panteísmo natural, un dios
+“relojero” universal que controla y participa en todos
+los movimientos del universo, es decir, lo que llamamos
+naturaleza.  Un judío, un cristiano o un
+musulmán
+responderían que imposible elevar una oración a
+un
+dios así. La idea que nos forjamos de Dios los que creemos
+en Él, es mucho más trascendente que
+ésta y a
+la vez, sorprendentemente, más cercana. Con la formula
+citada, el Magisterio aclara la concepción cristiana de un
+Dios personal y providente.  El Vaticano I es prolífico respecto del
+tema, en la
+“ Constitución Dogmática sobre la Fe
+Católica” aclara que … “este
+único, verdadero Dios, por virtud de su bondad y
+omnipotencia, no por aumentar su gloria o por
+adquirirla”…. “hizo el mundo para comunicar su
+bondad y sus perfecciones”. Dedica un capítulo
+para especificar las relaciones entre fe y razón declarando
+que …”hay un doble orden de conocimientos, distinto
+no solamente por su principio, sino también por su
+objeto” …[35]. No hace sino confirmar lo que ya
+exponía Santo Tomás 600 años antes.  Pero el gran documento del siglo XX es el Concilio
+Vaticano II.
+La cantidad de temas discutidos fue tan amplia y tan completa que
+no podían faltar las referencias a la creación
+del
+universo (31) .
+La doctrina secular de la Iglesia hasta aquí
+expuesta aparece reflejada en numerosos trabajos discutidos por los
+padres conciliares que luego fueron publicados en distintos
+documentos particulares.  Son un ejemplo las constituciones conciliares
+tituladas
+“Lumen Gentium”, “Dei Verbum” y
+“Gaudium et Spes”. En ellas se remarcan: el misterio de
+la creación, la visión cristocéntrica
+de la
+misma, la colaboración del hombre, criatura singular de
+Dios, que actúa como continuador de la obra creada, o la
+relación existente entre la creación y el fin de
+los
+tiempos.  Los temas tratados en los documentos conciliares,
+por iniciativa
+del mismo papa que convocó el concilio, Juan XXIII, se
+discutieron en años posteriores para elaborar con ellos un
+catecismo que los pusiera al alcance de todos los fieles. De esta
+forma se incorporaron al pensamiento católico general y al
+Catecismo de la Iglesia Católica. El Catecismo, es un
+documento cuya redacción fue inicialmente recomendada
+durante el concilio, concretada durante el Sínodo de Obispos
+de 1985 y que conoció la luz bajo el Pontificado de Juan
+Pablo II, 30 años después de haber sido
+inaugurado el
+concilio (32) .  En su primera parte, el Catecismo analiza la
+Profesión de
+Fe o “Credo”. Desde su primer capítulo proclama
+que el hombre es “capaz” de Dios y en el segundo, que
+es Dios quien viene al encuentro del hombre. Entre los puntos 279 y
+301 analiza los orígenes del universo y destaca la
+importancia de una buena catequesis sobre estos temas.  La sucesión de los
+pontífices desde el concilio:
+Juan XXIII, Pablo VI o Juan Pablo II (33) ,
+en varios discursos a la
+Pontificia Academia de las Ciencias, precisaron los detalles de la
+doctrina de la Iglesia como lo habían hecho todos los papas
+anteriores.  También el papa Juan Pablo II,
+pidió perdón
+por los errores que pudieran haberse cometido en el denominado
+“caso Galileo”, como un acto de buena voluntad dirigido
+al mundo de la ciencia, para reafirmar la importancia que la
+Iglesia siempre le dado a esta actividad de la razón
+humana.  En 1998 Juan Pablo II publicó la
+encíclica Fides
+et Ratio (Fe y Razón), donde se plantea para esta
+relación el doble objetivo del diálogo y la
+autonomía que destacamos al comienzo de este
+artículo, que aclarara Santo Tomás y que reafirma
+lo
+establecido en el Concilio Vaticano I.  Las siguientes palabras de su santidad J. Pablo II
+destacan
+estos objetivos:  “Al expresar mi
+admiración y mi aliento hacia
+estos pioneros de la investigación científica, a
+los
+cuales la humanidad debe tanto de su desarrollo actual, siento el
+deber de exhortarlos a continuar en sus esfuerzos permaneciendo
+siempre en el horizonte sapiencial en el cuál los logros
+científicos y tecnológicos están
+acompañados por los valores filosóficos y
+éticos, que son una manifestación
+característica e imprescindible de la persona humana. El
+científico es muy consciente de que la búsqueda
+de la
+verdad… no termina nunca, remite a algo que está por
+encima del objeto inmediato de los estudios a los interrogantes que
+abren el acceso al Misterio”.  Desde el mundo católico, siempre ha
+existido una apertura
+a la ciencia, estableciendo los puentes necesarios para una
+comunicación serena y profunda de la verdad que cita su
+santidad Juan Pablo II en el apartado anterior. A pesar de algunos
+desencuentros, como el que se suscitó en torno al caso
+Galileo, la actitud normal entre los católicos fue intentar
+comprender la ciencia en sus detalles más profundos para
+encontrarse con el Misterio. En remontar la realidad física
+hasta la trascendente.  La relación entre la
+Religión y la Ciencia es muy
+importante para nosotros, los católicos y los religiosos en
+general. Algunos de los avances más significativos en la
+comprensión del universo como el heliocentrismo o la la
+teoría del Big Bang, se deben a personas de conocida
+religiosidad. El mismo Galileo, a pesar de lo que se diga en
+algunos ambientes o en los medios de comunicación, era un
+católico práctico. Son muchos también
+los
+encuentros y diálogos entre grandes científicos
+con
+diferentes convicciones religiosas o bien ateos y
+científicos católicos. Lo normal ha sido siempre
+el
+encuentro personal (34) ,
+más allá de sus
+convicciones religiosas, y debería bastar para demostrarlo
+con observar juntos en esa foto de Albert Einstein y Robert
+Millikan flanqueando al creador del modelo del Big- Bang, George
+Lamaître, en 1933.  Pocos años antes de esa
+fotografía se había
+establecido la ley de Hubble, Lemaître era un convencido del
+modelo dinámico, había introducido la
+hipótesis del átomo primordial en 1931, y
+Einstein no
+compartía esa visión científica. Sin
+embargo
+allí están juntos. Einstein, que muchas veces
+alabó el talento matemático del sacerdote y
+éste, que utilizó las ecuaciones de Einstein para
+desarrollar su modelo dinámico. Un modelo que incluye el
+origen del tiempo junto al universo, coincidiendo con la
+definición de Santo Tomás de Aquino, 700
+años
+antes.  Estas relaciones entre ciencia y fe, dentro del
+catolicismo, van
+mucho más allá: el propio Vaticano tiene una
+Academia
+Pontificia de las Ciencias donde muchos de los más
+importantes científicos son invitados a exponer sus
+teorías. El mismo papa Pío XII fue uno de los
+más entusiastas seguidores del modelo del Big-Bang, desde
+antes de su aceptación generalizada por la comunidad
+científica. Nada más ajeno ni más
+injusto
+entonces, que esa acusación de oscurantismo que le llueve a
+la Iglesia desde determinados ambientes del ateísmo.  El fin del
+Universo   Hemos llegado a la diapositiva final (35) y nos
+preguntamos:
+¿Cuál es el fin del Universo?
+Podríamos hablar
+de algunas recientes opiniones científicas en las que se
+extrapola la “muerte térmica” para un universo
+en expansión, hacer consideraciones sobre posibles
+alternativas, analizar la posibilidad de existencia de universos
+simultáneos, cada uno con sus constantes fundamentales y su
+Big-Bang, temas sobre los que también especula la
+teoría.  No parece ser esta la idea buscada por Carlos
+Pérez para
+el cierre de una exposición como la preparada en la serie de
+diapositivas que presentó. A mi entender, el mensaje final
+que procuran dejarnos estas dos conferencias, es que el fin del
+Universo, ocurra lo que ocurra físicamente, será
+la
+apertura completa a la trascendencia. No se trata de un fin, sino
+de una finalidad.  Para un hombre de fe, el fin
+trascenderá todo lo
+material. No importa el cómo. Desde la ciencia, aunque se
+especule con hermosas construcciones matemáticas, tampoco se
+sabe cómo será y mucho menos por qué.
+Sin
+embargo, desde la escatología cristiana, sí
+sabemos
+que el fin del universo será la realización plena
+de
+ese sentido que hoy adivinamos, en el que creemos y que nos permite
+obrar en consecuencia, para bien de todos nuestros hermanos, los
+hombres.  Según nuestra concepción, en
+el final de los
+tiempos terminará nuestro conocimiento parcial y veremos a
+Dios tal cual es (1 Cor. 13,12). Dios entonces habrá
+conducido su creación hasta el reposo definitivo y la gloria
+para la cual ha creado el Universo, con nuestro Cielo, con la
+Tierra y con todos nosotros en la cumbre de la creación,
+permitiéndonos comprenderla y colaborar con ella (Catecismo,
+314).  En la ciencia, para explicar la
+evolución del universo,
+es necesario unir nuestros conocimientos sobre lo más
+pequeño, las partículas elementales y sobre lo
+más grande, los cuerpos de la astrofísica:
+planetas,
+estrellas y galaxias. Para explicar el sentido de la
+evolución de la vida inteligente sobre la Tierra, vemos
+aquí, que también necesitamos unir lo
+más
+grande y lo más pequeño: Dios y el hombre. El
+hombre
+carece de sentido sin Dios, queda reducido a una fluctuación
+sin razón en el universo.  Ocupamos un lugar privilegiado en el Universo: el
+planeta
+Tierra. Muchos analizan desde la ciencia misma la causa y
+justificación de ese privilegio, tratando de calcular la
+probabilidad de aparición de vida inteligente en otros
+rincones del universo. Esa probabilidad, al parecer, es bastante
+baja. La tierra es un planeta habitable, al borde de un brazo de
+una galaxia, parte de un universo con sus constantes
+cosmológicas finamente ajustadas para la vida. Y es a la
+vez, un atalaya que permite observar su sistema planetario, la
+forma de su galaxia y hasta “los bordes” del universo.
+Es decir, con las bases para formar en su inteligencia, una
+cosmovisión científica. Una visión
+bastante
+ajustada de la totalidad.  Pero desde la perspectiva que estamos analizando
+aquí, la
+razón de ese privilegio trasciende lo físico y lo
+natural, porque este lugar donde vivimos, es el lugar del encuentro
+del hombre con su Creador. Aquí el Verbo se hizo Carne y
+habitó entre nosotros. Él establece nuestra
+dignidad
+como criaturas. Porque al principio, antes de la Creación,
+el Verbo ya era.  Esa es nuestra fe.  Índice
+de diapositivas     El
+origen del universo  Breve
+historia de las teorías cosmológicas  La
+relatividad especial.  La
+relatividad general.  Comprobación
+de la relatividad.  Relatividad
+general y cosmología.  Universos
+dinámicos  Posibles
+modelos del universo en expansión  Espectro
+de la luz.  Espectro
+de las ondas EM.  El
+efecto
+Doppler.  Astrofísica
+observacional.  La
+expansión del universo.  Edad
+del
+universo.  La
+gran
+explosión (Big Bang).  Radiación
+del cuerpo negro  Luz
+(radiación) fósil  Mapas
+de
+la radiación de fondo del universo  Formación
+de la materia (Nucleosíntesis)  Reacciones
+nucleares y abundancia relativa de los átomos  Historia
+del universo  Diapositiva
+de transición  B.
+Los
+orígenes según la fe.  Sagrada
+Escritura  Nuevo
+Testamento  Tradición  Primeros
+concilios  Concilio
+IV de Letrán (1215)  Santo
+Tomás de Aquino (1224-1274)  Concilio
+Vaticano I  Concilio
+Vaticano II 1962-1965  Catecismo
+de la Iglesia Católica 1994  Pío
+XII,... Pablo VI,... Juan Pablo II  Diálogo
+entre ciencia y fe  El
+fin del
+universo    Presentación
+completa   Nota: Animación Flash de más
+de 1 Mb. Para pasar las diapositivas, haga clic con el
+ratón sobre la imagen.            Universidad
+de Navarra  | Grupo Ciencia, Razón y Fe
+(CRYF)     Correo: apardo@unav.es | 
+Edificio de Facultades Eclesiásticas. Campus Universitario.
+31009 - Pamplona. España        Visitante
+número       desde el
+20-I-2003    

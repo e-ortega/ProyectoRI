@@ -1,389 +1,485 @@
-home,0.25,2
-arte,0.25,2
-iniciar,0.125,1
-sesión,0.125,1
-registrarse,0.125,1
-salir,0.125,1
-viernes,0.125,1
-28092018,0.125,1
-0721,0.125,1
-empresas,0.375,3
-banca,0.125,1
-energía,0.125,1
-telecomunicaciones,0.125,1
-distribución,0.125,1
-inmobiliario,0.125,1
-construcción,0.125,1
-política,0.5,4
-gobierno,0.125,1
-andalucía,0.125,1
-cataluña,0.125,1
-madrid,0.25,2
-país,0.125,1
-vasco,0.125,1
-valencia,0.125,1
-partidos,0.125,1
-políticos,0.125,1
-deportes,0.25,2
-fútbol,0.125,1
-tenis,0.125,1
-baloncesto,0.125,1
-fórmula,0.125,1
-motociclismo,0.125,1
-ciclismo,0.125,1
-mercado,0.25,2
-bolsas,0.125,1
-opinión,0.375,3
-economía,0.375,3
-fiscalidad,0.125,1
-macroeconomía,0.125,1
-laboral,0.125,1
-turismo,0.125,1
-vivienda,0.125,1
-internacional,0.125,1
-europa,0.125,1
-estados,0.125,1
-unidos,0.125,1
-américa,0.125,1
-latina,0.125,1
-asia,0.125,1
-áfrica,0.125,1
-oriente,0.125,1
-medio,0.25,2
-motor,0.125,1
-españa,0.375,3
-nec,0.125,1
-otium,0.125,1
-orbita,0.125,1
-estilo,0.125,1
-vida,0.375,3
-cultura,0.375,3
-moda,0.125,1
-cine,0.125,1
-lujo,0.125,1
-gadgets,0.125,1
-gastronomía,0.125,1
-viajes,0.375,3
-ocio,0.125,1
-televisión,0.125,1
-música,0.125,1
-fotos,0.125,1
-videos,0.125,1
-estatuas,0.375,3
-isla,1.0,8
-pascua,0.5,4
-llegaron,0.25,2
-andando,0.125,1
-agencias,0.25,2
-intereses,0.125,1
-temblando,0.125,1
-investigadores,0.25,2
-terry,0.25,2
-hunt,0.25,2
-carl,0.25,2
-lipo,0.25,2
-han,0.25,2
-dado,0.125,1
-traste,0.125,1
-principales,0.375,3
-misterios,0.375,3
-envuelven,0.125,1
-misteriosa,0.125,1
-porción,0.125,1
-tierra,0.25,2
-cómo,0.125,1
-respectivos,0.125,1
-lugares,0.375,3
-moáis,0.25,2
-seguir,0.125,1
-compartir,0.125,1
-noticia,0.125,1
-introduzca,0.125,1
-texto,0.125,1
-vista,0.125,1
-moai,0.125,1
-stringerreuters,0.125,1
-innumerables,0.125,1
-enigmas,0.25,2
-rodean,0.125,1
-parece,0.5,4
-tambalearse,0.125,1
-pequeño,0.125,1
-pedazo,0.125,1
-perteneciente,0.125,1
-chile,0.125,1
-1888,0.125,1
-etnia,0.125,1
-autóctona,0.125,1
-rapa,0.25,2
-nui,0.25,2
-ancestral,0.125,1
-dieron,0.125,1
-sinfín,0.125,1
-atractivos,0.25,2
-rodea,0.125,1
-inmensas,0.5,4
-efigies,0.375,3
-piedra,0.25,2
-esparcidas,0.125,1
-territorio,0.125,1
-isleño,0.125,1
-enormes,0.25,2
-cabezas,0.125,1
-esculpidas,0.125,1
-encuentran,0.25,2
-situadas,0.125,1
-multitud,0.125,1
-rincones,0.125,1
-escasos,0.125,1
-80,0.125,1
-kilómetros,0.125,1
-cuadrados,0.125,1
-cuenta,0.125,1
-visto,0.125,1
-misterio,0.25,2
-carecer,0.125,1
-interés,0.125,1
-obstante,0.125,1
-descubrimientos,0.125,1
-realizados,0.125,1
-apasionados,0.125,1
-exploradores,0.25,2
-lograron,0.125,1
-demostrar,0.125,1
-hallaban,0.125,1
-tallaban,0.125,1
-entrañas,0.125,1
-volcán,0.125,1
-rano,0.125,1
-raraku,0.125,1
-interior,0.125,1
-descubrieron,0.125,1
-torno,0.125,1
-400,0.125,1
-aún,0.375,3
-acabar,0.125,1
-ruta,0.125,1
-conducia,0.125,1
-lugar,0.125,1
-trabajo,0.25,2
-decenas,0.125,1
-adornaban,0.125,1
-camino,0.125,1
-sido,0.125,1
-quebraderos,0.125,1
-cabeza,0.125,1
-científicos,0.125,1
-turísticos,0.125,1
-turistas,0.125,1
-aprovechaban,0.125,1
-excusa,0.125,1
-viajar,0.125,1
-curiosidad,0.125,1
-resuelta,0.125,1
-lejos,0.125,1
-retornar,0.125,1
-siglos,0.125,1
-xii,0.125,1
-xvii,0.125,1
-comprobar,0.125,1
-primera,0.25,2
-mano,0.125,1
-métodos,0.125,1
-empleados,0.125,1
-originarios,0.125,1
-mover,0.25,2
-realizadon,0.125,1
-sello,0.125,1
-national,0.125,1
-geographic,0.125,1
-mediante,0.125,1
-explican,0.125,1
-forma,0.125,1
-sencilla,0.125,1
-pudieron,0.25,2
-aborígenes,0.125,1
-esculturas,0.125,1
-especial,0.125,1
-mystery,0.125,1
-of,0.125,1
-easter,0.125,1
-island,0.125,1
-comunicación,0.125,1
-científica,0.125,1
-preparado,0.125,1
-emitirá,0.125,1
-próximo,0.125,1
-noviembre,0.125,1
-2012,0.125,1
-ponene,0.125,1
-práctica,0.125,1
-simples,0.125,1
-cuerdas,0.125,1
-apenas,0.25,2
-30,0.125,1
-personas,0.25,2
-podian,0.125,1
-andar,0.125,1
-moles,0.125,1
-trasladarlas,0.125,1
-diferentes,0.125,1
-actualmente,0.125,1
-transporte,0.125,1
-quedar,0.125,1
-solventado,0.125,1
-representaban,0.125,1
-responde,0.125,1
-disposición,0.125,1
-son,0.125,1
-aguardar,0.125,1
-podrán,0.125,1
-sacar,0.25,2
-partido,0.125,1
-ahora,0.125,1
-portada,0.125,1
-ingresó,0.125,1
-146000,0.125,1
-euros,0.375,3
-pedro,0.25,2
-duque,0.25,2
-perdió,0.125,1
-sociedad,0.25,2
-185000,0.25,2
-año,0.125,1
-2005,0.25,2
-lucía,0.125,1
-gómez,0.125,1
-vínculos,0.125,1
-político,0.125,1
-gonzález,0.125,1
-despedida,0.125,1
-banquero,0.125,1
-veía,0.125,1
-aznar,0.125,1
-moncloa,0.125,1
-fhv,0.125,1
-plan,0.125,1
-pobreza,0.125,1
-energética,0.125,1
-bonos,0.125,1
-ribera,0.125,1
-luz,0.125,1
-calefacción,0.125,1
-costarán,0.125,1
-300,0.125,1
-millones,0.125,1
-santiago,0.125,1
-carcar,0.125,1
-comentarios,0.125,1
-vistas,0.125,1
-niña,0.125,1
-13,0.125,1
-años,0.125,1
-millonaria,0.125,1
-crear,0.125,1
-piruletas,0.125,1
-saludables,0.125,1
-dentadura,0.125,1
-sánchez,0.125,1
-insiste,0.125,1
-presupuestos,0.125,1
-sea,0.125,1
-senda,0.125,1
-déficit,0.125,1
-pp,0.125,1
-hunde,0.125,1
-firma,0.125,1
-ceo,0.125,1
-gopro,0.125,1
-quisimos,0.125,1
-éramos,0.125,1
-coches,0.125,1
-económicos,0.125,1
-ofrece,0.125,1
-viajas,0.125,1
-familia,0.125,1
-numerosa,0.125,1
-consigna,0.125,1
-pérdidas,0.125,1
-molesta,0.125,1
-josé,0.125,1
-luis,0.125,1
-roig,0.125,1
-houston,0.125,1
-problema,0.125,1
-sensacional,0.125,1
-impide,0.125,1
-ver,0.125,1
-importante,0.125,1
-suscríbete,0.125,1
-boletín,0.125,1
-información,0.25,2
-recibe,0.125,1
-hora,0.125,1
-mañana,0.125,1
-correo,0.125,1
-mejores,0.125,1
-noticias,0.125,1
-exclusivas,0.125,1
-management,0.125,1
-10,0.125,1
-hábitos,0.125,1
-exitosas,0.125,1
-irse,0.125,1
-dormir,0.25,2
-solemos,0.125,1
-asociar,0.125,1
-final,0.125,1
-jornada,0.125,1
-hecho,0.125,1
-cosas,0.125,1
-hagamos,0.125,1
-justo,0.125,1
-meternos,0.125,1
-cama,0.125,1
-tendrán,0.125,1
-impacto,0.125,1
-positivo,0.125,1
-negativo,0.125,1
-manera,0.125,1
-levantemos,0.125,1
-día,0.125,1
-siguiente,0.125,1
-motivo,0.125,1
-gente,0.125,1
-éxito,0.125,1
-suele,0.125,1
-rutinas,0.125,1
-cumplen,0.125,1
-rajatabla,0.125,1
-descansar,0.125,1
-tresb,0.125,1
-26092018,0.125,1
-calle,0.125,1
-condesa,0.125,1
-venadito,0.125,1
-nº,0.125,1
-planta,0.125,1
-28027,0.125,1
-síguenos,0.125,1
-secciones,0.125,1
-tecnología,0.125,1
-mercados,0.125,1
-temas,0.125,1
-servicios,0.125,1
-nosotros,0.125,1
-tlf,0.125,1
-91,0.125,1
-766,0.125,1
-81,0.125,1
-17,0.125,1
-publicidad,0.125,1
-webs,0.125,1
-practicopediacom,0.125,1
-aviso,0.125,1
-legal,0.125,1
-condiciones,0.125,1
-privacidad,0.125,1
-cookies,0.125,1
-buscar,0.125,1
+01                            , 0.1           , 1                   
+1014                          , 0.1           , 1                   
+17                            , 0.1           , 1                   
+17082018                      , 0.1           , 1                   
+1888                          , 0.1           , 1                   
+20                            , 0.1           , 1                   
+20082018                      , 0.1           , 1                   
+2012                          , 0.1           , 1                   
+2016                          , 0.1           , 1                   
+2335                          , 0.1           , 1                   
+28027                         , 0.1           , 1                   
+30                            , 0.1           , 1                   
+38                            , 0.2           , 2                   
+400                           , 0.1           , 1                   
+500                           , 0.2           , 2                   
+766                           , 0.1           , 1                   
+80                            , 0.1           , 1                   
+81                            , 0.3           , 3                   
+90                            , 0.2           , 2                   
+91                            , 0.1           , 1                   
+aborígenes                    , 0.1           , 1                   
+acabar                        , 0.1           , 1                   
+aceptando                     , 0.2           , 2                   
+aceptar                       , 0.1           , 1                   
+acosan                        , 0.1           , 1                   
+actuación                     , 0.2           , 2                   
+actualmente                   , 0.1           , 1                   
+acuerdo                       , 0.2           , 2                   
+adaptada                      , 0.2           , 2                   
+adictos                       , 0.2           , 2                   
+administrar                   , 0.2           , 2                   
+adornaban                     , 0.1           , 1                   
+agencias                      , 0.3           , 3                   
+aguardar                      , 0.1           , 1                   
+ahora                         , 0.1           , 1                   
+ahorrar                       , 0.2           , 2                   
+almacenar                     , 0.2           , 2                   
+alojan                        , 0.1           , 1                   
+alonso                        , 0.1           , 1                   
+alquiler                      , 0.1           , 1                   
+amenaza                       , 0.1           , 1                   
+américa                       , 0.1           , 1                   
+analíticos                    , 0.2           , 2                   
+ancestral                     , 0.1           , 1                   
+andalucía                     , 0.1           , 1                   
+andando                       , 0.2           , 2                   
+andar                         , 0.1           , 1                   
+anterior                      , 0.1           , 1                   
+anuncios                      , 0.1           , 1                   
+apaga                         , 0.1           , 1                   
+apasionados                   , 0.1           , 1                   
+apenas                        , 0.1           , 1                   
+aprovechaban                  , 0.1           , 1                   
+arte                          , 0.2           , 2                   
+asia                          , 0.1           , 1                   
+asumen                        , 0.1           , 1                   
+atractivos                    , 0.2           , 2                   
+atraer                        , 0.1           , 1                   
+autóctona                     , 0.1           , 1                   
+aviso                         , 0.1           , 1                   
+azul                          , 0.1           , 1                   
+años                          , 0.6           , 6                   
+aún                           , 0.3           , 3                   
+babbel                        , 0.1           , 1                   
+baloncesto                    , 0.1           , 1                   
+banca                         , 0.1           , 1                   
+bañistas                      , 0.1           , 1                   
+boletín                       , 0.2           , 2                   
+borja                         , 0.1           , 1                   
+busca                         , 0.1           , 1                   
+buscar                        , 0.1           , 1                   
+cabeza                        , 0.1           , 1                   
+cabezas                       , 0.1           , 1                   
+calle                         , 0.1           , 1                   
+camino                        , 0.1           , 1                   
+cancelando                    , 0.1           , 1                   
+cancelar                      , 0.1           , 1                   
+cara                          , 0.2           , 2                   
+caramelo                      , 0.2           , 2                   
+carecer                       , 0.1           , 1                   
+carl                          , 0.3           , 3                   
+carlos                        , 0.2           , 2                   
+caro                          , 0.2           , 2                   
+casas                         , 0.1           , 1                   
+catalanes                     , 0.2           , 2                   
+cataluña                      , 0.1           , 1                   
+causa                         , 0.1           , 1                   
+cerca                         , 0.2           , 2                   
+cerrar                        , 0.1           , 1                   
+chile                         , 0.1           , 1                   
+ciclismo                      , 0.1           , 1                   
+científica                    , 0.1           , 1                   
+científicos                   , 0.1           , 1                   
+cine                          , 0.1           , 1                   
+comentarios                   , 0.2           , 2                   
+compartir                     , 0.2           , 2                   
+competir                      , 0.1           , 1                   
+comprobar                     , 0.1           , 1                   
+comunicación                  , 0.1           , 1                   
+condesa                       , 0.1           , 1                   
+condiciones                   , 0.1           , 1                   
+conducia                      , 0.1           , 1                   
+confirma                      , 0.2           , 2                   
+consenso                      , 0.1           , 1                   
+construcción                  , 0.1           , 1                   
+consulte                      , 0.1           , 1                   
+contenido                     , 0.2           , 2                   
+continua                      , 0.1           , 1                   
+continúa                      , 0.1           , 1                   
+cookies                       , 0.5           , 5                   
+correcto                      , 0.2           , 2                   
+correo                        , 0.2           , 2                   
+criticada                     , 0.1           , 1                   
+cuadrados                     , 0.1           , 1                   
+cuenta                        , 0.1           , 1                   
+cuentas                       , 0.1           , 1                   
+cuerdas                       , 0.1           , 1                   
+cultura                       , 0.3           , 3                   
+cumple                        , 0.2           , 2                   
+curiosidad                    , 0.1           , 1                   
+cómo                          , 0.5           , 5                   
+dado                          , 0.2           , 2                   
+datos                         , 0.2           , 2                   
+debe                          , 0.1           , 1                   
+decenas                       , 0.1           , 1                   
+declara                       , 0.1           , 1                   
+demostrar                     , 0.1           , 1                   
+deportes                      , 0.2           , 2                   
+deportivo                     , 0.1           , 1                   
+descalificado                 , 0.1           , 1                   
+descubrieron                  , 0.1           , 1                   
+descubrimientos               , 0.1           , 1                   
+dieron                        , 0.1           , 1                   
+diferentes                    , 0.1           , 1                   
+dinero                        , 0.1           , 1                   
+disney                        , 0.2           , 2                   
+disposición                   , 0.1           , 1                   
+distribución                  , 0.1           , 1                   
+divorcio                      , 0.2           , 2                   
+día                           , 0.2           , 2                   
+easter                        , 0.1           , 1                   
+economía                      , 0.3           , 3                   
+efectivo                      , 0.1           , 1                   
+efigies                       , 0.3           , 3                   
+ejecutivo                     , 0.1           , 1                   
+eliminarlos                   , 0.1           , 1                   
+elinforme                     , 0.1           , 1                   
+emitirá                       , 0.1           , 1                   
+empleados                     , 0.1           , 1                   
+empresas                      , 0.4           , 4                   
+encontrar                     , 0.1           , 1                   
+encuentran                    , 0.2           , 2                   
+energía                       , 0.1           , 1                   
+enigmas                       , 0.2           , 2                   
+enormes                       , 0.2           , 2                   
+entrañas                      , 0.1           , 1                   
+enviar                        , 0.3           , 3                   
+envuelven                     , 0.2           , 2                   
+escasos                       , 0.1           , 1                   
+esculpidas                    , 0.1           , 1                   
+esculturas                    , 0.1           , 1                   
+esparcidas                    , 0.1           , 1                   
+españa                        , 0.3           , 3                   
+español                       , 0.1           , 1                   
+españoles                     , 0.1           , 1                   
+especial                      , 0.1           , 1                   
+especie                       , 0.1           , 1                   
+estados                       , 0.1           , 1                   
+estará                        , 0.2           , 2                   
+estatuas                      , 0.4           , 4                   
+estilo                        , 0.1           , 1                   
+estudio                       , 0.1           , 1                   
+etnia                         , 0.1           , 1                   
+europa                        , 0.2           , 2                   
+exclusivas                    , 0.1           , 1                   
+excusa                        , 0.1           , 1                   
+exigen                        , 0.1           , 1                   
+experta                       , 0.1           , 1                   
+explica                       , 0.1           , 1                   
+explican                      , 0.1           , 1                   
+exploradores                  , 0.2           , 2                   
+familias                      , 0.2           , 2                   
+fans                          , 0.2           , 2                   
+fernando                      , 0.3           , 3                   
+fiscalidad                    , 0.1           , 1                   
+forma                         , 0.1           , 1                   
+foto                          , 0.2           , 2                   
+fotos                         , 0.1           , 1                   
+fracasar                      , 0.1           , 1                   
+frito                         , 0.1           , 1                   
+funcionamiento                , 0.2           , 2                   
+funcionan                     , 0.1           , 1                   
+fórmula                       , 0.1           , 1                   
+fútbol                        , 0.1           , 1                   
+gadgets                       , 0.1           , 1                   
+gallagher                     , 0.2           , 2                   
+garantizar                    , 0.2           , 2                   
+gastronomía                   , 0.1           , 1                   
+geographic                    , 0.1           , 1                   
+ginebra                       , 0.1           , 1                   
+gobierno                      , 0.1           , 1                   
+gran                          , 0.1           , 1                   
+grande                        , 0.1           , 1                   
+gratis                        , 0.2           , 2                   
+guante                        , 0.2           , 2                   
+habilitar                     , 0.2           , 2                   
+hablar                        , 0.1           , 1                   
+haciendo                      , 0.1           , 1                   
+hallaban                      , 0.1           , 1                   
+han                           , 0.3           , 3                   
+hermano                       , 0.1           , 1                   
+historia                      , 0.2           , 2                   
+hombres                       , 0.1           , 1                   
+home                          , 0.2           , 2                   
+homenaje                      , 0.2           , 2                   
+hora                          , 0.1           , 1                   
+hoteles                       , 0.2           , 2                   
+huevo                         , 0.1           , 1                   
+hunt                          , 0.3           , 3                   
+huéspedes                     , 0.1           , 1                   
+hôtel                         , 0.1           , 1                   
+idioma                        , 0.1           , 1                   
+indicados                     , 0.2           , 2                   
+información                   , 0.5           , 5                   
+iniciar                       , 0.3           , 3                   
+inmensas                      , 0.4           , 4                   
+inmobiliarias                 , 0.1           , 1                   
+inmobiliario                  , 0.1           , 1                   
+innumerables                  , 0.1           , 1                   
+instagram                     , 0.2           , 2                   
+instalación                   , 0.2           , 2                   
+intereses                     , 0.2           , 2                   
+interior                      , 0.1           , 1                   
+internacional                 , 0.2           , 2                   
+internet                      , 0.1           , 1                   
+interés                       , 0.1           , 1                   
+introduzca                    , 0.1           , 1                   
+investigadores                , 0.3           , 3                   
+invitado                      , 0.1           , 1                   
+isla                          , 1.0           , 10                  
+island                        , 0.1           , 1                   
+isleño                        , 0.1           , 1                   
+jubilarse                     , 0.2           , 2                   
+kilómetros                    , 0.1           , 1                   
+laboral                       , 0.1           , 1                   
+lanza                         , 0.2           , 2                   
+latina                        , 0.1           , 1                   
+le                            , 0.2           , 2                   
+lechuga                       , 0.1           , 1                   
+legal                         , 0.1           , 1                   
+lejos                         , 0.1           , 1                   
+liam                          , 0.2           , 2                   
+lingüística                   , 0.1           , 1                   
+lipo                          , 0.3           , 3                   
+llegaron                      , 0.4           , 4                   
+lograron                      , 0.1           , 1                   
+lugar                         , 0.1           , 1                   
+lugares                       , 0.4           , 4                   
+lujo                          , 0.1           , 1                   
+lunes                         , 0.1           , 1                   
+macroeconomía                 , 0.1           , 1                   
+madre                         , 0.1           , 1                   
+madrid                        , 0.2           , 2                   
+management                    , 0.1           , 1                   
+mano                          , 0.1           , 1                   
+martes                        , 0.1           , 1                   
+marzo                         , 0.1           , 1                   
+mayoría                       , 0.2           , 2                   
+mañana                        , 0.1           , 1                   
+mediante                      , 0.1           , 1                   
+medio                         , 0.2           , 2                   
+medusa                        , 0.1           , 1                   
+mejores                       , 0.1           , 1                   
+metroscopia                   , 0.1           , 1                   
+mickey                        , 0.2           , 2                   
+millones                      , 0.3           , 3                   
+min                           , 0.1           , 1                   
+misterio                      , 0.2           , 2                   
+misterios                     , 0.4           , 4                   
+misteriosa                    , 0.2           , 2                   
+moai                          , 0.1           , 1                   
+moda                          , 0.1           , 1                   
+moles                         , 0.1           , 1                   
+motociclismo                  , 0.1           , 1                   
+motor                         , 0.1           , 1                   
+mouse                         , 0.2           , 2                   
+mover                         , 0.2           , 2                   
+moáis                         , 0.3           , 3                   
+multitud                      , 0.1           , 1                   
+mundo                         , 0.5           , 5                   
+myfinancetodaycom             , 0.1           , 1                   
+mystery                       , 0.1           , 1                   
+métodos                       , 0.1           , 1                   
+música                        , 0.1           , 1                   
+national                      , 0.1           , 1                   
+navegando                     , 0.2           , 2                   
+nec                           , 0.1           , 1                   
+necesitan                     , 0.1           , 1                   
+negociaban                    , 0.1           , 1                   
+netflix                       , 0.1           , 1                   
+niños                         , 0.2           , 2                   
+noel                          , 0.2           , 2                   
+nosotros                      , 0.1           , 1                   
+noticia                       , 0.1           , 1                   
+noticias                      , 0.1           , 1                   
+noviembre                     , 0.1           , 1                   
+nueva                         , 0.1           , 1                   
+nuevo                         , 0.4           , 4                   
+nui                           , 0.2           , 2                   
+nº                            , 0.1           , 1                   
+oasis                         , 0.2           , 2                   
+obstante                      , 0.1           , 1                   
+ocio                          , 0.1           , 1                   
+of                            , 0.1           , 1                   
+opinión                       , 0.2           , 2                   
+orbita                        , 0.1           , 1                   
+ordenar                       , 0.1           , 1                   
+oriente                       , 0.1           , 1                   
+originarios                   , 0.1           , 1                   
+otium                         , 0.1           , 1                   
+parece                        , 0.4           , 4                   
+partido                       , 0.1           , 1                   
+partidos                      , 0.1           , 1                   
+pasa                          , 0.1           , 1                   
+pascua                        , 0.6           , 6                   
+pastor                        , 0.1           , 1                   
+país                          , 0.2           , 2                   
+pedazo                        , 0.1           , 1                   
+penthouse                     , 0.1           , 1                   
+pequeño                       , 0.1           , 1                   
+personas                      , 0.2           , 2                   
+perteneciente                 , 0.1           , 1                   
+pesadillas                    , 0.1           , 1                   
+piedra                        , 0.2           , 2                   
+planta                        , 0.1           , 1                   
+playas                        , 0.1           , 1                   
+podian                        , 0.1           , 1                   
+podrán                        , 0.1           , 1                   
+política                      , 0.7           , 7                   
+políticos                     , 0.1           , 1                   
+ponene                        , 0.1           , 1                   
+porción                       , 0.2           , 2                   
+portada                       , 0.1           , 1                   
+practicopediacom              , 0.1           , 1                   
+preferencias                  , 0.2           , 2                   
+preocupa                      , 0.2           , 2                   
+preparado                     , 0.1           , 1                   
+presumir                      , 0.1           , 1                   
+primera                       , 0.2           , 2                   
+principales                   , 0.4           , 4                   
+privacidad                    , 0.2           , 2                   
+propias                       , 0.2           , 2                   
+práctica                      , 0.1           , 1                   
+président                     , 0.1           , 1                   
+próximo                       , 0.1           , 1                   
+publicidad                    , 0.3           , 3                   
+pudieron                      , 0.2           , 2                   
+píldora                       , 0.1           , 1                   
+quebraderos                   , 0.1           , 1                   
+quedar                        , 0.1           , 1                   
+quiere                        , 0.1           , 1                   
+quiero                        , 0.2           , 2                   
+rano                          , 0.1           , 1                   
+rapa                          , 0.2           , 2                   
+raraku                        , 0.1           , 1                   
+realizadon                    , 0.1           , 1                   
+realizados                    , 0.1           , 1                   
+rechazan                      , 0.1           , 1                   
+recibe                        , 0.2           , 2                   
+recolectar                    , 0.2           , 2                   
+recomendado                   , 0.1           , 1                   
+recomendamos                  , 0.2           , 2                   
+redford                       , 0.2           , 2                   
+registrarse                   , 0.1           , 1                   
+representaban                 , 0.1           , 1                   
+respectivos                   , 0.2           , 2                   
+responde                      , 0.1           , 1                   
+resuelta                      , 0.1           , 1                   
+retira                        , 0.2           , 2                   
+reto                          , 0.1           , 1                   
+retornar                      , 0.1           , 1                   
+retrato                       , 0.2           , 2                   
+rica                          , 0.1           , 1                   
+rincones                      , 0.1           , 1                   
+rinde                         , 0.2           , 2                   
+robert                        , 0.2           , 2                   
+rodea                         , 0.1           , 1                   
+rodean                        , 0.1           , 1                   
+royal                         , 0.1           , 1                   
+rss                           , 0.1           , 1                   
+ruta                          , 0.1           , 1                   
+sacar                         , 0.1           , 1                   
+salir                         , 0.1           , 1                   
+secciones                     , 0.1           , 1                   
+seguir                        , 0.1           , 1                   
+sello                         , 0.1           , 1                   
+sencilla                      , 0.1           , 1                   
+separación                    , 0.1           , 1                   
+separarse                     , 0.1           , 1                   
+servicios                     , 0.1           , 1                   
+sesión                        , 0.4           , 4                   
+sido                          , 0.1           , 1                   
+sienten                       , 0.1           , 1                   
+siglos                        , 0.1           , 1                   
+similares                     , 0.2           , 2                   
+simples                       , 0.1           , 1                   
+sinfín                        , 0.1           , 1                   
+sitio                         , 0.1           , 1                   
+situadas                      , 0.1           , 1                   
+sobera                        , 0.2           , 2                   
+sociedades                    , 0.1           , 1                   
+soltera                       , 0.1           , 1                   
+solventado                    , 0.1           , 1                   
+son                           , 0.1           , 1                   
+sondeo                        , 0.1           , 1                   
+sonrisa                       , 0.1           , 1                   
+stringerreuters               , 0.1           , 1                   
+subida                        , 0.1           , 1                   
+suite                         , 0.2           , 2                   
+suiza                         , 0.1           , 1                   
+suscribirse                   , 0.1           , 1                   
+suscrito                      , 0.1           , 1                   
+suscríbete                    , 0.1           , 1                   
+síguenos                      , 0.1           , 1                   
+tallaban                      , 0.1           , 1                   
+tambalearse                   , 0.1           , 1                   
+taxi                          , 0.1           , 1                   
+tecnología                    , 0.1           , 1                   
+tecnologías                   , 0.2           , 2                   
+telecomunicaciones            , 0.1           , 1                   
+telediaria                    , 0.1           , 1                   
+televisión                    , 0.1           , 1                   
+temas                         , 0.1           , 1                   
+temblando                     , 0.2           , 2                   
+tenis                         , 0.1           , 1                   
+terceros                      , 0.2           , 2                   
+territorio                    , 0.1           , 1                   
+terry                         , 0.3           , 3                   
+terán                         , 0.1           , 1                   
+texto                         , 0.1           , 1                   
+tierra                        , 0.3           , 3                   
+tlf                           , 0.1           , 1                   
+torno                         , 0.1           , 1                   
+trabajo                       , 0.4           , 4                   
+transporte                    , 0.1           , 1                   
+trasladarlas                  , 0.1           , 1                   
+traste                        , 0.2           , 2                   
+trucos                        , 0.2           , 2                   
+turismo                       , 0.2           , 2                   
+turistas                      , 0.1           , 1                   
+turísticos                    , 0.1           , 1                   
+términos                      , 0.2           , 2                   
+uber                          , 0.1           , 1                   
+unidos                        , 0.1           , 1                   
+usuario                       , 0.4           , 4                   
+utilizamos                    , 0.2           , 2                   
+valencia                      , 0.1           , 1                   
+valls                         , 0.1           , 1                   
+vasco                         , 0.1           , 1                   
+venadito                      , 0.1           , 1                   
+ventana                       , 0.1           , 1                   
+verónica                      , 0.1           , 1                   
+vez                           , 0.1           , 1                   
+viajar                        , 0.1           , 1                   
+viajes                        , 0.5           , 5                   
+vida                          , 0.3           , 3                   
+videos                        , 0.1           , 1                   
+vip                           , 0.1           , 1                   
+vista                         , 0.1           , 1                   
+vistas                        , 0.1           , 1                   
+visto                         , 0.1           , 1                   
+vivienda                      , 0.1           , 1                   
+volcán                        , 0.1           , 1                   
+voz                           , 0.1           , 1                   
+vuelta                        , 0.2           , 2                   
+vuelve                        , 0.1           , 1                   
+web                           , 0.5           , 5                   
+webs                          , 0.1           , 1                   
+wilson                        , 0.1           , 1                   
+xii                           , 0.1           , 1                   
+xvii                          , 0.1           , 1                   
+yate                          , 0.2           , 2                   
+zulos                         , 0.1           , 1                   
+áfrica                        , 0.1           , 1                   
+última                        , 0.2           , 2                   

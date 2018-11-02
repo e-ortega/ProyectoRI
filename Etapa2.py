@@ -11,6 +11,7 @@ from bs4.element import Comment
 # este es el vector de palabras que se llena con palabras que se deben omitir en los textos
 stop_words = []
 plain_text_dir = "plain_text"
+posting_file = ""
 path = os.path.dirname(os.path.realpath(__file__))
 global_words_list = []
 total_frequency_list = []
@@ -24,10 +25,13 @@ def run():
     if not os.path.exists(os.path.join(path, plain_text_dir)):
         os.mkdir(os.path.join(path, plain_text_dir))
 
-    #fill_stop_words()
+   # fill_stop_words()
     #read_urls()
     #generate_error_page_file()
-    calculePeso()
+    #print("Calculando pesos")
+    #calculePeso()
+    indice(r"\posting.txt")
+    print("Termina")
 
 
 # llena el vector stop_words usando la  lista de palabras que se deben omitir
@@ -55,16 +59,16 @@ def html_parser(separator):
     name = str(separator[0])
     name = name.replace(u'\ufeff', '')
     file_name = name + '.txt'
+    file_name = file_name.replace(".html", "")
     file_dir = os.path.dirname(__file__)
 
     abs_file_path = file_dir + "/Coleccion" + '/' + name
     page = open(abs_file_path, 'r', encoding="utf-8")
-    print("name is:" + name)
+    print("Parseando :" + name)
     soup = BeautifulSoup(page, 'html.parser')
     text = soup.findAll(text=True)
     visible_texts = filter(tag_visible, text)
     texts = u" ".join(t.strip() for t in visible_texts)
-    #  print("Procesando archivo " + file_name)
     path_file = os.path.join(path, plain_text_dir, file_name)
 
     # create an empty file.
@@ -103,11 +107,9 @@ def tokenizer(file_name):
                 if not word.isalnum():
                     valid_word = False
                 if len(word) < 2 or len(word) > 30:
-                    # print("[" + str(word) + "] longitud de palaba no permitida")
                     valid_word = False  # no se usan palabras de tamaño mayor a 30
                 if len(word) > 0:
                     if not word.isdigit() and not word[0].isalpha():
-                        # print("[" + str(word) + "] no es una palabra valida")
                         valid_word = False  # no se usan palabras que no sean solo numeros y no empiecen por a-z ej: 3arbol
 
                 if not stop_words.__contains__(word) and valid_word:
@@ -153,9 +155,9 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
     if not os.path.exists(tok_path):
         os.makedirs(tok_path)
     file_name = file_name + '.tok'
+    file_name = file_name.replace(".txt", "")
     index = file_name.find('plain_text')
     file = file_name[:index + len('plain_text')] + r'\tok' + file_name[index + len('plain_text'):]
-    print(file)
     for passnum in range(1, len(word_list)):
         i = 0
         for element in range(0, len(word_list) - passnum):
@@ -270,9 +272,11 @@ def generate_error_page_file():
 
 #Crea in Indice a partir del archivo posting
 def indice(archivo):
+    archivo = archivo.replace(".\\", "\\")
     file_name = 'Indice.txt'
     file_name = os.path.join(path, plain_text_dir, file_name)
-    resultado = os.path.join(path, archivo)
+    # resultado = os.path.join(path, plain_text_dir, archivo)
+    resultado = file_name.replace("\\plain_text\\Indice.txt", archivo)
     print(resultado)
     try:
         lines = []
@@ -284,8 +288,8 @@ def indice(archivo):
         print(e)
     c = 0
     for l in lines:
-        #pos = l.find(" ")
-        pos = l.find(",")
+        pos = l.find(" ")
+        #pos = l.find(",")
         lines[c] = l[:pos]
         c = c+1
     termino=" "
@@ -347,7 +351,9 @@ def calculePeso():
         f.extend(filenames)
         break
     for n in range (0, len(f)):
+
         file_name = tok_path + "/"+f[n]
+        print("creando tok %s", file_name)
         file = open(file_name, 'r', encoding="utf-8")
         for line in file:
             wordCount = 0
@@ -366,6 +372,7 @@ def calculePeso():
                     palabraPeso.append(palabrasTok[i])
                     pesos.append(float(frecuenciasTok[i]) * float(frecuencias[j]))
         file_name = cur_path+ "/plain_text/wtd/"+f[n] + ".wtd"
+        file_name = file_name.replace(".tok", "")
         file_text = open(file_name, '+w', encoding="utf-8")
         for k in range (0, len(palabraPeso)):
             file_text.writelines(str(palabraPeso[k])+ "   "+str(pesos[k]) + "\n")
@@ -376,26 +383,17 @@ def calculePeso():
         palabraPeso = []
         pesos = []
     file_posting.close()
+    global posting_file
+    posting_file = dir_path_posting
     inputFile = open(dir_path_posting, 'r', encoding="utf-8")
     lineList = inputFile.readlines()
+    inputFile.close()
     lineList.sort()
-    print(lineList)
-    for line in lineList:
-        with open(dir_path_posting, 'a', encoding="utf-8") as f:
-            for line in lineList:
-                lineList.sort()
-                f.write(line)
+    with open(dir_path_posting, 'w', encoding="utf-8") as f:
+        for line in lineList:
+            f.write(line)
 
-
- #for linea in file:
-     #   lineas.append([i for i in linea.strip("\n").split(":")])
-    #lineas.sort(key=lambda x: x[0])
 
 run()
-
-#palabras= []
-#frecuencias= []
-
-#loadVocabulario(palabras, frecuencias)
 
 

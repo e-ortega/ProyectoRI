@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import os
 import re
+import math
 import requests
 from os import walk
 from http import HTTPStatus
@@ -9,11 +10,11 @@ from bs4 import BeautifulSoup
 from bs4.element import Comment
 
 # este es el vector de palabras que se llena con palabras que se deben omitir en los textos
-stop_words = []
 plain_text_dir = "plain_text"
 posting_file = ""
 path = os.path.dirname(os.path.realpath(__file__))
 global_words_list = []
+stop_words = []
 total_frequency_list = []
 document_quantity_list = []
 requests_errors = []
@@ -25,12 +26,13 @@ def run():
     if not os.path.exists(os.path.join(path, plain_text_dir)):
         os.mkdir(os.path.join(path, plain_text_dir))
 
-   # fill_stop_words()
+    fill_stop_words()
+    procesaConsulta("Que hace barato auto")
     #read_urls()
     #generate_error_page_file()
     #print("Calculando pesos")
     #calculePeso()
-    indice(r"\posting.txt")
+    #indice(r"\posting.txt")
     print("Termina")
 
 
@@ -45,7 +47,7 @@ def fill_stop_words():
 
 # lee de un archivo y debe substraer el url al que se quiere ingresar y el nombre del archivo
 def read_urls():
-    file_name = "URLS.txt"
+    file_name = "urles.txt"
     file = open(file_name, "r", encoding="utf-8")
     for line in file:
         separator = []
@@ -392,6 +394,104 @@ def calculePeso():
     with open(dir_path_posting, 'w', encoding="utf-8") as f:
         for line in lineList:
             f.write(line)
+
+
+
+
+def procesaConsulta(consulta):
+    vecConsulta = []
+    consultaCont = []
+    words = consulta.split()
+
+    #en esta parte solo saca palabras y calcula  la frecuencia(freqij)
+    for word in words:
+        word = word.lower()
+        if stop_words.__contains__(word):
+            print("something")
+        else:
+            if vecConsulta.__contains__(word) == False:
+                vecConsulta.append(word)
+                consultaCont.append(1)
+            else:
+                index = vecConsulta.index(word)
+                consultaCont[index] = consultaCont[index] + 1
+
+    #calcula freq normalizada(tfij)
+
+    maximoIndex = max(consultaCont)
+    freqNormQ = []
+
+    for i in range(0, len(consultaCont)):
+        freqNormQ .append(consultaCont[i]/maximoIndex)
+
+
+    #Cargue Vocabulario
+    cur_path = os.path.dirname(__file__)
+    vocPalabras = []
+    vocNumTer = []
+    vocFrqInv = []
+
+    file_name = cur_path + "/plain_text/Vocabulario.txt"
+    file = open(file_name, 'r', encoding="utf-8")
+
+    for line in file:
+        count = 0
+        for entry in line.split():
+            if count == 0:
+                vocPalabras.append(entry)
+                count = count + 1
+            elif count == 2:
+                vocNumTer.append(entry)
+                count = count + 1
+            elif count == 4:
+                vocFrqInv.append(entry)
+                count = count + 1
+            else:
+                count = count + 1
+
+
+    #calcule pesos(wij)
+    wijQ = []
+
+    for i in range(0, len(freqNormQ)):
+        word = vecConsulta[i]
+
+        if vocPalabras.__contains__(word):
+            vocIndex = vocPalabras.index(word)
+            idfi = vocFrqInv[vocIndex]
+        else:
+            idfi = 0
+
+        num = (0.5+0.5*freqNormQ[i])*float(idfi)
+        wijQ.append(num)
+
+    #calcule normal del vector q.
+    normaVecQ = []
+
+    for i in range (0, len(wijQ)):
+        norma = wijQ[i] * wijQ[i]
+        normaVecQ.append(norma)
+
+    guardePesosQ(vecConsulta, wijQ)
+
+    #calcule s(wix)
+
+    wix = 0
+    for i in range(0, len(normaVecQ)):
+        wix = wix + normaVecQ[i]
+
+    wix2 = math.sqrt(wix)
+    print(wix2)
+
+
+def guardePesosQ(vecConsulta, wijQ):
+    cur_path = os.path.dirname(__file__)
+    file_name = cur_path + "/plain_text/" + "pesosQ.txt"
+    file_text = open(file_name, '+w', encoding="utf-8")
+    for k in range(0, len(vecConsulta)):
+        print(str(vecConsulta[k]) + " "+ str(wijQ[k]) )
+        file_text.writelines(str(vecConsulta[k]) + "   " + str(wijQ[k]) + "\n")
+    file_text.close()
 
 
 run()

@@ -1,8 +1,12 @@
 from flask import Flask, redirect, url_for, request
 app = Flask(__name__)
 listURL = []
-htmlString = r'<p>Escriba su consulta:<input type = "text" name = "nm" /><input type = "submit" value = "Buscar" /></p>'
+htmlhead = r'<html> <head> <style>.divider{ width:5px; height:auto; display:inline-block;}</style></head> <body style="background-color:powderblue;">'
+htmlString = r'<center><p>Escriba su consulta:<input type = "text" name = "nm" /><input type = "submit" value = "Buscar" /></p></center>'
 htmlbr = "<br>"
+botonNext = r'<button type="submit" value="Next">Siguiente</button> '
+botonPrev = r'<button type="submit" value="Prev">Previo</button><div class="divider"/>'
+htmlend = r'</body></html>'
 numPos = 1
 
 
@@ -12,11 +16,15 @@ def success(name):
     #return 'welcome %s' % name
     #str2 = r'<p>Escriba su consulta:<input type = "text" name = "nm" /><input type = "submit" value = "Buscar" /></p>'
     #str3 = r'<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a> ' + "<br>" + r'<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a> '
-    strrespon = htmlString
+    strrespon = htmlhead
+    strrespon += htmlString
     i= 9*numPos-9
     for x in range(i, 9*numPos):
-        strrespon += listURL[i]
+        strrespon += listURL[x]
         strrespon += htmlbr
+    strrespon +=htmlend
+    strrespon += botonPrev
+    strrespon +=botonNext
     numberPos = numPos+10
     return strrespon
 

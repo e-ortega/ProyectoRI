@@ -475,7 +475,31 @@ def guarde_pesos_q(vec_consulta, wijQ):
         file_text.writelines(str(vec_consulta[k]) + "   " + str(wijQ[k]) + "\n")
     file_text.close()
 
-
+# Analiza la similitud de archivos
+def similitud(archivo):
+    archivo = archivo.replace(".\\", "\\")
+    file_name = 'pesosQ.txt'
+    file_name = os.path.join(path, plain_text_dir, file_name)
+    # resultado = os.path.join(path, plain_text_dir, archivo)
+    resultado = file_name.replace("\\plain_text\\pesosQ.txt", archivo)
+    print(resultado)
+    try:
+        lines = []
+        with open(resultado, encoding="utf8") as file:
+            for line in file:
+                line = line.strip()
+                lines.append(line)
+    except Exception as e:
+        print(e)
+    c = 0
+    for l in lines:
+        # probar al contrario
+        pos = l.find(" ")
+        #pos = l.find(",")
+        lines[c] = l[:pos]
+        c = c + 1
+    for l in lines:
+        print(l)
 run()
 
 

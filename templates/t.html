@@ -1,0 +1,62 @@
+<html> 
+<head>
+ <style>
+ footer {
+ background-color: #777;
+ padding: 10px;
+ text-align: center;
+ color: white;
+ }
+ 
+ .divider{ 
+ width:5px; 
+ height:auto;
+ display:inline-block;
+ } 
+ 
+ article {
+ float: left;
+ padding: 20px;
+ width: 70%;
+ background-color: #08b4fc;
+ height: 300px; 
+ }
+ 
+ nav {
+ float: left;
+ width: 10%;
+ height: 300px;
+ background: #08b4fc;
+ padding: 20px;
+ }</style>
+ 
+ </head> 
+ 
+ <body style="background-color:#08b4fc;">
+ 
+ <form action="/newsearch" method="post">
+ <center><p>Escriba su consulta:<input type = "text" name = "nm" /><input type = "submit" value = "Buscar" /></p></center>
+<p>Numero de resultados {{l|length }}</p> 
+ </form>
+ 
+ <section>
+ <nav><ul>
+ 
+ </ul></nav>
+ <article>
+ 
+ </article>
+ <table border = 1>
+         {% for key in l %}
+         {{ key }}
+            
+         {% endfor %}
+      </table>
+ </section>
+ <section>
+ <nav><ul></ul></nav>
+ <article>
+ <form action="/oldPage" method="post"><button type="submit" name="Previo" value="Prev">Previo</button></form>
+ <form action="/newPage" method="post"><button type="submit" name="Siguiente" value="Next">Siguiente</button> </form></footer>
+ </article></section>
+ </body></html>

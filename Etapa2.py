@@ -477,6 +477,7 @@ def guarde_pesos_q(vec_consulta, wijQ):
 
 # Analiza la similitud de archivos
 def similitud(archivo):
+    listaFileConsulta=[]
     archivo = archivo.replace(".\\", "\\")
     file_name = 'pesosQ.txt'
     file_name = os.path.join(path, plain_text_dir, file_name)
@@ -485,6 +486,7 @@ def similitud(archivo):
     print(resultado)
     try:
         lines = []
+        pesosCon = []
         with open(resultado, encoding="utf8") as file:
             for line in file:
                 line = line.strip()
@@ -497,9 +499,48 @@ def similitud(archivo):
         pos = l.find(" ")
         #pos = l.find(",")
         lines[c] = l[:pos]
+        pesosCon.append(l[pos:])
         c = c + 1
+        #r"\plain_text\pesosQ.txt"
+    archivo2 = r"\plain_text\Indice.txt"
+    archivo2 = archivo2.replace(".\\", "\\")
+    file_name2 = 'Indice.txt'
+    file_name2 = os.path.join(path, plain_text_dir, file_name2)
+    # resultado = os.path.join(path, plain_text_dir, archivo)
+    resultado2 = file_name2.replace("\\plain_text\\Indice.txt", archivo2)
+    try:
+        lines2 = []
+        with open(resultado2, encoding="utf8") as file2:
+            for line in file2:
+                line = line.strip()
+                lines2.append(line)
+    except Exception as e:
+        print(e)
+    archivo3 = r"\plain_text\Posting.txt"
+    archivo3 = archivo3.replace(".\\", "\\")
+    file_name3 = 'Posting.txt'
+    file_name3 = os.path.join(path, plain_text_dir, file_name3)
+    # resultado = os.path.join(path, plain_text_dir, archivo)
+    resultado3 = file_name3.replace("\\plain_text\\Posting.txt", archivo3)
+    try:
+        lines3 = []
+        with open(resultado3, encoding="utf8") as file3:
+            for line in file3:
+                line = line.strip()
+                lines3.append(line)
+    except Exception as e:
+        print(e)
     for l in lines:
-        print(l)
+        temp=0
+        for IndiceLine in lines2:
+            I1 = IndiceLine[:30]  # palabra del indice
+            I2 = IndiceLine[45:]  # numero veces palabra en posting
+            I3 = IndiceLine[31:44]  # posicion palabra en posting
+            if l == I1.replace(" ", ""):
+                P1 = I3
+                for x in range(int(I2)):
+                    listaFileConsulta.append(lines3[int(P1) + x])
+
 run()
 
 

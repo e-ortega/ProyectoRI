@@ -32,6 +32,7 @@ def run():
     #print("Calculando pesos")
     #calculePeso()
     #indice(r"\posting.txt")
+    similitud(r"\plain_text\pesosQ.txt")
     print("Termina")
 
 
@@ -540,6 +541,26 @@ def similitud(archivo):
                 P1 = I3
                 for x in range(int(I2)):
                     listaFileConsulta.append(lines3[int(P1) + x])
+    for l in listaFileConsulta:
+        archivoConsulta = l[l.find(" "):l.rfind(" ")]
+        archivoConsulta = archivoConsulta.replace(" ", "")
+        cur_path = os.path.dirname(__file__)
+        archivoConsulta = archivoConsulta.replace(".tok", ".html.txt.tok.wtd")
+        file_consulta = cur_path + "/plain_text/wtd/" + archivoConsulta
+        resultadoConsulta = file_consulta.replace("\\plain_text\\wtd\\"+archivoConsulta, archivoConsulta)
+        try:
+            lines3 = []
+            with open(resultadoConsulta, encoding="utf8") as file3:
+                for line in file3:
+                    line = line.strip()
+                    lines3.append(line)
+        except Exception as e:
+            print(e)
+        sumaPeso=0
+        for l in lines3:
+            cuadrado=float((l[l.find(" "):]))**2
+            sumaPeso += cuadrado
+        valor=sumaPeso**0.5
 
 run()
 

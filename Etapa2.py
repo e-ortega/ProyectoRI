@@ -27,7 +27,8 @@ def run():
         os.mkdir(os.path.join(path, plain_text_dir))
 
     fill_stop_words()
-    procesa_consulta("Que hace barato auto")
+    calcule_producto_punto("etapa")
+    #procesa_consulta("Que hace barato auto")
     #read_urls()
     #print("Calculando pesos")
     #calculePeso()
@@ -467,6 +468,60 @@ def procesa_consulta(consulta):
     print(wix2)
 
 
+def calcule_producto_punto(vec):
+
+    #Abre el archivo postings  y lo carga
+    cur_path = os.path.dirname(__file__)
+    post_palabras = []
+    post_archivo = []
+    post_peso = []
+    indexes= []
+
+    file_name = cur_path + "/plain_text/posting.txt"
+    file = open(file_name, 'r', encoding="utf-8")
+
+    indexes = file.read()
+    first = indexes.find(vec)
+    last = indexes.rfind(vec)
+    sublist = indexes[first : last].split("\n")
+
+    for line in sublist:
+        values = line.split()
+        pal = ""
+        pal = values[1] + str (int(values[2])*2)
+        dict = {"": []}
+        list = [3, 4234, 5, 34]
+        dict["palabra"] = list
+        new_list = dict.get("palabra")
+        dict.palabra = new_list
+        print(values)
+
+    print("algo")
+
+    print(first)
+    print(last)
+    file.close()
+
+
+
+
+
+def list_duplicates_of(seq,item):
+    start_at = -1
+    locs = []
+    while True:
+        try:
+            loc = seq.index(item,start_at+1)
+        except ValueError:
+            break
+        else:
+            locs.append(loc)
+            start_at = loc
+    return locs
+
+
+
+
 def guarde_pesos_q(vec_consulta, wijQ):
     cur_path = os.path.dirname(__file__)
     file_name = cur_path + "/plain_text/" + "pesosQ.txt"
@@ -561,6 +616,12 @@ def similitud(archivo):
             cuadrado=float((l[l.find(" "):]))**2
             sumaPeso += cuadrado
         valor=sumaPeso**0.5
+
+
+
+#vec1 va a ser el nombre del documento y vec2 va a ser el valor
+#def calculo_similitud(vec1, vec2):
+
 
 run()
 

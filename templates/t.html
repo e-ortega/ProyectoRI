@@ -47,10 +47,79 @@
  
  </article>
  <table border = 1>
-         {% for key in l %}
-         {{ key }}
-            
-         {% endfor %}
+         <ul>
+		 {% block content0 %}
+			{% if 0+(10*y)< l|length%}
+				<li>{{ l[0+(10*y)]|safe }}</li>
+				{% else %}
+					{{ super() }}
+				{% endif %}
+			{% endblock content0 %}
+			{% block content1 %}
+			{% if 1+(10*y)< l|length%}
+				<li>{{ l[1+(10*y)]|safe }}</li>
+				{% else %}
+					{{ super() }}
+				{% endif %}
+			{% endblock content1 %}
+			{% block content2 %}
+			{% if 2+(10*y)< l|length%}
+				<li>{{ l[2+(10*y)]|safe }}</li>
+				{% else %}
+					{{ super() }}
+				{% endif %}
+			{% endblock content2 %}
+			{% block content3 %}
+			{% if 3+(10*y)< l|length%}
+				<li>{{ l[3+(10*y)]|safe }}</li>
+				{% else %}
+					{{ super() }}
+				{% endif %}
+			{% endblock content3 %}
+			{% block content4 %}
+			{% if 4+(10*y)< l|length%}
+				<li>{{ l[4+(10*y)]|safe }}</li>
+				{% else %}
+					{{ super() }}
+				{% endif %}
+			{% endblock content4 %}
+			{% block content5 %}
+			{% if 5+(10*y)< l|length%}
+				<li>{{ l[5+(10*y)]|safe }}</li>
+				{% else %}
+					{{ super() }}
+				{% endif %}
+			{% endblock content5 %}
+			{% block content6 %}
+			{% if 6+(10*y)< l|length%}
+				<li>{{ l[6+(10*y)]|safe }}</li>
+				{% else %}
+					{{ super() }}
+				{% endif %}
+			{% endblock content6 %}
+			{% block content7 %}
+			{% if 7+(10*y)< l|length%}
+				<li>{{ l[7+(10*y)]|safe }}</li>
+				{% else %}
+					{{ super() }}
+				{% endif %}
+			{% endblock content7 %}
+			{% block content8 %}
+			{% if 8+(10*y)< l|length%}
+				<li>{{ l[8+(10*y)]|safe }}</li>
+				{% else %}
+					{{ super() }}
+				{% endif %}
+			{% endblock content8 %}
+			{% block content9 %}
+			{% if 9+(10*y)< l|length%}
+				<li>{{ l[9+(10*y)]|safe }}</li>
+				{% else %}
+					{{ super() }}
+				{% endif %}
+			{% endblock content9 %}
+		</ul>  
+		 
       </table>
  </section>
  <section>

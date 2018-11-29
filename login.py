@@ -43,9 +43,9 @@ def changePageN():
     if request.method == 'POST':
         t=int(numPos)+1
         if (t * 10)<(len(listURL)+10):
-            return redirect(url_for('success',name = consulta,y=t))
+            return render_template('t.html', name=consulta, y=t, l=listURL)
         else:
-            return redirect(url_for('success',name = consulta,y=t-1))
+            return render_template('t.html', name=consulta, y=t-1, l=listURL)
 
 			
 @app.route('/oldPage',methods = ['POST', 'GET'])
@@ -53,9 +53,9 @@ def changePageO():
     if request.method == 'POST':
         t=int(numPos)-1
         if t>=0:
-            return redirect(url_for('success',name = consulta,y=t))
+            return render_template('t.html', name=consulta, y=t, l=listURL)
         else:
-            return redirect(url_for('success',name = consulta,y=t+1))
+            return render_template('t.html', name=consulta, y=t+1, l=listURL)
 
 			
 
@@ -68,9 +68,10 @@ def fillList():
 @app.route('/newsearch',methods = ['POST', 'GET'])
 def newlogin():
     if request.method == 'POST':
+
         fillList()
         user = request.form['nm']
-        return redirect(url_for('success',name = user,y=0))
+        return render_template('t.html', name=user, y=0, l=listURL)
     else:
         user = request.args.get('nm')
         return redirect(url_for('success',name = user,y=0))
@@ -81,17 +82,19 @@ def newlogin():
 def login():
     if request.method == 'POST':
         fillList()
-        user = request.form['nm']
-        return render_template('t.html',name = user,y=0,l=listURL)
+        consulta = request.form['searchText']
+        return render_template('index.html', filename='./static/css/main.css', v=0.01, name=consulta, y=0, l=listURL)
+        #return render_template('t.html',name = user,y=0,l=listURL)
 		#return redirect(url_for('success',name = user,y=0))
     else:
-        user = request.args.get('nm')
+        user = request.args.get('searchText')
         #return redirect(url_for('success',name = user,y=0))
-        return render_template('t.html')
+        #return render_template('t.html')
+        return render_template('index.html', filename='./static/css/main.css', v=0.01, name=consulta, y=0, l=listURL)
 
 @app.route('/')
 def main():
-		return render_template('search.html')
+		return render_template('index.html',filename='./static/css/main.css', v=0.01,name = "",y=0,l=listURL)
 
 if __name__ == '__main__':
     app.run(debug = True)

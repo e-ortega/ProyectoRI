@@ -1,0 +1,28 @@
+  Tradicionalmente, la investigación en 
+Biología Molecular se ha realizado en el laboratorio experimental, pero la 
+inmensa cantidad de datos generados en los últimos años requiere el 
+desarrollo de herramientas computacionales que permitan extraer toda la información contenida en esos datos para generar nuevo conocimiento . 
+Por eso, hoy en día es difícil entender la investigación en estas áreas sin la 
+Bioinformática.      La Bioinformática es la disciplina 
+científica que combina biología, computación y tecnologías de la información. El 
+objetivo de esta disciplina es facilitar nuevas percepciones biológicas y crear 
+una perspectiva global que permita identificar los principios unificadores de la 
+biología. Inicialmente, la bioinformática se ocupaba sobre todo de la creación 
+de bases de datos de información biológica, especialmente secuencias, y del 
+desarrollo de herramientas para la utilización y análisis de los datos 
+contenidos en esas bases de datos. Al final, será necesario unificar toda esta 
+información si queremos alcanzar un cuadro completo de la biología de la célula, 
+de forma que los investigadores puedan comprender cómo se alteran estos procesos 
+en las distintas enfermedades. Por eso, la Bioinformática ha ido evolucionando 
+para ocuparse cada vez con mayor profundidad del análisis e interpetación de los 
+distintos tipos de datos (secuencias de genomas, proteomas, orfeomas, dominios y 
+estructuras de proteínas, etc). Estas formas de análisis e interpretación de 
+datos suelen denominarse Biología Computacional. Las principales áreas de la 
+Bioinformática y de la Biología Computacional son, por tanto, 1) el desarrollo de herramientas que permitan el acceso, uso y actualización de 
+distintos tipos de información biológica; 2) el desarrollo de nuevos  algoritmos y 
+soluciones estadísticas para analizar grandes conjuntos de datos y resolver 
+problemas biológicos complejos, tales como predecir la estructura de un gen en 
+una secuencia genómica, predecir la estructura de proteínas, identificar 
+familias de proteínas por su similitud de secuencia, etc.     Algoritmo : proceso lógico que se sigue 
+para resolver un problema, y que puede formularse en términos matemáticos 
+precisos. 

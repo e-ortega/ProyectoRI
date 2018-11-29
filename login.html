@@ -1,0 +1,31 @@
+<html>
+	<head>
+	<style>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		body {
+			background: #555;
+		}
+
+		.content {
+			 height: 200px;
+			width: 400px;
+			
+
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			margin-top: -100px;
+			margin-left: -200px;
+		}
+</style>
+	</head>
+   <body>
+      <div class="content">
+      <form action = "http://localhost:5000/login" method = "post">
+         <p>Escriba su consulta:</p>
+         <p><input type = "text" name = "nm" /></p>
+         <p><input type = "submit" value = "Buscar" /></p>
+      </form>
+      </div>
+   </body>
+</html>

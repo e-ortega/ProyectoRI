@@ -1,0 +1,88 @@
+                    Menú principal   Inicio  Noticias  Directorio Empresarial  Diarios y Revistas  Espiritual  Software  Buscar  Contactar  Solicitud de Correo  Mapa del Sitio  Blog  Encuestas  Servicios  Anunciese con Nosotros  Ecología  Gobierno              Correo WebMail    Usuario       Clave                         OIJ alerta a usuarios por delitos informáticos    Calificación del usuario: / 0   Malo Bueno                     Escrito por Oscar Ruíz,
+                                                                        on 05-05-2009 09:33     Visitas : 66    Favoritos : 1    Publicado el : Noticias ,  Nacionales Relevantes    OIJ alerta a usuarios por delitos informáticos Redacción
+(elpais.cr) - Más de 25 denuncias, con un perjuicio económico que
+sobrepasa los tres millones de colones, han sido recibidas por la
+Sección de Fraudes y Delitos Informáticos del Organismo de
+Investigación Judicial en la última  semana, con el 
+siguiente modo de operar: Aparentemente
+aprovechando una campaña que realiza uno de los bancos  estatales
+para actualizar los datos personales de los  clientes, los
+afectados han recibido un correo electrónico en el que se adjunta un
+formulario donde el  ofendido aporta todos sus datos personales y
+es así como los  estafadores han  logrado ingresar a sus
+cuentas y sacar el dinero. Se
+hace un llamado a la ciudadanía para que los que hayan contestado
+dicho  correo se apersonen a la Sección  de Fraudes 
+del  OIJ  o  llamen  al  
+2295-3312,  ó  si  reciben  dicho  correo
+hagan caso  omiso  de el. A
+continuación el jefe  de la Sección  de Delitos
+Informáticos  del  OIJ da una  breve explicación
+referente a los diferentes tipos de Fraudes Bancarios por 
+Internet,  así  como  algunas  recomendaciones
+para  evitarlo: Los
+delitos de fraudes bancarios por medio de Internet persisten en el año
+2009, para los clientes de las entidades financieras en Costa Rica. Una
+de las prácticas para la obtención de la información confidencial
+bancaria de los clientes, es la Ingeniería Social, por medio de la cuál
+se manipula a los usuarios para que brinden información de carácter
+privado que luego será utilizada en su perjuicio. Dos de las técnicas
+utilizadas actualmente por los delincuentes para realizar el fraude son
+conocidas como Phishing y Pharming. La
+primera consiste en un correo electrónico que en apariencia proviene de
+un ente oficial, por lo general un Banco ó entidad financiera y en cuyo
+contenido se hace una solicitud expresa para actualizar la información
+confidencial perteneciente al cliente, por ejemplo: el nombre de
+usuario, contraseña, número de tarjeta de débito, PIN, número de
+seguridad al dorso de la misma. Finalmente,
+está solicitud va acompañada de un vínculo en el cuerpo del correo, que
+en apariencia es el oficial del Banco ó entidad financiera, pero en
+realidad, redirecciona al usuario a una página en Internet, la cual es
+una copia casi idéntica a la oficial de la entidad financiera, donde el
+usuario digita su información bancaria. Con
+respecto a la segunda técnica conocida como Pharming, su utilización es
+más reciente en Costa Rica. Por ser más sofisticada representa un
+riesgo mayor para los clientes bancarios. Esta práctica consiste en la
+manipulación del DNS (Sistema de Nombres de Dominio en inglés),
+servicio encargado de conducir al usuario a las páginas en Internet que
+desea accesar. Al modificar el DNS los delincuentes logran que las
+páginas visitadas en Internet no correspondan con las auténticas, sino
+con otras creadas con el fin obtener información confidencial. Principalmente,
+se redireccionan las páginas relacionadas con el servicio de banca
+online, provocando que inclusive digitando directamente en el navegador
+la dirección de Internet oficial, sea redirigido a una de estás páginas
+fraudulentas. El Pharming se presenta mediante
+la alteración del Servidor de DNS de un Proveedor de Servicios de
+Internet (RACSA, ICE), lo que hasta el momento no ha sido detectado en
+Costa Rica y del DNS del Sistema Operativo de la computadora de un
+usuario específico. En este último caso, es posible a través de la
+introducción de una instrucción ó programa malicioso, el cuál modifica
+el archivo de nombre hosts para el caso del Sistema Operativo Windows.
+Estos programas pueden provenir de correos electrónicos, descargas por
+Internet o medios de almacenamiento externos como llaves USB, entre
+otros. Una de
+las técnicas más utilizadas es el envío masivo de correos electrónicos
+con temas que resultan de interés para el receptor del correo:  1. Noticias falsas o amarillistas. 2. Envío de tarjetas postales electrónicas (técnica detectada en uno de los casos investigados en Costa Rica). 3. Supuesta obtención de algún premio. 4. Supuestos boletines informativos de una institución pública o privada. Por
+ejemplo, un correo electrónico pretende mediante Pharming obtener la
+información confidencial del usuario: Este hace alusión a una tarjeta
+electrónica recibida mediante un archivo adjunto, el cual indica una
+dirección en Internet. Luego
+de acceder al vínculo referenciado en la página de Internet enviada, se
+ejecuta la instrucción o programa malicioso, el cual modificará el
+archivo hosts  de la computadora del usuario, sin su conocimiento,
+quien finalmente luego de digitar las direcciones de Internet en su
+navegador será redireccionado a una página de Internet fraudulenta. Recomendaciones para evitar ser víctima de Phishing y Pharming 1.
+Procurar que la cuenta de usuario del Sistema Operativo, utilizada en
+una computadora personal, NO tenga asignados privilegios de
+ADMINISTRADOR, para evitar la alteración de la configuración del
+Sistema Operativo o instalación de programas desconocidos. 2.  No abrir correos electrónicos de remitentes desconocidos. 3.
+No suministrar información confidencial (número de identificación,
+nombre de usuario, contraseñas, datos de tarjeta de crédito ó débito),
+solicitada por medio de correos electrónicos o por medio de enlaces
+contenidos en estos, que redireccionan a páginas en Internet. 4. Mantener actualizado el Sistema Operativo de la computadora. 5. Instalar y mantener actualizados programas de Antivirus, Antispyware y Firewall.  Revisado el : 05-05-2009 09:34                              Etiquetas : Noticias , Nacionales Relevantes , OIJ alerta a usuarios por delitos informáticos , Más de 25 denuncias , con un perjuicio económico que sobrepasa los tres millones de colones , han sido recibidas por la Sección de Fraudes y Delitos Informáticos del Organismo de Investigación Judicial en la última  semana , con el  siguiente modo de operar , aparentemente
+aprovechando una campaña que realiza uno de los bancos estatales para
+actualizar los datos personales de los clientes , los
+afectados han recibido un correo electrónico en el que se adjunta un
+formulario donde el ofendido aporta todos sus datos personales y es así
+como los estafadores han logrado ingresar a sus cuentas y sacar el
+dinero       Comentarios de usuarios       Media de votos         Añade tu comentario   [+] Mostrar formulario    [-] Ocultar formulario            Nombre       E-mail       Título                           Commentar   Bold Italics Underline Link Image Quote Code Help        Caracteres disponibles: 600      Notificarme de los siguientes comentarios                                Ningún comentario guardado mXcomment 1.0.8 © 2007-2009 - visualclinic.fr License Creative Commons - Some rights reserved     < Anterior      Siguiente >      [Volver]                         Buscador                 Últimas Noticias    Bernanke: Economía está al borde de la recuperación    ¿Cree usted que la economía mundial se está estabilizando?    Economía de la zona del euro se estabiliza en agosto    Netbook Lite U102 de BenQ    Contraloría indaga hoy a Rodrigo Arias por BCIE    Experimentan vacuna en costarricenses por AH1N1    China se recupera e impulsa al resto de los mercados            RSS  Suscríbase a nuestro RSS y mantengase informado de las noticias de economía a nivel nacional e internacional.              Inicio | Diarios y Revistas | Empresas | Buscar | Mapa | Contactar | Software | Ecología | Diarios y Revistas | Espiritual | Solicitud de Correo   © 2009 Central Costa Rica Derechos Reservados © CentalCostaRica | Powered by          

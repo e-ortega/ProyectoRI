@@ -1,0 +1,116 @@
+Â­    Pasar al contenido principal      .         Secciones + Biomedicina  ComputaciÃ³n  EnergÃ­a  MÃ³vil  Negocios  RobÃ³tica  10 TecnologÃ­as Emergentes  Las 50 Empresas mÃ¡s Inteligentes  OpiniÃ³n  Habla el mercado  Innovadores a Fondo   Actualidad  Innovadores  MÃ¡s + Eventos     Formulario de bÃºsqueda            Menu    Suscribirse Arrow  Buscar   Secciones + Biomedicina ComputaciÃ³n EnergÃ­a MÃ³vil Negocios RobÃ³tica 10 TecnologÃ­as Emergentes Las 50 Empresas mÃ¡s Inteligentes OpiniÃ³n Habla el mercado Innovadores a Fondo Actualidad Innovadores MÃ¡s + Eventos      Escriba las palabras clave.                                                     Biomedicina   TR10: Aprendizaje reforzado  1    Si hay una tecnologÃ­a que puede 
+conseguir que los ordenadores actÃºen como humanos, es esta, ya que les 
+permite aprender por sÃ­ solos. El futuro de Ã¡reas como la conducciÃ³n 
+autÃ³noma depende de ella                                        por Will Knight | traducido por Teresa Woods  23 Febrero, 2017                       CrÃ©dito: Seymour Chwast.  Avance  Este enfoque para la inteligencia artificial (IA) logra que los 
+ordenadores aprendan como las personas, sin necesidad de darle 
+instrucciones explÃ­citas.  Por quÃ© importa  Los progresos de los coches autÃ³nomos y otras formas de 
+automatizaciÃ³n se ralentizarÃ¡n drÃ¡sticamente a menos que las mÃ¡quinas 
+aprendan a perfeccionar sus capacidades mediante la experiencia.  Actores claves  - DeepMind  - Mobileye  - OpenAI  - Google  - Uber  Disponibilidad  De uno a dos aÃ±os  Dentro de una simulaciÃ³n de ordenador sencilla, un grupo de coches 
+autÃ³nomos realiza maniobras aparentemente alocadas en una carretera 
+virtual de cuatro carriles. La mitad intenta desplazarse desde el carril
+ derecho justo cuando la otra mitad intenta incorporarse desde el carril
+ izquierdo. Es justo el tipo de situaciÃ³n compleja podrÃ­a confundir a un vehÃ­culo robÃ³tico, sin embargo, lo hacen con precisiÃ³n.  ObservÃ© esta simulaciÃ³n durante la mayor conferencia de inteligencia 
+artificial del aÃ±o, celebrada en Barcelona (EspaÃ±a) en diciembre. 
+Lo que resulta mÃ¡s increÃ­ble es que el software que gobierna el 
+comportamiento de los vehÃ­culos no se ha programado para nada en el 
+sentido clÃ¡sico. Para aprender a incorporarse al trÃ¡fico de forma tan 
+precisa y segura el programa sÃ³lo tuvo que practicar. El software 
+realizÃ³ la maniobra una y otra vez e iba modificando ligeramente las 
+pautas en cada intento. La mayor parte del tiempo, la incorporaciÃ³n fue 
+demasiado lenta y los coches interfirieron entre sÃ­. Pero cuando lo 
+logrÃ³ hacer de manera fluida, el sistema aprendiÃ³ a perfeccionar el comportamiento que dio paso a ese resultado.  Este enfoque, conocido como aprendizaje reforzado, fue el que consiguiÃ³ que el ordenador AlphaGo, desarrollado por una subsidiaria de Alphabet, DeepMind, dominara el complejÃ­simo juego de mesa Go y venciera a uno de los mejores jugadores humanos del mundo el aÃ±o 
+pasado. Ahora, el aprendizaje reforzado podrÃ­a estar a punto de ofrecer 
+una mayor inteligencia mÃ¡s allÃ¡ de los juegos de mesa. AdemÃ¡s de mejorar
+ los coches autÃ³nomos, la tecnologÃ­a puede ayudar a un robot a agarrar objetos que nunca ha visto antes y puede averiguar la configuraciÃ³n Ã³ptima para los equipos de centro de datos.  Foto:  Estas imÃ¡genes son del sistema de Mobileye de visiÃ³n para coches, que se beneficiarÃ¡ del aprendizaje reforzado.  CrÃ©dito: CortesÃ­a de Mobileye.  El aprendizaje reforzado imita un principio muy sencillo de la 
+naturaleza. El psicÃ³logo Edward Thorndike lo documentÃ³ hace mÃ¡s de 100 
+aÃ±os. Thorndike colocÃ³ unos gatos dentro de cajas de las que sÃ³lo podrÃ­an escapar al accionar una palanca. Tras dedicar un tiempo considerable a dar vueltas y aullar, finalmente aprendÃ­an a escaparse cada vez mÃ¡s deprisa.  Algunos de los primeros investigadores de IA creÃ­an que las mÃ¡quinas 
+podÃ­an replicar este proceso. En 1951, el alumno de la Universidad de 
+Harvard (EEUU) Marvin Minsky, que mÃ¡s tarde se convertirÃ­a en uno de los padres de la IA en el Instituto TecnolÃ³gico de Massachusetts (MIT, EEUU), construyÃ³ una
+ mÃ¡quina que empleaba una forma sencilla de aprendizaje reforzado para 
+imitar a una rata que aprende a navegar un laberinto. El Ordenador 
+EstocÃ¡stico de Refuerzo de Similitud Neural, o SNARC (por sus siglas en 
+inglÃ©s), consistÃ­a de docenas de tubos, motores y acoplamientos que 
+simulaban el comportamiento de 40 neuronas y sinapsis. Cuando la rata 
+simulada encontraba la salida del laberinto virtual, la fuerza de 
+algunas conexiones sinÃ¡pticas aumentaba lo que reforzaba el 
+comportamiento responsable del resultado. Se produjeron algunos Ã©xitos 
+similares durante las siguientes dÃ©cadas. En 1992, el investigador de 
+IBM Gerald Tesauro creÃ³ un programa que empleaba la tÃ©cnica para jugar 
+al Backgammon y que logrÃ³ igualar el rendimiento de los mejores 
+jugadores humanos, todo un hito para la IA. Pero el aprendizaje 
+reforzado resultÃ³ ser difÃ­cil de escalar a problemas mÃ¡s complejos. "La gente creÃ­a que era una idea genial pero que no funcionaba" , explica el investigador de DeepMind en Reino Unido y destacado defensor del aprendizaje reforzado, David Silver.  Esa visiÃ³n cambiÃ³ drÃ¡sticamente en marzo de 2016. Fue entonces cuando
+ AlphaGo, un programa entrenado con aprendizaje reforzado, diezmÃ³ a uno 
+de los mejores jugadores de Go de todos los tiempos, Lee Sedol de Corea 
+del Sur. La hazaÃ±a fue asombrosa porque resulta virtualmente imposible 
+que un buen programa juegue bien al Go mediante una programaciÃ³n 
+convencional. El juego no sÃ³lo es extremadamente complejo sino que incluso los jugadores expertos pueden encontrar difÃ­cil explicar por quÃ© determinados movimientos son ventajosos o perjudiciales, por lo que la estrategia es difÃ­cil de incorporar al 
+cÃ³digo. La mayorÃ­a de los investigadores de IA esperaban que aÃºn hiciera
+ falta una dÃ©cada para que un ordenador jugara tan bien al juego como un
+ experto humano.  La tecnologÃ­a puede lograr que un robot agarre objetos que nunca ha visto.   Compitiendo por posicionarse  Silver, un britÃ¡nico afable que quedÃ³ fascinado por la IA cuando 
+estudiaba en Universidad de Cambridge (Reino Unido), explica por quÃ© el aprendizaje reforzado se ha vuelto tan formidable Ãºltimamente .
+ Afirma que la clave es combinarlo con el aprendizaje profundo, una 
+tÃ©cnica que incluye el uso de una gran red neuronal simulada para 
+reconocer patrones dentro de los datos (ver Aprendizaje profundo ).  El aprendizaje reforzado funciona porque los investigadores 
+averiguaron cÃ³mo lograr que un ordenador calcule el valor que deberÃ­a 
+asignar a, digamos, cada giro correcto o equivocado de una rata en un 
+laberinto. Cada valor es almacenado en una gran tabla, y el ordenador 
+los actualiza a medida que aprende. A nivel computacional, el enfoque no
+ resulta prÃ¡ctico para tareas grandes y complejas. Pero en los Ãºltimos 
+aÃ±os el aprendizaje profundo se ha revelado como una manera extremadamente eficiente de reconocer patrones en los datos .
+ Funciona tanto si los datos se refieren a giros dentro de un laberinto,
+ a las posiciones sobre un tablero de Go o a los pÃ­xeles que aparecen en
+ pantalla durante un videojuego.  De hecho, DeepMind se hizo famoso a travÃ©s de los juegos. En 2013, publicÃ³ los detalles de un programa capaz de aprender a jugar a varios videojuegos de Atari a un nivel superhumano ,
+ lo que hizo que Google a adquiriera la empresa por casi 470 millones de
+ euros en 2014. Estas y otras hazaÃ±as han inspirado a otros 
+investigadores y empresas para empezar a fijarse en el aprendizaje 
+reforzado. Varios fabricantes de robots industriales estÃ¡n probando la 
+tÃ©cnica para entrenar a sus mÃ¡quinas para que ejecuten tareas nuevas sin necesidad de programaciÃ³n manual. Y los investigadores de Google, tambiÃ©n subsidiaria de Alphabet, 
+colaboraron con DeepMind para emplear el aprendizaje reforzado profundo 
+para volver que sus centros de datos hagan un uso mÃ¡s eficiente de la 
+energÃ­a. Resulta difÃ­cil averiguar cÃ³mo todos los elementos de un centro
+ de datos afectarÃ¡n al consumo energÃ©tico, pero un algoritmo de 
+aprendizaje reforzado puede realizar simulaciones para sugerir, por 
+ejemplo, cÃ³mo y cuÃ¡ndo operar los sistemas de enfriamiento.  Pero el entorno en el que probablemente mÃ¡s lucen su comportamiento 
+increÃ­blemente humano es en la conducciÃ³n autÃ³noma. Los vehÃ­culos sin 
+conductor actuales suelen titubear ante situaciones complejas en las que
+ intervienen otros conductores humanos, como las rotondas. Si no 
+queremos riesgos innecesarios ni atascos, tendrÃ¡n que adquirir capacidades de conducciÃ³n mÃ¡s precisas, como ubicarse entre una multitud de coches.   Foto: El aprendizaje reforzado dio paso a la impresionante victoria el aÃ±o pasado de AlphaGo frente a un campeÃ³n de Go. CrÃ©dito: CortesÃ­a de DeepMind.  El software de incorporaciÃ³n a la carretera fue demostrado en 
+Barcelona por Mobileye, una empresa automovilÃ­stica israelÃ­ cuyos 
+sistemas de seguridad vehicular ya son utilizados por docenas de 
+fabricantes automovilÃ­sticos, incluido Tesla Motors (ver Las 50 empresas mÃ¡s brillantes de 2016, segÃºn 'MIT Technology Review' ).
+ DespuÃ©s de mostrar el vÃ­deo de incorporaciones, el vicepresidente de 
+tecnologÃ­a de Mobileye, Shai Shalev-Shwartz, demostrÃ³ algunos de los 
+retos a los que se enfrentarÃ¡n los coches autÃ³nomos: una abarrotada 
+rotonda en JerusalÃ©n (Israel); una frenÃ©tica intersecciÃ³n en ParÃ­s 
+(Francia) y una escena endiabladamente caÃ³tica en una calle de la India.
+ " Si un coche autÃ³nomo sigue la ley al pie de la letra, podrÃ­a pasar horas esperando para incorporarse al trÃ¡fico en hora punta", dice Shalev-Shwartz.  Mobileye planea probar el software en una flota de vehÃ­culos en 
+colaboraciÃ³n con BMW e Intel este aÃ±o. Google y Uber tambiÃ©n afirman 
+estar probando el aprendizaje reforzado en sus vehÃ­culos autÃ³nomos. El 
+aprendizaje reforzado se estÃ¡ aplicando a cada vez mÃ¡s Ã¡reas, seÃ±ala la 
+profesora adjunta de la Universidad de Stanford (EEUU) Emma Brunskill , 
+que estÃ¡ especializada en el enfoque. Lo considera muy parecido a la 
+conducciÃ³n autÃ³noma porque habilita "una buena secuencia de decisiones". Los progresos se producirÃ­an mucho mÃ¡s despacio si los programadores tuviesen que codificar todas estas decisiones en los coches por adelantado.  Pero hay varios retos por delante. El director cientÃ­fico de la empresa china Baidu, Andrew Ng ,
+ advierte que el enfoque requiere una enorme cantidad de datos, y muchos
+ de sus Ã©xitos se han conseguido a costa de interminables repeticiones. 
+De hecho, los investigadores siguen intentando averiguar cÃ³mo lograr que
+ el aprendizaje reforzado funcione en situaciones complejas en las que 
+existen mÃ¡s de un objetivo. Mobileye tambiÃ©n ha tenido que ajustar sus 
+protocolos para que un coche autÃ³nomo experto en evitar accidentes no 
+acabe provocando mÃ¡s accidentes a los demÃ¡s. Cuando se ve el disparatado
+ vÃ­deo de las incorporaciones, parece que la empresa lo ha conseguido, al menos de momento. Pero este aÃ±o, tal vez en una carretera cercana a usted, el aprendizaje
+ reforzado se someterÃ¡ a sus pruebas mÃ¡s drÃ¡sticas e importantes hasta 
+la fecha.   No te pierdas la lista completa de nuestras 10 TecnologÃ­as Emergentes 2017               Su nombre     Comment *               Biomedicina  Nuevas tecnologÃ­as y conocimientos biolÃ³gicos empiezan a ofrecer opciones sin precedentes para mejorar nuestra salud.         La 'alucinante' cura de perros con distrofia muscular acerca la soluciÃ³n a humanos  Un
+ tratamiento de dosis Ãºnica mediante CRISPR ha reparado las 
+cÃ©lulas de mÃºsculos y corazones de forma generalizada en un grupo de 
+cachorros. El avance supone un paso importante en la bÃºsqueda de 
+una estrategia que pueda librar a las personas de esta enfermedad mortal  Por Antonio Regalado        Empleados cÃ­borg que encienden el PC con un microchip en su piel  La
+ empresa tecnolÃ³gica Three Square Market ha inyectado microchips en
+ un tercio de sus empleados. Ahora, con un solo gesto pueden entrar en 
+la oficina o pagar un refresco. Aunque los empleados estÃ¡n muy 
+satisfechos, quedan por resolver cuestiones como la privacidad o las 
+actualizaciones.  Por Rachel Metz        El debate de usar CRISPR en embriones: seguridad contra progreso  'Nature'
+ publica dos crÃ­ticas a la investigaciÃ³n que empleÃ³ ediciÃ³n genÃ©tica en 
+embriones humanos acompaÃ±ada de una larga carta del cientÃ­fico que 
+la llevÃ³ a cabo. Â¿Debemos intentar reparar el ADN de embriones
+ humanos en un laboratorio para evitar enfermedades? La polÃ©mica estÃ¡ 
+servida  Por Antonio Regalado          MÃ¡s informaciÃ³n sobre Biomedicina                     SÃ­guenos  Twitter Facebook RSS                             CompaÃ±Ã­a QuiÃ©nes somos  ContÃ¡ctenos   Legal PolÃ­tica de Privacidad  TÃ©rminos y Condiciones     Copyright Â© MIT Technology Review, 2017-2018.                      Usamos cookies en este sitio para mejorar la experiencia de usuario. Al hacer clic en cualquier enlace de esta pÃ¡gina nos da su consentimiento para utilizar cookies.    De acuerdo  MÃ¡s info   

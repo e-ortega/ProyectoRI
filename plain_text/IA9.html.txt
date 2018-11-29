@@ -1,0 +1,209 @@
+      EspaÃ±ol  English   FundaciÃ³n General CSIC  Lychnos  Cuadernos de la FundaciÃ³n General CSIC EdiciÃ³n Digital   Inicio  Nosotros  NÃºmeros publicados  ArtÃ­culos  Entrevistas  Autores  Tribuna  Noticias       Volver a ArtÃ­culos  Imprimir   TecnologÃ­as de la informaciÃ³n  VICENÃ§ TORRA  Instituto de InvestigaciÃ³n en Inteligencia Artificial (CSIC)  La inteligencia artificial  La inteligencia artificial (IA) es una de las ramas de
+ la InformÃ¡tica, con fuertes raÃ­ces en otras Ã¡reas como la lÃ³gica y las 
+ciencias cognitivas. VicenÃ§ Torra nos conduce por sus definiciones y 
+aplicaciones.       Compartir  |            â€ŠLa inteligencia artificial (IA) es una de las ramas de la
+ InformÃ¡tica, con fuertes raÃ­ces en otras Ã¡reas como la lÃ³gica y las 
+ciencias cognitivas. Como veremos a continuaciÃ³n, existen muchas 
+definiciones de lo que es la inteligencia artificial. Sin embargo, todas
+ ellas coinciden en la necesidad de validar el trabajo mediante 
+programas. H. A. DESTACADOS Pefil: VicenÃ§ Torra Simon,
+ uno de los padres de la IA, nos sirve de ejemplo, pues afirmÃ³, en un 
+artÃ­culo en 1995, que Â«el momento de la verdad es un programa en 
+ejecuciÃ³nÂ». Las definiciones difieren en las caracterÃ­sticas o 
+propiedades que estos programas deben satisfacer.  La inteligencia artificial nace en una reuniÃ³n celebrada en el verano de
+ 1956 en Dartmouth (Estados Unidos) en la que participaron los que mÃ¡s 
+tarde han sido los investigadores principales del Ã¡rea. Para la 
+preparaciÃ³n de la reuniÃ³n, J. McCarthy, M. Minsky, N. Rochester y C. E. 
+Shannon redactaron una propuesta en la que aparece por primera vez el 
+tÃ©rmino Â«inteligencia artificialÂ». Parece ser que este nombre se dio a 
+instancias de J. McCarthy.      ASIMO (Advanced Step in 
+Innovative Mobility â€“paso avanzado en movilidad innovadoraâ€“) es un robot
+ humanoide creado en el aÃ±o 2000 por la empresa Honda. / Foto: Honda.    Â¿QuÃ© es la inteligencia artificial? La propuesta citada mÃ¡s arriba de la reuniÃ³n organizada por J. McCarthy y
+ sus colegas incluye la que puede considerarse como la primera 
+definiciÃ³n de inteligencia artificial. El documento define el problema 
+de la inteligencia artificial como aquel de construir una mÃ¡quina que se
+ comporte de manera que si el mismo comportamiento lo realizara un ser 
+humano, este serÃ­a llamado inteligente.  Existen, sin embargo, otras definiciones que no se basan en el comportamiento humano. Son las cuatro siguientes.  1.â€‚Actuar como las personas.  Esta es la definiciÃ³n 
+de McCarthy, donde el modelo a seguir para la evaluaciÃ³n de los 
+programas corresponde al comportamiento humano. El llamado Test de 
+Turing (1950) tambiÃ©n utiliza este punto de vista. El sistema Eliza, un 
+bot (programa software) conversacional es un ejemplo de ello.   2.â€‚Razonar como las personas.  Lo
+ importante es cÃ³mo se realiza el razonamiento y no el resultado de este
+ razonamiento. La propuesta aquÃ­ es desarrollar sistemas que razonen del
+ mismo modo que las personas. La ciencia cognitiva utiliza este punto de
+ vista.   3.â€‚Razonar racionalmente. En este caso, la definiciÃ³n tambiÃ©n se focaliza en el razonamiento, 
+pero aquÃ­ se parte de la premisa de que existe una forma racional de 
+razonar. La lÃ³gica permite la formalizaciÃ³n del razonamiento y se 
+utiliza para este objetivo.   4.â€‚Actuar racionalmente. De nuevo el objetivo son los resultados, pero ahora evaluados de forma 
+objetiva. Por ejemplo, el objetivo de un programa en un juego como el 
+ajedrez serÃ¡ ganar. Para cumplir este objetivo es indiferente la forma 
+de calcular el resultado.  AdemÃ¡s de las definiciones mencionadas mÃ¡s arriba, hay aÃºn otra 
+clasificaciÃ³n de la inteligencia artificial segÃºn cuÃ¡les son los 
+objetivos finales de la investigaciÃ³n en este campo. Son la inteligencia
+ artificial fuerte y la dÃ©bil.    Durante dÃ©cadas, la inteligencia artificial se ha dedicado a los  juegos con el fin de derrotar a los mejores jugadores humanos Inteligencia artificial dÃ©bil Se considera que los ordenadores Ãºnicamente pueden simular que razonan, y
+ Ãºnicamente pueden actuar de forma inteligente. Las partidarios de la 
+inteligencia artificial dÃ©bil consideran que no serÃ¡ nunca posible 
+construir ordenadores conscientes, y que un programa es una simulaciÃ³n 
+de un proceso cognitivo pero no un proceso cognitivo en sÃ­ mismo.   Inteligencia artificial fuerte En este caso se considera que un ordenador puede tener una mente y unos 
+estados mentales, y que, por tanto, un dÃ­a serÃ¡ posible construir uno 
+con todas las capacidades de la mente humana. Este ordenador serÃ¡ capaz 
+de razonar, imaginar, etc.    Temas en la inteligencia artificial Aunque existen puntos de vista diferentes sobre quÃ© es la inteligencia 
+artificial, hay un acuerdo importante sobre cuales son los resultados 
+atribuibles a esta rama de la InformÃ¡tica, asÃ­ como a la clasificaciÃ³n 
+de los mÃ©todos y tÃ©cnicas desarrollados. Repasamos a continuaciÃ³n los 
+cuatro grandes temas de la inteligencia artificial.   1.â€‚ResoluciÃ³n de problemas y bÃºsqueda.  La
+ inteligencia artificial tiene como objetivo resolver problemas de 
+Ã­ndole muy diferente. Para poder cumplir este objetivo, dado un problema
+ es necesario formalizarlo para poderlo resolver. Este tema se centra en
+ cÃ³mo formalizarlo y las formas de resoluciÃ³n.   2.â€‚RepresentaciÃ³n del conocimiento y sistemas basados en el conocimiento. Es frecuente que los programas en inteligencia artificial necesiten 
+incorporar conocimiento del dominio de aplicaciÃ³n (por ejemplo, en 
+medicina) para poder resolver los problemas. Este tema se centra en 
+estos aspectos.  3.â€‚Aprendizaje automÃ¡tico. El rendimiento de un programa 
+puede incrementarse si el programa aprende de la actividad realizada y 
+de sus propios errores. Se han desarrollado mÃ©todos con este objetivo. 
+Existen tambiÃ©n herramientas que permiten extraer conocimiento a partir 
+de bases de datos.   4.â€‚Inteligencia artificial distribuida.  Durante
+ sus primeros aÃ±os la inteligencia artificial era monolÃ­tica. Ahora, con
+ los ordenadores multiprocesador e Internet, hay interÃ©s en soluciones 
+distribuidas. Estas van desde versiones paralelas de mÃ©todos ya 
+existentes a nuevos problemas relacionados con los agentes autÃ³nomos 
+(programas software con autonomÃ­a para tomar decisiones e interaccionar 
+con otros).  AdemÃ¡s de los cuatro temas mencionados mÃ¡s arriba, existen otros que 
+estÃ¡n fuertemente relacionados con la inteligencia artificial. Son los 
+enumerados a continuaciÃ³n:   a) El lenguaje natural. b) La visiÃ³n artificial. c) La robÃ³tica. d) El reconocimiento del Â­habla.  Como se verÃ¡ a continuaciÃ³n, muchas de las aplicaciones mÃ¡s llamativas 
+utilizan algunas de las tÃ©cnicas relacionadas con estos temas.      Paro, comercializado en 
+EspaÃ±a con el nombre Nuka, es una foca robot de origen japonÃ©s, que 
+lleva desarrollÃ¡ndose desde 1993. / Foto: www.parorobots.com    Algunas aplicaciones Hasta la fecha se han desarrollado muchas aplicaciones que utilizan 
+algunos de los mÃ©todos o algoritmos diseÃ±ados en el Ã¡rea de la 
+inteligencia artificial. En esta secciÃ³n repasamos algunas de las 
+aplicaciones existentes mÃ¡s vistosas o que han tenido relevancia 
+histÃ³rica. Sin embargo, estas no son las Ãºnicas aplicaciones existentes,
+ pues hay mÃ©todos desarrollados en esta rama de la InformÃ¡tica que se 
+utilizan en aparatos de uso cotidiano o en el software empleado por 
+empresas y corporaciones. Por ejemplo, por una parte, encontramos los 
+algoritmos de bÃºsqueda citados mÃ¡s arriba en los sistemas que construyen
+ horarios teniendo en cuenta las restricciones de las entidades e 
+individuos que participan en ellos. Por otra parte, los mÃ©todos de 
+aprendizaje se usan para recomendar productos en las tiendas virtuales y
+ para seleccionar los anuncios que se nos proporcionan al visitar 
+ciertas pÃ¡ginas web. Otro ejemplo es el de los sistemas difusos, uno de 
+los mÃ©todos de representaciÃ³n del conocimiento que han sido aplicados 
+con Ã©xito en problemas de control de muy diversa Ã­ndole. Existen tanto 
+cÃ¡maras digitales como lavadoras que incorporan en su interior un 
+sistema difuso.  Pasamos a ver a continuaciÃ³n algunas de las aplicaciones mÃ¡s relevantes.   Aplicaciones en los juegos Durante dÃ©cadas, la inteligencia artificial se ha dedicado a los juegos 
+con el fin de derrotar a los mejores jugadores humanos. Se ha 
+considerado siempre que la habilidad de jugar era propia de la 
+inteligencia. Las damas y el othello fueron derrotados primero. En el 
+aÃ±o 1997 fue el turno del ajedrez. Ahora prÃ¡cticamente queda Ãºnicamente 
+el go por batir.    Las damas. Chinnok, un programa desarrollado desde el aÃ±o 1989 por el equipo de 
+Jonathan Schaeffer, de la Universidad de Alberta, se convirtiÃ³ en el aÃ±o
+ 1994 en el campeÃ³n mundial de damas. El programa incluye una base de 
+datos con aperturas de los mejores jugadores y otra de situaciones 
+finales cuando quedan 8 o menos fichas en el tablero. El mismo equipo 
+investigador demostrÃ³ aÃ±os mÃ¡s tarde, en el aÃ±o 2007, que cuando se 
+juega a las damas de forma perfecta ningÃºn jugador puede ganar. Esto 
+significa que una estrategia Ã³ptima por parte de los dos jugadores 
+Ãºnicamente puede llevar a tablas. La dificultad de esta demostraciÃ³n 
+estriba en que puede haber aproximadamente 500 3 1020 tableros posibles,
+ o, en palabras, cincuenta mil trillones de tableros. El problema es un 
+millÃ³n de veces mÃ¡s difÃ­cil que el de las 4 en raya. La informaciÃ³n 
+sobre este programa se puede encontrar en: 
+http://webdocs.cs.ualberta.ca/~chinook/.   El ajedrez. Durante muchos aÃ±os se desarrollaron inventos y programas con el fin de 
+ganar en el juego del ajedrez. Sin embargo, no fue hasta mayo del aÃ±o 
+1997 cuando Deep Blue venciÃ³ al campeÃ³n humano G. Kasparov en Nueva 
+York. El programa desarrollado por IBM utilizaba hardware especÃ­fico, 
+bases de datos que permitÃ­an al programa jugar de forma perfecta en las 
+situaciones finales con 7 o menos fichas en el tablero, y algoritmos de 
+bÃºsqueda del tipo minimax para encontrar la mejor soluciÃ³n en todos los 
+otros casos. Se puede encontrar informaciÃ³n sobre Deep Blue en la pÃ¡gina
+ web http://www.research.ibm.com/deepblue.   El go. Mientras los otros juegos ya han sido derrotados, no existe en la 
+actualidad ningÃºn programa informÃ¡tico que tenga un nivel suficiente en 
+go como para ganar a los buenos jugadores humanos. Hace aÃ±os que se 
+considera el go un juego mucho mÃ¡s difÃ­cil que el ajedrez. La dificultad
+ estriba en las dimensiones del tablero (19 3 19, con 361 
+intersecciones), el nÃºmero de movimientos posibles en cada tablero y la 
+dificultad de definir funciones que evalÃºen correctamente un tablero 
+dado. Actualmente se han conseguido algunos programas que tienen un buen
+ nivel en un tablero reducido de 9 x 9. Los programas que tienen un buen
+ rendimiento no utilizan el mismo algoritmo de bÃºsqueda que el ajedrez 
+(el mÃ­nimax) sino el UCT.    Aplicaciones en robÃ³tica Las aplicaciones en robÃ³tica se han desarrollado desde el principio de 
+la informÃ¡tica con diversidad de objetivos: la automatizaciÃ³n de 
+procesos industriales, las aplicaciones militares y la exploraciÃ³n 
+espacial. Mientras los primeros robots estaban orientados a realizar 
+actividades repetitivas, actualmente se busca una mayor autonomÃ­a en 
+relaciÃ³n a su capacidad de tomar decisiones. La evoluciÃ³n de la robÃ³tica
+ tambiÃ©n ha pasado por su intento de construir robots con forma humana y
+ con capacidad de andar. A continuaciÃ³n se enumeran algunos de los 
+logros mÃ¡s importantes en esta Ã¡rea.    Los robots mascotas. Existen en la actualidad muchos robots para diversiÃ³n o juegos. Podemos
+ subrayar dos de ellos: los japoneses Paro y Aibo. El primero es un 
+robot terapÃ©utico para reducir el estrÃ©s de los pacientes y que permite 
+incrementar su socializaciÃ³n. Aibo, presentado en el aÃ±o 1999 e 
+implementado y comercializado por SONY, es un robot en forma de perro 
+con un sistema de visiÃ³n y programable.   Los robots de exploraciÃ³n y reconocimiento. Se
+ enviaron a la superficie de Marte dos robots, el 3 y el 24 de enero de 
+2004 respectivamente. Son los robots Spirit y Opportunity. Spirit estuvo
+ activo hasta el aÃ±o 2010 y Opportunity aÃºn estÃ¡ en funcionamiento. El 
+26 de noviembre de 2011 se mandÃ³ un tercer robot, el Curiosity, que debe
+ llegar a Marte en agosto de 2012. Este robot tiene una navegaciÃ³n 
+automÃ¡tica media de 30 m/hora (y mÃ¡xima de 90 m/hora). Se espera que su 
+misiÃ³n dure dos aÃ±os.    Los robots bÃ­pedos. P3 fue el primer robot bÃ­pedo capaz de caminar. Su construcciÃ³n, 
+realizada por la compaÃ±Ã­a Honda, acabÃ³ en el aÃ±o 1997. En octubre del 
+aÃ±o 2000, la misma compaÃ±Ã­a presentÃ³ el robot ASIMO (de Advanced Step in
+ Innovative Mobility). Este robot es la culminaciÃ³n de la serie de 
+robots P, todos desarrollados con el objetivo de disponer de robots con 
+forma y capacidades motrices humanas. ASIMO es un robot bÃ­pedo que puede
+ andar y correr. AdemÃ¡s puede reconocer objetos mÃ³viles, posturas y 
+gestos a partir de la informaciÃ³n subministrada por sus cÃ¡maras.    Aplicaciones en vehÃ­culos inteligentes Se han construido muchos tipos de vehÃ­culos con diferentes grados de 
+autonomÃ­a. En el apartado anterior ya se mencionaron algunos robots. 
+AquÃ­ se seÃ±alan vehÃ­culos que pueden llevar pasajeros.    El metro de la ciudad japonesa de Sendai (ä»™å°åœ°ä¸‹é‰„). Este metro, desarrollado en el aÃ±o 1987, fue el primero en el mundo con
+ una conducciÃ³n totalmente automatizada. Actualmente, son muchas las 
+lÃ­neas de metro sin conductor en el mundo. El sistema fue realizado bajo
+ la direcciÃ³n de Seiji Yasunobu, miembro del laboratorio de Desarrollo 
+de Sistemas de Hitachi. EstÃ¡ basado en tÃ©cnicas de lÃ³gica difusa.   Coches autÃ³nomos. Stanley
+ fue el coche ganador de la carrera Â«2005 DARPA Grand ChallengeÂ». El 
+coche, autÃ³nomo y sin conductor, completÃ³ el recorrido de 212,4 km en el
+ desierto de Mojave, en los Estados Unidos, en 6 horas y 54 minutos. En 
+el 2007 se realizÃ³ la Â«2007 DARPA Grand ChallengeÂ» que consistÃ­a en 
+recorrer 96 km en Ã¡rea urbana (en la base de las Fuerzas AÃ©reas George 
+en California). Los coches circulaban procesando en tiempo real las 
+reglas de circulaciÃ³n del estado de California. El 20 de septiembre de 
+2011, el coche Made in Germany de la Universidad Libre de BerlÃ­n se 
+desplazÃ³ por las calles de esta ciudad en un viaje de 80 km. El 
+recorrido fue entre el Centro de Congresos Internacional y la Puerta de 
+Brandenburgo, en el centro de BerlÃ­n. El automÃ³vil es completamente 
+autÃ³nomo, aunque algunas informaciones, como la velocidad del recorrido,
+ le vienen dadas y no son recogidas por sus cÃ¡maras. El coche reconoce 
+la presencia de peatones y de semÃ¡foros. Para informaciÃ³n del coche 
+alemÃ¡n puede consultarse la siguiente pÃ¡gina web: http://autonomos.inf.Â­fu-berlin.de.   Los vehÃ­culos aÃ©reos no tripulados (UAV, Unmanned Aerial 
+Vehicle). El vehÃ­culo aÃ©reo no tripulado Global Hwak fue el primero en 
+cruzar el OcÃ©ano PacÃ­fico sin paradas. RealizÃ³ el trayecto de Estados 
+Unidos (California) a Australia en abril del aÃ±o 2001. Sin embargo, aÃºn 
+necesita un piloto en una estaciÃ³n terrestre y otros operadores para 
+analizar los datos. De acuerdo con Weiss (2011), el principal problema 
+de estos sistemas autÃ³nomos es que, aunque pueden recoger muchos datos, 
+les falta todavÃ­a capacidad de proceso para tratar los datos en tiempo 
+real y actuar de forma inteligente conforme a estos datos.     Conclusiones La informÃ¡tica ha avanzado enormemente desde sus inicios hace 70 aÃ±os. 
+La potencia de cÃ¡lculo se ha estado multiplicando por dos cada 18 meses,
+ siguiendo la ley de Moore. Se cree que, si la ley de Moore se sigue 
+cumpliendo, para el aÃ±o 2030 la capacidad de cÃ¡lculo de un procesador 
+corresponderÃ¡ a la de una persona.  A su vez, la cantidad de informaciÃ³n almacenada digitalmente en la 
+actualidad es enorme. Los buscadores como Google almacenan millones de 
+copias de las pÃ¡ginas web existentes, y los servicios de correo de las 
+compaÃ±Ã­as acumulan por millones nuestros mensajes. Las redes sociales 
+registran cuÃ¡les son nuestros intereses y nuestras amistades. Las 
+compaÃ±Ã­as guardan cualquier informaciÃ³n, por insignificante que pueda 
+ser, por si en el futuro les puede ser de alguna utilidad.  Naturalmente, un aumento de la velocidad de computaciÃ³n y una mayor 
+capacidad de almacenaje implicarÃ¡ que los sistemas dispongan de mÃ¡s 
+recursos para tomar decisiones y que estas decisiones se realicen de 
+manera mÃ¡s informada y, a su vez, de manera mÃ¡s personalizada.    Pefil: VicenÃ§ Torra   Doctor
+ en InformÃ¡tica por la Universitat PolitÃ¨cnica de Catalunya (UPC) e 
+investigador cientÃ­fico del Instituto de InvestigaciÃ³n en Inteligencia 
+Artificial (CSIC). Fue profesor titular de la Universitat Rovira i 
+Virgili. Preside la AsociaciÃ³n Catalana de Inteligencia Artificial.  IniciÃ³, en 2004, la organizaciÃ³n del congreso Modeling Decisiones for 
+Artificial Intelligence, que se celebra anualmente y tiene una 
+evaluaciÃ³n de CORE B (el ranking de conferencias australiano). Fundador y
+ editor de la revista Transactions on Data Privacy. Asimismo, es miembro
+ del consejo editorial de las siguientes publicaciones: Fuzzy Sets and 
+Systems, Information Sciences, Progress in Artificial Intelligence, 
+Journal of Advanced Computational Intelligence and Informatics e 
+International Journal of Computational Intelligence System.  Es autor, entre otros libros, de Fundamentos de Inteligencia Artificial y Del Ã¡baco a la revoluciÃ³n digital.        Publicado en  NÃºm. 07      Â® FundaciÃ³n General CSIC. Todos los derechos reservados.   Lychnos . ISSN: 2171-6463 (ed. impresa en espaÃ±ol), 2172-0207 (ed. impresa en inglÃ©s) y 2174-5102 (ed. digital)   Privacidad y Aviso legal  Contacto    csic  banco santander  fundaciÃ³n BBVA  Obra social FundaciÃ³n la caixa  FundaciÃ³n Francisco RamÃ³n Areces         Â¿Te gusta lo que hacemos? SÃ­guenos en todo momento, a travÃ©s de Facebook , Twitter y YouTube   facebook  twitter  Youtube      Opciones de bÃºsqueda  Palabra clave  Autor   AÃ±o de publicaciÃ³n  2012  2011  2010    Tema  QuiÃ©nes somos  LÃ­nea EstratÃ©gica FGCSIC: Especies amenazadas  LÃ­nea EstratÃ©gica FGCSIC: Envejecimiento, discapacidad y enfermedad  LÃ­nea EstratÃ©gica FGCSIC: EcologÃ­a humana y desarrollo  LÃ­nea EstratÃ©gica FGCSIC: Fronteras  PlanificaciÃ³n estratÃ©gica de la I+D  Envejecimiento: lÃ­nea estratÃ©gica de la FGCSIC  I+D en envejecimiento: la visiÃ³n biomÃ©dica  I+D en envejecimiento: estudios psicosociales  I+D en envejecimiento: desarrollo de nuevas tecnologÃ­as  Especies amenazadas, una introducciÃ³n  I+D en especies amenazadas: Proyectos Cero de la FGCSIC  Con el objetivo de la conservaciÃ³n  Consideraciones socioeconÃ³micas asociadas a la conservaciÃ³n  EcologÃ­a humana y desarrollo  EnergÃ­a  Agua  Transportes  PrevenciÃ³n y riesgos  AgroalimentaciÃ³n  La investigaciÃ³n de Frontera  Frontera: en la materia y energÃ­a  Frontera: en la exploraciÃ³n del universo  Frontera: en zonas limÃ­trofes  Frontera: en los estudios sobre sociedad y cultura  La I+D en energÃ­a y automociÃ³n  EnergÃ­a y automociÃ³n: impacto socioeconÃ³mico  Fuentes de energÃ­a para automociÃ³n  Hacia el transporte elÃ©ctrico  IntroducciÃ³n a las tecnologÃ­as de la informaciÃ³n  TecnologÃ­as de la informaciÃ³n  Nuevos espacios de la informaciÃ³n  Efectos sociales de las tecnologÃ­as de la informaciÃ³n  Encuesta FGCSIC sobre I+D en envejecimiento  I+D en envejecimiento: Proyectos Cero FGCSIC  Programa de personas mayores en la Obra Social Â«la CaixaÂ»  Aproximaciones diversas al envejecimiento  La crisis de la biodiversidad  I+D en especies amenazadas: Proyectos Cero FGCSIC  En torno a la biodiversidadâ€¦  Banco Santander. Un compromiso con el medio ambiente  El patrocinio y el mecenazgo en la I+D  Ejemplos de colaboraciÃ³n pÃºblico privada en la I+D  Nuestros patronos financian investigaciÃ³n            

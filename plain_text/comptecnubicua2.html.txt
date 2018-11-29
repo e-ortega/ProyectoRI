@@ -1,0 +1,19 @@
+     Mark Weiser   De Wikipedia, la enciclopedia libre   Saltar a navegaciÃ³n , bÃºsqueda   Mark Weiser (Chicago - Illinois, 23 de Julio de 1952 - 27 de abril de 1999).      Tabla de contenidos  [ ocultar ]   1  BiografÃ­a  2  TecnologÃ­a Ubicua  3  Incorporar la informatica a objetos  4  VÃ©ase tambiÃ©n         BiografÃ­a  [ editar ]  EstudiÃ³ Ciencia de la ComunicaciÃ³n y la InformÃ¡tica en la Universisdad de Michigan. Su temprana muerte dejÃ³ al mundo de la informÃ¡tica sin el ideÃ³logo de la "computaciÃ³n ubicua".    TecnologÃ­a Ubicua  [ editar ]  El concepto de ubicuidad en las TIC , fue introducido Weiser en 1988 trabajando para el Computer Science Laboratory at Xerox PARC y adquiriÃ³ reconocimiento mundial en 1991 con el trabajo â€œ The Computer for the Twenty-First Century â€.  Sobre esta teorÃ­a aplicativa Weiser escribiÃ³ sobre dos bases
+fundamentales: El sistema distribuido y la computaciÃ³n mÃ³vil y que
+ambos sistemas funcionaban sobre cuatro cimientos: el uso inteligente
+de espacios eficaces; invisibilidad; escala local y ocultaciÃ³n de los
+desniveles de acondicionamiento. Weiser propone y se basa en que la
+interacciÃ³n actual operador-computador no es la ordenada. En su libro
+expuso que " La computadora es un punto de conexiÃ³n demasiado
+enredado, su manejo requiere mucha atenciÃ³n exclusiva, quitando la
+atenciÃ³n al usuario de la tarea que debe hacer ".  Weiser utilizaba con frecuencia la " Realidad Virtual " para tratar de explicar sus ideas por contraposiciÃ³n y comparaciÃ³n. DecÃ­a que las tecnologÃ­as ubicuas son opuesta a la RV .
+Donde Ã©sta trata de poner a la vida de las personas dentro de un mundo
+generado por ordenador, las tecnologÃ­as ubicuas fuerzan al ordenador a
+que conviva con las personas en el mundo real. IntentÃ³ plasmar el
+concepto de ubicuidad que debÃ­an tener las TIC en la idea de â€œ anytime, anywhere â€.    Incorporar la informatica a objetos  [ editar ]  A Weiser le pareciÃ³ lÃ³gico defender el "ocaso" de las computadoras ,
+pero decÃ­a que entendiÃ©ramos bien este tÃ©rmino, proponÃ­a que los
+ordenadores personales sean sustituidos por ordenadores invisibles
+encajados en objetos de uso diario. Cuando en 1991 propone esta teorÃ­a,
+el nivel de tecnologÃ­a era demasiado costoso y la Xerox ,
+empresa para la cual Weiser trabajaba, descarta de plano realizarlo,
+sÃ³lo en 1998 comenzaron aplicando su teorÃ­a que no pudo verla concluida.    VÃ©ase tambiÃ©n  [ editar ]   ComputaciÃ³n Ubicua     Obtenido de " http://es.wikipedia.org/wiki/Mark_Weiser "  CategorÃ­a : InformÃ¡ticos de Estados Unidos         Vistas    ArtÃ­culo  DiscusiÃ³n  Editar  Historial      Herramientas personales    Registrarse/Entrar          NavegaciÃ³n    Portada  Portal de la comunidad  Actualidad  Cambios recientes  PÃ¡gina aleatoria  Ayuda  Donativos      Buscar           Herramientas    Lo que enlaza aquÃ­  Cambios en enlazadas  Subir archivo  PÃ¡ginas especiales  VersiÃ³n para imprimir  Enlace permanente Citar este artÃ­culo      En otros idiomas    Deutsch  English  æ—¥æœ¬èªž  ä¸­æ–‡           Esta pÃ¡gina fue modificada por Ãºltima vez el 22:56, 17 jun 2007.  Contenido disponible bajo los tÃ©rminos de la Licencia de documentaciÃ³n libre de GNU (vÃ©ase Derechos de autor ). WikipediaÂ® es una marca registrada de la organizaciÃ³n sin Ã¡nimo de lucro Wikimedia Foundation, Inc.  PolÃ­tica de privacidad  Acerca de Wikipedia  LimitaciÃ³n de responsabilidad     

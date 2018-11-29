@@ -43,9 +43,9 @@ def changePageN():
     if request.method == 'POST':
         t=int(numPos)+1
         if (t * 10)<(len(listURL)+10):
-            return redirect(url_for('success',name = consulta,y=t))
+            return render_template('t.html', name=consulta, y=t, l=listURL)
         else:
-            return redirect(url_for('success',name = consulta,y=t-1))
+            return render_template('t.html', name=consulta, y=t-1, l=listURL)
 
 			
 @app.route('/oldPage',methods = ['POST', 'GET'])
@@ -53,9 +53,9 @@ def changePageO():
     if request.method == 'POST':
         t=int(numPos)-1
         if t>=0:
-            return redirect(url_for('success',name = consulta,y=t))
+            return render_template('t.html', name=consulta, y=t, l=listURL)
         else:
-            return redirect(url_for('success',name = consulta,y=t+1))
+            return render_template('t.html', name=consulta, y=t+1, l=listURL)
 
 			
 
@@ -68,9 +68,10 @@ def fillList():
 @app.route('/newsearch',methods = ['POST', 'GET'])
 def newlogin():
     if request.method == 'POST':
+
         fillList()
         user = request.form['nm']
-        return redirect(url_for('success',name = user,y=0))
+        return render_template('t.html', name=user, y=0, l=listURL)
     else:
         user = request.args.get('nm')
         return redirect(url_for('success',name = user,y=0))

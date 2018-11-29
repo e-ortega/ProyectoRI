@@ -82,17 +82,19 @@ def newlogin():
 def login():
     if request.method == 'POST':
         fillList()
-        user = request.form['nm']
-        return render_template('t.html',name = user,y=0,l=listURL)
+        consulta = request.form['searchText']
+        return render_template('index.html', filename='./static/css/main.css', v=0.01, name=consulta, y=0, l=listURL)
+        #return render_template('t.html',name = user,y=0,l=listURL)
 		#return redirect(url_for('success',name = user,y=0))
     else:
-        user = request.args.get('nm')
+        user = request.args.get('searchText')
         #return redirect(url_for('success',name = user,y=0))
-        return render_template('t.html')
+        #return render_template('t.html')
+        return render_template('index.html', filename='./static/css/main.css', v=0.01, name=consulta, y=0, l=listURL)
 
 @app.route('/')
 def main():
-		return render_template('search.html')
+		return render_template('index.html',filename='./static/css/main.css', v=0.01,name = "",y=0,l=listURL)
 
 if __name__ == '__main__':
     app.run(debug = True)

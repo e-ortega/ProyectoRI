@@ -33,69 +33,77 @@
             <div class="row third">
               <div class="input-field">
                 <div class="result-count">
-                  <span>{{l|length }} </span>resultados</div>
+                  <span>{{results|length }} </span>resultados</div>
                 <div class="group-btn">
                   <button class="btn-search">Buscar</button>
                 </div> 
               </div>
             </div>
 			<!--AQUI VAN A IR LOS ENLACES A LAS PAGINAS-->
-			 <a href="https://www.w3schools.com/html/">3</a> 
 			 {% block content0 %}
-				{% if 0+(10*y)< l|length%}
-					{{ l[0+(10*y)]|safe }}
+				{% if 0+(10*y)< results|length%}
+					{{ urls[0+(10*y)]|safe }}
 				{% endif %}
 			{% endblock content0 %}
 			{% block content1 %}
-				{% if 1+(10*y)< l|length%}
-					{{ l[1+(10*y)]|safe }}
+				{% if 1+(10*y)< results|length%}
+					{{ results[1+(10*y)]|safe }}
 				{% endif %}
 			{% endblock content1 %}
 			{% block content2 %}
-				{% if 2+(10*y)< l|length%}
-					{{ l[2+(10*y)]|safe }}
+				{% if 2+(10*y)< results|length%}
+					{{ results[2+(10*y)]|safe }}
 				{% endif %}
 			{% endblock content2 %}
 			{% block content3 %}
-				{% if 3+(10*y)< l|length%}
-					{{ l[3+(10*y)]|safe }}
+				{% if 3+(10*y)< results|length%}
+					{{ results[3+(10*y)]|safe }}
 				{% endif %}
 			{% endblock content3 %}
 			{% block content4 %}
-				{% if 4+(10*y)< l|length%}
-					{{ l[4+(10*y)]|safe }}
+				{% if 4+(10*y)< results|length%}
+					{{ results[4+(10*y)]|safe }}
 				{% endif %}
 			{% endblock content4 %}
 			{% block content5 %}
-				{% if 5+(10*y)< l|length%}
-					{{ l[5+(10*y)]|safe }}
+				{% if 5+(10*y)< results|length%}
+					{{ results[5+(10*y)]|safe }}
 				{% endif %}
 			{% endblock content5 %}
 			{% block content6 %}
-				{% if 6+(10*y)< l|length%}
-					{{ l[6+(10*y)]|safe }}
+				{% if 6+(10*y)< results|length%}
+					{{ results[6+(10*y)]|safe }}
 				{% endif %}
 			{% endblock content6 %}
 			{% block content7 %}
-				{% if 7+(10*y)< l|length%}
-					{{ l[7+(10*y)]|safe }}
+				{% if 7+(10*y)< results|length%}
+					{{ results[7+(10*y)]|safe }}
 				{% endif %}
 			{% endblock content7 %}
 			{% block content8 %}
-				{% if 8+(10*y)< l|length%}
-					{{ l[8+(10*y)]|safe }}
+				{% if 8+(10*y)< results|length%}
+					{{ results[8+(10*y)]|safe }}
 				{% endif %}
 			{% endblock content8 %}
 			{% block content9 %}
-				{% if 9+(10*y)< l|length%}
-					{{ l[9+(10*y)]|safe }}
+				{% if 9+(10*y)< results|length%}
+					{{ results[9+(10*y)]|safe }}
 				{% endif %}
 			{% endblock content9 %}
           </div>
 		  {% block botonNP %}
-			{% if l|length > 10 %}
-					<form action="/oldPage" method="post"><button type="submit" name="Previo" value="Prev">Previo</button>
-					<form action="/newPage" method="post"><button type="submit" name="Siguiente" value="Next">Siguiente</button> </form>
+			{% if results|length > 10 %}
+					<form action="/oldPage" method="post">
+						<div class="group-btn">
+						  <button class="btn-search" name="Previo" value="Prev">Previo</button>
+						</div> 
+					</form>
+					<form action="/newPage" method="post">
+					<div class="group-btn">
+						  <button class="btn-search" name="Siguiente" value="Next">Siguiente</button>
+						</div> 
+					</form>
+					
 				{% endif %}
 			{% endblock botonNP %}
         </div>
@@ -136,7 +144,7 @@
         const deleteAll = document.querySelectorAll('.choices__button')
         for (let i = 0; i < deleteAll.length; i++)
         {
-          deleteAll[i].click();
+          deleteAlresults[i].click();
         }
       });
 

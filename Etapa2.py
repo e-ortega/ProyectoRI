@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+import operator
 import os
 import re
 import math
@@ -32,14 +33,14 @@ def run():
         os.mkdir(os.path.join(path, plain_text_dir))
 
     fill_stop_words()
-    read_urls()
+    # read_urls()
     print("Calculando pesos")
-    calcule_peso()
-    indice(r"\posting.txt")
-    procesa_consulta("fiscal")
-    sume_dict()
-    similitud(r"\plain_text\pesosQ.txt")
-    calculo_similitud()
+    # calcule_peso()
+    # indice(r"\posting.txt")
+    #procesa_consulta("asegura")
+    #sume_dict()
+    #similitud(r"\plain_text\pesosQ.txt")
+    #calculo_similitud()
     print("Termina")
 
 
@@ -388,8 +389,6 @@ def calcule_peso():
             f.write(line)
 
 
-
-
 def procesa_consulta(consulta):
     consulta_cont = []
     words = consulta.split()
@@ -477,6 +476,10 @@ def procesa_consulta(consulta):
     wix2 = math.sqrt(wix)
     print(wix2)
 
+    return sume_dict()
+
+
+
 
 def calcule_producto_punto(vec):
 
@@ -531,6 +534,7 @@ def sume_dict():
             sum = sum + float(list[j])
         dict[item] = sum
 
+    return similitud(r"\plain_text\pesosQ.txt")
 
 
 
@@ -558,6 +562,7 @@ def guarde_pesos_q(vec_consulta, wijQ):
         print(str(vec_consulta[k]) + " " + str(wijQ[k]))
         file_text.writelines(str(vec_consulta[k]) + "   " + str(wijQ[k]) + "\n")
     file_text.close()
+
 
 # Analiza la similitud de archivos
 def similitud(archivo):
@@ -660,6 +665,7 @@ def similitud(archivo):
         valorF=sumaPeso**0.5
         archivoConsulta = archivoConsulta.replace(".html.txt.tok.wtd", ".tok")
         pesos_documentos[archivoConsulta]=valorF
+    return calculo_similitud()
 
 
 
@@ -668,15 +674,22 @@ def calculo_similitud():
     global pesos_documentos
     global dict
     global wix2
+    ranking = {"": int}
+    ranking.clear()
     for key, values in pesos_documentos.items():
-        producto_punto_Q = dict[key]
-        producto_punto_doc = pesos_documentos[key]
-        similitud_doc =  float(producto_punto_doc) / (float(producto_punto_Q)*float(wix2))
+        if key.strip():
+            producto_punto_Q = dict[key]
+            producto_punto_doc = pesos_documentos[key]
+            similitud_doc = float(producto_punto_doc) / (float(producto_punto_Q)*float(wix2))
+            ranking[key] = similitud_doc
+            print("Similitud del doc es: " + str(similitud_doc))
 
-        print("Similitud del doc es: " + str(similitud_doc))
+    ranking["ab"] = float(23)
+    ranking["cs"] = float(14)
+    ranking["sd"] = float(121)
+    sorted_d = sorted(ranking.items(), key=lambda x: x[1])
 
-
-
+    return sorted_d
 
 
 run()

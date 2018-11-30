@@ -684,9 +684,6 @@ def calculo_similitud():
             ranking[key] = similitud_doc
             print("Similitud del doc es: " + str(similitud_doc))
 
-    ranking["ab"] = float(23)
-    ranking["cs"] = float(14)
-    ranking["sd"] = float(121)
     sorted_d = sorted(ranking.items(), key=lambda x: x[1])
 
     return sorted_d

@@ -106,9 +106,9 @@ def index():
                 if str(n) == str(name):
                     urls.append(url)
                     break
-            
+
             return render_template('index.html', filename='./static/css/main.css', v=0.01, name=consulta, y=numPos,
-                            cantidad_paginas=cantidad_paginas, results=urls)
+                            cantidad_paginas=cantidad_paginas, results=found_names)
 
 
 @app.route('/')

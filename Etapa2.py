@@ -473,6 +473,7 @@ def procesa_consulta(consulta):
     for i in range(0, len(norma_vec_q)):
         wix = wix + norma_vec_q[i]
 
+    global wix2
     wix2 = math.sqrt(wix)
     print(wix2)
 
@@ -491,22 +492,29 @@ def calcule_producto_punto(vec):
     indexes = file.read()
     first = indexes.find(vec)
     last = indexes.rfind(vec)
-    sublist = indexes[first : last].split("\n")
+    if first < last:
+        sublist = indexes[first : last ].split("\n")
+    else:
+        first_jump = indexes.find("\n", first)
+        sublist = indexes[first: first_jump].split("\n")
     index = vec_consulta.index(vec)
+    global weight
     weight = wijQ[index]
+    global dict
 
     for line in sublist:
         values = line.split()
         if values != []:
             print (values[0] + " "+ values[1]+ " "+values[2])
+            values[1] = values[1].replace("tok", "wtd")
             if values[1] in dict :
                 new_list = []
                 new_list = dict[values[1]]
-                new_list.append(values[2]*weight)
+                new_list.append(float(values[2])*weight)
                 dict[values[1]] = new_list
             else:
                 temp = []
-                temp.append(values[2]*weight)
+                temp.append(float(values[2])*weight)
                 dict[values[1]] = temp
 
     file.close()
@@ -515,6 +523,7 @@ def calcule_producto_punto(vec):
 
 def sume_dict():
     temp = []
+    global dict
     for item in dict:
         sum = 0
         list = dict[item]
@@ -627,10 +636,12 @@ def similitud(archivo):
                 for x in range(int(I3)):
                     listaFileConsulta.append(lines3[int(P1) + x])
     for l in listaFileConsulta:
+        global archivoConsulta
+        global pesos_documentos
         archivoConsulta = l[l.find(" "):l.rfind(" ")]
         archivoConsulta = archivoConsulta.replace(" ", "")
         cur_path = os.path.dirname(__file__)
-        archivoConsulta = archivoConsulta.replace(".tok", ".html.txt.tok.wtd")
+        archivoConsulta = archivoConsulta.replace(".tok", ".wtd")
         file_consulta = cur_path + "/plain_text/wtd/" + archivoConsulta
         resultadoConsulta = file_consulta.replace("\\plain_text\\wtd\\"+archivoConsulta, archivoConsulta)
         try:
@@ -654,8 +665,18 @@ def similitud(archivo):
 
 #vec1 va a ser el nombre del documento y vec2 va a ser el valor
 def calculo_similitud():
-    archivoConsulta
-    pesos_documentos
+    global pesos_documentos
+    global dict
+    global wix2
+    for key, values in pesos_documentos.items():
+        producto_punto_Q = dict[key]
+        producto_punto_doc = pesos_documentos[key]
+        similitud_doc =  float(producto_punto_doc) / (float(producto_punto_Q)*float(wix2))
+
+        print("Similitud del doc es: " + str(similitud_doc))
+
+
+
 
 
 run()

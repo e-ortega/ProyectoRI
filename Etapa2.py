@@ -19,6 +19,9 @@ total_frequency_list = []
 document_quantity_list = []
 # requests_errors = []
 tok_path = ""
+dict = {"": []}
+vec_consulta = []
+wijQ = []
 
 
 def run():
@@ -28,6 +31,7 @@ def run():
 
     fill_stop_words()
     calcule_producto_punto("etapa")
+    sume_dict()
     #procesa_consulta("Que hace barato auto")
     #read_urls()
     #print("Calculando pesos")
@@ -385,7 +389,6 @@ def calcule_peso():
 
 
 def procesa_consulta(consulta):
-    vec_consulta = []
     consulta_cont = []
     words = consulta.split()
 
@@ -435,7 +438,7 @@ def procesa_consulta(consulta):
             else:
                 count = count + 1
     # calcule pesos(wij)
-    wijQ = []
+
 
     for i in range(0, len(freq_norm_q)):
         word = vec_consulta[i]
@@ -476,7 +479,6 @@ def calcule_producto_punto(vec):
     post_archivo = []
     post_peso = []
     indexes= []
-
     file_name = cur_path + "/plain_text/posting.txt"
     file = open(file_name, 'r', encoding="utf-8")
 
@@ -484,24 +486,35 @@ def calcule_producto_punto(vec):
     first = indexes.find(vec)
     last = indexes.rfind(vec)
     sublist = indexes[first : last].split("\n")
+    index = vec_consulta.index(vec)
+    weight = wijQ[index]
 
     for line in sublist:
         values = line.split()
-        pal = ""
-        pal = values[1] + str (int(values[2])*2)
-        dict = {"": []}
-        list = [3, 4234, 5, 34]
-        dict["palabra"] = list
-        new_list = dict.get("palabra")
-        dict.palabra = new_list
-        print(values)
+        if values != []:
+            print (values[0] + " "+ values[1]+ " "+values[2])
+            if values[1] in dict :
+                new_list = []
+                new_list = dict[values[1]]
+                new_list.append(values[2]*weight)
+                dict[values[1]] = new_list
+            else:
+                temp = []
+                temp.append(values[2]*weight)
+                dict[values[1]] = temp
 
-    print("algo")
-
-    print(first)
-    print(last)
     file.close()
 
+
+
+def sume_dict():
+    temp = []
+    for item in dict:
+        sum = 0
+        list = dict[item]
+        for j in range (0, len(list)):
+            sum = sum + float(list[j])
+        dict[item] = sum
 
 
 

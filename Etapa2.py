@@ -19,7 +19,7 @@ total_frequency_list = []
 document_quantity_list = []
 # requests_errors = []
 tok_path = ""
-
+archivoConsulta={" ":float}
 
 def run():
     # create your subdirectory
@@ -560,7 +560,9 @@ def similitud(archivo):
         for l in lines3:
             cuadrado=float((l[l.find(" "):]))**2
             sumaPeso += cuadrado
-        valor=sumaPeso**0.5
+        valorF=sumaPeso**0.5
+		archivoConsulta = archivoConsulta.replace(".html.txt.tok.wtd", ".tok")
+        pesos_documentos[archivoConsulta]=valorF
 
 run()
 

@@ -1,153 +1,125 @@
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
 
+    th, td {
+        text-align: center;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2
+    }
+
+    th {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+</style>
 <html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="author" content="colorlib.com">
-    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700" rel="stylesheet" />
-    <link href="{{ url_for('static',filename='css/main.css') }}" rel="stylesheet" />
-  </head>
-  <body>
-    <div class="s010">
-      <form action="/search" method="post">
-		
-		  
-		<div class="container">
-			<h1 class="threed">BROWSITICO</h1>
-		</div>
-		
-        <div class="inner-form">
-          <div class="basic-search">
-            <div class="input-field">
-              <input id="search" type="text" name ="searchText" placeholder="Ingresa una consulta" />
-              <div class="icon-wrap">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                  <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
-                </svg>
-              </div>
-            </div>
-          </div>
-          <div class="advance-search">
-            <span class="desc">Resultados</span>
-            <div class="row third">
-              <div class="input-field">
-                <div class="result-count">
-                  <span>{{results|length }} </span>resultados</div>
-                <div class="group-btn">
-                  <button class="btn-search">Buscar</button>
-                </div> 
-              </div>
-            </div>
-			<!--AQUI VAN A IR LOS ENLACES A LAS PAGINAS-->
-			 {% block content0 %}
-				{% if 0+(10*y)< results|length%}
-					{{ urls[0+(10*y)]|safe }}
-				{% endif %}
-			{% endblock content0 %}
-			{% block content1 %}
-				{% if 1+(10*y)< results|length%}
-					{{ results[1+(10*y)]|safe }}
-				{% endif %}
-			{% endblock content1 %}
-			{% block content2 %}
-				{% if 2+(10*y)< results|length%}
-					{{ results[2+(10*y)]|safe }}
-				{% endif %}
-			{% endblock content2 %}
-			{% block content3 %}
-				{% if 3+(10*y)< results|length%}
-					{{ results[3+(10*y)]|safe }}
-				{% endif %}
-			{% endblock content3 %}
-			{% block content4 %}
-				{% if 4+(10*y)< results|length%}
-					{{ results[4+(10*y)]|safe }}
-				{% endif %}
-			{% endblock content4 %}
-			{% block content5 %}
-				{% if 5+(10*y)< results|length%}
-					{{ results[5+(10*y)]|safe }}
-				{% endif %}
-			{% endblock content5 %}
-			{% block content6 %}
-				{% if 6+(10*y)< results|length%}
-					{{ results[6+(10*y)]|safe }}
-				{% endif %}
-			{% endblock content6 %}
-			{% block content7 %}
-				{% if 7+(10*y)< results|length%}
-					{{ results[7+(10*y)]|safe }}
-				{% endif %}
-			{% endblock content7 %}
-			{% block content8 %}
-				{% if 8+(10*y)< results|length%}
-					{{ results[8+(10*y)]|safe }}
-				{% endif %}
-			{% endblock content8 %}
-			{% block content9 %}
-				{% if 9+(10*y)< results|length%}
-					{{ results[9+(10*y)]|safe }}
-				{% endif %}
-			{% endblock content9 %}
-          </div>
-		  {% block botonNP %}
-			{% if results|length > 10 %}
-					<form action="/oldPage" method="post">
-						<div class="group-btn">
-						  <button class="btn-search" name="Previo" value="Prev">Previo</button>
-						</div> 
-					</form>
-					<form action="/newPage" method="post">
-					<div class="group-btn">
-						  <button class="btn-search" name="Siguiente" value="Next">Siguiente</button>
-						</div> 
-					</form>
-					
-				{% endif %}
-			{% endblock botonNP %}
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700" rel="stylesheet"/>
+    <link href="{{ url_for('static',filename='css/main.css') }}" rel="stylesheet"/>
+</head>
+<body>
+<div class="s010">
+    <form action="/search" method="post">
+        <div class="container">
+            <h1 class="threed">BROWSITICO</h1>
         </div>
-		
-      </form>
-    </div>
-    <script src="js/extention/choices.js"></script>
-    <script>
-      const customSelects = document.querySelectorAll("select");
-      const deleteBtn = document.getElementById('delete')
-      const choices = new Choices('select',
-      {
-        searchEnabled: false,
-        itemSelectText: '',
-        removeItemButton: true,
-      });
-      for (let i = 0; i < customSelects.length; i++)
-      {
-        customSelects[i].addEventListener('addItem', function(event)
+        <div class="inner-form">
+            <div class="basic-search">
+                <div class="input-field">
+                    <input id="search" type="text" name="searchText" placeholder="Ingresa una consulta"/>
+                    <div class="icon-wrap">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+            <div class="advance-search">
+                <div class="row third">
+                    <div class="input-field">
+                        <div class="result-count">
+                            {{results|length }} resultados | página {{y+1}} de {{cantidad_paginas}}
+                        </div>
+                        <div class="group-btn">
+                            <button class="btn-search" type="submit" name="page_button" value="search">Buscar</button>
+                        </div>
+                    </div>
+                </div>
+                </br></br>
+                <!--AQUI VAN A IR LOS ENLACES A LAS PAGINAS-->
+                <table align="center">
+
+                    {% for n in range(0,10) %}
+                    <tr>
+                        <td> {{ results[n+(10*y)]|safe }}</td>
+                    </tr>
+
+                    {% endfor %}
+                </table>
+                </br>
+                <div class="input-field">
+                    <div class="group-btn">
+                        {% if results|length > 10 %}
+                        <button class="btn-search" type="submit" name="page_button" value="prev">
+                            anterior
+                        </button>
+                        <button class="btn-search" type="submit" name="page_button" value="next">
+                            siguiente
+                        </button>
+                    </div>
+                    {% endif %}
+                </div>
+
+
+            </div>
+        </div>
+    </form>
+
+</div>
+<script src="js/extention/choices.js"></script>
+<script>
+    const customSelects = document.querySelectorAll("select");
+    const deleteBtn = document.getElementById('delete')
+    const choices = new Choices('select',
         {
-          if (event.detail.value)
-          {
-            let parent = this.parentNode.parentNode
-            parent.classList.add('valid')
-            parent.classList.remove('invalid')
-          }
-          else
-          {
-            let parent = this.parentNode.parentNode
-            parent.classList.add('invalid')
-            parent.classList.remove('valid')
-          }
+            searchEnabled: false,
+            itemSelectText: '',
+            removeItemButton: true,
+        });
+    for (let i = 0; i < customSelects.length; i++) {
+        customSelects[i].addEventListener('addItem', function (event) {
+            if (event.detail.value) {
+                let parent = this.parentNode.parentNode
+                parent.classList.add('valid')
+                parent.classList.remove('invalid')
+            }
+            else {
+                let parent = this.parentNode.parentNode
+                parent.classList.add('invalid')
+                parent.classList.remove('valid')
+            }
         }, false);
-      }
-      deleteBtn.addEventListener("click", function(e)
-      {
+    }
+    deleteBtn.addEventListener("click", function (e) {
         e.preventDefault()
         const deleteAll = document.querySelectorAll('.choices__button')
-        for (let i = 0; i < deleteAll.length; i++)
-        {
-          deleteAlresults[i].click();
+        for (let i = 0; i < deleteAll.length; i++) {
+            deleteAlresults[i].click();
         }
-      });
+    });
 
-    </script>
-  </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</script>
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 </html>

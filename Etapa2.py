@@ -9,6 +9,8 @@ from os import walk
 from http import HTTPStatus
 from bs4 import BeautifulSoup
 from bs4.element import Comment
+from collections import namedtuple
+
 
 # este es el vector de palabras que se llena con palabras que se deben omitir en los textos
 plain_text_dir = "plain_text"
@@ -26,6 +28,8 @@ dict = {"": []}
 vec_consulta = []
 wijQ = []
 wix2 = 0
+total_docs_procesados = 0
+
 
 def run():
     # create your subdirectory
@@ -33,10 +37,11 @@ def run():
         os.mkdir(os.path.join(path, plain_text_dir))
 
     fill_stop_words()
-    # read_urls()
+    read_urls()
+    create_vocabulary()
     print("Calculando pesos")
-    # calcule_peso()
-    # indice(r"\posting.txt")
+    calcule_peso()
+    indice(r"\posting.txt")
     #procesa_consulta("asegura")
     #sume_dict()
     #similitud(r"\plain_text\pesosQ.txt")
@@ -90,7 +95,6 @@ def html_parser(separator):
     #     print("Algo pasó creando el archivo el documento: [%s].", file_name)
 
 
-
 def tag_visible(element):
     if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
         return False
@@ -102,6 +106,10 @@ def tag_visible(element):
 # lee el archivo sin bloques html dado por htmlParser, recorre cada palabra, la busca en stop_words, si no la encuentra
 # la busca en el vector de palabras, si la encuentra le suma 1 en la posicion de caso contrario la agrega con un 1
 def tokenizer(clean_text, file_name):
+
+    global total_docs_procesados
+    total_docs_procesados = total_docs_procesados + 1
+
     word_list = []
     frequency_list = []
     # file = open(file_name, "r", encoding="utf-8")
@@ -119,6 +127,8 @@ def tokenizer(clean_text, file_name):
             if len(word) > 0:
                 if not word.isdigit() and not word[0].isalpha():
                     valid_word = False  # no se usan palabras que no sean solo numeros y no empiecen por a-z ej: 3arbol
+
+
 
             if not stop_words.__contains__(word) and valid_word:
                 if word_list.__contains__(word):
@@ -151,7 +161,6 @@ def normalize_frequency(file_name, word_list, frequency_list):
             normalized_value = frequency / max_frequency
             normalized_frequency_list.append(normalized_value)
         create_tok(file_name, word_list, normalized_frequency_list, frequency_list)
-        create_vocabulary()
 
 
 # crea un archivo .tok a partir de los vectores de palabras y frecuencias normalizadas
@@ -251,18 +260,27 @@ def create_vocabulary():
 
     merge_sort_3_listas(global_words_list, total_frequency_list, document_quantity_list)
 
+    # termino,  # doc diferentes en que aparece el termino, frecuencia inversa(idf)
+    # idf = log(total_doc /  # docs en termino)
+    #         log()
+
+    vector_frequency = []
     try:
         file_text = open(file_name, '+w', encoding="utf-8")
-        vector_frequency = [str(i) for i in total_frequency_list]
+        for freq in document_quantity_list:
+            value = math.log(total_docs_procesados / freq, 10)
+            vector_frequency.append(str(value))
+
+        # vector_frequency = [str(i) for i in total_frequency_list]
         vector_quantity = [str(i) for i in document_quantity_list]
         counter = 0
         for word in global_words_list:
-            file_text.write(str(word) + " " + ", " + str(vector_frequency[counter]) + " " + ", " + str(vector_quantity[counter]) + "\n")
+            file_text.write(str(word) + " " + ", " + str(vector_quantity[counter]) + " " + ", " + str(vector_frequency[counter]) + "\n")
             counter += 1
         file_text.close()
     except IOError:
         print("Algo pasó creando el .tok para el documento: [%s].", file_name)
-
+    print("d")
 
 # Crea in Indice a partir del archivo posting
 def indice(archivo):
@@ -291,14 +309,17 @@ def indice(archivo):
     c = 0
     try:
         file_text = open(file_name, '+w', encoding="utf-8")
-        numeroVeces = 0
-        for l in lines:
-            numeroVeces += 1
-            if termino != l:
-                termino = l
-                file_text.write(termino + " " * (30 - len(termino)) + ", " + str(c) + " " * (12 - len(str(c))) + ", " + str(numeroVeces) + "\n")
-                numeroVeces = 0
-            c = c + 1
+        unique = set(lines)
+        unique = sorted(unique)
+        for termino in unique:
+            numeroVeces = lines.count(termino)
+            primera_pos = lines.index(termino)
+            file_text.write(termino + " " * (30 - len(termino)) + ", " + str(primera_pos) + " " * (12 - len(str(primera_pos))) + ", " + str(
+                numeroVeces) + "\n")
+
+        file_text.close()
+        print("")
+
     except IOError:
         print("Algo pasó creando el archivo Indice")
 
@@ -314,26 +335,21 @@ def load_vocabulario(palabras, frecuencias):
     # a = 'C:/Users/Jose M/Google Drive/II Semestre 2018/Proyecto/plain_text/Vocabulario.txt'
     with open(a, 'r', encoding="utf-8") as file:
         for line in file:
-            count = 0
-            for word in line.split():
-                if count == 0:
-                    palabras.append(word)
-                    count = count + 1
-                elif count == 2:
-                    frecuencias.append(word)
-                    count = count + 1
-                else:
-                    count = count + 1
+            terminos = line.split()
+
+            palabras.append(terminos[0])
+            frecuencias.append(terminos[4])
+
 
 
 def calcule_peso():
     palabras = []
-    frecuencias = []
+    idfs = []
     palabras_tok = []
-    frecuencias_tok = []
+    frecuencias_tok = [] # freq normalizadas
     palabra_peso = []
     pesos = []
-    load_vocabulario(palabras, frecuencias)
+    load_vocabulario(palabras, idfs)
     cur_path = os.path.dirname(__file__)
     tok_path = cur_path + "/plain_text/tok"
     dir_path_name = r'.\plain_text\wtd'
@@ -365,7 +381,7 @@ def calcule_peso():
             for j in range(0, len(palabras)):
                 if palabras[j] == palabras_tok[i]:
                     palabra_peso.append(palabras_tok[i])
-                    pesos.append(float(frecuencias_tok[i]) * float(frecuencias[j]))
+                    pesos.append(float(frecuencias_tok[i]) * float(idfs[j]))
         file_name = cur_path + "/plain_text/wtd/" + f[n] + ".wtd"
         file_name = file_name.replace(".tok", "")
         file_text = open(file_name, '+w', encoding="utf-8")
@@ -403,8 +419,9 @@ def procesa_consulta(consulta):
                 vec_consulta.append(word)
                 consulta_cont.append(1)
             else:
-                index = vec_consulta.index(word)
-                consulta_cont[index] = consulta_cont[index] + 1
+                if(len(vec_consulta)) >0:
+                    index = vec_consulta.index(word)
+                    consulta_cont[index] = consulta_cont[index] + 1
 
     # calcula freq normalizada(tfij)
 

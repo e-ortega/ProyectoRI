@@ -39,13 +39,9 @@ def run():
     fill_stop_words()
     read_urls()
     create_vocabulary()
-    print("Calculando pesos")
     calcule_peso()
     indice(r"\posting.txt")
-    #procesa_consulta("asegura")
-    #sume_dict()
-    #similitud(r"\plain_text\pesosQ.txt")
-    #calculo_similitud()
+
     print("Termina")
 
 
@@ -407,8 +403,12 @@ def calcule_peso():
 
 def procesa_consulta(consulta):
     consulta_cont = []
+    global dict
+    dict = {"": []}
+    dict.clear()
     words = consulta.split()
-
+    global vec_consulta
+    vec_consulta = []
     # en esta parte solo saca palabras y calcula  la frecuencia(freqij)
     for word in words:
         word = word.lower()
@@ -513,7 +513,8 @@ def calcule_producto_punto(vec):
     first = indexes.find(vec)
     last = indexes.rfind(vec)
     if first < last:
-        sublist = indexes[first : last ].split("\n")
+        first_jump = indexes.find("\n", last)
+        sublist = indexes[first : first_jump].split("\n")
     else:
         first_jump = indexes.find("\n", first)
         sublist = indexes[first: first_jump].split("\n")
@@ -583,6 +584,9 @@ def guarde_pesos_q(vec_consulta, wijQ):
 
 # Analiza la similitud de archivos
 def similitud(archivo):
+    global pesos_documentos
+    pesos_documentos = {"": float}
+    pesos_documentos.clear()
     listaFileConsulta=[]
     archivo = archivo.replace(".\\", "\\")
     file_name = 'pesosQ.txt'
@@ -659,7 +663,8 @@ def similitud(archivo):
                     listaFileConsulta.append(lines3[int(P1) + x])
     for l in listaFileConsulta:
         global archivoConsulta
-        global pesos_documentos
+
+
         archivoConsulta = l[l.find(" "):l.rfind(" ")]
         archivoConsulta = archivoConsulta.replace(" ", "")
         cur_path = os.path.dirname(__file__)
@@ -680,7 +685,6 @@ def similitud(archivo):
             sumaPeso += cuadrado
 
         valorF=sumaPeso**0.5
-        archivoConsulta = archivoConsulta.replace(".html.txt.tok.wtd", ".tok")
         pesos_documentos[archivoConsulta]=valorF
     return calculo_similitud()
 
@@ -697,13 +701,36 @@ def calculo_similitud():
         if key.strip():
             producto_punto_Q = dict[key]
             producto_punto_doc = pesos_documentos[key]
-            similitud_doc = float(producto_punto_doc) / (float(producto_punto_Q)*float(wix2))
+            if producto_punto_Q != 0 and wix2 != 0:
+                similitud_doc = float(producto_punto_doc) / (float(producto_punto_Q)*float(wix2))
+            else:
+                similitud_doc = float(producto_punto_doc)
             ranking[key] = similitud_doc
             print("Similitud del doc es: " + str(similitud_doc))
 
     sorted_d = sorted(ranking.items(), key=lambda x: x[1])
 
-    return sorted_d
+    list_archivos = []
+    for tuples in sorted_d:
+        archivo = tuples[0]
+        archivo = archivo.replace(".wtd", ".html")
+        list_archivos.append(archivo)
+
+    file_name = "urles.txt"
+    file = open(file_name, "r", encoding="utf-8")
+    list_urls = []
+    lineas_todo = []
+    for line in file:
+        lineas = line.split()
+        lineas_todo.append(lineas)
+
+    for archivo in list_archivos:
+        for linea in lineas_todo:
+            if archivo == linea[0]:
+                temp = r'<a href="'+linea[1]+'">' + str(linea[0]) + r'</a> '
+                list_urls.append(temp)
+                break
+    return list_urls
 
 
 run()

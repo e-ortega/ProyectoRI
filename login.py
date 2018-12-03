@@ -89,26 +89,8 @@ def index():
             listaDocumentos = Etapa2.procesa_consulta(consulta)
             print("sd")
 
-        found_names = []
-        for found_name in listaDocumentos:
-            found_names.append(found_name[0].replace(".wtd", ""))
-
-        urls = []
-
-        file_name = "URLS.txt"
-        file = open(file_name, "r", encoding="utf-8")
-        for line in file:
-            separator = line.split()
-            name = str(separator[0])
-            url = str(separator[1])
-            name = name.replace(".html","")
-            for n in found_names:
-                if str(n) == str(name):
-                    urls.append(url)
-                    break
-
             return render_template('index.html', filename='./static/css/main.css', v=0.01, name=consulta, y=numPos,
-                            cantidad_paginas=cantidad_paginas, results=found_names)
+                            cantidad_paginas=cantidad_paginas, results=listaDocumentos)
 
 
 @app.route('/')

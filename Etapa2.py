@@ -42,7 +42,6 @@ def run():
     #calcule_peso()
     #indice(r"\posting.txt")
 
-    print("Termina")
 
 
 # llena el vector stop_words usando la  lista de palabras que se deben omitir
@@ -73,7 +72,6 @@ def html_parser(separator):
 
     abs_file_path = file_dir + "/Coleccion" + '/' + name
     page = open(abs_file_path, 'r', encoding="utf-8")
-    print("Parseando :" + name)
     soup = BeautifulSoup(page, 'html.parser')
     text = soup.findAll(text=True)
     visible_texts = filter(tag_visible, text)
@@ -276,7 +274,6 @@ def create_vocabulary():
         file_text.close()
     except IOError:
         print("Algo pasó creando el .tok para el documento: [%s].", file_name)
-    print("d")
 
 # Crea in Indice a partir del archivo posting
 def indice(archivo):
@@ -285,7 +282,6 @@ def indice(archivo):
     file_name = os.path.join(path, plain_text_dir, file_name)
     # resultado = os.path.join(path, plain_text_dir, archivo)
     resultado = file_name.replace("\\Indice.txt", archivo)
-    print(resultado)
     try:
         lines = []
         with open(resultado, encoding="utf8") as file:
@@ -314,7 +310,6 @@ def indice(archivo):
                 numeroVeces) + "\n")
 
         file_text.close()
-        print("")
 
     except IOError:
         print("Algo pasó creando el archivo Indice")
@@ -360,7 +355,6 @@ def calcule_peso():
     for n in range(0, len(f)):
 
         file_name = tok_path + "/" + f[n]
-        print("creando tok %s", file_name)
         file = open(file_name, 'r', encoding="utf-8")
         for line in file:
             word_count = 0
@@ -457,7 +451,6 @@ def procesa_consulta(consulta):
                 count = count + 1
     # calcule pesos(wij)
 
-    print("paso")
 
     for i in range(0, len(freq_norm_q)):
         word = vec_consulta[i]
@@ -491,7 +484,6 @@ def procesa_consulta(consulta):
 
     global wix2
     wix2 = math.sqrt(wix)
-    print(wix2)
 
     return sume_dict()
 
@@ -526,7 +518,6 @@ def calcule_producto_punto(vec):
     for line in sublist:
         values = line.split()
         if values != []:
-            print (values[0] + " "+ values[1]+ " "+values[2])
             values[1] = values[1].replace("tok", "wtd")
             if values[1] in dict :
                 new_list = []
@@ -577,7 +568,6 @@ def guarde_pesos_q(vec_consulta, wijQ):
     file_name = cur_path + "/plain_text/" + "pesosQ.txt"
     file_text = open(file_name, '+w', encoding="utf-8")
     for k in range(0, len(vec_consulta)):
-        print(str(vec_consulta[k]) + " " + str(wijQ[k]))
         file_text.writelines(str(vec_consulta[k]) + "   " + str(wijQ[k]) + "\n")
     file_text.close()
 
@@ -593,7 +583,6 @@ def similitud(archivo):
     file_name = os.path.join(path, plain_text_dir, file_name)
     # resultado = os.path.join(path, plain_text_dir, archivo)
     resultado = file_name.replace("\\plain_text\\pesosQ.txt", archivo)
-    print(resultado)
     try:
         lines = []
         pesosCon = []
@@ -706,7 +695,6 @@ def calculo_similitud():
             else:
                 similitud_doc = float(producto_punto_doc)
             ranking[key] = similitud_doc
-            print("Similitud del doc es: " + str(similitud_doc))
 
     sorted_d = sorted(ranking.items(), key=lambda x: x[1])
 

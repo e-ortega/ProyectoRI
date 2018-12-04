@@ -1,1 +1,2 @@
-ballena   19.0
+torre   55.0
+eiffel   0.0

@@ -37,10 +37,10 @@ def run():
         os.mkdir(os.path.join(path, plain_text_dir))
 
     fill_stop_words()
-    read_urls()
-    create_vocabulary()
-    calcule_peso()
-    indice(r"\posting.txt")
+    #read_urls()
+    #create_vocabulary()
+    #calcule_peso()
+    #indice(r"\posting.txt")
 
     print("Termina")
 

@@ -1,2 +1,0 @@
-barato   6.0
-auto   9.0

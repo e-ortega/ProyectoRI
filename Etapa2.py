@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+import operator
 import os
 import re
 import math
@@ -8,6 +9,8 @@ from os import walk
 from http import HTTPStatus
 from bs4 import BeautifulSoup
 from bs4.element import Comment
+from collections import namedtuple
+
 
 # este es el vector de palabras que se llena con palabras que se deben omitir en los textos
 plain_text_dir = "plain_text"
@@ -19,6 +22,13 @@ total_frequency_list = []
 document_quantity_list = []
 # requests_errors = []
 tok_path = ""
+pesos_documentos = {" ": float}
+archivoConsulta={" ":float}
+dict = {"": []}
+vec_consulta = []
+wijQ = []
+wix2 = 0
+total_docs_procesados = 0
 
 
 def run():
@@ -27,12 +37,11 @@ def run():
         os.mkdir(os.path.join(path, plain_text_dir))
 
     fill_stop_words()
-    procesa_consulta("Que hace barato auto")
     #read_urls()
-    #print("Calculando pesos")
-    #calculePeso()
+    #create_vocabulary()
+    #calcule_peso()
     #indice(r"\posting.txt")
-    similitud(r"\plain_text\pesosQ.txt")
+
     print("Termina")
 
 
@@ -70,7 +79,7 @@ def html_parser(separator):
     visible_texts = filter(tag_visible, text)
     clean_text = u" ".join(t.strip() for t in visible_texts)
 
-    tokenizer(clean_text)
+    tokenizer(clean_text, name)
     # path_file = os.path.join(path, plain_text_dir, file_name)
     # create an empty file.
     # try:
@@ -80,7 +89,6 @@ def html_parser(separator):
     #     tokenizer(path_file)
     # except IOError:
     #     print("Algo pasó creando el archivo el documento: [%s].", file_name)
-
 
 
 def tag_visible(element):
@@ -93,7 +101,11 @@ def tag_visible(element):
 
 # lee el archivo sin bloques html dado por htmlParser, recorre cada palabra, la busca en stop_words, si no la encuentra
 # la busca en el vector de palabras, si la encuentra le suma 1 en la posicion de caso contrario la agrega con un 1
-def tokenizer(clean_text):
+def tokenizer(clean_text, file_name):
+
+    global total_docs_procesados
+    total_docs_procesados = total_docs_procesados + 1
+
     word_list = []
     frequency_list = []
     # file = open(file_name, "r", encoding="utf-8")
@@ -111,6 +123,8 @@ def tokenizer(clean_text):
             if len(word) > 0:
                 if not word.isdigit() and not word[0].isalpha():
                     valid_word = False  # no se usan palabras que no sean solo numeros y no empiecen por a-z ej: 3arbol
+
+
 
             if not stop_words.__contains__(word) and valid_word:
                 if word_list.__contains__(word):
@@ -131,19 +145,18 @@ def tokenizer(clean_text):
             # requests_errors.append(file_name)
     for word in word_list:
         document_quantity_list[global_words_list.index(word)] += 1
-    normalize_frequency(clean_text, word_list, frequency_list)
+    normalize_frequency(file_name, word_list, frequency_list)
 
 
 # crea vectores con las frecuencias relativas de los terminos de un documneto
-def normalize_frequency(clean_text, word_list, frequency_list):
+def normalize_frequency(file_name, word_list, frequency_list):
     if len(frequency_list) > 0 and len(word_list) > 0:
         normalized_frequency_list = []
         max_frequency = max(frequency_list)
         for frequency in frequency_list:
             normalized_value = frequency / max_frequency
             normalized_frequency_list.append(normalized_value)
-        create_tok(clean_text, word_list, normalized_frequency_list, frequency_list)
-        create_vocabulary()
+        create_tok(file_name, word_list, normalized_frequency_list, frequency_list)
 
 
 # crea un archivo .tok a partir de los vectores de palabras y frecuencias normalizadas
@@ -153,9 +166,9 @@ def create_tok(file_name, word_list, normalized_frequency_list, frequency_list):
     if not os.path.exists(tok_path):
         os.makedirs(tok_path)
     file_name = file_name + '.tok'
-    file_name = file_name.replace(".txt", "")
+    file_name = file_name.replace(".html", "")
     index = file_name.find('plain_text')
-    file = file_name[:index + len('plain_text')] + r'\tok' + file_name[index + len('plain_text'):]
+    file = tok_path + "\\" +file_name
 
     for passnum in range(1, len(word_list)):
         i = 0
@@ -243,18 +256,27 @@ def create_vocabulary():
 
     merge_sort_3_listas(global_words_list, total_frequency_list, document_quantity_list)
 
+    # termino,  # doc diferentes en que aparece el termino, frecuencia inversa(idf)
+    # idf = log(total_doc /  # docs en termino)
+    #         log()
+
+    vector_frequency = []
     try:
         file_text = open(file_name, '+w', encoding="utf-8")
-        vector_frequency = [str(i) for i in total_frequency_list]
+        for freq in document_quantity_list:
+            value = math.log(total_docs_procesados / freq, 10)
+            vector_frequency.append(str(value))
+
+        # vector_frequency = [str(i) for i in total_frequency_list]
         vector_quantity = [str(i) for i in document_quantity_list]
         counter = 0
         for word in global_words_list:
-            file_text.write(str(word) + " " + ", " + str(vector_frequency[counter]) + " " + ", " + str(vector_quantity[counter]) + "\n")
+            file_text.write(str(word) + " " + ", " + str(vector_quantity[counter]) + " " + ", " + str(vector_frequency[counter]) + "\n")
             counter += 1
         file_text.close()
     except IOError:
         print("Algo pasó creando el .tok para el documento: [%s].", file_name)
-
+    print("d")
 
 # Crea in Indice a partir del archivo posting
 def indice(archivo):
@@ -262,7 +284,7 @@ def indice(archivo):
     file_name = 'Indice.txt'
     file_name = os.path.join(path, plain_text_dir, file_name)
     # resultado = os.path.join(path, plain_text_dir, archivo)
-    resultado = file_name.replace("\\plain_text\\Indice.txt", archivo)
+    resultado = file_name.replace("\\Indice.txt", archivo)
     print(resultado)
     try:
         lines = []
@@ -275,22 +297,25 @@ def indice(archivo):
     c = 0
     for l in lines:
         # probar al contrario
-        # pos = l.find(" ")
-        pos = l.find(",")
+        pos = l.find(" ")
+        #pos = l.find(",")
         lines[c] = l[:pos]
         c = c + 1
     termino = " "
     c = 0
     try:
         file_text = open(file_name, '+w', encoding="utf-8")
-        numeroVeces = 0
-        for l in lines:
-            numeroVeces += 1
-            if termino != l:
-                termino = l
-                file_text.write(termino + " " * (30 - len(termino)) + ", " + str(c) + " " * (12 - len(str(c))) + ", " + str(numeroVeces) + "\n")
-                numeroVeces = 0
-            c = c + 1
+        unique = set(lines)
+        unique = sorted(unique)
+        for termino in unique:
+            numeroVeces = lines.count(termino)
+            primera_pos = lines.index(termino)
+            file_text.write(termino + " " * (30 - len(termino)) + ", " + str(primera_pos) + " " * (12 - len(str(primera_pos))) + ", " + str(
+                numeroVeces) + "\n")
+
+        file_text.close()
+        print("")
+
     except IOError:
         print("Algo pasó creando el archivo Indice")
 
@@ -306,26 +331,21 @@ def load_vocabulario(palabras, frecuencias):
     # a = 'C:/Users/Jose M/Google Drive/II Semestre 2018/Proyecto/plain_text/Vocabulario.txt'
     with open(a, 'r', encoding="utf-8") as file:
         for line in file:
-            count = 0
-            for word in line.split():
-                if count == 0:
-                    palabras.append(word)
-                    count = count + 1
-                elif count == 2:
-                    frecuencias.append(word)
-                    count = count + 1
-                else:
-                    count = count + 1
+            terminos = line.split()
+
+            palabras.append(terminos[0])
+            frecuencias.append(terminos[4])
+
 
 
 def calcule_peso():
     palabras = []
-    frecuencias = []
+    idfs = []
     palabras_tok = []
-    frecuencias_tok = []
+    frecuencias_tok = [] # freq normalizadas
     palabra_peso = []
     pesos = []
-    load_vocabulario(palabras, frecuencias)
+    load_vocabulario(palabras, idfs)
     cur_path = os.path.dirname(__file__)
     tok_path = cur_path + "/plain_text/tok"
     dir_path_name = r'.\plain_text\wtd'
@@ -357,7 +377,7 @@ def calcule_peso():
             for j in range(0, len(palabras)):
                 if palabras[j] == palabras_tok[i]:
                     palabra_peso.append(palabras_tok[i])
-                    pesos.append(float(frecuencias_tok[i]) * float(frecuencias[j]))
+                    pesos.append(float(frecuencias_tok[i]) * float(idfs[j]))
         file_name = cur_path + "/plain_text/wtd/" + f[n] + ".wtd"
         file_name = file_name.replace(".tok", "")
         file_text = open(file_name, '+w', encoding="utf-8")
@@ -381,13 +401,14 @@ def calcule_peso():
             f.write(line)
 
 
-
-
 def procesa_consulta(consulta):
-    vec_consulta = []
     consulta_cont = []
+    global dict
+    dict = {"": []}
+    dict.clear()
     words = consulta.split()
-
+    global vec_consulta
+    vec_consulta = []
     # en esta parte solo saca palabras y calcula  la frecuencia(freqij)
     for word in words:
         word = word.lower()
@@ -398,8 +419,9 @@ def procesa_consulta(consulta):
                 vec_consulta.append(word)
                 consulta_cont.append(1)
             else:
-                index = vec_consulta.index(word)
-                consulta_cont[index] = consulta_cont[index] + 1
+                if(len(vec_consulta)) >0:
+                    index = vec_consulta.index(word)
+                    consulta_cont[index] = consulta_cont[index] + 1
 
     # calcula freq normalizada(tfij)
 
@@ -434,7 +456,8 @@ def procesa_consulta(consulta):
             else:
                 count = count + 1
     # calcule pesos(wij)
-    wijQ = []
+
+    print("paso")
 
     for i in range(0, len(freq_norm_q)):
         word = vec_consulta[i]
@@ -447,6 +470,9 @@ def procesa_consulta(consulta):
 
         num = (0.5+0.5*freq_norm_q[i])*float(idfi)
         wijQ.append(num)
+
+    for vec in vec_consulta:
+        calcule_producto_punto(vec)
 
     # calcule normal del vector q.
     norma_vec_q = []
@@ -463,8 +489,87 @@ def procesa_consulta(consulta):
     for i in range(0, len(norma_vec_q)):
         wix = wix + norma_vec_q[i]
 
+    global wix2
     wix2 = math.sqrt(wix)
     print(wix2)
+
+    return sume_dict()
+
+
+
+
+def calcule_producto_punto(vec):
+
+    #Abre el archivo postings  y lo carga
+    cur_path = os.path.dirname(__file__)
+    post_palabras = []
+    post_archivo = []
+    post_peso = []
+    indexes= []
+    file_name = cur_path + "/plain_text/posting.txt"
+    file = open(file_name, 'r', encoding="utf-8")
+
+    indexes = file.read()
+    first = indexes.find(vec)
+    last = indexes.rfind(vec)
+    if first < last:
+        first_jump = indexes.find("\n", last)
+        sublist = indexes[first : first_jump].split("\n")
+    else:
+        first_jump = indexes.find("\n", first)
+        sublist = indexes[first: first_jump].split("\n")
+    index = vec_consulta.index(vec)
+    global weight
+    weight = wijQ[index]
+    global dict
+
+    for line in sublist:
+        values = line.split()
+        if values != []:
+            print (values[0] + " "+ values[1]+ " "+values[2])
+            values[1] = values[1].replace("tok", "wtd")
+            if values[1] in dict :
+                new_list = []
+                new_list = dict[values[1]]
+                new_list.append(float(values[2])*weight)
+                dict[values[1]] = new_list
+            else:
+                temp = []
+                temp.append(float(values[2])*weight)
+                dict[values[1]] = temp
+
+    file.close()
+
+
+
+def sume_dict():
+    temp = []
+    global dict
+    for item in dict:
+        sum = 0
+        list = dict[item]
+        for j in range (0, len(list)):
+            sum = sum + float(list[j])
+        dict[item] = sum
+
+    return similitud(r"\plain_text\pesosQ.txt")
+
+
+
+def list_duplicates_of(seq,item):
+    start_at = -1
+    locs = []
+    while True:
+        try:
+            loc = seq.index(item,start_at+1)
+        except ValueError:
+            break
+        else:
+            locs.append(loc)
+            start_at = loc
+    return locs
+
+
 
 
 def guarde_pesos_q(vec_consulta, wijQ):
@@ -476,8 +581,12 @@ def guarde_pesos_q(vec_consulta, wijQ):
         file_text.writelines(str(vec_consulta[k]) + "   " + str(wijQ[k]) + "\n")
     file_text.close()
 
+
 # Analiza la similitud de archivos
 def similitud(archivo):
+    global pesos_documentos
+    pesos_documentos = {"": float}
+    pesos_documentos.clear()
     listaFileConsulta=[]
     archivo = archivo.replace(".\\", "\\")
     file_name = 'pesosQ.txt'
@@ -534,18 +643,32 @@ def similitud(archivo):
     for l in lines:
         temp=0
         for IndiceLine in lines2:
-            I1 = IndiceLine[:30]  # palabra del indice
-            I2 = IndiceLine[45:]  # numero veces palabra en posting
-            I3 = IndiceLine[31:44]  # posicion palabra en posting
-            if l == I1.replace(" ", ""):
-                P1 = I3
-                for x in range(int(I2)):
+            count = 0
+            for entry in IndiceLine.split():
+                if count == 0:
+                    I1 = entry # palabra del indice
+                    count = count + 1
+                elif count == 2:
+                    I2 = entry # posicion palabra en posting
+                    count = count + 1
+                elif count == 4:
+                    I3 = entry # numero veces palabra en posting
+                    count = count + 1
+                else:
+                    count = count + 1
+
+            if l == I1:
+                P1 = I2
+                for x in range(int(I3)):
                     listaFileConsulta.append(lines3[int(P1) + x])
     for l in listaFileConsulta:
+        global archivoConsulta
+
+
         archivoConsulta = l[l.find(" "):l.rfind(" ")]
         archivoConsulta = archivoConsulta.replace(" ", "")
         cur_path = os.path.dirname(__file__)
-        archivoConsulta = archivoConsulta.replace(".tok", ".html.txt.tok.wtd")
+        archivoConsulta = archivoConsulta.replace(".tok", ".wtd")
         file_consulta = cur_path + "/plain_text/wtd/" + archivoConsulta
         resultadoConsulta = file_consulta.replace("\\plain_text\\wtd\\"+archivoConsulta, archivoConsulta)
         try:
@@ -560,7 +683,55 @@ def similitud(archivo):
         for l in lines3:
             cuadrado=float((l[l.find(" "):]))**2
             sumaPeso += cuadrado
-        valor=sumaPeso**0.5
+
+        valorF=sumaPeso**0.5
+        pesos_documentos[archivoConsulta]=valorF
+    return calculo_similitud()
+
+
+
+#vec1 va a ser el nombre del documento y vec2 va a ser el valor
+def calculo_similitud():
+    global pesos_documentos
+    global dict
+    global wix2
+    ranking = {"": int}
+    ranking.clear()
+    for key, values in pesos_documentos.items():
+        if key.strip():
+            producto_punto_Q = dict[key]
+            producto_punto_doc = pesos_documentos[key]
+            if producto_punto_Q != 0 and wix2 != 0:
+                similitud_doc = float(producto_punto_doc) / (float(producto_punto_Q)*float(wix2))
+            else:
+                similitud_doc = float(producto_punto_doc)
+            ranking[key] = similitud_doc
+            print("Similitud del doc es: " + str(similitud_doc))
+
+    sorted_d = sorted(ranking.items(), key=lambda x: x[1])
+
+    list_archivos = []
+    for tuples in sorted_d:
+        archivo = tuples[0]
+        archivo = archivo.replace(".wtd", ".html")
+        list_archivos.append(archivo)
+
+    file_name = "URLS.txt"
+    file = open(file_name, "r", encoding="utf-8")
+    list_urls = []
+    lineas_todo = []
+    for line in file:
+        lineas = line.split()
+        lineas_todo.append(lineas)
+
+    for archivo in list_archivos:
+        for linea in lineas_todo:
+            if archivo == linea[0]:
+                temp = r'<a href="'+linea[1]+'">' + str(linea[0]) + r'</a> '
+                list_urls.append(temp)
+                break
+    return list_urls
+
 
 run()
 
